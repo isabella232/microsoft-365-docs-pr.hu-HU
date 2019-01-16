@@ -16,11 +16,11 @@ search.appverid:
 - MET150
 ms.assetid: c123694a-1efb-459e-a8d5-2187975373dc
 description: 'További tudnivalók: Microsoft 365 üzleti biztonsági szolgáltatásairól.'
-ms.openlocfilehash: bfddb419dbe5db441741a73ecb49e3d52649e382
-ms.sourcegitcommit: eb1a77e4cc4e8f564a1c78d2ef53d7245fe4517a
+ms.openlocfilehash: 17bcc57d57e837f18b05f66cfd54185324f3cad8
+ms.sourcegitcommit: e491c4713115610cbe13d2fbd0d65e1a41c34d62
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 11/28/2018
+ms.lasthandoff: 01/16/2019
 ms.locfileid: "26983175"
 ---
 # <a name="microsoft-365-business-security-features"></a>Microsoft 365 üzleti biztonsági szolgáltatások
@@ -130,11 +130,9 @@ Képes a következő korlátozások alkalmazása az interneten az Outlook e-mail
 
 Ellenőrizze, hogy aktiválva van-e az AIP:
 
-1. [Azure az Active Directory felügyeleti központ](https://portal.azure.com/)bejelentkezni.
+1. [Borzas portal](https://portal.azure.com/)bejelentkezni.
 
-    Akkor is is folyamata az **Admin-centers** megkeresésével \> a bal oldali navigációs sáv a felügyeleti központ **Azure Active Directory** .
-
-2. Jelölje be a **minden szolgáltatás** és tyoe *Azure információk védelméről* a **Keresés mezőbe**.
+2. Jelölje be a **minden szolgáltatás** és típus *Azure információk védelméről* a **Keresés mezőbe**.
 
 3. Után az eredmények megjelenítéséhez kattintson a következő teszi a kedvenc **Azure információk védelméről** és könnyen megjegyezhető kezdete.
 
@@ -144,7 +142,7 @@ Ellenőrizze, hogy aktiválva van-e az AIP:
 
 Megtekintése és módosítása, hogy a meglévő címkék:
 
-1. Válassza az Azure információvédelem irányítópult **osztályozások** \> ** címkék. <br/>![Szabványos címkék Azure információ védelme.](media/AIPLabels.png)
+1. Válassza az Azure információvédelem irányítópult **osztályozások** \> **címkék**. <br/>![Szabványos címkék Azure információ védelme.](media/AIPLabels.png)
 
 2. Megadhatja, hogy minden címke beállításainak megtekintéséhez, megváltoztathatja a megjelenítési név, szín, stb.
  
@@ -159,6 +157,16 @@ Az AIP ügyfél manuális telepítéséhez:
 2. Ellenőrizheti, hogy a telepítés egy Word dokumentum megtekintése, és ügyelve arra, hogy a **védelem** beállítás érhető el a **Kezdőlap** lap dolgozott. <br/>![Védelem lapon legördülő Word dokumentumban.](media/Word_Protect.png)
 
 További információt [az ügyfél telepítése](https://docs.microsoft.com/azure/information-protection/infoprotect-tutorial-step3)
+
+## <a name="go-to-intune-admin-center"></a>Ugrás az Intune admin center
+
+1. [Borzas portal](https://portal.azure.com/)bejelentkezni.
+
+2. Válassza ki **az összes szolgáltatás** és típus *Intune* a **Keresés mezőbe**.
+
+3. Után az eredmények megjelenítéséhez kattintson a start **Microsoft Intune** teszi a kedvenc tovább és könnyen megjegyezhető.
+ 
+Intune segítségével igényelhetnek, és a szervezet eszközök kezelése. További tudnivalókért lásd: [Windows eszközök tanúsítványigénylési módszer lehetőségeit](https://docs.microsoft.com/intune/enrollment-method-capabs) és a [beiktatási beállítások Intune által kezelt eszközök](https://docs.microsoft.com/intune/enrollment-options).
     
 ## <a name="faq"></a>GYIK
 
@@ -174,15 +182,4 @@ Igen, ezek a szolgáltatások érhetők el minden területen, ahol Microsoft 365
     
     ![Válassza ki a bal oldali navigációs sáv a Microsoft 365 felügyeleti központban, Admin-centers.](media/fa4484f8-c637-45fd-a7bd-bdb3abfd6c03.png)
   
-3. Válassza a **biztonsági &amp; való** go to biztonsági &amp; Megfelelési központba. 
-    
- ### <a name="how-do-i-find-the-intune-admin-center"></a>Hogyan található meg az Intune admin center?
-  
-  
-1. [Jelentkezzen be a Microsoft 365 Business](https://portal.microsoft.com/) a rendszergazdai hitelesítő adatok használatával. 
-    
-2. Keresse meg az **Admin-centers** és bontsa ki a bal oldali navigációs sáv. 
-    
-3. Válassza ki a **Intune** Intune admin center ugorhat. 
-    
-
+3. Válassza a **biztonsági &amp; való** go to biztonsági &amp; Megfelelési központba.

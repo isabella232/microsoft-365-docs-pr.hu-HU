@@ -20,10 +20,10 @@ search.appverid:
 ms.assetid: c3ac23c5-d4b4-4b1b-b7ce-ea759521bf8c
 description: 'További tudnivalók: Microsoft 365 üzleti eszköz államok.'
 ms.openlocfilehash: bd6f1ad7f7671d9616fd14d477dfcfb164ff6bd0
-ms.sourcegitcommit: eb1a77e4cc4e8f564a1c78d2ef53d7245fe4517a
+ms.sourcegitcommit: e491c4713115610cbe13d2fbd0d65e1a41c34d62
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 11/28/2018
+ms.lasthandoff: 01/16/2019
 ms.locfileid: "26982905"
 ---
 # <a name="device-states"></a>Eszközállapotok
