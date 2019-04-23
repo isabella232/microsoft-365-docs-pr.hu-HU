@@ -5,16 +5,17 @@ author: jasongroce
 ms.author: jasgro
 ms.topic: article 
 ms.prod: microsoft-365-business
+ms.collection: M365-subscription-management
 localization_priority: Normal
 audience: microsoft-business 
 keywords: Microsoft 365 Business, Microsoft 365, SMB, GYIK, gyakori kérdések, válaszok, üzleti
 ms.date: 06/08/2018
-ms.openlocfilehash: e5937b1436701e872898dc079ba892181772202f
-ms.sourcegitcommit: e491c4713115610cbe13d2fbd0d65e1a41c34d62
+ms.openlocfilehash: 1e277aed366d82e524ef99c43ab0401b5d35e5b0
+ms.sourcegitcommit: 81273a9df49647286235b187fa2213c5ec7e8b62
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 01/16/2019
-ms.locfileid: "26983485"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32286127"
 ---
 # <a name="microsoft-365-business-frequently-asked-questions"></a>Gyakran feltett kérdések a Microsoft 365 Business
 
@@ -29,11 +30,11 @@ Microsoft 365 egy integrált megoldás, amely összegyűjti a legjobb az osztál
 * Üzleti alkalmazások nem Office (foglalások, Outlook ügyfél Manager, MileIQ<sup>[1](#footnote1)</sup>, Microsoft listaelemek<sup>[1](#footnote1)</sup>, Microsoft kapcsolatok<sup>[1](#footnote1)</sup>, Microsoft számlázási<sup>[1](#footnote1)</sup>) 
  
 **Vállalati-osztályú eszköz kezelése és biztonsági képességeinek** 
-- Segít az adathalászat & Office 365 speciális veszély védelmi és a Windows Defender kihasználására Guard kifinomult malware mint külső fenyegetések elleni védelem 
--  Segít szabályozni & hogyan bizalmas információkezelés érhető el, és továbbítani, az Office 365 adatvesztés megelőzése házirendek (nyáron 2018 érhető el) és Azure információk védelmi terv 1 
+- Segít a külső fenyegetések, például az adathalászat elleni védelem & kifinomult Office 365 speciális veszély védelmi és a Windows Defender kihasználására Guard malware 
+-  Ellenőrző & hogyan bizalmas adatok kezelése segít elérni, és továbbítani, az Office 365 adatvesztés megelőzése házirendek (nyáron 2018 érhető el) és Azure információk védelmi terv 1 
 -  Segít védelméhez, megóvásához és biztonsági másolat készítéséhez az Exchange Online archiválás  
--   Az Office és egyéb mobil alkalmazások Intune App védelem App védelem 
--  Eszközkezelés Windows 10 PCs, MacOS és mozgó eszközökre vonatkozó Intune kezelése 
+-   Office & App védelem egyéb mobil alkalmazások Intune App védelem 
+-  Az eszközkezelésről Windows 10 darab MacOS & mozgó eszközök a Intune eszköz kezelése 
 -  Egységes biztonsági konfigurációs eszközeivel - eszközeivel - a Windows Defender és naprakész – a vállalati adatok védelméről 
  
  
@@ -84,7 +85,7 @@ Microsoft 365 üzleti vevők kínál egy egyszerű, de hatékony eszköze a munk
 * **Az eszközkezelésről iOS, Android & MacOS** szolgáltatások segítségével biztonságos kezeléséhez az iOS, Android, Windows és macOS eszközöket tartalmazó különböző ökoszisztémájában vállalkozások. 
 
 ### <a name="how-does-microsoft-365-business-help-protect-pcs-in-my-organization-from-malicious-attacks"></a>Hogyan segíti a Microsoft 365 üzleti rosszindulatú támadások vállalaton belüli számítógépek védelmét? 
-A szám 1 víruskereső szolgáltatása Windows 10 több számítógép vírusok, malware, kémprogramok és egyéb fenyegetések ellen, mint más megoldás védelmét a Windows Defender védett Microsoft 365 üzleti kezelt számítógépek.  Microsoft 365 üzleti vállalkozások biztosítható védelem a Windows Defender rendszer fut, és mindig naprakészen a Windows 10-eszközökön.  
+Microsoft 365 üzleti kezelt számítógépek védi a Windows Defender, ez a szám mezőt. 1 víruskereső szolgáltatása a Windows 10 védelme több számítógép vírusok, malware, kémprogramok és egyéb fenyegetések ellen, mint más megoldás.  Microsoft 365 üzleti vállalkozások biztosítható védelem a Windows Defender rendszer fut, és mindig naprakészen a Windows 10-eszközökön.  
  
 Windows 10 üzleti is tartalmaz a Windows Defender kihasználására Guard, behatolás megelőzésére képességek új csoportja. Mappák zárolása, és megakadályozza, hogy jogosulatlan apps fontos fájlok a felhasználó által szabályozott mappahozzáférés, jellemző leállítja a számok a ransomware. 
 
@@ -179,7 +180,7 @@ Microsoft 365 üzleti nem teszi egy egyébként nem eredeti Windows, valódi ver
 Az azonos támogatási csatornák ma CSP-partnerek számára elérhető (premier support és speciális támogatási program) Microsoft 365 üzleti néhányan képzésben részesülnek, és készen áll támogatással rendelkező partnerek számára. 
 
 ### <a name="what-is-the-gdpr-and-how-does-microsoft-365-business-help-customers-with-their-compliance-obligations"></a>A GDPR és hogyan Microsoft 365 üzleti segíti az ügyfelek kötelezettségeik betartása
-Az általános adatok védelmének rendelet (GDPR) egy átfogó új adatvédelmi törvény, amely lehetővé teszi a "személyes adat" az Európai Unió (EU) jobban szabályozhatja a honos személyek és szervezetek személyi adatok integritásának megőrzése érdekében van szükség. A GDPR szervezetek a vezérlő vagy a személyes adatok csak használja a külső adatok feldolgozók, amelyek megfelelnek a személyes adatok feldolgozása a GDPR követelményei az EU lakosai kötve folyamat szükséges. 2017. március a Microsoft rendelkezésre szerződéses garanciák e biztosítékokat nyújtó tenni. Azoknak a felhasználóknak, hogyan Microsoft segíthetik őket a GDPR további kötelezettségek teljesítése érdekében kérdése van a speciális végrehajtási és bővítmények (pl. Azure információk védelméről, adatvesztés megelőzése, Advnaced, biztonsági lehetőségeket kell ismertetése Fenyegetés védelme, stb.) és egyéb programcsomagok (pl. Microsoft 365 vállalati E5). További információért keresse fel a [www.microsoft.com/gdpr](https://www.microsoft.com/gdpr).
+Az általános adatok védelmének rendelet (GDPR) egy átfogó új adatvédelmi törvény, amely lehetővé teszi a "személyes adat" az Európai Unió (EU) jobban szabályozhatja a honos személyek és szervezetek személyi adatok integritásának megőrzése érdekében van szükség. A GDPR szervezetek a vezérlő vagy a személyes adatok csak használja a külső adatok feldolgozók, amelyek megfelelnek a személyes adatok feldolgozása a GDPR követelményei az EU lakosai kötve folyamat szükséges. 2017. március a Microsoft rendelkezésre szerződéses garanciák e biztosítékokat nyújtó tenni. Azoknak a felhasználóknak, hogyan Microsoft segíthetik őket a GDPR további kötelezettségek teljesítése érdekében kérdése van a speciális végrehajtási és biztonsági lehetőségeit, bővítmények (pl. Azure információk védelméről, adatvesztés megelőzése, speciális kell ismertetése Fenyegetés védelme, stb.) és egyéb programcsomagok (pl. Microsoft 365 vállalati E5). További információért keresse fel a [www.microsoft.com/gdpr](https://www.microsoft.com/gdpr).
 
 
 

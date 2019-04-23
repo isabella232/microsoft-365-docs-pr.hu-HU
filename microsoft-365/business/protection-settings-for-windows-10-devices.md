@@ -11,6 +11,9 @@ f1_keywords:
 - BCS365_Win10AppPolicy
 ms.service: o365-administration
 localization_priority: Normal
+ms.collection:
+- M365-subscription-management
+- M365-identity-device-management
 ms.custom:
 - Core_O365Admin_Migration
 - MiniMaven
@@ -21,12 +24,12 @@ search.appverid:
 - MOE150
 ms.assetid: 02e74022-44af-414b-9d74-0ebf5c2197f0
 description: Útmutató az app adatkezelési házirend létrehozása és munka fájlok Windows 10 eszközök védelme.
-ms.openlocfilehash: acf19a72d994185a35b2e425f8334a73a121ee10
-ms.sourcegitcommit: e491c4713115610cbe13d2fbd0d65e1a41c34d62
+ms.openlocfilehash: 289c6a74f6ccb53f6a833612a7b4a5bcddd3ea56
+ms.sourcegitcommit: 81273a9df49647286235b187fa2213c5ec7e8b62
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 01/16/2019
-ms.locfileid: "26982825"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32278176"
 ---
 # <a name="set-application-protection-settings-for-windows-10-devices"></a>Alkalmazásvédelmi beállítások megadása Windows 10-es eszközökhöz
 
@@ -34,23 +37,21 @@ ms.locfileid: "26982825"
 
 Ha a felhasználók munkahelyi feladatokra is használják saját Windows 10-es eszközeiket, az azokon tárolt munkahelyi adatok is védhetők.
   
-1. Jelentkezzen be a [Microsoft 365 Vállalati verzióba](https://portal.office.com) globális rendszergazdai hitelesítő adatokkal. Az **Admin** csempét választva lépjen a felügyeleti központba. 
+1. Jelentkezzen be [admin center](https://go.microsoft.com/fwlink/p/?linkid=837890) globális rendszergazdai hitelesítő adatokkal. A **Felügyelet** csempét választva lépjen a felügyeleti központba. 
     
-2. A felügyeleti portál **Eszközházirendek** kártyáján válassza a **Házirend felvétele** lehetőséget.
-    
-    ![Device policies card in the admin center.](media/27c12b61-d112-4348-b557-4f3e46204797.png)
-  
+2. A bal oldali navigációs sáv, válassza az **eszközök** \> **politika** \> **hozzáadása**.
+
 3. A **Házirend felvétele** ablaktáblában adja meg a házirend egyedi nevét. 
     
 4. A **Házirend típusa** beállításnál válassza az **Alkalmazáskezelés Windows 10-es eszközökhöz** lehetőséget.
     
-5. A ** eszköztípus **, válassza a **személyes** vagy a **Vállalat birtokában**.
+5. Under ** Device type **, choose either **Personal** or **Company Owned**.
     
 6. A **Munkahelyi fájlok titkosítása** lehetőség automatikusan be van kapcsolva. 
     
 7. Ha nem szeretné, hogy a felhasználók a saját számítógépükre mentsék a munkahelyi fájlokat, állítsa **A felhasználók nem másolhatnak céges adatokat saját fájljaikba, a munkahelyi fájlokat pedig csak a OneDrive Vállalati verzióba menthetik** beállítást **Be** értékre. 
     
-8. Bontsa ki a **kezelése, hogy a felhasználók miként férhetnek hozzá a eszközök Office fájlok** \> hogyan szeretné a beállításokat. Alapértelmezés szerint nincs **bekapcsolva** a **kezelése, hogy a felhasználók miként férhetnek hozzá a mobil eszközökön található Office-eszközöket** , de ajánlott, hogy kapcsolja **be** , és elfogadhatja az alapértelmezett értékeket. További tudnivalókért tanulmányozza a [rendelkezésre álló beállításokat](protection-settings-for-windows-10-devices.md#bkmk_settings) . 
+8. Expand **Manage how users access Office files on devices** \> configure the settings how you would like. The **Manage how users access Office devices on mobile devices** is **Off** by default, but it is recommended that you turn it **On** and accept the default values. További tudnivalókért tanulmányozza a [rendelkezésre álló beállításokat](#available-settings). 
     
     Az **Alapértelmezett beállítások visszaállítása** hivatkozásra kattintva bármikor visszatérhet az alapértelmezett beállításokhoz. 
     
@@ -66,7 +67,7 @@ Ha a felhasználók munkahelyi feladatokra is használják saját Windows 10-es 
     
     ![Expand Protect additional network and cloud locations, and enter domains or SharePoint Online sites you own.](media/7afaa0c7-ba53-456d-8c61-312c45e09625.png)
   
-11. Ezután döntse el, **fog kapni, akik ezeket a beállításokat?** Ha nem szeretné az alapértelmezett **Felhasználók** biztonsági csoporthoz, választhat **módosítása**, a biztonsági csoportok, akik ezeket a beállításokat kap \> **kiválasztása**.
+11. Next decide **Who will get these settings?** If you don't want to use the default **All Users** security group, choose **Change**, choose the security groups who will get these settings \> **Select**.
     
 12. Végül válassza a **Hozzáadás** lehetőséget a házirend mentéséhez és eszközökhöz való hozzárendeléséhez. 
     

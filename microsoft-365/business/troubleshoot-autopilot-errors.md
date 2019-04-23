@@ -11,6 +11,9 @@ f1_keywords:
 - BCS365_ZTDTroubleshootDeviceErrors
 ms.service: o365-administration
 localization_priority: Normal
+ms.collection:
+- M365-subscription-management
+- M365-identity-device-management
 ms.custom:
 - Adm_O365
 - Core_O365Admin_Migration
@@ -21,12 +24,12 @@ search.appverid:
 - MOE150
 ms.assetid: 1f468690-530c-47ea-918f-fede24607c53
 description: 'Útmutató: automata eszköz fájl hibáinak elhárítása.'
-ms.openlocfilehash: 9b8d8ab424dd3189ff5c228dab8f5c513ff5dafc
-ms.sourcegitcommit: e491c4713115610cbe13d2fbd0d65e1a41c34d62
+ms.openlocfilehash: 9d4a47f78c38d8c076f5b3876a36b6bf46eaaaf3
+ms.sourcegitcommit: 81273a9df49647286235b187fa2213c5ec7e8b62
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 01/16/2019
-ms.locfileid: "26982745"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32279838"
 ---
 # <a name="troubleshoot-autopilot-device-errors"></a>Az AutoPilottal kapcsolatos eszközhibák elhárítása
 
@@ -40,6 +43,6 @@ Az alábbiakban tájékoztató a hibák jelenhetnek meg a Microsoft 365 üzleti 
 |Jellemző hardverujjlenyomat-értéket az eszköz nem megfelelő.  <br/> |Ha ez a hiba jelenik meg, az azt jelenti, hogy a CSV-fájlban, a rendszer a hardverujjlenyomatot az egyik eszköz a megadott érték nem helyes. Először ellenőrizze, hogy az érték helyesen írta-e. Ha úgy gondolja, hogy az értéke helyes-e, de ez a hiba továbbra is történik, kérjen segítséget a hardver forgalmazójához.  <br/> |
 |Egy másik bérlő rendelt eszköz  <br/> |Ha ez a hiba jelenik meg, az azt jelenti, hogy a sorozatszám vagy egy vagy több eszközt, a termékkulcs a CSV-fájlban megadott érték nem megfelelő. Először ellenőrizze, hogy az érték helyesen írta-e. Ha úgy gondolja, hogy az értéke helyes-e, de ez a hiba továbbra is történik, kérjen segítséget a hardver forgalmazójához.  <br/> |
 |A CSV-fájl érvénytelen sorozatszám vagy termékazonosító kulcsot tartalmaz  <br/> |Ha megjelenik ez a hiba azt jelenti, hogy az eszköz regisztrálja tyring már regisztrálva van egy másik szervezet által. Probléma megoldásához kérjen segítséget a hardver forgalmazójához.  <br/> |
-|Ez az eszköz nem támogatott beállítás automata segítségével  <br/> | Ez a hiba azt jelenti, hogy az eszköz nem felel meg az automata telepítés követelményeinek. Eszközöket kell megfelelni ezeknek a követelményeknek:  <br/>  A Windows 10 rendszer 1703-as vagy újabb verzióját kell futtatniuk.  <br/>  Olyan új eszközöknek kell lenniük, amelyeken még nem használták a Windowst.  <br/> |
+|Ez az eszköz nem támogatott beállítás automata segítségével  <br/> | Ez a hiba azt jelenti, hogy az eszköz nem felel meg az automata telepítés követelményeinek. Az eszközöknek meg kell felelniük az alábbi követelményeknek:  <br/>  A Windows 10 rendszer 1703-as vagy újabb verzióját kell futtatniuk.  <br/>  Olyan új eszközöknek kell lenniük, amelyeken még nem használták a Windowst.  <br/> |
 |Az eszköz nem található  <br/> |Ez a hiba azt jelenti, hogy egy vagy több eszközt a CSV-fájl nincs regisztrálva a szervezet számára. Probléma megoldásához kérjen segítséget a hardver forgalmazójához.  <br/> |
    

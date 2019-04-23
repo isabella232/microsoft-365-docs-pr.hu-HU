@@ -5,10 +5,12 @@ author: Sirkkuw
 manager: scotv
 ms.date: 9/20/2018
 ms.audience: Admin
-ms.topic: overview
+ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
-ms.collection: Adm_O365
+ms.collection:
+- Adm_O365
+- M365-subscription-management
 ms.custom:
 - Adm_O365
 - Core_O365Admin_Migration
@@ -19,12 +21,12 @@ search.appverid:
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
 description: Ismerje meg, hogyan állítsa be a Microsoft 365 Business.
-ms.openlocfilehash: ee15ffa98de032d7936d950124cdf772335949bd
-ms.sourcegitcommit: e491c4713115610cbe13d2fbd0d65e1a41c34d62
+ms.openlocfilehash: 80c6590a682af5fadeceac7a75e409adac897f6f
+ms.sourcegitcommit: 81273a9df49647286235b187fa2213c5ec7e8b62
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 01/16/2019
-ms.locfileid: "26983285"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32276727"
 ---
 # <a name="get-started-with-microsoft-365-business"></a>A Microsoft 365 Business használatbavétele
 
@@ -44,7 +46,7 @@ A Microsoft 365 Business legfeljebb 300 licenccel való használatra készült. 
 
  **Microsoft 365 Business Suite beállítása – áttekintés**
   
-A következő ábra bemutatja, hogyan lehet a rendszergazdák a Microsoft 365 üzleti beállítani. Előkészítése a Windows PC-k Microsoft 365 üzleti lépéseket is ismerteti. Új eszközök a [Windows automata](add-autopilot-devices-and-profile.md)a Microsoft 365 üzleti admin közepén is hozzáadhat. Automata segítségével és felkészülés azok hatékony használata, amint a bejelentkezés hitelesítő adataikat a Microsoft 365 üzleti be előre beállítani új eszközöket.
+A következő ábra bemutatja, hogyan lehet a rendszergazdák a Microsoft 365 üzleti beállítani. Ezenkívül a Windows rendszerű PC-k Microsoft 365 Business használatára való előkészítésének lépéseit is tartalmazza. Új eszközöket is felvehet a Microsoft 365 Business Felügyeleti központban a [Windows AutoPilot](add-autopilot-devices-and-profile.md) segítségével. Ha az AutoPilot segítségével előre beállítja és konfigurálja az eszközöket, a felhasználók hatékonyan használhatják őket, amint bejelentkeznek a Microsoft 365 Business szolgáltatásban érvényes hitelesítő adataikkal.
   
 ![A diagram that shows the setup and management flow for admins, and also for a user](media/249f81fc-7e79-44c7-8425-3a0b7b651c3b.png)
   
@@ -58,13 +60,13 @@ Jelentkezzen be a [Microsoft 365 Vállalati verzió Felügyeleti központba](htt
     
 2. [A Microsoft 365 Vállalati verzió beállítása a beállítási varázslóval](set-up.md)
     
-    Ha **véglegesen áthelyezése a helyi Active Directory a felhő**, vagy kézzel adhatók hozzá a felhasználók a Microsoft 365 üzleti felügyeleti központ a telepítő varázsló segítségével, vagy egy egyszeri szinkronizálás Azure AD csatlakozás a is elvégezheti. Ennek két módja van: 
+    Ha **véglegesen áthelyezése a helyi Active Directory a felhő**, vagy kézzel adhatók hozzá a felhasználók a Microsoft 365 üzleti felügyeleti központ a telepítő varázsló segítségével, vagy egy egyszeri szinkronizálás Azure AD csatlakozás a is elvégezheti. Ehhez két lehetőség közül választhat: 
     
-  - Ha egy Exchange 2010, Exchange 2013 vagy Exchange 2016 kiszolgáló is rendelkezik, [Használata minimális hibrid gyors áttelepítése az Office 365 Exchange postaládákat](https://support.office.com/article/fdecceed-0702-4af3-85be-f2a0013937ef)is. A minimális hibrid lépéseket tartalmaz egy egyszeri szinkronizálás Azure ad a felhasználók, valamint e-mail helyszíni áttérés a felhő. Az e-mail áttelepítés befejezése után a címtár-szinkronizálás automatikusan ki van kapcsolva ez a módszer használata esetén.
+  - Ha egy Exchange 2010, Exchange 2013 vagy Exchange 2016 kiszolgáló is rendelkezik, [Használata minimális hibrid gyors áttelepítése az Office 365 Exchange postaládákat](https://support.office.com/article/fdecceed-0702-4af3-85be-f2a0013937ef)is. A hibrid minimumkonfiguráció lépései részeként egyszeri szinkronizálást kell végeznie a felhasználókon az Azure AD-vel, valamint a helyszíni kiszolgálóról a felhőbe kell migrálnia az e-maileket. Ha ezt a módszert alkalmazza, az e-mail-migrálás befejeztével a program automatikusan kikapcsolja a címtár-szinkronizálást.
     
   - Az Office 365 címtár-szinkronizálási varázslójával szinkronizálhatja a felhasználókat a felhőbe. Ezt a [Set up directory synchronization for Office 365](https://support.office.com/article/1b3b5318-6977-42ed-b5c7-96fa74b08846) című cikk lépéseit követve végezheti el. Miután szinkronizálta a felhasználókat a felhőbe, [Turn off directory synchronization for Office 365](https://support.office.com/article/ee5f861e-bd48-4267-83d1-a4ead4b4a00d).
     
-    Minden felhasználó Microsoft 365 üzleti licenc így hozzáadott is lesz. Ehhez a [telepítő varázsló](set-up.md), vagy a [felhasználóknak az Office 365 rendszerben üzleti licencek hozzárendelése](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC).
+    Az ily módon felvett felhasználóknak ezenkívül a Microsoft 365 Vállalati verzióra szóló licencet kell adnia. Ehhez a [telepítő varázsló](set-up.md), vagy a [felhasználóknak az Office 365 rendszerben üzleti licencek hozzárendelése](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC).
     
 ### <a name="2-prepare-mobile-devices"></a>2: mobil eszközök előkészítése
 

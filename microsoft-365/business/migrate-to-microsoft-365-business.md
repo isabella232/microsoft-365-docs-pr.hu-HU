@@ -7,6 +7,9 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Normal
+ms.collection:
+- Adm_O365
+- M365-subscription-management
 ms.custom:
 - Core_O365Admin_Migration
 - MiniMaven
@@ -16,12 +19,12 @@ search.appverid:
 - MET150
 ms.assetid: 5b4ba843-24b8-4526-8e1f-f9b9eab89d06
 description: Útmutató a Microsoft 365 üzleti vállalkozása áthelyezése.
-ms.openlocfilehash: fd6f18c02453e6751d6163ab79e726eae9c951a9
-ms.sourcegitcommit: e491c4713115610cbe13d2fbd0d65e1a41c34d62
+ms.openlocfilehash: 3e45ba13e4cfe772829f545219bf86a9a3317d59
+ms.sourcegitcommit: 81273a9df49647286235b187fa2213c5ec7e8b62
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 01/16/2019
-ms.locfileid: "26983495"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32285670"
 ---
 # <a name="migrate-to-microsoft-365-business-from-office-365-business-premium"></a>Át az Office 365 Business Premium Microsoft 365 Business
 
@@ -55,9 +58,9 @@ Ha egy hivatkozás az engedélyek beszerzésére, végighaladhat azokon, hasonl�
     
 2. **A jel a személyre szabás és e-mail** lapon egy tartományt hozzáadna **már a saját tartományhoz csatlakozás** kiválasztásával, ha szeretné használni ezt a lehetőséget egy másik tartományt adja hozzá az előfizetéshez. 
     
-    Ha már beállított egy tartomány, a második mező jelzi, hogy és **Folytatás segítségével** jelezni fogja \< _a tartomány neve_ \> **e-mail és a bejelentkezés során**. Ha nem állított be, előfizetés-tartomány, azt jelezni fogja **Tovább segítségével** \< _a vállalat name.onmicrosoft.com_ \> **e-mailben és a bejelentkezés során**.    
+    Ha már beállított egy tartomány, a második mező jelzi, hogy és **Folytatás segítségével** jelezni fogja \< _a tartomány neve_ \> **e-mail és a bejelentkezés során**.   Ha nem állított be, előfizetés-tartomány, azt jelezni fogja **Tovább segítségével** \< _a vállalat name.onmicrosoft.com_ \> **e-mailben és a bejelentkezés során**.  
     
-    Válassza a **Next** (Tovább) gombot.
+    Válassza a **Tovább** gombot.
     
     ![Személyre szabása a bejelentkezés és az e-mail lapon válassza a tartomány hozzáadása, vagy használja azt használta.](media/c3f5cfb2-1189-4d2f-803b-c9feb008a7a3.png)
   
@@ -65,7 +68,7 @@ Ha egy hivatkozás az engedélyek beszerzésére, végighaladhat azokon, hasonl�
     
     Ha nincs új alkalmazottak felvétele és engedélyek hozzárendelése a meglévő felhasználókhoz szeretne, válassza a **következő**.
     
-4. A a ** e-mailek áttelepítése ** lapon lehetősége van arra, hogy bármelyik a 3. lépésben hozzáadta az új felhasználók e-mail áttelepítése. Is ezt a lépést kihagyhatja. Kattintson a **Tovább gombra**.
+4. A a ** e-mailek áttelepítése ** lapon lehetősége van arra, hogy bármelyik a 3. lépésben hozzáadta az új felhasználók e-mail áttelepítése. Is ezt a lépést kihagyhatja. Válassza a **Tovább** gombot.
     
 5. Az utolsó oldalon válassza az **Ugrás az admin center**, és ott folytatja a telepítést.
     
@@ -95,7 +98,7 @@ Miután a Microsoft 365 üzleti licencet rendelt, indítsa el a felhasználói e
     
   - [Alkalmazásvédelmi beállítások megadása Windows 10-es eszközökhöz](protection-settings-for-windows-10-devices.md)
     
-  - [Eszközvédelmi beállítások megadása Windows 10-es PC-khez](protection-settings-for-windows-10-pcs.md)
+  - [Eszköz védelem beállítása a Windows PC-k 10](protection-settings-for-windows-10-pcs.md)
     
    ![A házirend hozzáadása ablakban adjon meg egy nevet, és válassza ki a házirendet a legördülő menüből.](media/76ef37e4-1d18-4f34-8a0f-391ab1d0ae2b.png)
   

@@ -7,7 +7,10 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Normal
-ms.collection: Adm_O365
+ms.collection:
+- Adm_O365
+- M365-subscription-management
+- M365-identity-device-management
 ms.custom:
 - Adm_O365
 - Core_O365Admin_Migration
@@ -19,12 +22,12 @@ search.appverid:
 - MOE150
 ms.assetid: 5cf7139e-cfa1-4765-8aad-001af1c74faa
 description: 'Ismerje meg, hogyan létrehozása, szerkesztése, törlése vagy automata profilok eltávolítása. '
-ms.openlocfilehash: 4658a27e5f2c64a52f8a7d08b3fc13df5e239dc3
-ms.sourcegitcommit: e491c4713115610cbe13d2fbd0d65e1a41c34d62
+ms.openlocfilehash: 85fc897b2f428afae8d55feeb577021adaa30f72
+ms.sourcegitcommit: 81273a9df49647286235b187fa2213c5ec7e8b62
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 01/16/2019
-ms.locfileid: "26983135"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32277121"
 ---
 # <a name="create-and-edit-autopilot-profiles"></a>AutoPilot-profilok létrehozása és szerkesztése
 
@@ -32,11 +35,9 @@ ms.locfileid: "26983135"
 
 A profil egy eszközre vagy eszközök csoportjára vonatkozik.
   
-1. A Microsoft 365 Business Felügyeleti központban válassza **A Windows üzembe helyezése az AutoPilottal** lehetőséget az **Eszközműveletek** kártyán. 
-    
-    ![On the Device actions card, choose Deploy Windows with Autopilot.](media/160d5c2a-11a8-48f9-a8aa-70f084b85448.png)
+1. A Microsoft 365 üzleti rendszergazdai központban válassza az **eszközök** \> **automata**.
   
-2. **A Windows előkészítése** lapon válassza a **Profilok** \> **Profil létrehozása** lehetőséget.
+2. Az **automata** lapon válassza ki **a profilt** \> **profil létrehozása**.
     
 3. A **Profil létrehozása** lapon írjon be egy azonosítást segítő nevet a profilhoz, például Marketing, kapcsolja be a kívánt beállítást (további információ: [Az AutoPilot-profil beállításai](autopilot-profile-settings.md)), és válassza a **Mentés** gombot.
     
@@ -48,7 +49,7 @@ A profil létrehozása után alkalmazhatja azt egy eszközre vagy eszközcsoport
   
 1. **A Windows előkészítése** lapon válassza az **Eszközök** fület. 
     
-2. A jelölőnégyzetet egy eszköz neve mellett, és az **eszközök** panelen kattintson a, válasszon egy profilt a **hozzárendelt profil** legördülő \> **mentése**.
+2. Click the check-box next to a device name and in the **Device** panel, choose a profile from the **Assigned profile** drop-down \> **Save**.
     
     ![In the Device panel, select an Assigned profile to apply it.](media/ed0ce33f-9241-4403-a5de-2dddffdc6fb9.png)
   
@@ -60,7 +61,7 @@ Miután hozzárendelt egy profilt egy eszközhöz, frissítheti azt még akkor i
 
 1. **A Windows előkészítése** lapon válassza a **Profilok** fület. 
     
-2. Kattintson az eszköz neve melletti jelölőnégyzetet, és a **profil** panel frissíti a rendelkezésre álló beállítások \> **mentése**.
+2. Click the check-box next to a device name and in the **Profile** panel update any of the available settings \> **Save**.
     
     Ha ezt azelőtt végzi el, hogy a felhasználó csatlakoztatná az eszközt az internetre, akkor a profilt a rendszer alkalmazza a beállítási folyamatra.
     
@@ -76,5 +77,5 @@ Miután hozzárendelt egy profilt egy eszközhöz, frissítheti azt még akkor i
 
 1. **A Windows előkészítése** lapon válassza az **Eszközök** fület. 
     
-2. Jelölje be a jelölőnégyzetet-egy eszköz neve mellett, és az **eszközök** panelen, válassza a **nincs** **hozzárendelt profil** legördülő \> **mentése**.
+2. Click the check-box next to a device name and in the **Device** panel, choose a **None** from the **Assigned profile** drop-down \> **Save**.
     

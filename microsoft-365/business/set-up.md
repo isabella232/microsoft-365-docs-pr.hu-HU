@@ -10,7 +10,9 @@ f1_keywords:
 - BCS365_M365SetupBanner
 ms.service: o365-administration
 localization_priority: Normal
-ms.collection: Adm_O365
+ms.collection:
+- Adm_O365
+- M365-subscription-management
 ms.custom:
 - Adm_O365
 - Core_O365Admin_Migration
@@ -20,18 +22,18 @@ search.appverid:
 - MET150
 ms.assetid: 6e7a2dfd-8ec4-4eb7-8390-3ee103e5fece
 description: Útmutató a Microsoft 365 üzleti beállítása négy lépés végrehajtásával.
-ms.openlocfilehash: f57239b884bd2e186c0bc01973130a10fa4cfe84
-ms.sourcegitcommit: e491c4713115610cbe13d2fbd0d65e1a41c34d62
+ms.openlocfilehash: a1c8a41c3e291983276280a063248bdd10a7f85a
+ms.sourcegitcommit: 81273a9df49647286235b187fa2213c5ec7e8b62
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 01/16/2019
-ms.locfileid: "26982195"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32283911"
 ---
 # <a name="set-up-microsoft-365-business-by-using-the-setup-wizard"></a>A Microsoft 365 Business beállítása a beállítási varázslóval
 
 Hajtsa végre az alábbi 1 – 4.
   
-### <a name="set-up-microsoft-365-business"></a>A Microsoft 365 Vállalati verzió beállítása
+### <a name="set-up-microsoft-365-business"></a>A Microsoft 365 Business beállítása
 
 Ha helyszíni Active Directory nincs Microsoft 365 üzleti beállítása a videó megtekintése:
   
@@ -53,11 +55,11 @@ A beállítási lépéseket a telepítéshez, amely tartalmazza a helyi Active D
     
 3. Adja meg a használni kívánt tartomány nevét (például contoso.com).
     
-    Lépjen tovább, és írja be a tartományt, akkor is, ha ellenőrizte Azure AD csatlakozás, például használata közben. A következő két lépést nem vonatkoznak, ha Azure AD csatlakozás segítségével ellenőrizze a tartomány.
+    Nyugodtan megadhatja a tartományt akkor is, ha már ellenőrizte például az Azure AD Connect használata során. A következő két lépést nem vonatkoznak, ha Azure AD csatlakozás segítségével ellenőrizze a tartomány.
     
 4. Ellenőrzi a saját tartomány [létrehozása DNS-rekordokat az Office 365 bármely DNS-szolgáltatójánál,](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166) kövesse a varázsló utasításait. 
     
-    Megtekintheti egy példa videó [Videó: telepítés Office 365 az új Admin központban](https://support.office.com/article/a8c2002a-34bc-4ab3-93d8-9b5156c48bf8). Megjegyzés: Ez a videó nem tartalmaz Microsoft 365 üzleti adatok védelem lépéseit.
+    Megtekintheti egy példa videó [Videó: telepítés Office 365 az új Admin központban](https://support.office.com/article/a8c2002a-34bc-4ab3-93d8-9b5156c48bf8). Fontos megjegyezni, hogy a videóban nem szerepelnek az Microsoft 365 Business adatvédelmi lépései.
     
     ![Screenshot of the Business Cloud Suite setup wizard.](media/3c4fd40c-2de1-4a87-8ee0-78d3928c7bb7.png)
   
@@ -84,7 +86,7 @@ A beállítási lépéseket a telepítéshez, amely tartalmazza a helyi Active D
   
 A szolgáltatások beállításához frissítenie kell bizonyos rekordokat a DNS-szolgáltatónál vagy a tartományregisztrálónál.
   
-1. A telepítő varázsló általában észleli a hivatalvezető és az NS rekordok a hivatalvezető webhely frissítésének lépésenkénti hivatkozást ad. Ha nem, [Módosítás nameservers beállítása az Office 365 bármely tartomány tartományneveket regisztráló szervezetnél](https://support.office.com/article/a8b487a9-2a45-4581-9dc4-5d28a47010a2).
+1. A beállítási varázsló általában felismeri a regisztrálóját, és részletes útmutatást jelenít meg arról, hogy miként frissítheti a névkiszolgálói rekordokat a regisztráló webhelyén. Ha nem, [Módosítás nameservers beállítása az Office 365 bármely tartomány tartományneveket regisztráló szervezetnél](https://support.office.com/article/a8b487a9-2a45-4581-9dc4-5d28a47010a2).
     
 2. A levelezési és egyéb szolgáltatásokat a rendszer beállítja Önnek
     

@@ -4,11 +4,14 @@ ms.author: sirkkuw
 author: sirkkuw
 manager: scotv
 ms.audience: Admin
-ms.topic: overview
+ms.topic: conceptual
 f1_keywords:
 - O365E_BCSSetup4WindowsConfig
 ms.service: o365-administration
 localization_priority: Normal
+ms.collection:
+- M365-subscription-management
+- M365-identity-device-management
 ms.custom:
 - Core_O365Admin_Migration
 - MiniMaven
@@ -19,12 +22,12 @@ search.appverid:
 - MOE150
 ms.assetid: 21e5551f-fa35-4f13-9418-f80d668b6a2b
 description: 'Tudnivalók az alapértelmezett és az egyéb beállítások megadása Windows 10 eszközök biztonságos. '
-ms.openlocfilehash: 0bdf6a56d880cb84f4a4f50550539d97c006ba49
-ms.sourcegitcommit: e491c4713115610cbe13d2fbd0d65e1a41c34d62
+ms.openlocfilehash: 6f06936c2075710210ad9e29ee92905b3b49917a
+ms.sourcegitcommit: 81273a9df49647286235b187fa2213c5ec7e8b62
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 01/16/2019
-ms.locfileid: "26983655"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32278057"
 ---
 # <a name="secure-windows-10-devices"></a>Windows 10-es eszközök védelme
 
@@ -37,9 +40,9 @@ Alapértelmezés szerint minden beállítás **Be** állapotban van. Az alábbi 
 |||
 |:-----|:-----|
 |Beállítás  <br/> |Leírás  <br/> |
-|PC-k védelme a vírusokkal és más fenyegetésekkel szemben a Windows Defender víruskereső használatával  <br/> |Használatához a Windows Defender víruskeresőnek bekapcsolt állapotban kell lennie, hogy védelmet nyújthasson a PC-knek az internethez csatlakozva jelentkező veszélyekkel szemben.  <br/> |
+|PC-k védelme a vírusokkal és más fenyegetésekkel szemben a Windows Defender víruskereső használatával  <br/> |Használatához a Windows Defender víruskeresőnek bekapcsolt állapotban kell lennie, hogy a PC-ket védeni lehessen az internetes kapcsolat során előforduló fenyegetésekkel szemben.  <br/> |
 |PC-k védelme a webes fenyegetésekkel szemben a Microsoft Edge böngészőben  <br/> |Bekapcsolja a Microsoft Edge böngészőben azokat a beállításokat, amelyek segítenek megvédeni a felhasználót a kártékony webhelyek és letöltések által okozott veszélyektől.  <br/> |
-|Az eszköz képernyőjének kikapcsolása ennyi üresjárati idő után  <br/> |Biztosítja a céges adatok védelmét, amikor a felhasználó inaktív. Tegyük fel például, hogy a felhasználó nyilvános helyen, például egy kávézóban dolgozik. Ilyenkor, ha akár csak rövid időre is, de elvonhatják a figyelmét, és így illetéktelen személyek is láthatják az eszköz kijelzőjét. Ezzel a beállítással szabályozhatja, hogy a felhasználó mennyi ideig maradhat inaktív, mielőtt a kijelző kikapcsol.  <br/> |
+|Az eszköz képernyőjének kikapcsolása ennyi üresjárati idő után  <br/> |Biztosítja a céges adatok védelmét, amikor a felhasználó inaktív. Előfordulhat, hogy a felhasználó nyilvános helyen, például egy kávézóban végez munkát, és ilyenkor ha csak rövid időre is elvonják a figyelmét az eszközről, akkor annak kijelzőjét illetéktelen személyek is láthatják. Ezzel a beállítással azt határozhatja meg, hogy a felhasználó mennyi ideig maradhat inaktív, mielőtt az eszköz kijelzője kikapcsol.  <br/> |
 |A felhasználók letölthetnek appokat innen: Microsoft Áruház  <br/> |Lehetővé teszi, hogy a felhasználók appokat tölthessenek le és telepíthessenek a Microsoft Áruházból. Az appok között játékok és munkára használható eszközök egyaránt lehetnek, ezért ez a beállítás **Be** állapotban van, de a fokozott biztonság érdekében ki is kapcsolhatja.  <br/> |
 |A felhasználók igénybe vehetik Cortana segítségét  <br/> |Cortana nagyon hasznos lehet. Beállításokat képes be- és kikapcsolni, útbaigazítást tud adni, és ügyelni tud arra, hogy Ön ne késsen el a megbeszéléseiről, ezért ez a beállítás alapértelmezés szerint **Be** állapotban van.  <br/> |
 |A felhasználók kaphatnak tippeket és hirdetéseket a Windowszal kapcsolatban a Microsofttól  <br/> |A Windows-tippek hasznosak lehetnek, és új funkciók megjelenésekor segíthetnek a felhasználóknak a funkciók megismerésében.  <br/> |

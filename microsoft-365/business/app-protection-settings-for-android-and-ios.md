@@ -7,7 +7,10 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Normal
-ms.collection: Adm_O365
+ms.collection:
+- Adm_O365
+- M365-subscription-management
+- M365-identity-device-management
 ms.custom:
 - Adm_O365
 - Core_O365Admin_Migration
@@ -18,34 +21,32 @@ search.appverid:
 - MET150
 ms.assetid: 6f2b80b4-81c3-4714-a7bc-ae69313e8a33
 description: Útmutató létrehozása, szerkesztése, vagy app kezelési házirend törlése és Android vagy iOS eszközökön Munkafájlok védelme.
-ms.openlocfilehash: ed03227496120369b94bf2396974eebfd7798678
-ms.sourcegitcommit: e491c4713115610cbe13d2fbd0d65e1a41c34d62
+ms.openlocfilehash: e81ff8a4bd71dbbbf7ccc31249d450e03f4bd241
+ms.sourcegitcommit: 81273a9df49647286235b187fa2213c5ec7e8b62
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 01/16/2019
-ms.locfileid: "26983665"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32277451"
 ---
 # <a name="set-app-protection-settings-for-android-or-ios-devices"></a>Appvédelmi beállítások megadása androidos vagy iOS-es eszközökhöz
 
 ## <a name="create-an-app-management-policy"></a>Appkezelési házirend létrehozása
 
-1. Jelentkezzen be a [Microsoft 365 Business](https://portal.office.com) szolgáltatásba globális rendszergazdai hitelesítő adatokkal. 
+1. Jelentkezzen be a [Microsoft 365 üzleti admin center](https://go.microsoft.com/fwlink/p/?linkid=837890) globális rendszergazdai hitelesítő adatokkal. 
     
-2. A felügyeleti központ **Eszközházirendek** kártyáján válassza a **Házirend felvétele** lehetőséget.
-    
-    ![Device policies card in the admin center.](media/27c12b61-d112-4348-b557-4f3e46204797.png)
+2. A felügyeleti központban válassza az **eszközök** \> **politika** \> **házirend hozzáadása**.
   
 3. A **Házirend felvétele** ablaktáblában adja meg a házirend egyedi nevét. 
     
 4. A **Házirend típusa** csoportban válassza az **Alkalmazáskezelés Android-eszközökhöz** vagy az **Alkalmazáskezelés iOS-eszközökhöz** lehetőséget attól függően, hogy milyen házirendkészletet szeretne létrehozni. 
     
-5. Bontsa ki a **védelem Munkafájlok, ha az eszköz elveszett vagy ellopott** és **kezelése, hogy a felhasználók miként férhetnek hozzá a mobil eszközökön található Office-fájlok** \> hogyan szeretné a beállításokat. Alapértelmezés szerint nincs **bekapcsolva** **kezelése, hogy a felhasználók miként férhetnek hozzá a mobil eszközökön található Office-fájlokat** , de javasoljuk, hogy kapcsolja **be** , és elfogadhatja az alapértelmezett értékeket. További tudnivalókért tanulmányozza a [rendelkezésre álló beállításokat](app-protection-settings-for-android-and-ios.md#bkmk_availablesettings) . 
+5. Expand **Protect work files when devices are lost or stolen** and **Manage how users access Office files on mobile devices** \> configure the settings how you would like. The **Manage how users access Office files on mobile devices** is **Off** by default, but it is recommended that you turn it **On** and accept the default values. További tudnivalókért tanulmányozza a [rendelkezésre álló beállításokat](#available-settings) . 
     
     Az **Alapértelmezett beállítások visszaállítása** hivatkozásra kattintva bármikor visszatérhet az alapértelmezett beállításokhoz. 
     
     ![Screenshot of Create a policy with Application management for Android selected](media/eabbe06d-ac0a-4f3a-8630-68c808b1e662.png)
   
-6. Ezután döntse el, **fog kapni, akik ezeket a beállításokat?** Ha nem szeretné az alapértelmezett **Felhasználók** biztonsági csoporthoz, választhat **módosítása**, a biztonsági csoportok, akik ezeket a beállításokat kap \> **kiválasztása**.
+6. Next decide **Who will get these settings?** If you don't want to use the default **All Users** security group, choose **Change**, choose the security groups who will get these settings \> **Select**.
     
 7. Végül válassza a **Kész** lehetőséget a házirend mentéséhez és eszközökhöz való hozzárendeléséhez. 
     
@@ -63,7 +64,7 @@ ms.locfileid: "26983665"
 
 1. A **Házirendek** kártyán válassza a **Házirend törlése** elemet.
     
-2. **Házirend törlése** ablakban válassza ki a törölni kívánt házirendek \> **Jelölje ki**, majd **megerősítése** a házirend vagy a választott házirendek törlése. 
+2. On the **Delete policy** pane, choose the policies you want to delete \> **Select**, then **Confirm** to delete the policy or policies you chose. 
     
 ## <a name="available-settings"></a>Rendelkezésre álló beállítások
 
@@ -80,7 +81,7 @@ Az alábbi beállításokkal védhetők meg a munkahelyi fájlok, ha az eszköz 
 |Beállítás  <br/> |Leírás  <br/> |
 |Munkahelyi fájlok törlése az inaktív eszközökről ennyi nap után  <br/> |Ha az eszközt az itt megadott számú napig nem használják, akkor a rajta tárolt összes munkahelyi fájl automatikusan törlődik.  <br/> |
 |A felhasználók kényszerítése arra, hogy az összes munkahelyi fájljukat ide mentsék: OneDrive Vállalati verzió  <br/> |Ha ez a beállítás **Be** állapotban van, akkor a munkahelyi fájlok mentési helye kizárólag a OneDrive Vállalati verzió lehet.  <br/> |
-|Munkahelyi fájlok titkosítása  <br/> |A munkahelyi fájlok titkosítással való védelméhez ezt a beállítást tartsa **Be** állapotban. A céges adatait még az eszköz elvesztése vagy ellopása esetén sem fogja tudni senki olvasni.  <br/> |
+|Munkahelyi fájlok titkosítása  <br/> |A munkahelyi fájlok titkosítással való védelméhez ezt a beállítást tartsa **Be** állapotban. A céges adatokat még akkor sem tudják majd elolvasni, ha az eszköz elvész vagy ellopják.  <br/> |
    
 ### <a name="settings-that-control-how-users-access-office-files-on-mobile-devices"></a>Az Office-fájlok mobileszközökön való elérését szabályozó beállítások
 
@@ -92,8 +93,8 @@ Az alábbi beállítások használhatók a munkahelyi Office-fájlok elérésén
 |PIN-kód vagy ujjlenyomat megkövetelése az Office-appok eléréséhez  <br/> |Ha ez a beállítás **Be** állapotban van, a mobileszközön lévő Office-appok használatához a felhasználónéven és a jelszón kívül a felhasználóknak további hitelesítési módszert is használniuk kell.  <br/> |
 |PIN-kód visszaállítása ennyi sikertelen bejelentkezési kísérlet után  <br/> |Annak érdekében, hogy ne lehessen a PIN-kódot véletlenszerű próbálkozásokkal megfejteni, az Ön által megadott számú téves próbálkozás után a PIN-kód alaphelyzetbe áll.  <br/> |
 |A felhasználónak ismét be kell jelentkeznie az Office-appok ennyi ideig tartó üresjárata után  <br/> |Ezzel a beállítással azt határozhatja meg, hogy a felhasználó mennyi ideig maradhat inaktív, mielőtt újra be kellene jelentkeznie.  <br/> |
-|Hozzáférés letiltása a munkahelyi fájlokhoz a feltört vagy rootolással feltört eszközökön  <br/> |A hozzáértő felhasználók esetleg feltört vagy rootolással feltört eszközzel is rendelkezhetnek. Ez azt jelenti, hogy a felhasználó képes módosítani az operációs rendszert, ami sebezhetőbbé teheti az eszközt a kártevőkkel szemben. Ha ez a beállítás **Be** állapotban van, az ilyen eszközök le lesznek tiltva.  <br/> |
-|A felhasználók másolhatnak tartalmakat az Office-appokból személyes appokba  <br/> |Azt alapértelmezés szerint engedélyezi, de ha a beállítás be **kapcsolva**, a felhasználó tudta átmásolni információk munkafájlt a személyes fájlok. Ha a beállítás ki **kapcsolva**, a felhasználói információ másolása egy munka fiókból személyes app vagy személyes fiók nem lesz.<br/> |
+|Hozzáférés letiltása a munkahelyi fájlokhoz a feltört vagy rootolással feltört eszközökön  <br/> |A hozzáértő felhasználók esetleg feltört vagy rootolással feltört eszközzel is rendelkezhetnek. Ez azt jelenti, hogy a felhasználó módosíthatja az operációs rendszert, ami viszont kártevők által sebezhetőbbé teheti az eszközt. Ha ez a beállítás **Be** állapotban van, az ilyen eszközök le lesznek tiltva.  <br/> |
+|A felhasználók másolhatnak tartalmakat az Office-appokból személyes appokba  <br/> |Azt alapértelmezés szerint engedélyezi, de ha a beállítás be **kapcsolva**, a felhasználó tudta átmásolni információk munkafájlt a személyes fájlok. Ha a beállítás ki **kapcsolva**, a felhasználói információ másolása egy munka fiókból személyes app vagy személyes fiók nem lesz.  <br/> |
    
 
   

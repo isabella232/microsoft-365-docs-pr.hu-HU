@@ -7,6 +7,9 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Normal
+ms.collection:
+- M365-subscription-management
+- M365-identity-device-management
 ms.custom:
 - Core_O365Admin_Migration
 - MiniMaven
@@ -16,12 +19,12 @@ search.appverid:
 - MET150
 ms.assetid: 2d7ff45e-0da0-4caa-89a9-48cabf41f193
 description: 'Megtudhatja, hogyan állíthatja be a Windows-eszközök Windows 10 Pro futó Microsoft 365 üzleti felhasználók számára. '
-ms.openlocfilehash: 482199b175c568bfae420619aa02024303894789
-ms.sourcegitcommit: e491c4713115610cbe13d2fbd0d65e1a41c34d62
+ms.openlocfilehash: f93257bd9a68385fca4f178a2e09c5c11506ee2c
+ms.sourcegitcommit: 81273a9df49647286235b187fa2213c5ec7e8b62
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 01/16/2019
-ms.locfileid: "26982855"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32284351"
 ---
 # <a name="set-up-windows-devices-for-microsoft-365-business-users"></a>Windows rendszerű eszközök beállítása a Microsoft 365 Business felhasználóinak
 
@@ -33,7 +36,7 @@ Ha Ön Windows 7 Pro, Windows 8 Pro vagy Windows 8.1 Pro rendszerű Windows-eszk
   
 Ha többet szeretne megtudni arról, hogy hogyan frissítheti Windows-eszközeit a Windows 10 Pro alkotói frissítésére, kövesse a következő témakörben szereplő lépéseket: [Windows-eszközök frissítése a Windows Pro alkotói frissítésére](upgrade-to-windows-pro-creators-update.md).
   
-Az [Annak ellenőrzése, hogy az eszköz frissítve lett-e a Windows 10 Business verzióra](set-up-windows-devices.md#bkmk_verifywin10) című szakasz segítségével ellenőrizheti, hogy rendelkezik-e a frissítéssel, vagy meggyőződhet a frissítés sikerességéről. 
+Lásd: [Ellenőrizze Azure AD az eszköz csatlakoztatva van](#verify-the-device-is-connected-to-azure-ad) , ellenőrizze a frissítés, vagy ellenőrizze, hogy a frissítés dolgozott. 
   
 ## <a name="join-windows-10-devices-to-your-organizations-azure-ad"></a>Windows 10-es eszközök csatlakoztatása a szervezet Azure AD szolgáltatásához
 
@@ -51,7 +54,7 @@ A Windows 10 Pro alkotói frissítését futtató vadonatúj eszköz, illetve eg
     
 3. Fejezze be a Windows 10-es eszköz beállítását.
     
-   Ha végzett, a felhasználó csatlakoztatva lesz a szervezet Azure AD szolgáltatásához. Ha meg szeretne győződni arról, hogy sikerült-e a csatlakoztatás, olvassa el az [Annak ellenőrzése, hogy az eszköz csatlakoztatva van-e az Azure AD szolgáltatáshoz](set-up-windows-devices.md#bkmk_verifyaad) című szakaszt. 
+   Ha végzett, a felhasználó csatlakoztatva lesz a szervezet Azure AD szolgáltatásához. Ha meg szeretne győződni arról, hogy sikerült-e a csatlakoztatás, olvassa el az [Annak ellenőrzése, hogy az eszköz csatlakoztatva van-e az Azure AD szolgáltatáshoz](#verify-the-device-is-connected-to-azure-ad) című szakaszt. 
   
 ### <a name="for-a-device-already-set-up-and-running-windows-10-pro"></a>Már beállított és a Windows 10 Prót futtató eszköz esetén
 
@@ -73,13 +76,13 @@ A Windows 10 Pro alkotói frissítését futtató vadonatúj eszköz, illetve eg
   
    ![Click Join this device to Azure Active Directory](media/fb709a1b-05a9-4750-9cb9-e097f4412cba.png)
   
-5. Az **indulás Ön bejelentkezett a** lapon adja meg a műhely vagy iskola fiók \> **Tovább**.
+5. On the **Let's get you signed in** page, enter your work or school account \> **Next**.
   
-   A **jelszó megadni** lapon írja be a jelszót \> **Jelentkezzen be**.
+   On the **Enter password** page, enter your password \> **Sign in**.
   
    ![Enter your work or school email on the Let's get you signed in page](media/f70eb148-b1d2-4ba3-be38-7317eaf0321a.png)
   
-6. A a ** győződjön meg arról, hogy ez a szervezet ** lap, győződjön meg arról, hogy az adatok helyesek, és kattintsunk a **Csatlakozás**gombra.
+6. **Győződjön meg arról, hogy ez a szervezet** lapon ellenőrizze, hogy az adatok helyesek, és kattintsunk a **Csatlakozás**gombra.
   
    A **Minden készen áll** lapon kattintson a **Kész** elemre.
   
