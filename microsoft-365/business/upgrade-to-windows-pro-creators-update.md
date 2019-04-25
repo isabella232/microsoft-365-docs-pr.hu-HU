@@ -17,12 +17,12 @@ search.appverid:
 - MOE150
 ms.assetid: ffc4d886-9e1d-453d-a0d0-2f62f18635e2
 description: 'Útmutató a Windows eszközök frissítsen Windows 10 Pro alkotók frissítés. '
-ms.openlocfilehash: ec1ef0462cc1ba1cd1ae01ee28795096097e01a9
-ms.sourcegitcommit: 81273a9df49647286235b187fa2213c5ec7e8b62
+ms.openlocfilehash: 13a964b19b1fbd43e9c255a90161ca6b48099305
+ms.sourcegitcommit: 2f7791159b715790463c6ce4835fbd9c0b48c047
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32279865"
+ms.lasthandoff: 04/24/2019
+ms.locfileid: "33138164"
 ---
 # <a name="upgrade-windows-devices-to-windows-pro-creators-update"></a>Windows-eszközök frissítése a Windows Pro alkotói frissítésére
 
@@ -37,6 +37,9 @@ ms.locfileid: "32279865"
      - Hozzon létre egy telepítési adathordozó az [Adathordozó-létrehozási eszköz](https://go.microsoft.com/fwlink/?LinkID=836960) használata – ezzel a beállítással hozhat létre egy Windows 10 Pro alkotók frissítés telepítési adathordozó (USB flash meghajtó vagy ISO fájl) telepítéséhez Windows 10 eltérő használ egy PC.
     
         egy. Kövesse az útmutatót, hogyan használja az eszközt, és hozzon létre a telepítési adathordozót. 
+
+> [!Note]
+> Ha Windows fut a Windows 7 Pro, Windows 8 Pro vagy Pro Windows 8.1-eszközök, a Microsoft 365 üzleti előfizetés feljogosítja meg a Windows 10 - frissítés nem szükséges termékkulcs.
     
 Lásd a [Microsoft 365 üzleti felhasználók számára a Windows-eszközök beállítása](set-up-windows-devices.md) Windows 10 eszközök beállításának befejezéséhez. 
   
