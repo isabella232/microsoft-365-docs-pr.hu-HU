@@ -10,12 +10,12 @@ localization_priority: Normal
 audience: microsoft-business 
 keywords: Microsoft 365 Business, Microsoft 365, SMB, GYIK, gyakori kérdések, válaszok, üzleti
 ms.date: 06/08/2018
-ms.openlocfilehash: 1e277aed366d82e524ef99c43ab0401b5d35e5b0
-ms.sourcegitcommit: 81273a9df49647286235b187fa2213c5ec7e8b62
+ms.openlocfilehash: bdcfd6a78278aff83b3fc21ae0fbb43bce140a16
+ms.sourcegitcommit: 1034f54472de62897f2e8f12459db8043ac8443b
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32286127"
+ms.lasthandoff: 04/30/2019
+ms.locfileid: "33497752"
 ---
 # <a name="microsoft-365-business-frequently-asked-questions"></a>Gyakran feltett kérdések a Microsoft 365 Business
 
@@ -116,7 +116,7 @@ Szeretné Microsoft 365 üzleti képességeit tapasztalható futnia kell a Windo
 A sikeres telepítését Microsoft 365 üzleti legközvetlenebb elérési útja foglalkozó Microsoft-partneréhez. Ezek kiterjedt képzési és a szerzett tapasztalatok széles körét forgatókönyvet és megtudhatja, hogy a környezet és az igényeinek legjobban felszerelt. Vevők, ahol az informatikai személyzet segítségével <a href="https://support.office.com/article/496e690b-b75d-4ff5-bf34-cc32905d0364" target="_blank">Microsoft 365 üzleti bevezetés</a> segítik őket a Microsoft 365 üzleti telepítési. 
 
 ### <a name="does-microsoft-365-business-include-the-full-capabilities-of-microsoft-intune"></a>Tartalmaz a Microsoft 365 üzleti lehetőségeinek teljes Microsoft Intune? 
-Igen, teljes Intune képességek iOS, Android, MacOS és más platformok közötti Eszközkezelés használandó Microsoft 365 üzleti előfizetők licence. A szolgáltatás nem érhető el a Microsoft 365 üzleti, mint a 3. fél app kezelési és konfigurációs WiFi-profilok, a VPN-tanúsítványokat, stb., például egyszerűsített management console teljes Intune konzolon lehet kezelni.   
+Igen, teljes Intune képességek iOS, Android, MacOS és más platformok közötti Eszközkezelés használandó Microsoft 365 üzleti előfizetők licence. Nem érhető el a Microsoft 365 üzleti, mint a 3. fél app kezelési és konfigurációs WiFi-profilok, a VPN-tanúsítványokat, stb., egyszerűsített management console szolgáltatások teljes Intune konzolon lehet kezelni. Configuration Manager segítségével kezelheti az ügyfelek az EMS licenc hatálya engedélyekkel rendelkezik. SCCM kapcsolódó lekérdezések talál <a href="https://docs.microsoft.com/en-us/sccm/core/understand/product-and-licensing-faq#bkmk_csp" target="_blank">SCCM GYIK</a>
   
 
 ### <a name="does-azure-active-directory-premium-p1-come-with-microsoft-365-business"></a>Azure Active Directory Premium P1 Microsoft 365 üzleti tartozik? 
