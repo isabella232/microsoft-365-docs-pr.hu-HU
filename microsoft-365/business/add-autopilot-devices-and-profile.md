@@ -20,16 +20,16 @@ search.appverid:
 - MOE150
 ms.assetid: be5b6d90-3344-4c5e-bf40-5733eb845beb
 description: Útmutató a Windows automata segítségével állítsa be az új Windows 10 eszközök a vállalkozás számára.
-ms.openlocfilehash: e0802ddcc0964d0b8d102f7dbdb9116b33cdcf58
-ms.sourcegitcommit: 81273a9df49647286235b187fa2213c5ec7e8b62
+ms.openlocfilehash: 8c4a14b4b9dcbf7a30c1e6e0bdd53418a1ab8a03
+ms.sourcegitcommit: db1dfb2df2c2f7beced3b57bc772d106c189e88a
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32277120"
+ms.lasthandoff: 05/07/2019
+ms.locfileid: "33660674"
 ---
 # <a name="use-the-step-by-step-guide-to-add-autopilot-devices-and-profile"></a>Autopilot-eszközök és -profilok hozzáadása a lépésenkénti útmutatóval
 
-A Windows AutoPilot segítségével előkészítheti cégének új Windows 10-es eszközeit, így az alkalmazottak azonnal hatékonyan munkához láthatnak, amint megkapják az eszközüket.
+Használhatja a Windows automata beállítása Windows 10 **Új** eszközök saját üzleti így termelő használatra kész, amint az alkalmazottak nekik.
   
 ## <a name="device-requirements"></a>Eszközkövetelmények
 
@@ -41,13 +41,17 @@ Az eszközöknek meg kell felelniük az alábbi követelményeknek:
     
 ## <a name="use-the-setup-guide-to-create-devices-and-profiles"></a>Eszközök és profilok létrehozása a beállítási útmutató használatával
 
+![Mutató transzparens https://aka.ms/aboutM365preview.](media/m365admincenterchanging.png)
+
 Ha még nem hozott létre eszközcsoportokat vagy profilokat, a legjobb, ha azzal kezdi, hogy elolvassa a részletes útmutatót, de azt is megteheti, hogy az útmutató nélkül [vesz fel eszközöket](create-and-edit-autopilot-devices.md) és [rendel hozzájuk profilokat](create-and-edit-autopilot-profiles.md). 
   
-1. A Microsoft 365 Business Felügyeleti központban keresse meg az **Eszközműveletek** kártyát, és válassza **A Windows üzembe helyezése az Autopilottal** lehetőséget.
-    
-    ![On the Device actions card, choose Deploy Windows with Autopilot.](media/160d5c2a-11a8-48f9-a8aa-70f084b85448.png)
+1. Ugrás az admin center <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>.
+
+2. Válassza ki a bal oldali navigációs sáv **eszközök** \> **automata**.
+
+    ![A felügyeleti központban válassza az eszközök és automata.](media/AutoPilot.png)
   
-2. **A Windows előkészítése** lapon kattintson vagy koppintson az **Útmutató indítása** elemre.
+2. Az **automata** oldalon kattintson vagy koppintson az **Útmutató**.
     
     ![Click Start guide for step-by-step instructions for Autopilot.](media/31662655-d1e6-437d-87ea-c0dec5da56f7.png)
   

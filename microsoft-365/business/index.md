@@ -11,12 +11,12 @@ ms.prod: microsoft-365-business
 ms.collection: M365-subscription-management
 title: Microsoft 365 üzleti erőforrások
 description: 'Útmutató: tervezése, telepítése és használhatók a Microsoft Office 365, a Windows 10, és a vállalati mobilitási + biztonsági együtt a vállalat integrált, biztonságos infrastruktúra, amely lehetővé teszi a csapatmunkát, és feloldja a kreativitást.'
-ms.openlocfilehash: fc3a702f76426f3b7ffcb0f45996b097d0d17e94
-ms.sourcegitcommit: 81273a9df49647286235b187fa2213c5ec7e8b62
+ms.openlocfilehash: 3c5cc341734896cb9a42565c8647f3f5ac37fc5b
+ms.sourcegitcommit: db1dfb2df2c2f7beced3b57bc772d106c189e88a
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32278497"
+ms.lasthandoff: 05/07/2019
+ms.locfileid: "33660291"
 ---
 <div id="main" class="v2">
     <div class="container">
@@ -41,8 +41,10 @@ ms.locfileid: "32278497"
                                             </div>
                                             <div class="cardText">
                                                 <h3>Fedezze fel</h3>
-                                                <P><a href="https://support.office.com/article/what-is-microsoft-365-business-901e2522-c2cf-4b8c-894e-f482cda3347a" target="_blank">Áttekintés</a></p>
-                                                <P><a href="microsoft-365-business-overview.md" target="_blank">A Microsoft 365 Business használatbavétele</a></p> <P><a href="https://docs.microsoft.com/microsoft-365/business/support/microsoft-365-business-faqs" target="_blank">GYAKRAN ISMÉTELT KÉRDÉSEK</a></p>
+                                                <P><a href="https://support.office.com/article/what-is-microsoft-365-business-901e2522-c2cf-4b8c-894e-f482cda3347a" target="_blank">Videó – áttekintés</a></p>
+                                                <P><a href="microsoft-365-business-overview.md" target="_blank">Mi az a Microsoft 365 Business</a></p>
+                                                <P><a href="https://docs.microsoft.com/office365/servicedescriptions/microsoft-365-business-service-description" target="_blank">Szolgáltatásleírás</a></p>
+                                                <P><a href="https://docs.microsoft.com/microsoft-365/business/support/microsoft-365-business-faqs" target="_blank">GYAKRAN ISMÉTELT KÉRDÉSEK</a></p>
                                             </div>
                                         </div>
                                     </div>
@@ -58,8 +60,12 @@ ms.locfileid: "32278497"
                                                 </div>
                                             </div>
                                             <div class="cardText">
-                                                <h3>A Microsoft 365 Business beállítása</h3>
-                                                <P><a href="set-up.md" target="_blank">Beállítás</a></p>
+                                                <h3>Beállítás</h3>
+                                              <P><a href="get-microsoft-365-business.md" target="_blank">365 a Microsoft üzleti beolvasása</a></p>
+                                               <P><a href="set-up.md" target="_blank">Microsoft 365 üzleti beállítása</a></p>
+                                                <P><a href="set-up-windows-devices.md" target="_blank">Windows 10 eszközök beállítása</a></p>
+                                                <P><a href="set-up-mobile-devices.md" target="_blank">IPhone és Android-eszköz beállítása</a></p>
+                                                <P><a href="auto-install-or-uninstall-office.md" target="_blank">Office telepítése Windows 10</a></p>
                                             </div>
                                         </div>
                                     </div>
@@ -93,9 +99,10 @@ ms.locfileid: "32278497"
                                             </div>
                                             <div class="cardText">
                                                 <h3>Üzleti adatok és berendezések védelmét</h3>
-                                                <P><a href="manage.md" target="_blank">Eszközök kezelése</a></p> <P><a href="app-protection-settings-for-android-and-ios.md" target="_blank">IPhone és Android-eszköz</a></p>
-                                                 <P><a href="https://support.office.com/article/top-10-ways-to-secure-office-365-and-microsoft-365-business-plans-from-cyber-threats-de2da300-dbb6-4725-bb12-b85a9d296e75" target="_blank">10 legjobb módszere a Microsoft 365 üzleti biztonságos</a></p>
+                                                 <P><a href="https://docs.microsoft.com/office365/admin/security-and-compliance/secure-your-business-data"target="_blank">10 legjobb módszere a Microsoft 365 üzleti biztonságos</a></p>
                                                 <P><a href="security-features.md" target="_blank">További tudnivalók a biztonsági szolgáltatások</a></p>
+                                                <P><a href="remove-company-data.md" target="_blank">Adatok eltávolítása eszközök</a></p>
+                                                <P><a href="reset-devices-to-factory-settings.md" target="_blank">Eszköz visszaállítása</a></p>
                                                 </div>
                                         </div>
                                     </div>
@@ -112,7 +119,6 @@ ms.locfileid: "32278497"
                                             </div>
                                             <div class="cardText">
                                                 <h3>Módszer</h3>
-                                                <P><a href="set-up-mobile-devices.md" target="_blank">Mobil eszközök beállítása</a></p>
                                                 <P><a href="https://support.office.com/office-training-center" target="_blank">Mindenki kap működik és Office Súgó</a></p>
                                                 <P><a href="https://www.microsoft.com/itpro/windows-10/end-user-readiness" target="_blank">Váltás a Windows 10 mindenkinek</a></p>
                                                 <P><a href="https://docs.microsoft.com/intune-user-help/use-managed-devices-to-get-work-done" target="_blank">Intune képzés</a></p>
@@ -127,14 +133,14 @@ ms.locfileid: "32278497"
                                         <div class="card">
                                             <div class="cardImageOuter">
                                                 <div class="cardImage">
-                                                    <img src="https://docs.microsoft.com/media/logos/logo_Windows.svg" alt="Windows logo" />
+                                                    <img src="https://docs.microsoft.com/en-us/office/media/icons/success-blue.svg" alt="Success logo" />
                                                 </div>
                                             </div>
                                             <div class="cardText">
-                                                <h3>Windows 10</h3>
-                                                <P><a href="set-up-windows-devices.md" target="_blank">Windows 10 eszközök beállítása</a></p>
-                                                <P><a href="remove-company-data.md" target="_blank">Adatok eltávolítása eszközök</a></p>
-                                                <P><a href="reset-devices-to-factory-settings.md" target="_blank">Eszköz visszaállítása</a></p>
+                                                <h3>Erőforrások partnerek számára</h3>
+                                                <P><a href="get-microsoft-365-business.md" target="_blank">Microsoft 365 üzleti Partner Center beolvasása</a></p>
+                                                <P><a href="https://www.microsoft.com/microsoft-365/partners/business" target="_blank">Microsoft 365 partner oldal</a></p>
+                                                <P><a href="https://www.microsoft.com/microsoft-365/partners/resources/microsoft-365-business-licensing-deck" target="_blank">Microsoft 365 üzleti licencelési fedélzet</a></p>
                                             </div>
                                         </div>
                                     </div>
@@ -154,9 +160,10 @@ ms.locfileid: "32278497"
                                                     </div>
                                                 </div>
                                                 <div class="cardText">
-                                                    <h3>Kérjen segítséget a Microsoft partner</h3>
+                                                    <h3>Segítségre van szüksége?</h3>
                                                     <P><a href="https://www.microsoft.com/solution-providers/search" target="_blank">Partner keresése</a></p>
-                                                    <P><a href="https://www.microsoft.com/microsoft-365/partners/business" target="_blank">Partner-erőforrások</a></p>
+                                                    <P><a href="https://support.office.com/article/Contact-support-for-business-products-Admin-Help-32a17ca7-6fa0-4870-8a8d-e25ba4ccfd4b" target="_blank">Az Office 365 ügyfélszolgálatot</a></p>
+                                                    <P><a href="https://techcommunity.microsoft.com/t5/Small-and-Medium-Businesses/ct-p/SMB" target="_blank">Kis- és középvállalkozások üzleti szakmai Közösség</a></p>
                                                 </div>
                                             </div>
                                         </div>
@@ -172,10 +179,9 @@ ms.locfileid: "32278497"
                                                     </div>
                                                 </div>
                                                 <div class="cardText">
-                                                    <h3>Segítségre van szüksége?</h3>
-                                                     <P><a href="https://azure.microsoft.com/support/options/" target="_blank">Azure</a></p>
-                                                     <P><a href="https://support.office.com/article/Contact-support-for-business-products-Admin-Help-32a17ca7-6fa0-4870-8a8d-e25ba4ccfd4b" target="_blank">Office 365</a></p>
-                                                     <P><a href="http://support.microsoft.com/products/windows" target="_blank">Windows 10</a></p>
+                                                    <h3>Súgó, dokumentáció</h3>
+                                                     <P><a href="https://docs.microsoft.com/office/admins-itprofessionals" target="_blank">Office admin dokumentumok</a></p>
+                                                     <P><a href="https://docs.microsoft.com/intune/index">Microsoft Intune dokumentumok</a></p>
                                                 </div>
                                             </div>
                                         </div>

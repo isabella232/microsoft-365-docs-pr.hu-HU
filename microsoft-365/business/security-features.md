@@ -19,18 +19,20 @@ search.appverid:
 - MET150
 ms.assetid: c123694a-1efb-459e-a8d5-2187975373dc
 description: 'További tudnivalók: Microsoft 365 üzleti biztonsági szolgáltatásairól.'
-ms.openlocfilehash: 24d4c4e79e7d8737beb82336796956774f127209
-ms.sourcegitcommit: 81273a9df49647286235b187fa2213c5ec7e8b62
+ms.openlocfilehash: adf1cf183022f3d2c19364b9f60868e285f78637
+ms.sourcegitcommit: db1dfb2df2c2f7beced3b57bc772d106c189e88a
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32286878"
+ms.lasthandoff: 05/07/2019
+ms.locfileid: "33660573"
 ---
 # <a name="microsoft-365-business-security-features"></a>Microsoft 365 üzleti biztonsági szolgáltatások
 
 Microsoft 365 üzleti kínál egyszerűsített biztonsági szolgáltatásai segítségével a védintézkedések az adatokat a személyi számítógépek, telefonok és tabletta.
     
 ## <a name="microsoft-365-business-admin-center-security-features"></a>Microsoft Business-365 felügyeleti központ biztonsági szolgáltatások
+
+![Mutató transzparens https://aka.ms/aboutM365preview.](media/m365admincenterchanging.png)
 
 A felügyeleti központ, amely lehetőséget nyújt a egyszerűsített, ezek a szolgáltatások be- és kikapcsolása a Microsoft 365 üzleti biztonsági szolgáltatások számos kezelheti. A felügyeleti központ a következőket teheti:
   
@@ -86,90 +88,6 @@ Microsoft 365 üzleti továbbfejlesztett szolgáltatások segítségével a vál
     
 A következő szakaszok ismertetik, hogyan kezelheti ezeket a szolgáltatásokat, a biztonsági &amp; Megfelelési központba és az Intune admin center. Idővel a Microsoft 365 üzleti felügyeleti központ bekerül az egyszerűsített szabályozza.
   
-## <a name="set-up-advanced-threat-protection-features"></a>Speciális veszély védelmi szolgáltatások beállítása
-
-- **Nem biztonságos mellékletek elleni védelme:** ATP rosszindulatú tartalmat azonosítja a virtuális környezetben e-mail mellékletek megnyitása és az eredményezett viselkedés, elemzése. A tartalom összehasonlítja a szándékáról (normál vagy rosszindulatú) történik, és az ATP blokkolja a nem biztonságos mellékletek, szállítási, adatlopás és ransomware fertőzések elleni védelme. Melléklet védelem aktiválása, lásd: [Office 365 ATP biztonságos mellékletek házirendek beállítása](https://support.office.com/article/078eb946-819a-4e13-8673-fe0c0ad3a775).
-    
-- A környezet védelmére a kártékony hivatkozásokra kattintáskor: ATP hivatkozások e-mailben is vizsgálja, amikor a felhasználó rájuk kattint. Ha a kapcsolat nem biztonságos, a felhasználó figyelmeztetést arról, hogy nem a webhelyen vagy tájékoztatták, hogy a hely le van tiltva. Ez segít az adatlopás elleni védelem. [Office 365 ATP biztonságos csatolások házirendek beállítása](https://support.office.com/article/bdd5372d-775e-4442-9c1b-609627b94b5d#reveddefaultscc) vagy az [Office 365 ATP biztonságos csatolások házirendek beállítása](https://support.office.com/article/bdd5372d-775e-4442-9c1b-609627b94b5d#addemailpolscc)is.
-    
-## <a name="set-up-dlp-features"></a>DLP szolgáltatások beállítása
-
-[Sablonból DLP házirend létrehozása](https://support.office.com/article/59414438-99f5-488b-975c-5023f2254369) ellen személyhez köthető adatot Gyűjtenek a házirend beállításával kapcsolatos példát talál. 
-  
-DLP számos kész használható sablonok számos különböző nyelvhez tartalmaz. Például a pénzügyi adatok Ausztrália, Kanada személyes információ törvény, amerikai pénzügyi adatok, stb. Teljes listájához lásd a [Mi a DLP sablonokat tartalmazza](https://support.office.com/article/c2e588d3-8f4f-4937-a286-8c399f28953a) . Az összes ezeket a sablonokat lehet engedélyezni a Gyűjtenek sablon példára hasonlít. 
-  
-## <a name="set-up-email-retention-with-exchange-online-archiving"></a>E-mail adatmegőrzési az Exchange Online archiválás beállítása
-
- **Exchange Online archiválás** licencéhez tartozó szolgáltatások lehetőséget kínálunk fenntartása érdekében megfelelőségi és szabályozási előírások által e-mail megőrzése mellett tartalom elektronikus adatok feltárása céljából. Is csökkentheti a peres eljárás esetében a kockázat, és lehetővé teszi a biztonság megsértése vagy törölt elemek kell helyreállítani az adatokat. Ezek a funkciók aktiválásához per tartsa használja az összes felhasználói tartalom megőrzése érdekében, vagy adatmegőrzési szabályok használata nagyobb testreszabási. 
-  
-**Per tartás:** Minden postaláda-tartalom helyezi a felhasználó teljes postaláda peres eljárás beleértve törölt elemek tárolására képes megőrizni. 
-    
-Helyezze egy postaláda peres eljárás felfüggesztése a felügyeleti központ:
-    
-1. A bal oldali navigációs sáv, keresse meg **a felhasználók** \> **aktív felhasználók**.
-    
-2. Jelöljön ki egy felhasználót, akinek el szeretné helyezni a per postaláda tartsa és a felhasználó ablaktáblában bontsa ki a **levelezési beállításokat** , és **További beállítások** mellett válassza a **Tulajdonságok szerkesztése Exchange**.
-    
-3. A felhasználó postaláda lapon válassza ki ** postaláda szolgáltatások ** kattintson a bal oldali navigációs sáv, és válassza ki a **per tartsa** **engedélyezése** hivatkozásra.
-    
-4. **Per tartsa** párbeszédpanelen megadhatja, hogy a per tartás időtartama a **per tartás időtartama** mezőben, a mezőt hagyja üresen, ha el szeretné helyezni egy végtelen tartsa. Is megjegyzéseket és közvetlen mail lista tulajdonosa egy webhelyre, előfordulhat, hogy tartsa a per bővebben magyarázatot kell \> **mentése**.
-    
-**Retenciós:** Egyéni adatmegőrzési szabályok, például engedélyezheti egy adott meghatározott ideig megőrizni és tartalom véglegesen törli a birtokon tartási időszak végén. További [adatmegőrzési szabályok – áttekintés](https://support.office.com/article/5e377752-700d-4870-9b6d-12bfc12d2423)című témakörben talál.
-## <a name="set-up-azure-information-protection-features"></a>Információvédelem Azure szolgáltatások beállítása
-
-Borzas információk védelme (AIP) egy felhőalapú megoldás, amely segít a szervezet besorolására, és szükség esetén a dokumentumok és e-mailek védelmét címkék alkalmazásával. Címkék szabályokkal és feltételekkel, kézi úton felhasználók vagy ahol a felhasználók kapnak ajánlások kombinációja határozza meg rendszergazdák által automatikusan alkalmazhatók.
-
-Képes a következő korlátozások alkalmazása az interneten az Outlook e-mailek küldésekor automatikusan engedélyezve van az összes felhasználó számára:
-  
-- **Nem továbbítandó**: címzettek is olvashassák az üzenetet, de nem továbbíthatják, nyomtatás, másolhatják a tartalmat
-    
-- **Titkosítás**: A teljes üzenet titkosítva van. Címzettek személyazonosságuk titkosított tartalom elérése előtt további lépéseket kell tennie, és nem távolítható el a titkosítást.
-    
-- **Bizalmas**: a szervezet alkalmazottainak teljes engedélyt ad az e-mail tartalom és mellékletek, de nem a szervezeten kívülieknek. Adatok tulajdonosai nyomon követheti és tartalmat bármikor visszavonhatja.
-    
-- **Nagyon bizalmas**: Ez a korlátozás nagyon bizalmas adatok, amely lehetővé teszi az alkalmazottak megtekintése, szerkesztése, és válaszolni, de nem továbbítása, nyomtatása vagy másolja az adatokat lehet alkalmazni. Adatok tulajdonosai nyomon követheti és tartalmat bármikor visszavonhatja.
-
-### <a name="make-sure-azure-information-protection-is-activated"></a>Ellenőrizze, hogy aktív Azure információk védelméről
-
-Ellenőrizze, hogy aktiválva van-e az AIP:
-
-1. [Borzas portal](https://portal.azure.com/)bejelentkezni.
-
-2. Jelölje be a **minden szolgáltatás** és típus *Azure információk védelméről* a **Keresés mezőbe**.
-
-3. Után az eredmények megjelenítéséhez kattintson a következő teszi a kedvenc **Azure információk védelméről** és könnyen megjegyezhető kezdete.
-
-4. Válassza ki az **Azure információk védelméről** \> **védelem aktiválás** , és győződjön meg arról, hogy ez a beállítás, aktivált. 
-
-### <a name="view-the-azure-information-protection-policy-and-default-labels"></a>Az információk védelméről Azure házirendet és az alapértelmezett címkék megjelenítése 
-
-Megtekintése és módosítása, hogy a meglévő címkék:
-
-1. Válassza az Azure információvédelem irányítópult **osztályozások** \> **címkék**. <br/>![Szabványos címkék Azure információ védelme.](media/AIPLabels.png)
-
-2. Megadhatja, hogy minden címke beállításainak megtekintéséhez, megváltoztathatja a megjelenítési név, szín, stb.
- 
-3. Lásd: [Módosítás, és hozzon létre új címkéket](https://docs.microsoft.com/azure/information-protection/infoprotect-tutorial-step2) Ha szeretne létrehozni a saját. 
-
-### <a name="install-the-azure-information-protection-client-manually"></a>Az információk védelméről Azure ügyfél telepítése manuálisan
-
-Az AIP ügyfél manuális telepítéséhez:
-
-1. **AzInfoProtection.exe** letölthető [a Microsoft letöltőközpontból](https://www.microsoft.com/download/details.aspx?id=53018).
- 
-2. Ellenőrizheti, hogy a telepítés egy Word dokumentum megtekintése, és ügyelve arra, hogy a **védelem** beállítás érhető el a **Kezdőlap** lap dolgozott. <br/>![Védelem lapon legördülő Word dokumentumban.](media/Word_Protect.png)
-
-További információt [az ügyfél telepítése](https://docs.microsoft.com/azure/information-protection/infoprotect-tutorial-step3)
-
-## <a name="go-to-intune-admin-center"></a>Ugrás az Intune admin center
-
-1. [Borzas portal](https://portal.azure.com/)bejelentkezni.
-
-2. Válassza ki **az összes szolgáltatás** és típus *Intune* a **Keresés mezőbe**.
-
-3. Után az eredmények megjelenítéséhez kattintson a start **Microsoft Intune** teszi a kedvenc tovább és könnyen megjegyezhető.
- 
-Intune segítségével igényelhetnek, és a szervezet eszközök kezelése. További tudnivalókért lásd: [Windows eszközök tanúsítványigénylési módszer lehetőségeit](https://docs.microsoft.com/intune/enrollment-method-capabs) és a [beiktatási beállítások Intune által kezelt eszközök](https://docs.microsoft.com/intune/enrollment-options).
     
 ## <a name="faq"></a>GYIK
 

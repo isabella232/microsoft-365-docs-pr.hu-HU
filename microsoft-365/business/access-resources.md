@@ -17,12 +17,12 @@ search.appverid:
 - MET150
 ms.assetid: b0f4d010-9fd1-44d0-9d20-fabad2cdbab5
 description: Útmutató helyi erőforrásokhoz való hozzáférés, mint a sorban az üzleti alkalmazások, fájlmegosztásokat és Azure Active Directoryból nyomtatókat csatlakozott Windows 10 eszköz.
-ms.openlocfilehash: 212685bc229f519152e69b09d0a745bfac7a38cd
-ms.sourcegitcommit: 81273a9df49647286235b187fa2213c5ec7e8b62
+ms.openlocfilehash: 2be8eb16b9d17547d3bc4c3e4fe499b4c14117a4
+ms.sourcegitcommit: db1dfb2df2c2f7beced3b57bc772d106c189e88a
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32276881"
+ms.lasthandoff: 05/07/2019
+ms.locfileid: "33660269"
 ---
 # <a name="access-on-premises-resources-from-an-azure-ad-joined-device-in-microsoft-365-business"></a>Hozzáférés a helyi erőforrások egy Azure AD csatlakozott eszközről a Microsoft 365 Business
 
@@ -47,11 +47,9 @@ Ha a szervezet nem telepíthető az Azure AD csatlakozott a következő eszközk
 Ha egy Windows-eszköz, amely előzőleg a tartományhoz való csatlakozás Azure AD vagy munkacsoportban kell vegye figyelembe a következő korlátozásokat:
   
 - Ha Azure AD az eszköz csatlakozik, nem hivatkozik egy létező profilt hoz új felhasználó. A javításhoz profilokat kell manuálisan kell áttelepíteni. A felhasználói profil tartalmaz információkat, például a Kedvencek, helyi fájlok, a böngésző beállításait, Start menü Beállítások, stb. A legjobb megközelítés, hogy megtalálja a meglévő fájlokat és beállításokat az új profil hozzárendelése egy külső fejlesztésű eszköz
-    
-- Ha az eszköz csoport csoportházirend-objektumok (GPO) használ, egyes csoportházirend-objektumok nem lehet az összehasonlítható [Konfigurációs szolgáltató](https://docs.microsoft.com/windows/configuration/provisioning-packages/how-it-pros-can-use-configuration-service-providers) (CSP) Intune. Futtassa a [MMAT eszközt](https://www.microsoft.com/download/details.aspx?id=45520) összehasonlítható CSP meglévő csoportházirend-objektumok kereséséhez. 
-    
-- A felhasználók nem tudják hitelesíteni az Active Directory hitelesítési függő alkalmazások. Ez egy régebbi alkalmazás segítségével értékeli és fontolja meg egy modern Auth lehetőleg használó alkalmazás frissítése.
-    
-- Az Active Directory nyomtató felderítése nem fog működni. A javításhoz közvetlen nyomtatók elérési útját adja meg az összes felhasználó számára, vagy [Hibrid felhő nyomtatási](https://docs.microsoft.com/windows-server/administration/hybrid-cloud-print/hybrid-cloud-print-deploy)emelés.
-    
 
+- Ha az eszköz csoport csoportházirend-objektumok (GPO) használ, egyes csoportházirend-objektumok nem lehet az összehasonlítható [Konfigurációs szolgáltató](https://docs.microsoft.com/windows/configuration/provisioning-packages/how-it-pros-can-use-configuration-service-providers) (CSP) Intune. Futtassa a [MMAT eszközt](https://www.microsoft.com/download/details.aspx?id=45520) összehasonlítható CSP meglévő csoportházirend-objektumok kereséséhez.
+
+- A felhasználók nem tudják hitelesíteni az Active Directory hitelesítési függő alkalmazások. Ez egy régebbi alkalmazás segítségével értékeli és fontolja meg egy modern Auth lehetőleg használó alkalmazás frissítése.
+
+- Az Active Directory nyomtató felderítése nem fog működni. A javításhoz közvetlen nyomtatók elérési útját adja meg az összes felhasználó számára, vagy [Hibrid felhő nyomtatási](https://docs.microsoft.com/windows-server/administration/hybrid-cloud-print/hybrid-cloud-print-deploy)emelés.

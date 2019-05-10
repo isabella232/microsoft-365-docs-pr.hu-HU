@@ -1,8 +1,8 @@
 ---
 title: Gyakran feltett kérdések a Microsoft 365 Business 
 description: Keresse meg a legtöbb válaszok gyakran ismételt kérdések Microsoft 365 üzleti, egy új megoldás célja a kis- és közepes vállalkozások (SMB). 
-author: jasongroce
-ms.author: jasgro
+author: Sirkkuw
+ms.author: sirkkuw
 ms.topic: article 
 ms.prod: microsoft-365-business
 ms.collection: M365-subscription-management
@@ -10,12 +10,12 @@ localization_priority: Normal
 audience: microsoft-business 
 keywords: Microsoft 365 Business, Microsoft 365, SMB, GYIK, gyakori kérdések, válaszok, üzleti
 ms.date: 06/08/2018
-ms.openlocfilehash: bdcfd6a78278aff83b3fc21ae0fbb43bce140a16
-ms.sourcegitcommit: 1034f54472de62897f2e8f12459db8043ac8443b
+ms.openlocfilehash: 9757abb98f4f1c2612f20c75fffd5da10bbbc381
+ms.sourcegitcommit: b05aa01a72c3bc257a9f3b06a7779d88a89758c6
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/30/2019
-ms.locfileid: "33497752"
+ms.lasthandoff: 05/07/2019
+ms.locfileid: "33657207"
 ---
 # <a name="microsoft-365-business-frequently-asked-questions"></a>Gyakran feltett kérdések a Microsoft 365 Business
 

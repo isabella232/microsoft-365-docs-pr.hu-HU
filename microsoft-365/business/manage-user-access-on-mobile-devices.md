@@ -6,7 +6,7 @@ manager: scotv
 ms.audience: Admin
 ms.topic: conceptual
 f1_keywords:
-- 'O365E_BCSSetup4OfficeMobile '
+- O365E_BCSSetup4OfficeMobile
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection:
@@ -23,12 +23,12 @@ search.appverid:
 - MOE150
 ms.assetid: aa31319c-9196-48c9-a90b-4057e0494c7a
 description: Tudnivalók a védelmi politika, amely segít a mobil eszközök az Office alkalmazások biztonságos hozzáférést.
-ms.openlocfilehash: b77d30686b26f95de684238d1b9afd57550a7c7f
-ms.sourcegitcommit: 81273a9df49647286235b187fa2213c5ec7e8b62
+ms.openlocfilehash: b49ec33f4899a25f92ffd9d7a25d3e435016749e
+ms.sourcegitcommit: db1dfb2df2c2f7beced3b57bc772d106c189e88a
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32278609"
+ms.lasthandoff: 05/07/2019
+ms.locfileid: "33660334"
 ---
 # <a name="manage-how-users-access-office-documents-on-mobile-devices"></a>Office-dokumentumok felhasználói mobileszközökön történő elérésének felügyelete
 
@@ -45,6 +45,6 @@ Az alábbi beállítások használhatók a munkahelyi Office-fájlok elérésén
 |PIN-kód visszaállítása ennyi sikertelen bejelentkezési kísérlet után  <br/> |Annak érdekében, hogy ne lehessen a PIN-kódot véletlenszerű próbálkozásokkal megfejteni, az Ön által megadott számú téves próbálkozás után a PIN-kód alaphelyzetbe áll.  <br/> |
 |A felhasználónak ismét be kell jelentkeznie az Office-appok ennyi ideig tartó üresjárata után  <br/> |Ezzel a beállítással azt határozhatja meg, hogy a felhasználó mennyi ideig maradhat inaktív, mielőtt újra be kellene jelentkeznie.  <br/> |
 |Hozzáférés letiltása a munkahelyi fájlokhoz a feltört vagy rootolással feltört eszközökön  <br/> |A hozzáértő felhasználók esetleg feltört vagy rootolással feltört eszközzel is rendelkezhetnek. Ez azt jelenti, hogy a felhasználó módosíthatja az operációs rendszert, ami viszont kártevők által sebezhetőbbé teheti az eszközt. Ha ez a beállítás **Be** állapotban van, az ilyen eszközök le lesznek tiltva.  <br/> |
-|A felhasználók másolhatnak tartalmakat az Office-appokból személyes appokba  <br/> |Ez alapértelmezés szerint engedélyezve van, de ha a beállítás **Be** állapotban van, a felhasználó munkahelyi fájlból személyes fájlba másolhat adatot. Ha a beállítás **Ki** állapotban van, akkor a felhasználó nem másolhat adatot munkahelyi fájlból személyes alkalmazásba vagy személyes fiókba.  <br/> |
+|Nem teszik lehetővé a felhasználók számára az Office alkalmazások tartalmának másolása a személyes apps  <br/> |Ha a beállítás be **kapcsolva**, a felhasználó nem tudja másolni adatokat munkafájlt a személyes fájlok. Ha a beállítás ki **kapcsolva**, a felhasználó végett másolni lehet a munkafájlt személyes app vagy személyes fiókot.  <br/> |
    
 

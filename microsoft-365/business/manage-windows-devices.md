@@ -20,12 +20,12 @@ search.appverid:
 - MET150
 ms.assetid: 9b4de218-f1ad-41fa-a61b-e9e8ac0cf993
 description: Útmutató a Microsoft 365 védelmének engedélyezése helyi AD Windows 10 eszközök csatlakozott.
-ms.openlocfilehash: d61b3bf6be50d6b21e7b883774567bb63995e60e
-ms.sourcegitcommit: 81273a9df49647286235b187fa2213c5ec7e8b62
+ms.openlocfilehash: 661e5bf8205a661eb4382b4bdd8fcf3a54ecc12f
+ms.sourcegitcommit: db1dfb2df2c2f7beced3b57bc772d106c189e88a
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32278077"
+ms.lasthandoff: 05/07/2019
+ms.locfileid: "33660309"
 ---
 # <a name="enable-domain-joined-windows-10-devices-to-be-managed-by-microsoft-365-business"></a>A tartományhoz csatlakoztatott Windows 10-es eszközök kezelésének engedélyezése a Microsoft 365 Vállalati verzió számára
 
@@ -33,7 +33,7 @@ Ha a szervezet használja a Windows Server Active Directory helyszíni, állíth
   
 ## <a name="set-up-domain-joined-devices-to-be-managed-by-microsoft-365-business"></a>Microsoft 365 üzleti által kezelt tartományhoz csatlakoztatott eszközök beállítása
 
-Tartományhoz csatlakoztatott eszközök a szervezet beállítása a Azure Active Directory mellett helyszíni Active Directory nyújtotta lehetőségeket élvezhessék, megvalósítható **hibrid Azure AD eszközöket csatlakozott**. Ezek olyan eszközök, amelyek mind a helyszíni Active Directory és az Azure Active Directory tartományhoz. Hibrid csatlakozott Azure AD eszközöket védett, és kezeli a Microsoft 365 Business... 
+Tartományhoz csatlakoztatott eszközök a szervezet beállítása a Azure Active Directory mellett helyszíni Active Directory nyújtotta lehetőségeket élvezhessék, megvalósítható **hibrid Azure AD eszközöket csatlakozott**. Ezek olyan eszközök, amelyek mind a helyszíni Active Directory és az Azure Active Directory tartományhoz. Hibrid csatlakozott Azure AD eszközöket védett, és kezeli a Microsoft 365 Business. 
   
 Hajtsa végre az alábbi lépéseket a Windows 10 eszközök hibrid Azure AD a tartományhoz, és kezeli a Microsoft 365 Business.
   
@@ -43,15 +43,13 @@ Hajtsa végre az alábbi lépéseket a Windows 10 eszközök hibrid Azure AD a t
     > A lépések azonosak, pontosan 365 üzleti Microsoft. 
   
 2. 3. lépést ahhoz, hogy Windows 10 eszközök hibrid Azure AD a tartományhoz kell, meg kell győződjön meg arról, hogy teljesülnek a következő előfeltételek:
-    
+
    - Borzas AD a legújabb verzióját futtatja csatlakozni.
-    
+
    - Borzas AD csatlakozás van szinkronizálva legyen hibrid Azure AD csatlakozott az eszközök számítógép-objektumok. Ha a számítógép-objektumok adott szervezeti egység (OU) tartozó, majd állítsuk a szervezeti egységek az Azure Active Directory szinkronizálási kapcsolatot, valamint.
     
 3. Meglévő tartományhoz tartozó Windows 10 eszközök Azure AD Joined hibrid és Intune (Microsoft 365 Business) mobil eszköz kezelésére őket igényelni regisztrálása:
     
 4. [Hibrid Azure Active Directory tartományhoz eszközök konfigurálása](https://go.microsoft.com/fwlink/p/?linkid=872870)lépésről lépésre kövesse. Ez lehetővé teszi a helyi Active Directory szinkronizálása Windows 10 számítógépek tartományhoz, és azokat a felhő kész.
     
-5. Annak érdekében, hogy egy mobil eszköz kezelése Windows 10 eszköz igényléséhez utasításokat [igényelni egy Intune a csoportházirend segítségével Windows 10 eszközt](https://go.microsoft.com/fwlink/p/?linkid=872871) talál. Beállíthatja a csoportházirend egy olyan helyi számítógép szinten, vagy a tömeges műveletek esetében a tartomány vezérlő-kiszolgálón hozhat létre a csoportházirend-beállítás. 
-    
-
+5. Annak érdekében, hogy egy mobil eszköz kezelése Windows 10 eszköz igényléséhez utasításokat [igényelni egy Intune a csoportházirend segítségével Windows 10 eszközt](https://go.microsoft.com/fwlink/p/?linkid=872871) talál. Beállíthatja a csoportházirend egy olyan helyi számítógép szinten, vagy a tömeges műveletek esetében a tartomány vezérlő-kiszolgálón hozhat létre a csoportházirend-beállítás.
