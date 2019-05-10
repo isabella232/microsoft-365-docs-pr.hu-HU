@@ -20,12 +20,12 @@ search.appverid:
 - MET150
 ms.assetid: 96153102-1db1-4df8-bca5-38cea80b65ce
 description: Útmutató az új felhasználók hozzáadása, a berendezések biztonságos és Microsoft 365 üzleti szerepkörök hozzárendelését hajthatja végre.
-ms.openlocfilehash: 2d0d4fcd2ebaaf1d73ef7a1b74e73dbfa943a6be
-ms.sourcegitcommit: db1dfb2df2c2f7beced3b57bc772d106c189e88a
+ms.openlocfilehash: e27e9e2b67e187bbca3c2f1b2c9d21196effa77f
+ms.sourcegitcommit: 0feaebc1c5ea2636b5c9fa96eef648a1e37635c1
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 05/07/2019
-ms.locfileid: "33660425"
+ms.lasthandoff: 05/09/2019
+ms.locfileid: "33864823"
 ---
 # <a name="add-additional-users-to-microsoft-365-business"></a>További felhasználók felvétele a Microsoft 365 Business verzióban
 
@@ -33,7 +33,7 @@ ms.locfileid: "33660425"
 
 1. Ugrás az admin center <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>. 
 2. **Felhasználók** kiválasztása a bal oldali navigációs sáv \> **aktív felhasználók**.
-1. Az **aktív felhasználók** lapján kattintson a **felhasználó hozzáadása**
+1. Az **aktív felhasználók** lapján kattintson a **felhasználó hozzáadása**.
  4. Az **Új felhasználó** panelen írja be a szükséges információkat. 
   
     Ezenkívül az **Elérhetőségi adatok** csoportban megadhatja az esetleges további információkat, a **Jelszó** csoportban kiválaszthatja a jelszó beállításának módját, a **Szerepkörök** csoportban pedig szerepköröket oszthat ki.
