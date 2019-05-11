@@ -1,4 +1,5 @@
-# [Első lépések](microsoft-365-business-overview.md)
+# [365 a Microsoft üzleti](index.md)
+## [Áttekintés](microsoft-365-business-overview.md)
 ## [365 a Microsoft üzleti beolvasása](sign-up.md)
 ## [Adatok védelmére vonatkozó előzetes követelmények](pre-requisites-for-data-protection.md)
 ## [Beállítás](set-up.md)
