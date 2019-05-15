@@ -1,7 +1,9 @@
-# [365 a Microsoft üzleti](index.md)
-## [Áttekintés](microsoft-365-business-overview.md)
+# 365 a Microsoft üzleti
+## [Microsoft 365](index.md)
+## [Mi az a Microsoft 365 Business?](microsoft-365-business-overview.md)
 ## [365 a Microsoft üzleti beolvasása](sign-up.md)
 ## [Adatok védelmére vonatkozó előzetes követelmények](pre-requisites-for-data-protection.md)
+## [Beállítása – áttekintés](set-up-overview.md)
 ## [Beállítás](set-up.md)
 ### [Professzionális alkotók frissítése Windows frissítés](upgrade-to-windows-pro-creators-update.md)
 ### [Mobil eszközök beállítása](set-up-mobile-devices.md)
@@ -14,8 +16,10 @@
 ## [Biztonságos](security-features.md)
 ### [Az üzleti biztonságos](/Office365/Admin/security-and-compliance/secure-your-business-data?toc=/microsoft-365/business/toc.json&bc=/microsoft-365/business/breadcrumb/toc.json)
 ### [Speciális biztonsági szolgáltatások beállítása](set-up-advanced-security.md)
-## [Kezelése](manage.md)
+## Felhasználók
 ### [Add users](add-users-m365b.md)
+### [Az alkalmazott eltávolítása](/Office365/Admin/add-users/remove-former-employee?toc=/microsoft-365/business/toc.json&bc=/microsoft-365/business/breadcrumb/toc.json)
+## Eszközök kezelése
 ### [Politikák és eszközök megtekintése és szerkesztése](view-policies-and-devices.md)
 ### [Vállalati adatok eltávolítása](remove-company-data.md)
 ### [Eszközök gyári beállításainak visszaállítása](reset-devices-to-factory-settings.md)
@@ -26,7 +30,12 @@
 #### [Windows 10 számítógép-beállítások érvényesítése](validate-settings-on-windows-10-pcs.md)
 ### [Adatvédelmi beállítások Windows 10 eszközök](protection-settings-for-windows-10-devices.md)
 ## [Áttelepítés a Microsoft 365 Vállalati verzióba](migrate-to-microsoft-365-business.md)
-## [Automata eszközök és a profil hozzáadása](add-autopilot-devices-and-profile.md)
+## Számlázás
+### [A számlán](/Office365/Admin/subscriptions-and-billing/view-your-bill-or-invoice?toc=/microsoft-365/business/toc.json&bc=/microsoft-365/business/breadcrumb/toc.json)
+### [Fizetés](/Office365/Admin/subscriptions-and-billing/pay-for-your-subscription?toc=/microsoft-365/business/toc.json&bc=/microsoft-365/business/breadcrumb/toc.json)
+### [Mégse](/Office365/Admin/subscriptions-and-billing/cancel-your-subscription?toc=/microsoft-365/business/toc.json&bc=/microsoft-365/business/breadcrumb/toc.json)
+## Automata
+### [Automata eszközök és a profil hozzáadása](add-autopilot-devices-and-profile.md)
 ### [AutoPilot-profilok létrehozása és szerkesztése](create-and-edit-autopilot-profiles.md)
 ### [AutoPilot-eszközök létrehozása és szerkesztése](create-and-edit-autopilot-devices.md)
 ### [Automata profil beállításai](autopilot-profile-settings.md)
