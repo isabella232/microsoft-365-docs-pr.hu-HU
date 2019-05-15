@@ -2,8 +2,8 @@
 layout: HubPage
 hide_bc: true
 ms.topic: hub-page
-ms.author: robmazz
-author: robmazz
+ms.author: sirkkuw
+author: sirkkuw
 keywords: Microsoft 365 Business, Microsoft 365, üzleti, SMB, kis, közepes üzleti, Microsoft 365 üzleti dokumentáció, dokumentumok, dokumentációs, műszaki információk
 localization_priority: Normal
 audience: microsoft-business
@@ -11,12 +11,12 @@ ms.prod: microsoft-365-business
 ms.collection: M365-subscription-management
 title: Microsoft 365 üzleti erőforrások
 description: 'Útmutató: tervezése, telepítése és használhatók a Microsoft Office 365, a Windows 10, és a vállalati mobilitási + biztonsági együtt a vállalat integrált, biztonságos infrastruktúra, amely lehetővé teszi a csapatmunkát, és feloldja a kreativitást.'
-ms.openlocfilehash: 3c5cc341734896cb9a42565c8647f3f5ac37fc5b
-ms.sourcegitcommit: db1dfb2df2c2f7beced3b57bc772d106c189e88a
+ms.openlocfilehash: 1a2ce52c9132a63ef6535e287dc2e37421984b61
+ms.sourcegitcommit: f420a5cdedf3ec2babc6d8ad7e7c79da0b08e115
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 05/07/2019
-ms.locfileid: "33660291"
+ms.lasthandoff: 05/13/2019
+ms.locfileid: "33966958"
 ---
 <div id="main" class="v2">
     <div class="container">
@@ -61,7 +61,7 @@ ms.locfileid: "33660291"
                                             </div>
                                             <div class="cardText">
                                                 <h3>Beállítás</h3>
-                                              <P><a href="get-microsoft-365-business.md" target="_blank">365 a Microsoft üzleti beolvasása</a></p>
+                                              <P><a href="sign-up.md" target="_blank">365 a Microsoft üzleti beolvasása</a></p>
                                                <P><a href="set-up.md" target="_blank">Microsoft 365 üzleti beállítása</a></p>
                                                 <P><a href="set-up-windows-devices.md" target="_blank">Windows 10 eszközök beállítása</a></p>
                                                 <P><a href="set-up-mobile-devices.md" target="_blank">IPhone és Android-eszköz beállítása</a></p>
