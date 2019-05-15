@@ -3,8 +3,9 @@
 ## [Mi az a Microsoft 365 Business?](microsoft-365-business-overview.md)
 ## [365 a Microsoft üzleti beolvasása](sign-up.md)
 ## [Adatok védelmére vonatkozó előzetes követelmények](pre-requisites-for-data-protection.md)
-## [Beállítása – áttekintés](set-up-overview.md)
-## [Beállítás](set-up.md)
+## Telepítő
+### [A telepítő áttekintése](set-up-overview.md)
+### [Microsoft 365 üzleti beállítása](set-up.md)
 ### [Professzionális alkotók frissítése Windows frissítés](upgrade-to-windows-pro-creators-update.md)
 ### [Mobil eszközök beállítása](set-up-mobile-devices.md)
 ### [A Windows-eszközök beállítása](set-up-windows-devices.md)
