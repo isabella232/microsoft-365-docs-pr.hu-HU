@@ -3,7 +3,7 @@ title: Windows 10-es eszközök védelme
 ms.author: sirkkuw
 author: sirkkuw
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: conceptual
 f1_keywords:
 - O365E_BCSSetup4WindowsConfig
@@ -22,12 +22,12 @@ search.appverid:
 - MOE150
 ms.assetid: 21e5551f-fa35-4f13-9418-f80d668b6a2b
 description: 'Tudnivalók az alapértelmezett és az egyéb beállítások megadása Windows 10 eszközök biztonságos. '
-ms.openlocfilehash: 6f06936c2075710210ad9e29ee92905b3b49917a
-ms.sourcegitcommit: 81273a9df49647286235b187fa2213c5ec7e8b62
+ms.openlocfilehash: b56aac0c760aa0e57d48683b5f1726c9add16d20
+ms.sourcegitcommit: 66bb5af851947078872a4d31d3246e69f7dd42bb
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32278057"
+ms.lasthandoff: 05/15/2019
+ms.locfileid: "34074420"
 ---
 # <a name="secure-windows-10-devices"></a>Windows 10-es eszközök védelme
 

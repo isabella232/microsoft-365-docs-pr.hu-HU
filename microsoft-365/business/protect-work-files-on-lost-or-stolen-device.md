@@ -3,7 +3,7 @@ title: Munkahelyi fájlok védelme elveszett vagy ellopott eszközön
 ms.author: sirkkuw
 author: sirkkuw
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: conceptual
 f1_keywords:
 - O365E_BCSSetup4StolenDevice
@@ -22,12 +22,12 @@ search.appverid:
 - MOE150
 ms.assetid: c12164c7-6190-4294-b88a-590580c9869a
 description: 'További tudnivalók: megvédi a Munkafájlok, ha elvész vagy ellopják az eszköz a felhasználó számára elérhető beállítások.'
-ms.openlocfilehash: 1256f54b2ff626ea7b85d91020e355c8b611a8c0
-ms.sourcegitcommit: 81273a9df49647286235b187fa2213c5ec7e8b62
+ms.openlocfilehash: 505b85dabfdd27a9da8b7bcfdf7741dbb22b0ba3
+ms.sourcegitcommit: 66bb5af851947078872a4d31d3246e69f7dd42bb
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32285350"
+ms.lasthandoff: 05/15/2019
+ms.locfileid: "34074450"
 ---
 # <a name="protect-work-files-when-a-mobile-device-is-lost-or-stolen"></a>Munkahelyi fájlok védelme elveszett vagy ellopott eszközön
 
