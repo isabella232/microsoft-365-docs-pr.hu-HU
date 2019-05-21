@@ -10,12 +10,12 @@ localization_priority: Normal
 audience: microsoft-business 
 keywords: Microsoft 365 Business, Microsoft 365, SMB, GYIK, gyakori kérdések, válaszok, üzleti
 ms.date: 06/08/2018
-ms.openlocfilehash: 9757abb98f4f1c2612f20c75fffd5da10bbbc381
-ms.sourcegitcommit: b05aa01a72c3bc257a9f3b06a7779d88a89758c6
+ms.openlocfilehash: 6ef500c9b0c9e83e77e46c1eaf7057e3e46cfe0d
+ms.sourcegitcommit: 5c6bbf6dd7020b462b56b644b5a0fcc0217d6a53
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 05/07/2019
-ms.locfileid: "33657207"
+ms.lasthandoff: 05/20/2019
+ms.locfileid: "34276223"
 ---
 # <a name="microsoft-365-business-frequently-asked-questions"></a>Gyakran feltett kérdések a Microsoft 365 Business
 
@@ -80,7 +80,7 @@ Sok alkalmazott inkább saját mobil telefonok vagy tabletta access személyi é
 Microsoft 365 üzleti vevők kínál egy egyszerű, de hatékony eszköze a munkavállalók munka közben az üzleti szolgáltató lehetővé teszi a személyes eszközök használatának megakadályozására az eszközök elérése, megőrzése, és/vagy üzleti adatok megosztása . Pontosabban: 
 * **Mobil Office alkalmazások App védelem** védi Office adatok, e-mail, naptár, Névjegyalbum és dokumentumok iOS és Android mobil eszközök, beleértve a politikák előírt idő elteltével automatikusan törlés, üzleti adatok érvényesítése nem kapcsolódik a szolgáltatást igénylő, hogy csak olyan OneDrive, üzleti információkat tárolja az igénylő a PIN-kód/ujjlenyomat ellenőrzés egy Office-alkalmazásból történő személyes apps átmásolását Office alkalmazások és megakadályozó vállalati adatok eléréséhez. Mobil alkalmazások kezelése Intune keresztül egyéb mobil alkalmazások számára is Microsoft 365 üzleti előfizetők számára rendelkezésre áll. 
   
-* **Eszköz kezelő Windows 10 PCs** aallows vállalkozások kiválasztása és lehetőségek, például a Windows Defender védelem malware, az automatikus frissítések és a képernyő kikapcsolása előírt idő elteltével érvényesítése. Ezenkívül az elveszett vagy ellopott Windows 10 eszközök is teljesen így üzleti alkalmazások és adatok keresztül az Admin center. 
+* **Eszköz kezelő Windows 10 PCs** lehetővé teszi, hogy a választható lehetőségek, például a Windows Defender védelem malware, az automatikus frissítések és a képernyő kikapcsolása előírt idő elteltével érvényesítése és vállalkozások. Ezenkívül az elveszett vagy ellopott Windows 10 eszközök is teljesen így üzleti alkalmazások és adatok keresztül az Admin center. 
 
 * **Az eszközkezelésről iOS, Android & MacOS** szolgáltatások segítségével biztonságos kezeléséhez az iOS, Android, Windows és macOS eszközöket tartalmazó különböző ökoszisztémájában vállalkozások. 
 
