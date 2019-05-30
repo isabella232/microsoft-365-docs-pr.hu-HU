@@ -7,17 +7,18 @@
 ### [A telepítő áttekintése](set-up-overview.md)
 ### [Microsoft 365 üzleti beállítása](set-up.md)
 ### [Professzionális alkotók frissítése Windows frissítés](upgrade-to-windows-pro-creators-update.md)
-### [Mobil eszközök beállítása](set-up-mobile-devices.md)
-### [A Windows-eszközök beállítása](set-up-windows-devices.md)
 ### [Office ügyfél-telepítési előkészítése](prepare-for-office-client-deployment.md)
 ### [Automatikus telepítése vagy eltávolítása az Office](auto-install-or-uninstall-office.md)
 ### [Helyi erőforrások eléréséhez.]()
 #### [Tartományhoz csatlakoztatott Windows 10 eszközök kezelését engedélyezése](manage-windows-devices.md)
 #### [Erőforrások eléréséhez Azure AD csatlakozott eszközről](access-resources.md)
+## Felhasználó eszköz beállítása
+### [Mobil eszközök beállítása](set-up-mobile-devices.md)
+### [A Windows-eszközök beállítása](set-up-windows-devices.md)
 ## [Biztonságos](security-features.md)
 ### [Az üzleti biztonságos](/Office365/Admin/security-and-compliance/secure-your-business-data?toc=/microsoft-365/business/toc.json&bc=/microsoft-365/business/breadcrumb/toc.json)
 ### [Speciális biztonsági szolgáltatások beállítása](set-up-advanced-security.md)
-## Felhasználók
+## Felhasználók kezelése
 ### [Add users](add-users-m365b.md)
 ### [Az alkalmazott eltávolítása](/Office365/Admin/add-users/remove-former-employee?toc=/microsoft-365/business/toc.json&bc=/microsoft-365/business/breadcrumb/toc.json)
 ## Eszközök kezelése
