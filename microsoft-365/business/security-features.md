@@ -1,5 +1,5 @@
 ---
-title: Microsoft 365 üzleti biztonsági szolgáltatások
+title: Microsoft 365 üzleti biztonsági és megfelelési szolgáltatások
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
@@ -19,14 +19,14 @@ search.appverid:
 - MET150
 ms.assetid: c123694a-1efb-459e-a8d5-2187975373dc
 description: 'További tudnivalók: Microsoft 365 üzleti biztonsági szolgáltatásairól.'
-ms.openlocfilehash: 6ce69f387461edc0eea6c705f15a9083547698ff
-ms.sourcegitcommit: 66bb5af851947078872a4d31d3246e69f7dd42bb
+ms.openlocfilehash: 54bac38ca3a60f88f848ec3ab8bdd8a7c0fabd54
+ms.sourcegitcommit: ab04fea2765a63489d70b506f0e14303a5be16a0
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 05/15/2019
-ms.locfileid: "34074530"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34780779"
 ---
-# <a name="microsoft-365-business-security-features"></a>Microsoft 365 üzleti biztonsági szolgáltatások
+# <a name="microsoft-365-business-security-and-compliance-features"></a>Microsoft 365 üzleti biztonsági és megfelelési szolgáltatások
 
 Microsoft 365 üzleti kínál egyszerűsített biztonsági szolgáltatásai segítségével a védintézkedések az adatokat a személyi számítógépek, telefonok és tabletta.
     
@@ -36,7 +36,6 @@ Microsoft 365 üzleti kínál egyszerűsített biztonsági szolgáltatásai seg�
 
 A felügyeleti központ, amely lehetőséget nyújt a egyszerűsített, ezek a szolgáltatások be- és kikapcsolása a Microsoft 365 üzleti biztonsági szolgáltatások számos kezelheti. A felügyeleti központ a következőket teheti:
   
-![Screenshot of the Devices card in the admin center](media/9982e784-dbf9-4a76-a159-bb3e2e5aa23f.png)
   
 - [Alkalmazás beállítása Android vagy iOS eszközök](app-protection-settings-for-android-and-ios.md) . 
     
@@ -68,8 +67,19 @@ Microsoft 365 üzleti továbbfejlesztett szolgáltatások segítségével a vál
     
   - Kifinomult mellékletet ellenőrzési és vizsgálati AI táplált észleli és veszélyes üzenetek.
     
-  - Automatikus ellenőrzi a webes hivatkozások e-mailben, hogy ha egy adathalász rendszer részét képezik. Ez tartja meg a biztonságos, nem biztonságos webhelyek hozzáférjenek.
+  - Automatikus ellenőrzésének hivatkozások e-mailben, hogy ha egy adathalász rendszer részét képezik. Ez tartja meg a biztonságos, nem biztonságos webhelyek hozzáférjenek.
+
+- **[Intune teljes képességeit a Azure portálon](https://go.microsoft.com/fwlink/p/?linkid=871403)**
     
+    Az Azure portálon felügyeleti központ segítségével állítsa be a kiegészítő biztonsági jellemzők, mint a kezelés MacOS eszközök, iPhone és Android-eszköz speciális Eszközkezelés Windows, valamint a Intune elérése, amelyek nem érhetők el Microsoft Üzleti 365 felügyeleti központ.
+- **Megegyező [Feltételes hozzáférést](https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/overview) AD a P1 Azure terv**
+
+    Feltételes hozzáférésű segít megvédeni a szervezet a bejelentkezési kockázat, hozzáférési kísérletek nem várt hálózati vagy területi, hozzáférések kockázatos eszköztípusok képernyő, és így tovább. Házirendek akkor lépnek érvénybe, miután az első hitelesítés befejeződött, és az első eseménytől hitelesítési jelek segítségével határozza meg, ha a kísérlet hozzáférés jóvá kell hagyni, a feltételes hozzáférésű megtagadja, vagy további bizonyítékot (például a második űrlap azonosító) f szükséges.
+    
+## <a name="compliance-features"></a>E szolgáltatások
+
+A Microsoft-365 előfizetés tartalmaz üzleti szolgáltatások megmaradjanak a megfelelőségi és szabályozási előírások, amelyek segítenek.
+
 - **[Adatok elvesztésének megelőzésére irányuló politikák áttekintése](https://support.office.com/article/1966b2a7-d1e2-4d92-ab61-42efbb137f5e)** (DLP). 
     
     DLP automatikusan felismeri a bizalmas adatok, például hitelkártyaszámok, társadalombiztosítási számok, stb, hogy megakadályozzák a véletlen állíthatja a vállalaton kívüli megosztása.
@@ -80,13 +90,9 @@ Microsoft 365 üzleti továbbfejlesztett szolgáltatások segítségével a vál
     
 - **[Borzas információk védelméről](https://go.microsoft.com/fwlink/p/?linkid=871406)**
     
-    "Információ védelem meghatározásában, hogy az e-mailek és dokumentumok bizalmas információkhoz való hozzáférés vezérlőkkel, mint nem előre", "Lemásolni tilos." "Bizalmas" érzékeny információk besorolásához és adja meg, hogyan minősített információ megosztható kívül és belül üzleti is. Vállalati minőségű titkosítási is könnyen alkalmazása az e-mailek és dokumentumok tartani az adatokat. 365 üzleti Microsoft [Azure információ védelmi terv 1](https://go.microsoft.com/fwlink/p/?linkid=871407)összes szolgáltatását tartalmazza. Az Azure információvédelem ügyfél beépülő modul Office alkalmazásokhoz is telepíthet. További részletekért [Azure információvédelem ügyfél segítségét útmutatójában](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide)talál.
-    
-- **[Intune teljes képességeit a Azure portálon](https://go.microsoft.com/fwlink/p/?linkid=871403)**
-    
-    Az Azure portálon felügyeleti központ segítségével állítsa be a kiegészítő biztonsági jellemzők, mint a kezelés MacOS eszközök, iPhone és Android-eszköz speciális Eszközkezelés Windows, valamint a Intune elérése, amelyek nem érhetők el Microsoft Üzleti 365 felügyeleti központ.
-    
-A következő szakaszok ismertetik, hogyan kezelheti ezeket a szolgáltatásokat, a biztonsági &amp; Megfelelési központba és az Intune admin center. Idővel a Microsoft 365 üzleti felügyeleti központ bekerül az egyszerűsített szabályozza.
+    "Információ védelem meghatározásában, hogy az e-mailek és dokumentumok bizalmas információkhoz való hozzáférés vezérlőkkel, mint nem előre", "Lemásolni tilos." "Bizalmas" érzékeny információk besorolásához és adja meg, hogyan minősített információ megosztható kívül és belül üzleti is. Vállalati minőségű titkosítási is könnyen alkalmazása az e-mailek és dokumentumok tartani az adatokat. 365 üzleti Microsoft [Azure információ védelmi terv 1](https://go.microsoft.com/fwlink/p/?linkid=871407)összes szolgáltatását tartalmazza. Az Azure információvédelem ügyfél beépülő modul Office alkalmazásokhoz is telepíthet. További részletekért [Azure információvédelem ügyfél rendszergazdai útmutatójában](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide)talál.
+
+Ezek a biztonsági szolgáltatások segítségével kezelheti &amp; Megfelelési központba és az Intune admin center. Idővel a Microsoft 365 üzleti felügyeleti központ bekerül az egyszerűsített szabályozza.
   
     
 ## <a name="faq"></a>GYIK

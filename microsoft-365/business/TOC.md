@@ -15,9 +15,10 @@
 ## Felhasználó eszköz beállítása
 ### [Mobil eszközök beállítása](set-up-mobile-devices.md)
 ### [A Windows-eszközök beállítása](set-up-windows-devices.md)
-## [Biztonságos](security-features.md)
-### [Az üzleti biztonságos](/Office365/Admin/security-and-compliance/secure-your-business-data?toc=/microsoft-365/business/toc.json&bc=/microsoft-365/business/breadcrumb/toc.json)
-### [Speciális biztonsági szolgáltatások beállítása](set-up-advanced-security.md)
+## [Az üzleti biztonságos](security-features.md)
+### [Fenyegetés növelhető.](increase-threat-protection.md)
+### [A feltételes hozzáférésű használatába](set-up-conditional-access-policies.md)
+### [E szolgáltatások beállítása](set-up-compliance.md)
 ## Felhasználók kezelése
 ### [Add users](add-users-m365b.md)
 ### [Az alkalmazott eltávolítása](/Office365/Admin/add-users/remove-former-employee?toc=/microsoft-365/business/toc.json&bc=/microsoft-365/business/breadcrumb/toc.json)
