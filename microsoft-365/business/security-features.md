@@ -19,12 +19,12 @@ search.appverid:
 - MET150
 ms.assetid: c123694a-1efb-459e-a8d5-2187975373dc
 description: 'További tudnivalók: Microsoft 365 üzleti biztonsági szolgáltatásairól.'
-ms.openlocfilehash: 54bac38ca3a60f88f848ec3ab8bdd8a7c0fabd54
-ms.sourcegitcommit: ab04fea2765a63489d70b506f0e14303a5be16a0
+ms.openlocfilehash: bd61ad3bf1b34635a7b80f1c9ccf63fa98d31915
+ms.sourcegitcommit: 274af83139ad7da3aa33366c3323d533d95c7db4
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34780779"
+ms.lasthandoff: 06/17/2019
+ms.locfileid: "35017522"
 ---
 # <a name="microsoft-365-business-security-and-compliance-features"></a>Microsoft 365 üzleti biztonsági és megfelelési szolgáltatások
 
@@ -75,6 +75,19 @@ Microsoft 365 üzleti továbbfejlesztett szolgáltatások segítségével a vál
 - **Megegyező [Feltételes hozzáférést](https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/overview) AD a P1 Azure terv**
 
     Feltételes hozzáférésű segít megvédeni a szervezet a bejelentkezési kockázat, hozzáférési kísérletek nem várt hálózati vagy területi, hozzáférések kockázatos eszköztípusok képernyő, és így tovább. Házirendek akkor lépnek érvénybe, miután az első hitelesítés befejeződött, és az első eseménytől hitelesítési jelek segítségével határozza meg, ha a kísérlet hozzáférés jóvá kell hagyni, a feltételes hozzáférésű megtagadja, vagy további bizonyítékot (például a második űrlap azonosító) f szükséges.
+
+    A feltételes hozzáférésű szolgáltatásai a következők:
+
+    - A felhasználónév, a csoport és a szerepkör alapú hozzáférés
+    - Hozzáférés [az app alapján](https://docs.microsoft.com/azure/active-directory/conditional-access/app-based-conditional-access) 
+    - [Hozzáférési hely alapján](https://docs.microsoft.com/azure/active-directory/authentication/howto-registration-mfa-sspr-combined#conditional-access-policies-for-combined-registration);  csak a megbízható IP-tartományokat vagy az adott országok hozzáférés engedélyezése 
+    - MFA igényelnek hozzáférést
+    - [Régi típusú hitelesítést](https://docs.microsoft.com/azure/active-directory/conditional-access/block-legacy-authentication) használó alkalmazások elérésének blokkolása
+    - Szükséges apps tp használata [Intune app védelem](https://docs.microsoft.com/azure/active-directory/conditional-access/app-protection-based-conditional-access)
+    - Harmadik fél szolgáltatók, például DUO MFA például egyéni hitelesítést.
+   
+    Egyéb jellemzők:
+    - Hibrid Azure AD [az önkiszolgáló jelszó alaphelyzetbe állítása](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-customization)
     
 ## <a name="compliance-features"></a>E szolgáltatások
 
