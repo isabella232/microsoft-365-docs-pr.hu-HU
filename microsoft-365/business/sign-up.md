@@ -18,18 +18,24 @@ search.appverid:
 - BCS160
 - MET150
 description: Feliratkozás a Microsoft 365 üzleti és beszerzési útmutató.
-ms.openlocfilehash: ecbf316f63e11ed07dc775f6659f650112cc8cb4
-ms.sourcegitcommit: 274af83139ad7da3aa33366c3323d533d95c7db4
+ms.openlocfilehash: 0f92bf35d2a7898d530fd509d8d13c91f32ccab3
+ms.sourcegitcommit: 64a7511d8c5ef527673b4c05753e6bb52ce9ab86
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 06/17/2019
-ms.locfileid: "35086347"
+ms.lasthandoff: 06/20/2019
+ms.locfileid: "35114922"
 ---
 # <a name="sign-up-for-microsoft-365-business"></a>Feliratkozás a Microsoft 365 üzleti
 
 Ha a partner, lásd: [Microsoft 365 üzleti Microsoft Partner Center webhelyről](get-microsoft-365-business.md#get-microsoft-365-business-from-microsoft-partner-center).
 
-[Fedezze fel a Microsoft 365 üzleti előny](https://www.microsoft.com/microsoft-365/business#pmg-cmp-desktop) menjen, és válassza a **Buy Now** Microsoft 365 üzleti alatt.
+Microsoft 365 Business online megvásárlásához [Fedezze fel a Microsoft 365 üzleti előny](https://www.microsoft.com/microsoft-365/business#pmg-cmp-desktop) menjen, és válassza a **Buy Now** Microsoft 365 üzleti alatt.
+
+Keresztül modult head Microsoft 365 üzleti vásárolni és beállítási súgó [Microsoft Store](https://www.microsoft.com/en-us/store/locations/find-a-store?icid=en-us_UF_FAS) is.
+
+## <a name="complete-the-sign-up-steps"></a>A regisztráció lépései
+
+Miután megvásárolta a Microsoft 365 Business, kövesse az alábbi lépéseket.
 
 1. **Most ismerkedjen meg Üdvözöljük** lapján adja meg a szükséges adatokat. Megjegyzés:
  
@@ -43,7 +49,7 @@ Ha a partner, lásd: [Microsoft 365 üzleti Microsoft Partner Center webhelyről
     - **A vállalat**: a vállalat egyedi nevének megadása. Ez a vállalkozás webhelyét használja, ha több a név, és is után felvenni kívánt nevet a @ jel egy üzleti e-mail fogadásakor. Ez a név a tartomány neve. Például, ha a vállalat neve Contoso sífelszerelések, adja meg az ContosoSkis után a @ jelet.
     - **Válasszon ki egy tartományt**: Ha már rendelkezik a tartomány nevét, válassza ki a. onmicrosoft.com a legördülő menüből és célszerű e művelettel című állíthatja be. Ellenkező esetben akkor is könnyen a tartománynév az üzleti vásárolni. Ehhez jelölje ki a tartományt, akkor a legördülő menüből. Ha például a teljes e-mail címét lehet *Teresa@ContosoSkis.net*. Azt is lehetővé teszi azonnal tudni, ha rendelkezésre áll-e a tartomány nevét. Ha, a tartomány költségeinek adunk bekerülési értékét a Microsoft 365 üzleti előfizetés. Az új tartomány is állít fel, és kész használható Microsoft 365 Ha itt vásárol. Információ a tartományokról lásd a [Gyakran feltett kérdések a tartományok](https://docs.microsoft.com/office365/admin/setup/domains-faq).
     
-    ![Képernyőkép a felhasználó azonosító lap létrehozása.](media/signinuserid.png)
+        ![Képernyőkép a felhasználó azonosító lap létrehozása.](media/signinuserid.png)
 
 3. Töltse ki a többi mezőt, és válassza ki **a fiók létrehozása**.
 4. A **a .you is bizonyítja. Not.A.Robot.** lapon adjon meg egy telefonszámot, kódot vagy a szöveg vagy a hívás és select **me szöveg** vagy **hívja me**keresztül kap, majd írja be az ellenőrző kódot \> **Tovább**.
