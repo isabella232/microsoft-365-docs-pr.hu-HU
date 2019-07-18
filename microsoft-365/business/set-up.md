@@ -22,12 +22,12 @@ search.appverid:
 - MET150
 ms.assetid: 6e7a2dfd-8ec4-4eb7-8390-3ee103e5fece
 description: Útmutató a Microsoft 365 üzleti beállítása.
-ms.openlocfilehash: 42a35810531b6abd5b22e5fdbce2c0cfea57b8d7
-ms.sourcegitcommit: 66bb5af851947078872a4d31d3246e69f7dd42bb
+ms.openlocfilehash: ac9c8b828ff131a15bf057fa8bdc0bf56dd00987
+ms.sourcegitcommit: 75b97d1ff617bc4b1b0ef9135dfe6a8842ea1b52
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 05/15/2019
-ms.locfileid: "34074590"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35772567"
 ---
 # <a name="set-up-microsoft-365-business-in-the-setup-wizard"></a>A telepítővarázsló a Microsoft 365 üzleti beállítása
 
@@ -123,4 +123,4 @@ A házirendek beállítása varázsló automatikusan alkalmazni *Minden felhaszn
 Ha azt választotta, hogy automatikusan telepíti az Office-alkalmazások a telepítéskor ki, az apps telepíti a Windows 10 eszközök után a felhasználó bejelentkezett az Azure AD a munka hitelesítő adatokkal a Windows eszközök.
 Office telepítése mobil iOS vagy Android-eszköz, lásd: [állítsa be a mobil eszközök Microsoft 365 üzleti felhasználók számára](set-up-mobile-devices.md).
 
-Office külön-külön is telepíthető. Lásd: [PC vagy Mac Office telepítéséhez](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc471665) további útmutatást.
+Office külön-külön is telepíthető. Lásd: [PC vagy Mac Office telepítéséhez](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658) további útmutatást.
