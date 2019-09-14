@@ -1,5 +1,5 @@
 ---
-title: Át az Office 365 Business Premium Microsoft 365 Business
+title: Vándorol-hoz Mikroszkóp 365 teendő-ból Hivatal 365 teendő prémium
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
@@ -18,99 +18,99 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: 5b4ba843-24b8-4526-8e1f-f9b9eab89d06
-description: Útmutató a Microsoft 365 üzleti vállalkozása áthelyezése.
-ms.openlocfilehash: e4bb18904355663f9f26f58a3fd3aaf7420e5378
-ms.sourcegitcommit: 66bb5af851947078872a4d31d3246e69f7dd42bb
+description: Ismerje meg, hogyan helyezheti át vállalkozásáról a Microsoft 365 Business.
+ms.openlocfilehash: a3f77bd18b9b900151c50f923b705e4ff0150519
+ms.sourcegitcommit: 91ff1d4339f0f043c2b43997d87d84677c79e279
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 05/15/2019
-ms.locfileid: "34072740"
+ms.lasthandoff: 09/14/2019
+ms.locfileid: "36982441"
 ---
-# <a name="migrate-to-microsoft-365-business-from-office-365-business-premium"></a>Át az Office 365 Business Premium Microsoft 365 Business
+# <a name="migrate-to-microsoft-365-business-from-office-365-business-premium"></a>Vándorol-hoz Mikroszkóp 365 teendő-ból Hivatal 365 teendő prémium
 
-Ha már telepítette az Office 365 üzleti előfizetés, például az Office 365 Business Premium, akkor egyszerűen Microsoft 365 üzleti licencek hozzáadása, és hozzárendelését, vagy minden felhasználónak.
+Ha már van egy Office 365 az üzleti előfizetés, például az Office 365 Business Premium, könnyen hozzá licenceket a Microsoft 365 Business, és rendelje hozzá néhány, vagy az összes felhasználó.
   
 > [!NOTE]
-> Frissítsen a Microsoft 365 üzleti még a [tervek kapcsoló](https://support.office.com/article/73318661-8f33-478b-bcc7-fb8d69dbb22a?.aspx#switchbutton) gomb nem használható. 
+> Ön vidám ' használ a [kapcsol tervek](https://support.office.com/article/73318661-8f33-478b-bcc7-fb8d69dbb22a?.aspx#switchbutton) gomb-hoz feljavít-hoz Mikroszkóp 365 teendő még. 
   
 ## <a name="add-microsoft-365-business-licenses"></a>Microsoft 365 üzleti licencek hozzáadása
 
-Kétféle módon kaphat a Microsoft 365 Business van. Ha a partner, ő is vásárolhat Microsoft 365 üzleti meg [Microsoft Partner Center](get-microsoft-365-business.md)webhelyről. A partner abban, hogy a Microsoft 365 üzleti átmenet.
+Kétféleképpen juthat a Microsoft 365 Business-hez. Egy partner megvásárolhatja a Microsoft 365 Business programot a [Microsoft partner Center webhelyéről](get-microsoft-365-business.md). Az Ön partnere is segíthet átmenet a Microsoft 365 Business.
   
-Saját előfizetés kezeléséhez, akkor [forduljon értékesítési](https://www.microsoft.com/microsoft-365/business) Microsoft 365 üzleti licencek vásárlása. 
+Ha saját előfizetést kezel, az [értékesítéssel kapcsolatba lehet lépni](https://www.microsoft.com/microsoft-365/business) a Microsoft 365 üzleti licenceinek megvásárlásával. 
   
-Megtudhatja, hogyan indítható a munkát a partnerrel [hozzáadása, módosítása és előfizetési tanácsadó partner törlése](https://support.office.com/article/f86e8177-936e-491e-9024-44dea2b296ff) témakörben talál. 
+További információ az [előfizetési tanácsadó partner felvétele, módosítása vagy törlése](https://support.office.com/article/f86e8177-936e-491e-9024-44dea2b296ff) című témakörben található, hogy megtudja, hogyan kezdhet el dolgozni egy partnerrel. 
   
-Ha egy hivatkozás az engedélyek beszerzésére, végighaladhat azokon, hasonlóan az alábbi varázslót. Válassza az **Igen, adja hozzá a fiókhoz**. Az engedélyek számát és a fizetési mód is kiválaszthat.
+Ha Ön kapott egy láncszem-hoz megvásárol-a engedély, lesz séta átmenő egy varázsló szeret a egy alul. Válassza az **Igen, hozzáadom a fiókomban**lehetőséget. A licencek számát és a fizetés módját is felválogathat.
   
-![A Microsoft 365 közvetlen üzleti vásárolni a hivatkozásra, adja hozzá az aktuális számla, vagy egy új fiók regisztrálása.](media/8bc54fd1-9cab-44d5-af91-c471e89aea46.png)
+![A Microsoft 365 üzleti közvetlen vásárlás linken válassza ki az aktuális fiókhoz való hozzáadást, vagy regisztráljon egy új fiókra.](media/8bc54fd1-9cab-44d5-af91-c471e89aea46.png)
   
 ## <a name="assign-microsoft-365-licenses"></a>Microsoft 365 licencek hozzárendelése
 
-1. Új licenceket megvásárolta, és az első alkalommal indult meg, miután a telepítő transzparens Microsoft 365 üzleti az admin center tetején jelenik meg.
+1. Egyszer önnek van megvásárol új engedélyez, és ez a először Ön tett, a beállít zászló részére Mikroszkóp 365 teendő akarat bemutatás-ra tető-ból admin központ.
     
     > [!NOTE]
-    > A telepítő fejléc olyan új felhasználók hozzáadása, új tartományt, és telepítse át az új felhasználók e-mail lehetőséget. Nem tervezzük, hogy hajtsa végre, ha érdemes továbbra is hajtsa végre a varázsló lépéseit, és válassza ki az alapértelmezett beállításokat, hogy eltűnnek a felügyeleti kezdőlap. 
+    > A Setup banner egy lehetőség, hogy új felhasználók, új domain, és áttelepítheti az e-mail az új felhasználók számára. Ha nem tervez-hoz csinál akármi, Önnek kellene csendes keresztülmenni a varázsló és választ hiba választások-hoz csinál ez eltűnik-ból admin haza oldal. 
   
-   ![Állítsa be a szalagcím készen áll a telepítés indítása a Microsoft 365 üzleti kiválasztása](media/8d3b0d97-7cca-497f-9364-4b00ad670209.png)
+   ![Válassza ki a Start setup a Microsoft 365 Business készen áll arra, hogy hozzanak létre banner.](media/8d3b0d97-7cca-497f-9364-4b00ad670209.png)
   
-    Válassza ki **a telepítőt**.
+    Válassza a **Start Setup**-t.
     
-2. **A jel a személyre szabás és e-mail** lapon egy tartományt hozzáadna **már a saját tartományhoz csatlakozás** kiválasztásával, ha szeretné használni ezt a lehetőséget egy másik tartományt adja hozzá az előfizetéshez. 
+2. A **Bejelentkezés és az E-mail testreszabása** lapon a tartományt úgy adhatja hozzá, hogy a **már meglévő tartomány csatlakoztatása** lehetőséget választva egy másik tartományt is hozzáadhat az előfizetéshez. 
     
-    Ha már beállított egy tartomány, a második mező jelzi, hogy és **Folytatás segítségével** jelezni fogja \< _a tartomány neve_ \> **e-mail és a bejelentkezés során**.   Ha nem állított be, előfizetés-tartomány, azt jelezni fogja **Tovább segítségével** \< _a vállalat name.onmicrosoft.com_ \> **e-mailben és a bejelentkezés során**.  
+    Ha már beállított egy tartományt, a második mező azt fogja jelezni, hogy **továbbra is használja** \< _a tartománynevet_ \> az **e-mailhez és a bejelentkezéshez**.   Ha ön kikötő ' felállít egy birtok veled aláírás, ez akarat mond **folytatódik használ** \<- _a társaság Name.onmicrosoft.com_ \> **részére elektronikus levél és jel-ban**.  
     
     Válassza a **Tovább** gombot.
     
-    ![Személyre szabása a bejelentkezés és az e-mail lapon válassza a tartomány hozzáadása, vagy használja azt használta.](media/c3f5cfb2-1189-4d2f-803b-c9feb008a7a3.png)
+    ![A bejelentkezés és e-mail oldal testreszabása lapon válassza a tartomány hozzáadását vagy a használat során használandó tartománynevet.](media/c3f5cfb2-1189-4d2f-803b-c9feb008a7a3.png)
   
-3. Az **Új felhasználó hozzáadása** lapon adhat meg új felhasználóknak, ha rendelkezünk a Microsoft 365 üzleti licencek hozzárendelni kívánt új alkalmazottak. 
+3. Az **új felhasználók hozzáadása** lapon új felhasználókat vehet fel, ha olyan új alkalmazottakkal rendelkezik, akiknek hozzá szeretné rendelni a Microsoft 365 üzleti licenceket. 
     
-    Ha nincs új alkalmazottak felvétele és engedélyek hozzárendelése a meglévő felhasználókhoz szeretne, válassza a **következő**.
+    Ha nem rendelkezik új alkalmazottakkal, és engedélyeket kíván hozzárendelni a meglévő felhasználókhoz, akkor válassza a **Next (tovább**) gombra.
     
-4. A a ** e-mailek áttelepítése ** lapon lehetősége van arra, hogy bármelyik a 3. lépésben hozzáadta az új felhasználók e-mail áttelepítése. Is ezt a lépést kihagyhatja. Válassza a **Tovább** gombot.
+4. A * * az e-mail üzenetek áttelepítése * * oldalon kiválaszthatja, hogy vándorol elektronikus levél részére akármi-ból új felhasználók hozzáadott lépésben 3. Kihagyhatja ezt a lépést is. Válassza a **Tovább** gombot.
     
-5. Az utolsó oldalon válassza az **Ugrás az admin center**, és ott folytatja a telepítést.
+5. Az utolsó oldalon válassza **az Ugrás az admin Centerhez**parancsot, majd folytassa a telepítést.
     
-6. A felügyeleti központ **felhasználók** Ugrás \> **aktív felhasználók**.
+6. Az admin központban nyissa meg a **felhasználók** \> **aktív felhasználóit**.
     
-7. Jelölje ki a felhasználót, akihez hozzá kívánja rendelni a **Microsoft 365 üzleti** licencet, és válassza a **Szerkesztés** **Terméklicencek**mellett.
+7. Válassza ki azt a felhasználót, akihez a **Microsoft 365 üzleti** licencet hozzá kívánja rendelni, majd válassza a **terméklicencek**melletti **Szerkesztés** választ.
     
-    ![A felhasználói kártya terméklicencek melletti Szerkesztés gombra.](media/be0fe2d8-7ff8-447c-88f6-d212ed78451c.png)
+    ![A felhasználói kártyán válassza a terméklicencek mellett található Szerkesztés programot.](media/be0fe2d8-7ff8-447c-88f6-d212ed78451c.png)
   
-8. A **terméklicencek** dia **on** **Microsoft 365 üzleti** \> **mentése**, majd a **Bezárás**.
+8. A **terméklicencek** segítségével csúsztassa a **Microsoft 365 Business** **programot** \> **Mentés**, majd **Bezárás**gombra.
     
-Miután a kezdeti licencet vásárolt Microsoft 365 üzleti, most is hozzáadhat további a **Számlázási** \> **vásárlási szolgáltatások**. **Beszerzési szolgáltatások** lapon az ellipszisek a **Microsoft 365** Névjegy parancsára, majd válassza a beszerzési több **licenc mennyiségének módosítása** . 
+Egyszer önnek van megvásárol a kezdő engedély részére Mikroszkóp 365 teendő, tudod most is összead több-ban **turbékolás** \> **megvásárol szolgáltatás**. A **beszerzési szolgáltatások** lapon kattintson a **Microsoft 365 névjegykártya** ellipszisgombjára, és válassza a **licencmennyiség módosítása** pontot további vásárlásra. 
   
 ## <a name="protect-user-devices-and-files"></a>A felhasználói eszközök és fájlok védelme
 
-Miután a Microsoft 365 üzleti licencet rendelt, indítsa el a felhasználói eszközök és fájlok védelme.
+Miután rendelt licenceket a Microsoft 365 Business-hez, elkezdheti megvédeni a felhasználók eszközeit és fájljait.
   
-1. A felügyeleti központban a bal oldali navigációs sáv **eszközök** Ugrás \> **házirendek**.
+1. Az admin központban, a bal oldali NAV, megy **eszközök** \> **policies**.
     
-2. Az **eszköz házirendek** lapon **a Hozzáadás**gombra.
+2. Az **eszközházirendek** lapon kattintson a **Hozzáadás**elemre.
     
-3. A **házirend hozzáadása** ablakban adja meg a házirend nevét, és válasszon egy **házirend típusa** legördülő. 
+3. A **házirend hozzáadása** ablaktáblában adjon nevet a házirendnek, majd válassza ki a legördülő menüből a **házirendtípust** . 
     
-    Beállíthatja a használati szabályzatok Android és iPhone eszközök, valamint a Windows 10 fájlok védelmére, és beállíthatja a vállalat tulajdonában lévő eszközök Windows 10 eszköz konfigurációs házirend. További részleteket az alábbi helyeken találhat:
+    Az Android és iPhone eszközökön, valamint a Windows 10 rendszerben a fájlok védelmére vonatkozó alkalmazás-házirendek, valamint a vállalat tulajdonában lévő Windows 10 eszközök eszközkonfigurációs házirendjeinek beállítására is beállítható. A részletekért lásd az alábbi linkeket:
     
   - [Appvédelmi beállítások megadása androidos vagy iOS-es eszközökhöz](app-protection-settings-for-android-and-ios.md)
     
   - [Alkalmazásvédelmi beállítások megadása Windows 10-es eszközökhöz](protection-settings-for-windows-10-devices.md)
     
-  - [Eszköz védelem beállítása a Windows PC-k 10](protection-settings-for-windows-10-pcs.md)
+  - [Eszközvédelmi beállítások megadása a Windows 10 PC-hez](protection-settings-for-windows-10-pcs.md)
     
-   ![A házirend hozzáadása ablakban adjon meg egy nevet, és válassza ki a házirendet a legördülő menüből.](media/76ef37e4-1d18-4f34-8a0f-391ab1d0ae2b.png)
+   ![A házirend hozzáadása ablaktáblán adja meg a név nevét, majd a legördülő menüből válassza ki a házirendtípust.](media/76ef37e4-1d18-4f34-8a0f-391ab1d0ae2b.png)
   
-4. Házirendek beállítása után Ön és alkalmazottai állíthat be eszközök:
+4. A házirendek beállítása után Ön és alkalmazottai beállhatnak eszközöket:
     
-  - Ha a Windows már nem a Pro létrehozója a Windows update, [Windows Pro alkotók frissíteni azokat frissíteni](upgrade-to-windows-pro-creators-update.md)kell.
+  - Ha-a Windows arent ' már-ra Windows profi alkotó korszerűsíteni, lesz szükség-hoz [feljavít őket-hoz Windows profi teremtők korszerűsíteni](upgrade-to-windows-pro-creators-update.md).
     
-  - Lépések a Windows eszközök lásd a [Microsoft 365 üzleti felhasználók számára a Windows-eszközök beállítása](set-up-windows-devices.md) . 
+  - A Windows-eszközök a [Microsoft 365 üzleti felhasználók számára létrehozott Windows-eszközök beállítása](set-up-windows-devices.md) című témakörben találhat további lépéseket. 
     
-  - [Állítsa be a mobil eszközök Microsoft 365 üzleti felhasználók számára](set-up-mobile-devices.md) lásd Android telefonok és iPhones lépéseket. 
+  - Lásd a [mobil eszközök beállítása a Microsoft 365 üzleti felhasználóknak](set-up-mobile-devices.md) lépéseket az Android telefonok és iPhone. 
     
-5. Office ügyfélalkalmazások automatikus telepítéséhez tekintse meg [előkészítése az ügyféltelepítéshez Office 365 üzleti Microsoft által](prepare-for-office-client-deployment.md) és [automatikusan telepítésekor vagy eltávolításakor a Microsoft Office eszközök Windows 10](auto-install-or-uninstall-office.md).
+5. Az Office ügyfélalkalmazások automatikus telepítéséhez tekintse meg [az Office ügyfélprogramok telepítésének előkészítése a Microsoft 365 Business webhelyén](prepare-for-office-client-deployment.md) , és az [Office automatikus telepítése vagy eltávolítása Windows 10 eszközökön](auto-install-or-uninstall-office.md).
     
 
 
