@@ -17,18 +17,16 @@ search.appverid:
 - MET150
 ms.assetid: b0f4d010-9fd1-44d0-9d20-fabad2cdbab5
 description: Tájékoztatás arról, hogyan juthat hozzá a helyi erőforrásokhoz, például az üzleti alkalmazásokhoz, a fájlmegosztásokhoz és a nyomtatókhoz egy Azure Active Directory-hoz csatlakozott a Windows 10 eszközhöz.
-ms.openlocfilehash: ab9049e78617372463b8446dc8f8bc0089d8c117
-ms.sourcegitcommit: 91ff1d4339f0f043c2b43997d87d84677c79e279
+ms.openlocfilehash: 6065dd68bc8d306898ee02baa97fe07f71042439
+ms.sourcegitcommit: c0f769244d05ad019ea2307c38d5543d7b1e5afd
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2019
-ms.locfileid: "36981661"
+ms.lasthandoff: 09/16/2019
+ms.locfileid: "36992249"
 ---
 # <a name="access-on-premises-resources-from-an-azure-ad-joined-device-in-microsoft-365-business"></a>Az intézményi erőforrásokhoz való hozzáférés egy Azure alapú AD-illesztett eszközről a Microsoft 365 Business
 
-Akármi Windows 10 berendezés ez minden Azure Aktivál Címtár összekapcsolt akarat volna belépés-hoz minden felhő-kiindulópontul szolgáló anyagi javak mint-a Hivatal 365 apps és lehet megvéd mellett Mikroszkóp 365 teendő. Ahhoz, hogy az intézményi erőforrásokhoz, például a Business line (LOB) alkalmazásokhoz, a fájlmegosztásokhoz és a nyomtatókhoz is hozzáférést lehessen biztosítani, az [Azure ad Connect](https://docs.microsoft.com/en-us/azure/active-directory/connect/active-directory-aadconnect)használatával szinkronizálni kell az intézményi Active Directoryt az Azure Active Directoryval. A következő videó részletesen ismerteti, hogy hogyan lehet ezt beállítani a leggyakoribb forgatókönyvhöz.
- 
-> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE3C9hO]
+Akármi Windows 10 berendezés ez minden Azure Aktivál Címtár összekapcsolt akarat volna belépés-hoz minden felhő-kiindulópontul szolgáló anyagi javak mint-a Hivatal 365 apps és lehet megvéd mellett Mikroszkóp 365 teendő. Ahhoz, hogy az intézményi erőforrásokhoz, például a Business line (LOB) alkalmazásokhoz, a fájlmegosztásokhoz és a nyomtatókhoz is hozzáférést lehessen biztosítani, az [Azure ad Connect](https://docs.microsoft.com/en-us/azure/active-directory/connect/active-directory-aadconnect)használatával szinkronizálni kell az intézményi Active Directoryt az Azure Active Directoryval. 
 
 További információ: [Bevezetés az eszközkezelésben az Azure Active Directory címtárban](https://docs.microsoft.com/en-us/azure/active-directory/device-management-introduction) .
 A lépéseket a következő szakaszokban is összefoglaltuk.
