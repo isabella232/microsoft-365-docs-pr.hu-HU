@@ -1,6 +1,6 @@
 ---
 title: Microsoft 365 üzleti gyakran feltett kérdések 
-description: Választ kaphat a Microsoft 365 Business a leggyakrabban feltett kérdésekre a kis-és középvállalkozások (SMB) számára tervezett új megoldással. 
+description: A Microsoft 365 Business és a kis-és közepes méretű vállalkozások számára tervezett új megoldás választ ad a leggyakrabban feltett kérdésekre. 
 author: Sirkkuw
 ms.author: sirkkuw
 ms.topic: article 
@@ -10,21 +10,21 @@ localization_priority: Normal
 audience: microsoft-business 
 keywords: Microsoft 365 Business, Microsoft 365, SMB, GYIK, gyakran feltett kérdések, válaszok, üzleti
 ms.date: 06/08/2018
-ms.openlocfilehash: 3ab99b402bf440cd0c113a87dc453ff388a5befb
-ms.sourcegitcommit: 91ff1d4339f0f043c2b43997d87d84677c79e279
+ms.openlocfilehash: e722cc117d967796f0063b20e3d117b36b179f3e
+ms.sourcegitcommit: 14624abb412b6a34138a6266c994bb9cae411ad9
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2019
-ms.locfileid: "36982321"
+ms.lasthandoff: 09/18/2019
+ms.locfileid: "37028407"
 ---
 # <a name="microsoft-365-business-frequently-asked-questions"></a>Microsoft 365 üzleti gyakran feltett kérdések
 
 ## <a name="general"></a>Általános
 
 ### <a name="what-is-microsoft-365-business"></a>Mi az a Microsoft 365 Business? 
-Mikroszkóp 365 van egy egységbe rendezett oldat amit hoz együtt legjobb--ban-osztály termelékenység szerszámok, biztonság, és berendezés vezetés képességek részére kicsi-hoz közeg-méret teendő. 
+Mikroszkóp 365 van egy egységbe rendezett oldat, amit hoz együtt legjobb--ban-osztály termelékenység szerszámok, biztonság, és berendezés vezetés képességek részére kicsi-hoz közeg-méret teendő. 
 
-**A vállalati termelékenység és együttműködési eszközök átfogó halmaza** 
+**Üzleti termelékenységi és együttműködési eszközök halmaza** 
 * Word-, Excel-, PowerPoint-, Outlook-, OneNote-, Publisher-és Access- 
 * Exchange, OneDrive, a Skype for Business, Microsoft csapatok, SharePoint 
 * Üzleti alkalmazások Office-alkalmazásból (foglalások, Outlook Customer Manager, MileIQ<sup>[1](#footnote1)</sup>, Microsoft számlázás<sup>[1](#footnote1)</sup>) 
@@ -118,11 +118,11 @@ Vásárlók amit akar-hoz tapasztalat a kiegészít képességek-ból Mikroszkó
 A Microsoft 365 sikeres üzleti telepítésének legközvetlenebb útja egy Microsoft-partnerrel való részvétel. Ezek széles körű képzést és tapasztalattal rendelkezik a legkülönbözőbb vásárlói forgatókönyvek és a legjobban felszerelt megérteni a környezet és a szükségletek. Azok az ügyfelek, akik megtapasztalták az informatikai személyzetet, használhatják a <a href="https://support.office.com/article/496e690b-b75d-4ff5-bf34-cc32905d0364" target="_blank">microsoft 365 Business Getting Started</a> segítséget a Microsoft 365 Business bevezetésben. 
 
 ### <a name="does-microsoft-365-business-include-the-full-capabilities-of-microsoft-intune"></a>A Microsoft 365 Business tartalmazza a Microsoft Intune teljes képességeit? 
-Igen, a Microsoft 365 üzleti előfizetők licenccel, hogy teljes Intune képességek iOS, Android, MacOS, és más cross-platform eszközkezelés. Jellegét meghatározza nem elérhető-ban Simplified vezetés vigasztal-ban Mikroszkóp 365 teendő, szeret 3rd csapat app vezetés és alakzat-ból WiFi arcél, VPN igazol, stb, lehet kezelt-ban teli Intune vigasztal. Joga van a Configuration Manager használatára a EMS licenc által lefedett ügyfelek kezeléséhez. Az SCCM-hez kapcsolódó lekérdezéseknél tekintse meg az <a href="https://docs.microsoft.com/en-us/sccm/core/understand/product-and-licensing-faq#bkmk_csp" target="_blank">SCCM GYIK</a>
+Igen, a Microsoft 365 üzleti előfizetők licenccel, hogy teljes Intune képességek iOS, Android, MacOS, és más cross-platform eszközkezelés. Jellegét meghatározza nem elérhető-ban Simplified vezetés vigasztal-ban Mikroszkóp 365 teendő, szeret 3rd csapat app vezetés és alakzat-ból WiFi arcél, VPN igazol, stb, lehet kezelt-ban teli Intune vigasztal. 
   
 
 ### <a name="does-azure-active-directory-premium-p1-come-with-microsoft-365-business"></a>Van Azure Active Directory Premium P1 jön a Microsoft 365 Business? 
-Mikroszkóp 365 teendő van épít-ra technológia-ból keresztül Mikroszkóp és rövid idő ez osztozik némely jellegét meghatározza-val Azure Aktivál Címtár, ez nem egy teli változat. A Microsoft 365 Business biztonsági és kezelési irányelvei néhány Azure-funkcióra támaszkodnak, de nem tartalmazzák az összes szolgáltatást (pl. az önkiszolgáló szolgáltatások, a feltételes hozzáférési funkciók és a jelentéskészítés). A felhasználók választhatják az Azure Active Directory Premium P1 vagy P2 megvásárlását a Microsoft 365 Business bővítményként. További információ a [Microsoft 365 üzleti szolgáltatás leírásában](https://technet.microsoft.com/library/b042d1fd-c997-46d8-8c02-1df4c932f148) található. 
+A Microsoft 365 Business tartalmaz Select Azure prémium P1 (AADP P1) szolgáltatásokat, mint például önkiszolgáló jelszó visszaállítás az AD write-back, Azure MFA és feltételes hozzáférés funkciókkal. Nem tartalmazza a teljes AADP P1-et. További információért olvassa el a [Microsoft 365 Business Service Leírás](https://technet.microsoft.com/library/b042d1fd-c997-46d8-8c02-1df4c932f148) című témakört. 
  
  
 ### <a name="does-microsoft-365-business-allow-customers-to-manage-macs"></a>Csinál Mikroszkóp 365 teendő enged vásárlók-hoz kezel Macs? 
