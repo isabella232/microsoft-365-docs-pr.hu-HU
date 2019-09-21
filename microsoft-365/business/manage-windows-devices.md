@@ -20,12 +20,12 @@ search.appverid:
 - MET150
 ms.assetid: 9b4de218-f1ad-41fa-a61b-e9e8ac0cf993
 description: Útmutató a Microsoft 365 a helyi AD-hez csatlakozott Windows 10-eszközök védelmének engedélyezéséhez.
-ms.openlocfilehash: 5cce4bc53f118560e31ad7e6048e4efcb49d662e
-ms.sourcegitcommit: c0f769244d05ad019ea2307c38d5543d7b1e5afd
+ms.openlocfilehash: 9bfd540c0ff113762485f62707f1975ff53accc4
+ms.sourcegitcommit: 1162d676b036449ea4220de8a6642165190e3398
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "36992229"
+ms.lasthandoff: 09/20/2019
+ms.locfileid: "37068105"
 ---
 # <a name="enable-domain-joined-windows-10-devices-to-be-managed-by-microsoft-365-business"></a>A tartományhoz csatlakoztatott Windows 10-es eszközök kezelésének engedélyezése a Microsoft 365 Vállalati verzió számára
 
@@ -40,19 +40,36 @@ Ahhoz, hogy a szervezet tartományhoz csatlakoztatott eszközeit úgy állítsa 
   
 Hajtsa végre az alábbi lépéseket a Microsoft 365 Business által a Hybrid Azure AD által egyesített és kezelt Windows 10-eszközök elérhetővé tétele érdekében.
   
-1. A felhasználók, csoportok és kapcsolattartók helyi Active Directoryból Azure Active Directoryba történő szinkronizálásához futtassa a címtár-szinkronizálás varázslót és az Azure Active Directory csatlakozási szolgáltatást az [Office 365 címtár-szinkronizálás beállítása](https://support.office.com/article/1b3b5318-6977-42ed-b5c7-96fa74b08846)című témakörben leírtak szerint.
+1. **Felkészülés a címtár-szinkronizálásra**: mielőtt a felhasználókat és a számítógépeket a helyi Active Directory-tartományból szinkronizálja, tekintse át a [felkészülés a címtár-szinkronizáláshoz az Office 365](https://docs.microsoft.com/office365/enterprise/prepare-for-directory-synchronization). Különösen:
+
+   - Győződjön meg arról, hogy a könyvtárban nem találhatók ismétlődések a következő attribútumok számára: **mail**, **ProxyAddresses**és **userPrincipalName**. Ezeknek az értékeknek egyedieknek kell lenniük, és az ismétlődéseket el kell távolítani.
+   
+   - Azt javasoljuk, hogy minden helyi felhasználói fiók **userPrincipalName** (UPN) attribútuma úgy legyen beállítva, hogy megfeleljen az elsődleges e-mail címnek, amely megfelel a licencelt Microsoft 365 felhasználónak. Például **Mary.Shelley@contoso.com** , nem pedig **Mary @ contoso. local**
+   
+   - Ha az Active Directory tartomány nem útválasztható (például **. local** vagy **. LAN**) végződést ér el egy Internet-irányítható utótag, pl **. com** vagy **. org**helyett, akkor a helyi felhasználói fiókok UPN-utótagját először az alábbiak szerint kell módosítani [Nem útválasztható tartomány előkészítése a címtár-szinkronizáláshoz](https://docs.microsoft.com/office365/enterprise/prepare-a-non-routable-domain-for-directory-synchronization). 
+
+2. **Telepítsük és állítsuk be az Azure ad Connect**: a felhasználók, csoportok és névjegyek szinkronizálása a helyi Active Directory-címtárból a Azure Active Directory címtárszolgáltatásból, futtassa a címtár-szinkronizálás varázslót az Azure Active Directory Connect szolgáltatásból. További tudnivalókat az [Office 365 címtár-szinkronizálás beállítása](https://support.office.com/article/1b3b5318-6977-42ed-b5c7-96fa74b08846) című témakörben talál.
     
     > [!NOTE]
     > A lép van pontosan ugyanaz részére Mikroszkóp 365 teendő. 
-  
-2. A 3. lépés elvégzése előtt ahhoz, hogy a Windows 10 eszközök Hybrid Azure AD csatlakozhatók legyenek, a következő előfeltételeknek kell eleget tennie:
+    
+A Azure AD Connect szolgáltatás beállításainak konfigurálásakor javasoljuk a **Jelszó-szinkronizálás** és a **zökkenőmentes egyszeri bejelentkezés**engedélyezését, valamint a **jelszó** írásának funkcióját, amelyet a Microsoft 365 Business is támogat.
+
+> [!NOTE]
+> Van néhány további lépés a jelszóírésre az Azure AD Connect-ben lévő jelölőnégyzeten kívül. Folyamodik [Hogyan--hoz configure jelszó writeback](https://docs.microsoft.com/azure/active-directory/authentication/howto-sspr-writeback). 
+     
+3. **Állítsa be a Hybrid Azure ad illesztést**: mielőtt csatlakoznia kellene a Windows 10 eszköznek a Hybrid Azure ad-hez, győződjön meg arról, hogy megfelel az alábbi feltételeknek:
 
    - A legújabb verziójú Azure AD Connect-et futtatja.
 
    - Azúrkék AD összeköt birtokol szinkronizál minden a számítógép tárgy-ból berendezés ön akar-hoz lenni hibrid Azure AD összekapcsolt. Ha a számítógép-objektumok meghatározott szervezeti egységekhez tartoznak, akkor győződjön meg arról, hogy ezek a szervezeti egységek szinkronizálásra vannak beállítva a Azure AD Connect-ben is.
+
+Ha már meglévő, tartományhoz csatlakoztatott Windows 10-eszközt szeretne regisztrálni a Hybrid Azure AD csatlakozásakor, kövesse az [oktatóprogram: a hibrid Azure Active Directory-illesztés konfigurálása felügyelt tartományokhoz](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-managed-domains#configure-hybrid-azure-ad-join)című témakört. Ez hibrid-lehetővé teszi, hogy a meglévő helyszíni Active Directory-hoz csatlakozott a Windows 10 számítógépet, és tegyék felhő kész.
     
-3. Regisztrálja a meglévő, tartományhoz csatlakoztatott Windows 10-eszközöket a hibrid Azure AD-hez, és igényelje azokat az Intune (Microsoft 365 Business) mobil eszközkezelésére:
-    
-4. Kövesse lépésről lépésre, [Hogyan állítsuk be a hibrid Azure Active Directory egyesített eszközeit](https://go.microsoft.com/fwlink/p/?linkid=872870). Ez lehetővé teszi az intézményi Active Directory-nak a Windows 10 számítógépekhez való szinkronizálását, és készen áll a felhőre.
-    
-5. A Windows 10 eszköz mobil eszközkezelés céljából történő igényléséhez tekintse meg a [Windows 10 eszköznek az Intune szolgáltatással történő igénylésével](https://go.microsoft.com/fwlink/p/?linkid=872871) kapcsolatos utasításokat a csoportházirend segítségével. A csoportházirendet beállíthatja helyi számítógépszinten vagy tömeges műveleteknél, ezt a csoportházirend-beállítást létrehozhatja a tartományvezérlő-kiszolgálón is.
+4. **A Windows 10 automatikus tanúsítványigénylésének engedélyezése**: Ha az Intune szolgáltatással automatikusan szeretné igényelni a Windows 10 eszközt a mobil eszközkezeléshez, olvassa el [a Windows 10 eszköz regisztrálása](https://docs.microsoft.com/windows/client-management/mdm/enroll-a-windows-10-device-automatically-using-group-policy)a csoportházirend segítségével című témakört. A csoportházirendet helyi számítógép szinten, illetve tömeges műveletek esetén a csoportházirendet a Csoportházirend kezelése konzollal és az ADMX-sablonok segítségével is létrehozhatja a tartományvezérlőn.
+
+5. **A zökkenőmentes egyszeri bejelentkezés beállítása**: a zökkenőmentes egyszeri bejelentkezés a felhasználókat automatikusan aláírja a Microsoft 365 felhőalapú erőforrásaira, amikor vállalati számítógépeket használnak. Egyszerűen telepítse az [Azure Active Directory problémamentes egyszeri bejelentkezés: Gyors indítás](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-sso-quick-start#step-2-enable-the-feature)című témakörben ismertetett két csoportházirend-beállítás egyikét. A **csoportházirend-beállítás nem** teszi lehetővé a felhasználók számára a beállításaik módosítását, **míg a csoportházirend** -beállítás az értékeket állítja be, de a felhasználó által konfigurálható értéket is hagy.
+
+6. **Felállít Windows Szia részére teendő**: Windows Szia részére teendő helyettesít jelszó-val erős kettő-tényező hitelesítés (2fa) részére jel-ba egy helyi számítógép. Az egyik tényező egy aszimmetrikus kulcspár, a másik pedig egy PIN-kód vagy más helyi mozdulat, például ujjlenyomat vagy Arcfelismerés, ha az eszköz támogatja. Azt javasoljuk, hogy cserélje ki a jelszavakat a 2FA és a Windows Hello for Business, ahol lehetséges.
+
+-Hoz configure hibrid Windows Szia részére teendő, áttekintés a [hibrid kulcs hisz Windows Szia részére teendő előfeltétel](https://docs.microsoft.com/windows/security/identity-protection/hello-for-business/hello-hybrid-key-trust-prereqs). Akkor követ a oktatás-hoz [configure hibrid Windows Szia részére teendő kulcs hisz elintézés](https://docs.microsoft.com/windows/security/identity-protection/hello-for-business/hello-hybrid-key-whfb-settings). 
