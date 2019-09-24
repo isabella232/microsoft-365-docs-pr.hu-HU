@@ -10,12 +10,12 @@ localization_priority: Normal
 audience: microsoft-business 
 keywords: Microsoft 365 Business, Microsoft 365, SMB, GYIK, gyakran feltett kérdések, válaszok, üzleti
 ms.date: 06/08/2018
-ms.openlocfilehash: e722cc117d967796f0063b20e3d117b36b179f3e
-ms.sourcegitcommit: 14624abb412b6a34138a6266c994bb9cae411ad9
+ms.openlocfilehash: cc6cc924cf45fa19d7f91235515981b636abf77d
+ms.sourcegitcommit: bd17ee20da1685e5c660d5f99746c81c63a17b22
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/18/2019
-ms.locfileid: "37028407"
+ms.lasthandoff: 09/24/2019
+ms.locfileid: "37141509"
 ---
 # <a name="microsoft-365-business-frequently-asked-questions"></a>Microsoft 365 üzleti gyakran feltett kérdések
 
@@ -43,6 +43,9 @@ Mikroszkóp 365 van egy egységbe rendezett oldat, amit hoz együtt legjobb--ban
 * Az Office-alkalmazások automatikus telepítése Windows 10 PC-ről 
 * Mindig naprakész Office + Windows 10 
 * Ésszerűsített PC-k telepítése a Windows AutoPilot
+
+**Feltételes hozzáférés engedélyezése**
+- A Microsoft 365 üzleti ügyfelek az Azure Címtárobjektán keresztül is engedélyezhetnek feltételes hozzáférést az Azure könyvtárban. A feltételes hozzáférés házirendjeinek konfigurálásával kapcsolatos további tudnivalókért olvassa el a [feltételes hozzáférés](https://docs.microsoft.com/azure/active-directory/conditional-access/overview)című témakört.
 
 ### <a name="who-should-consider-adopting-microsoft-365-business"></a>Ki kellet volna tekint örökbefogadás Mikroszkóp 365 teendő? 
 Mikroszkóp 365 teendő volt épít részére kicsi és közeg-méret vásárlók amit volna kicsi-hoz nem ez anyagi javak-ra személyzet és akar legjobb--ban-osztály termelékenység és együttműködés képességek-ból Hivatal 365 együtt-val berendezés vezetés és biztonság megoldások amit az üzleti adatok védelmére. A Microsoft 365 üzleti ügyfél készen áll arra, hogy áthelyez az informatikai műveletek a felhő, és érdekelt abban, hogy fenntartsa a proaktív állást, hogy megvédjük az adatokat a vállalati és munkavállalói tulajdonú eszközök.
