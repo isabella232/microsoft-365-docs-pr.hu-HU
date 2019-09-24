@@ -18,33 +18,33 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: 6b70fa27-d171-4593-8ecf-f78bb4ed2e99
-description: Bejelentkezni a Microsoft 365 üzleti credintials globális felügyeleti eszköz politikák és tevékenységek megtekintéséhez.
-ms.openlocfilehash: 3231cfa61dcc85cda162b05f2c653048e980a8d9
-ms.sourcegitcommit: 66bb5af851947078872a4d31d3246e69f7dd42bb
+description: Kilátás berendezés politikák és tettek mellett jel-ban-hoz Mikroszkóp 365 teendő-val világ-admin credintials.
+ms.openlocfilehash: ea53276f4ee8430031105f2b9c516471c702e839
+ms.sourcegitcommit: 7690c8bfdea6e6d245cfa7c5b09b913b092cde0a
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 05/15/2019
-ms.locfileid: "34072200"
+ms.lasthandoff: 09/23/2019
+ms.locfileid: "37121278"
 ---
-# <a name="view-and-manage-policies-and-devices"></a>Politikák és eszközök megtekintése és kezelése
+# <a name="view-and-manage-policies-and-devices"></a>Házirendek és eszközök megtekintése és kezelése
 
-![Mutató transzparens https://aka.ms/aboutM365preview.](media/m365admincenterchanging.png)
+[![Label, hogy tudd, az admin központ változik, és találsz további részleteket a aka.ms/aboutM365preview.](media/m365admincenterchanging.png)](https://docs.microsoft.com/office365/admin/microsoft-365-admin-center-preview)
 
-## <a name="view-and-edit-device-policies"></a>Eszköz házirendek megtekintése és szerkesztése
+## <a name="view-and-edit-device-policies"></a>Eszközházirendek megtekintése és szerkesztése
 
-1.  Ugrás az admin center <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>.
-2. A bal oldali navigációs sáv, válassza az **eszközök** \> **házirendek**.
+1.  Menj az admin központba <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>.
+2. A bal oldali NAV programban válassza az **eszközházirendek eszközt** \> ****.
 
     Ezen a lapon házirendeket hozhat létre vagy szerkeszthet, módosíthatja a célcsoportot, illetve törölhet egy házirendet.
 
     ![Screenshot of the Policies page](media/devicepolicies.png)
   
-## <a name="view-and-manage-devices"></a>Megtekintése és kezelése eszköz
+## <a name="view-and-manage-devices"></a>Eszközök megtekintése és kezelése
 
 
-1. A bal oldali navigációs sáv, válassza az **eszközök** \> **kezelése**. 
+1. A bal oldali NAV programban válassza az **eszközök** \> **kezelése**-t. 
     
     Ezen a lapon kijelölhet egy vagy több eszközt, és eltávolíthatja a céges adatokat. Olyan Windows 10-es eszköz esetében, amelyhez eszközvédelmi beállításokat adott meg, az eszköz gyári állapotát is visszaállíthatja itt.
   
-   ![Eszközök lap kezelése](media/devicesmanage.png)
+   ![Eszközök kezelése lap](media/devicesmanage.png)
 

@@ -19,17 +19,17 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: cbc6bfe5-565a-4fb8-95f0-b06e7b74ac46
-description: 'Telepítésekor vagy eltávolításakor az Office admin Microsoft 365 Business Center Windows 10 eszközökön. '
-ms.openlocfilehash: 1e962f51882ddfd97da566858a0a1e6fb56ecbb8
-ms.sourcegitcommit: 66bb5af851947078872a4d31d3246e69f7dd42bb
+description: 'Telepítse vagy távolítsa el az Office a Windows 10 eszközök a Microsoft 365 Business Admin Center. '
+ms.openlocfilehash: 70fd2f1ded87e04f506b1ba415c820af5d535938
+ms.sourcegitcommit: 7690c8bfdea6e6d245cfa7c5b09b913b092cde0a
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 05/15/2019
-ms.locfileid: "34071960"
+ms.lasthandoff: 09/23/2019
+ms.locfileid: "37121258"
 ---
 # <a name="automatically-install-or-uninstall-office-on-windows-10-devices"></a>Az Office automatikus telepítése vagy eltávolítása Windows 10-es eszközökön
 
-![Mutató transzparens https://aka.ms/aboutM365preview.](media/m365admincenterchanging.png)
+[![Label, hogy tudd, az admin központ változik, és találsz további részleteket a aka.ms/aboutM365preview.](media/m365admincenterchanging.png)](https://docs.microsoft.com/office365/admin/microsoft-365-admin-center-preview)
 
 Gyorsan és egyszerűen telepítheti az Office-t Windows 10-es PC-kre a Microsoft 365 Business felügyeleti központjából.
   
@@ -40,7 +40,7 @@ Ha meg szeretné érteni, hogy ez hogyan működik a korábban telepített Offic
 1. Jelentkezzen be a [felügyeleti központba](https://aka.ms/bcsportal) globális rendszergazdai hitelesítő adatokkal. 
     
 2. Az **Eszközök** kártyán válassza **Az Office üzembe helyezésének kezelése** lehetőséget.
-      Ha nem látható az **eszköz műveletek** kártya **a felügyeleti központ kezdőlapot,** kattintson: **Hozzáadás** (+)-admin otthonában hozzáadni.
+      Ha nem látható az **eszközműveletek** karton, akkor az Admin Center **Kezdőlap** lapján kattintson a **Hozzáadás** (+) gombra, ha fel szeretné adni az adminisztrátori otthont.
     
     ![Screenshot of the Devices card in the admin center](media/9982e784-dbf9-4a76-a159-bb3e2e5aa23f.png)
   

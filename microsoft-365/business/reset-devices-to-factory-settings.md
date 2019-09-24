@@ -18,25 +18,25 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: c4db6caf-74df-4734-b1dd-53e371c7a3c3
-description: 'Útmutató a Microsoft 365 üzleti gyári visszaállítása a Windows 10 eszközök. '
-ms.openlocfilehash: 7cb7afdc947766598ef5385078a1b2cab87601dd
-ms.sourcegitcommit: 66bb5af851947078872a4d31d3246e69f7dd42bb
+description: 'További információ a Microsoft 365 Business to Factory a Windows 10-eszközök alaphelyzetbe állítására. '
+ms.openlocfilehash: 12e0bdbab430654fb80baa0313e63b2493e5077e
+ms.sourcegitcommit: 7690c8bfdea6e6d245cfa7c5b09b913b092cde0a
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 05/15/2019
-ms.locfileid: "34074470"
+ms.lasthandoff: 09/23/2019
+ms.locfileid: "37121178"
 ---
 # <a name="reset-windows-10-devices-to-their-factory-settings"></a>A Windows 10-es eszközök gyári állapotának visszaállítása
 
-![Mutató transzparens https://aka.ms/aboutM365preview.](media/m365admincenterchanging.png)
+[![Label, hogy tudd, az admin központ változik, és találsz további részleteket a aka.ms/aboutM365preview.](media/m365admincenterchanging.png)](https://docs.microsoft.com/office365/admin/microsoft-365-admin-center-preview)
 
 A gyári állapot visszaállításával az eszköz visszaáll a megvásárlásakor érvényes, eredeti beállításaira. A visszaállítással a vásárlás óta az eszközre telepített minden appot és adatot eltávolít. A Microsoft 365 Business segítségével visszaállíthatja az Ön által kezelt Windows 10-es eszközök gyári beállításait.
   
-1. Ugrás az admin center <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>... 
+1. Menj az admin központ a <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>.. 
     
-2. A bal oldali navigációs sáv, válassza az **eszközök** \> **kezelése**.
+2. A bal oldali NAV programban válassza az **eszközök** \> **kezelése**-t.
 
-3. **Kezelése** lapon a jelölőnégyzetet a kívánt adatok törlése és **kezelése** legördülő menüből válassza a **gyári alaphelyzet**eszközt.
+3. A **kezelés** lapon jelölje be annak az eszköznek a jelölőnégyzetét, amelyről el kívánja távolítani az adatokat, majd a **kezelés** legördülő menüből válassza ki a gyári beállítások **visszaállítása**négyzetet.
     
 4. A **Biztos, hogy visszaállítja gyári alaphelyzetbe az alábbi eszközöket?** ablaktáblában válassza a **Megerősítés** \> **Bezárás** lehetőséget.
     
