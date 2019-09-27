@@ -11,23 +11,19 @@ ms.collection:
 - Adm_O365
 - M365-subscription-management
 - M365-identity-device-management
-ms.custom:
-- Adm_O365
-- Core_O365Admin_Migration
-- MiniMaven
-- MSB365
+ms.custom: OKR_SMB_M365
 search.appverid:
 - BCS160
 - MET150
 - MOE150
 ms.assetid: 0f7b1d7c-4086-4331-8534-45d7886f9f34
-description: Útmutató a Microsoft 365 üzleti automata használó eszközök feltölteni. A profil hozzárendelése egy eszköz vagy eszközök egy csoportjához.
-ms.openlocfilehash: dee77a014ef519f3487a082edc3cf81058ec1c00
-ms.sourcegitcommit: 66bb5af851947078872a4d31d3246e69f7dd42bb
+description: Megtanulják, hogyan kell feltölteni eszközök segítségével AutoPilot a Microsoft 365 Business. Profilt hozzárendelhet egy eszközhöz vagy eszközcsoporthoz.
+ms.openlocfilehash: 9ae94266f5a41d8d115fc92f0f080a6fdbdc9f15
+ms.sourcegitcommit: 6003d6da0a85c97357eb3dba3918eb145f381fe1
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 05/15/2019
-ms.locfileid: "34071640"
+ms.lasthandoff: 09/27/2019
+ms.locfileid: "37288015"
 ---
 # <a name="create-and-edit-autopilot-devices"></a>AutoPilot-eszközök létrehozása és szerkesztése
 
@@ -41,13 +37,13 @@ Az eszközöknek meg kell felelniük az alábbi követelményeknek:
     
 - Olyan új eszközöknek kell lenniük, amelyeken még nem használták a Windowst.
 
-1. A Microsoft 365 üzleti rendszergazdai központban válassza az **eszközök** \> **automata**.
+1. -Ban Mikroszkóp 365 teendő admin központ, választ **berendezés** \> **robotpilóta**.
   
-2. Az **automata** lapon válassza ki **az eszközök** lapon \> **eszközök hozzáadása**.
+2. A **robotpilóta** oldalán válassza ki az eszközök **fület.** \> ****
     
     ![In the Devices tab, choose Add devices.](media/6ba81e22-c873-40ad-8a72-ce64d15ea6ba.png)
   
-3. Készített [eszköz lista CSV-fájl](https://support.office.com/article/932e3676-2491-49f0-9177-d893d2f5276e) **hozzáadása eszközök** panelen keresse \> **Mentés** \> **bezárása**.
+3. Az **eszközök hozzáadása** panelen tallózással keresse meg az előkészített [](https://support.office.com/article/932e3676-2491-49f0-9177-d893d2f5276e) \> CSV-fájlt, amely **bezárva** **menti** \> az eszközt.
     
     Ezeket az adatokat beszerezheti a hardvergyártójától, vagy használhatja a [Get-WindowsAutoPilotInfo PowerShell-parancsfájlt](https://www.powershellgallery.com/packages/Get-WindowsAutoPilotInfo), amely elkészíti a CSV-fájlt. 
     

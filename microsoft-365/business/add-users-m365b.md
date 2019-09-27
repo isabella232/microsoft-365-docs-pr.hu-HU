@@ -10,30 +10,26 @@ localization_priority: Normal
 ms.collection:
 - Adm_O365
 - M365-subscription-management
-ms.custom:
-- Adm_O365
-- Core_O365Admin_Migration
-- MiniMaven
-- MSB365
+ms.custom: OKR_SMB_M365
 search.appverid:
 - BCS160
 - MET150
 ms.assetid: 96153102-1db1-4df8-bca5-38cea80b65ce
-description: Útmutató az új felhasználók hozzáadása, a berendezések biztonságos és Microsoft 365 üzleti szerepkörök hozzárendelését hajthatja végre.
-ms.openlocfilehash: 844245f5740d1e90ca1a7c9f372a8ab5a8225dd7
-ms.sourcegitcommit: 66bb5af851947078872a4d31d3246e69f7dd42bb
+description: Ismerje meg, hogyan adhat hozzá új felhasználókat, hogyan biztosítsa eszközeiket, és hogyan rendelhet szerepköröket a Microsoft 365 Business-ben.
+ms.openlocfilehash: 9451be8a13c78230d0314e6d4ac74a6c9d7564ae
+ms.sourcegitcommit: 6003d6da0a85c97357eb3dba3918eb145f381fe1
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 05/15/2019
-ms.locfileid: "34072910"
+ms.lasthandoff: 09/27/2019
+ms.locfileid: "37287435"
 ---
 # <a name="add-additional-users-to-microsoft-365-business"></a>További felhasználók felvétele a Microsoft 365 Business verzióban
 
 ## <a name="add-new-users"></a>Új felhasználók hozzáadása
 
-1. Ugrás az admin center <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>. 
-2. **Felhasználók** kiválasztása a bal oldali navigációs sáv \> **aktív felhasználók**.
-1. Az **aktív felhasználók** lapján kattintson a **felhasználó hozzáadása**.
+1. Menj az admin központba <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>. 
+2. A bal oldali NAV válassza ki a **felhasználók** \> **aktív felhasználók**.
+1. Az **aktív felhasználók** lapon válassza a **felhasználó hozzáadása**-t.
  4. Az **Új felhasználó** panelen írja be a szükséges információkat. 
   
     Ezenkívül az **Elérhetőségi adatok** csoportban megadhatja az esetleges további információkat, a **Jelszó** csoportban kiválaszthatja a jelszó beállításának módját, a **Szerepkörök** csoportban pedig szerepköröket oszthat ki.

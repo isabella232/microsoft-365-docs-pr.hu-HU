@@ -1,5 +1,5 @@
 ---
-title: 365 a Microsoft üzleti – áttekintés
+title: Áttekintés Mikroszkóp 365 teendő
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
@@ -11,24 +11,20 @@ localization_priority: Normal
 ms.collection:
 - Adm_O365
 - M365-subscription-management
-ms.custom:
-- Adm_O365
-- Core_O365Admin_Migration
-- MiniMaven
-- MSB365
+ms.custom: OKR_SMB_M365
 search.appverid:
 - BCS160
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
-description: Ismerje meg, hogyan állítsa be a Microsoft 365 Business.
-ms.openlocfilehash: 64cfa460311af6cdafb637ceb3415511e003e394
-ms.sourcegitcommit: dd0d99d2ff930cd1777d6704f4d88a70adc9ca74
+description: Ismerje meg, hogy hozzanak létre a Microsoft 365 Business.
+ms.openlocfilehash: 8568232eb65485f1e016342bb13de9a07f706c00
+ms.sourcegitcommit: 6003d6da0a85c97357eb3dba3918eb145f381fe1
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 07/24/2019
-ms.locfileid: "35853149"
+ms.lasthandoff: 09/27/2019
+ms.locfileid: "37288535"
 ---
-# <a name="overview-of-microsoft-365-business"></a>365 a Microsoft üzleti áttekintése
+# <a name="overview-of-microsoft-365-business"></a>Áttekintés-ból Mikroszkóp 365 teendő
 
 ## <a name="what-is-microsoft-365-business"></a>Mi a Microsoft 365 Vállalati verzió?
 
@@ -36,29 +32,29 @@ A Microsoft 365 Vállalati verzió a vállalati hatékonyságot és együttműk�
   
 A Microsoft 365 Business legfeljebb 300 licenccel való használatra készült. Ha ennél több licencre van szüksége, további információért olvassa el a [Microsoft 365 Nagyvállalati verzió](https://go.microsoft.com/fwlink/p/?linkid=860986) dokumentációját.
 
-Lásd: [Microsoft 365 üzleti szolgáltatásleírás](https://docs.microsoft.com/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-business-service-description) szolgáltatások teljes listája.
+Lásd a [Microsoft 365 Business Service leírását](https://docs.microsoft.com/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-business-service-description) a teljes szolgáltatáslistához.
   
-## <a name="small-business-security-needs"></a>Kis üzleti igényeinek
+## <a name="small-business-security-needs"></a>Kisvállalati biztonsági igények
 
-Az üzleti adatok többféle módon is sérülhet. A felhasználók csökkenthetik a rendszer a szervezet biztonsági bejelentkezéskor be feltört hitelesítő adatokat vagy a különböző eszközök és alkalmazások a szervezet adatainak megtekintése. Pontosabban a szervezet nem fenyegetik:
+Az üzleti adatok sokféleképpen sérülhetnek. A felhasználó és a felhasználók veszélyeztethetik a szervezet biztonságát, amikor biztonsági jogosultságokkal rendelkező hitelesítő adatokkal jelentkezik be, illetve különböző eszközökre és alkalmazásokra vonatkozó szervezeti adatokat is megtekinthat. Konkrétabban, a szervezet veszélyben:
 
-1. Gyenge vagy sérült biztonságú bejelentkezési adatait.
-2. Feltört eszköz gyenge PIN-kódot vagy a felhasználó tulajdonában lévő eszköz.
-3. Másolás/beillesztés/mentés apps személyes adatokat a szervezet képes felhasználók.
-4. Telepítése és használata a<sup>távoli asztali munkamenetgazda</sup> fél 3 apps gyenge biztonsági felhasználók.
-5. E-mail biztonsági réseket, beleértve a bizalmas adatok megosztása, adathalász kísérletek, malware, stb.
-6. Ha nem, akik hozzáférhetnek bizalmas információkat tartalmazó dokumentumokat.
+1. Sérült vagy gyenge bejelentkezési hitelesítő adatok.
+2. Sérült eszköz gyenge PIN-kód, vagy a felhasználó tulajdonában lévő eszköz.
+3. Használók ki tud másol/tészta/megment-a szervezetek ' adat-hoz személyes apps.
+4. A felhasználók, akik telepítése és használata 3<sup>Rd</sup> Party apps gyenge biztonságát.
+5. Elektronikus levél sebezhetőség beleértve cserépdarab érzékeny adat, phishing kísérlet, malware, stb.
+6. Amikor az emberek, akik nem, férhetnek hozzá a dokumentumokhoz, érzékeny információkat.
 
-Microsoft 365 üzleti védi az adatokat minden esetben. Az alábbi ábra az üzleti adatok védelme érdekében biztonsági szolgáltatások részletezi.
+Mikroszkóp 365 teendő segít oltalmaz-a adat-ban mindegyik-ból ezek példák. Az üzleti adatokat védő biztonsági funkciókat az alábbi ábra részletezi.
 
-![Egy szám, amely azt mutatja, hogyan M365B védi az üzleti.](media/m365businessvalueadd.png)
+![Egy alak, amely megmutatja, hogyan védi a M365B a vállalkozás.](media/m365businessvalueadd.png)
 
-Biztonsági szolgáltatások teljes listájának megtekintéséhez kattintson a [Microsoft 365 üzleti biztonsági szolgáltatásokat](security-features.md). Miután [Microsoft 365 üzleti beállítása](set-up.md)lásd a [Speciális biztonsági házirendek beállítása](set-up-advanced-security.md) a biztonsági szolgáltatásokat, amelyek nem szerepelnek a telepítés részeként való ismerkedés. Olvasni is [biztonságos az Office 365 és Microsoft 365 üzleti tervek Top 10 módjai](https://docs.microsoft.com/office365/admin/security-and-compliance/secure-your-business-data) jó áttekintés a számítógépes bűnözők és a számítógépes kalózok elleni védelem beállítása.
+A biztonsági szolgáltatások teljes listáját a [Microsoft 365 üzleti biztonsági szolgáltatások](security-features.md)című témakörben tekintheti meg. A [Microsoft 365 Business beállítása](set-up.md)után olvassa el a [speciális biztonsági házirendek beállítása](set-up-advanced-security.md) , hogy elindulj a telepítés részeként nem szereplő biztonsági szolgáltatásokkal. Olvas is [tető 10 Ways-hoz biztosít hivatal 365 és mikroszkóp 365 teendő tervek](https://docs.microsoft.com/office365/admin/security-and-compliance/secure-your-business-data) részére egy jó áttekintés-ra hogyan viselkedni felállít védelem ellen Cyber bűnösök és bárdok.
 
 ## <a name="get-microsoft-365-business"></a>A Microsoft 365 Vállalati verzió beszerzése
 
 - Ha van partnere, az illető meg fogja kapni a Microsoft 365 Businesst: [A Microsoft 365 Vállalati verzió beszerzése a Microsoft Partnerközpontban](get-microsoft-365-business.md#get-microsoft-365-business-from-microsoft-partner-center).
 
-- Ha nem egy partner, és szeretné, hogy a Microsoft 365 üzleti, akkor [Itt vásárolni](https://www.microsoft.com/microsoft-365/business) a [Feliratkozás](sign-up.md) utasítások.
+- Ha Ön dont ' volna egy társ és akar-hoz kap Mikroszkóp 365 teendő, tudod [vesz ez itt](https://www.microsoft.com/microsoft-365/business) és követ a [jel megjelöl](sign-up.md) oktatás.
 
-- Keresztül modult head Microsoft 365 üzleti vásárolni és beállítási súgó [Microsoft Store](https://www.microsoft.com/en-us/store/locations/find-a-store?icid=en-us_UF_FAS) is.
+- Tudod is fej őfelemikroszkóp [készlet](https://www.microsoft.com/en-us/store/locations/find-a-store?icid=en-us_UF_FAS) -hoz mindkettő vesz Mikroszkóp 365 teendő és kap készlet-megjelöl segít.

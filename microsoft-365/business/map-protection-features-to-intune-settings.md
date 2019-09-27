@@ -12,22 +12,18 @@ ms.collection:
 - Adm_O365
 - M365-subscription-management
 - M365-identity-device-management
-ms.custom:
-- Adm_O365
-- Core_O365Admin_Migration
-- MiniMaven
-- MSB365
+ms.custom: OKR_SMB_M365
 search.appverid:
 - BCS160
 - MET150
 ms.assetid: aad21b1a-c775-469a-b89c-c5d1d59d27db
-description: Ismerje meg, hogyan feleltethetőek meg Microsoft 365 üzleti szolgáltatásainak Intune beállításait. Az előfizetés Intune beállításainak módosítása licencet biztosít.
-ms.openlocfilehash: a6aaf6cc06c31b870eb85582f5aa47699919d75d
-ms.sourcegitcommit: 66bb5af851947078872a4d31d3246e69f7dd42bb
+description: Információ a Microsoft 365 Business Térkép és az Intune-beállítások védelmi szolgáltatásairól. Az előfizetés engedélyt biztosít az Intune-beállítások módosítására.
+ms.openlocfilehash: 316dc8efbe69057f049bf8fadd3c3f41c358a33e
+ms.sourcegitcommit: 6003d6da0a85c97357eb3dba3918eb145f381fe1
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 05/15/2019
-ms.locfileid: "34074260"
+ms.lasthandoff: 09/27/2019
+ms.locfileid: "37287962"
 ---
 # <a name="how-do-protection-features-in-microsoft-365-business-map-to-intune-settings"></a>A Microsoft 365 Business védelmi funkcióinak megfelelő Intune-beállítások
 
@@ -37,7 +33,7 @@ Az alábbi táblázat részletesen ismerteti, hogy az Android és az iOS alkalma
   
 Ha meg szeretné keresni az Intune-beállítást, miközben be van jelentkezve a Microsoft 365 Business rendszergazdai hitelesítő adataival, nyissa meg a **Felügyeleti központokat**, majd az **Intune-t**.
   
- **Fontos:** Microsoft 365 üzleti előfizetés Intune beállításainak módosítása licencet biztosít. Lásd a [bemutatása a kezdéshez Intune.](https://docs.microsoft.com/intune/introduction-intune)
+ **Fontos:** A Microsoft 365 Business előfizetés egy licencet biztosít az összes Intune-beállítás módosítására. Az elinduláshoz tekintse meg az [Intune bemutatása](https://docs.microsoft.com/intune/introduction-intune) című témakört.
   
 Kattintson a kijelölni kívánt házirend nevére (például Alkalmazás-házirend Android-eszközhöz), majd válassza a **Házirend-beállítások** lehetőséget.
   
@@ -68,7 +64,7 @@ Az **Office-fájlok mobileszközökön történő elérésének felügyelete** c
 
 Az alábbi táblázat részletesen ismerteti, hogy a Windows 10-es alkalmazásházirend-beállítások hogyan felelnek meg az Intune-beállításoknak.
   
-Az Intune keresése jelentkezve Microsoft Business-365 rendszergazdai hitelesítő adatait, amíg a beállítás [Azure portal](https://portal.azure.com), majd **További szolgáltatások**kijelölése, és írja be a **szűrő**történő Intune jelölje ki **Intune App védelem** \> ** Alkalmazás-házirend**.
+Az Intune-beállítás megkereséséhez, miközben bejelentkezett a Microsoft 365 üzleti rendszergazdai hitelesítő adataival, látogasson el az [Azure portálra](https://portal.azure.com), majd válassza ki a **további szolgáltatásokat**, és a **szűrőbe**írja be az Intune beállítást, majd válassza az **Alkalmazásvédelem** \> ** Alkalmazásházirend**.
   
  **Fontos:** A Microsoft 365 Vállalati verziós előfizetések olyan licencet nyújtanak, amely csak a Microsoft 365 Vállalati verzióban elérhető beállításokra vonatkozó Intune-beállítások módosítására szolgál. 
   
@@ -88,7 +84,7 @@ Kattintson a kijelölni kívánt házirend nevére, és az elérhető beállít�
 
 Az alábbi táblázat részletesen ismerteti, hogy a Windows 10 rendszerű eszköz konfigurációs beállításai hogyan felelnek meg az Intune-beállításoknak.
   
-Az Intune keresése jelentkezve Microsoft Business-365 rendszergazdai hitelesítő adatait, amíg a beállítás [Azure portal](https://portal.azure.com), majd **További szolgáltatások**kijelölése, és írja be a **szűrő**történő Intune jelölje ki **Intune** \> **eszköz konfigurációs** \> **profilokat**. Then select **Device policy for Windows 10** \> **Properties** \> **Settings**.
+Az Intune-beállítás megkereséséhez, miközben bejelentkezett a Microsoft 365 üzleti rendszergazdai hitelesítő adataival, látogasson el az [Azure portálra](https://portal.azure.com), majd válassza ki a **további szolgáltatásokat**, és a **szűrőbe**írja be a **Intune beállítást, majd válassza** \> az **eszköz konfigurációs** \> **profilokat**. Then select **Device policy for Windows 10** \> **Properties** \> **Settings**.
   
 |**Eszközházirend Windows 10-es eszközhöz**|**Intune-beállítás(ok)**|
 |:-----|:-----|

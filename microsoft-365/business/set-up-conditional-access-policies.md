@@ -11,21 +11,18 @@ ms.collection:
 - Adm_O365
 - M365-subscription-management
 - M365-identity-device-management
-ms.custom:
-- Adm_O365
-- MiniMaven
-- MSB365
+ms.custom: OKR_SMB_M365
 search.appverid:
 - BCS160
 - MET150
 - MOE150
 description: Útmutató a Microsoft 365 kampányok feltételes hozzáférési házirendjeinek beállításához.
-ms.openlocfilehash: 614e3a6e13a14114f40ecf87bf936d4165744503
-ms.sourcegitcommit: 91ff1d4339f0f043c2b43997d87d84677c79e279
+ms.openlocfilehash: dbb5231032d2faef0a7ecb2734226b34290c70bf
+ms.sourcegitcommit: 6003d6da0a85c97357eb3dba3918eb145f381fe1
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2019
-ms.locfileid: "36982381"
+ms.lasthandoff: 09/27/2019
+ms.locfileid: "37288615"
 ---
 # <a name="set-up-conditional-access-policies"></a>Feltételes hozzáférési házirendek beállítása
 
@@ -34,10 +31,10 @@ A [feltételes hozzáférésű](https://docs.microsoft.com/azure/active-director
 Ezek a házirendek megkövetelik a rendszergazdákról és a felhasználóktól, hogy egy második hitelesítési formát (többtényezős hitelesítést vagy MFA) adjon meg, ha bizonyos feltételek teljesülnek. Ha például egy felhasználó egy másik országból jelentkezik be, a bejelentkezés kockázatosnak tekinthető, és a felhasználónak meg kell adnia egy további hitelesítési formát. 
 
 Jelenleg az alábbi alapirányelvek tartalmazzák a következőket:
-- A **rendszergazdák számára az MFA megkövetelése** – többtényezős hitelesítést igényel a legkiváltságosabb rendszergazdai szerepkörökhöz, beleértve a globális rendszergazdát is.
+- **Megkövetel MFA részére admins** — megkövetel multi--tényező hitelesítés részére a leg--bb kiváltságos ügyintéző szerepek, beleértve világ-ügyintéző.
 - **Végfelhasználói védelem** – csak akkor igényel többtényezős hitelesítést a felhasználóknak, ha a bejelentkezés kockázatos. 
 - **Örökölt hitelesítés blokkolása** — a régebbi ügyfélalkalmazások és néhány új alkalmazás nem használ újabb, biztonságosabb hitelesítési protokollokat. Ezek a régebbi alkalmazások megkerülhetik a feltételes hozzáférési házirendeket, és jogosulatlan hozzáférést nyerhetnek a környezetéhez. Ez a házirend blokkolja a feltételes hozzáférést nem támogató ügyfélszámítógépekről való hozzáférést. 
-- **Az MFA Szolgáltatáskezelés** futtatásához szükséges – többtényezős hitelesítést igényel a kezelőeszközök eléréséhez, beleértve az Azure portált is (ahol az alaptervi házirendeket konfigurálja). 
+- **Szükséges az MFA szolgáltatás kezelése** – ehhez többtényezős hitelesítésre van szükség a kezelőeszközök számára, beleértve az Azure portált is (ahol az alaptervi házirendeket konfigurálja). 
 
 A Microsoft az alábbi alapházirendek használatát javasolja. Miután ezek a házirendek engedélyezve vannak, a rendszer megkérdezi az adminisztrátorokat és a felhasználókat, hogy regisztrálják-e az Azure Multii-Factor hitelesítést.
 
@@ -52,9 +49,9 @@ További információt ezekről a házirendekkel kapcsolatban: [Mik az alaptervi
     ![A feltételes hozzáférésű alaptervi házirendeket tartalmazó lap.](media/baslinepolicies.png)
 1. Az egyes házirendek esetében tekintse meg a következő konkrét utasításokat:
 
-  - [Az MFA megkövetelése az adminoknak](https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/howto-baseline-protect-administrators)
-- [Az MFA megkövetelése a felhasználóknak](https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/howto-baseline-protect-end-users)  
+  - [MFA megkövetelése az adminoknak](https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/howto-baseline-protect-administrators)
+- [A felhasználók számára az MFA megkövetelése](https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/howto-baseline-protect-end-users)  
  - [Örökölt hitelesítés blokkolása](https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/howto-baseline-protect-legacy-auth)
-  - [Az MFA Szolgáltatáskezelés megkövetelése](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-azure)
+  - [Az MFA megkövetelése a Szervizkezelés számára](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-azure)
 
 Számos további házirend is beállítható, például a jóváhagyott ügyfélalkalmazások megkövetelése. További információt a [feltételes hozzáférésű dokumentációban](https://docs.microsoft.com/azure/active-directory/conditional-access/) talál.

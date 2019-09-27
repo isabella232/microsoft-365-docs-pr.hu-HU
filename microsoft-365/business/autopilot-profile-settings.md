@@ -15,23 +15,19 @@ ms.collection:
 - Adm_O365
 - M365-subscription-management
 - M365-identity-device-management
-ms.custom:
-- Adm_O365
-- Core_O365Admin_Migration
-- MiniMaven
-- MSB365
+ms.custom: OKR_SMB_M365
 search.appverid:
 - BCS160
 - MET150
 - MOE150
 ms.assetid: 99bfbf81-e719-4630-9b0f-c187edfa1f8a
-description: Automata profilok segítségével szabályozhatja, hogyan kap a Windows telepítése a felhasználói eszközök. A profilok alapértelmezett tartalmaznak, és egyéb beállítások, például Cortana telepítésének kihagyása.
-ms.openlocfilehash: adc8112861b67fd96a91ff24dc155aeb0c394532
-ms.sourcegitcommit: 66bb5af851947078872a4d31d3246e69f7dd42bb
+description: A robotpilóta-profilok segítségével szabályozhatja, hogyan lesz telepítve a Windows a felhasználói eszközökre. A profilok olyan alapértelmezett és választható beállításokat tartalmaznak, mint a Cortana-telepítés kihagyása.
+ms.openlocfilehash: cd66627943301f4a4f2410bafeff6074919ec29d
+ms.sourcegitcommit: 6003d6da0a85c97357eb3dba3918eb145f381fe1
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 05/15/2019
-ms.locfileid: "34071860"
+ms.lasthandoff: 09/27/2019
+ms.locfileid: "37287475"
 ---
 # <a name="about-autopilot-profile-settings"></a>Az AutoPilot-profil beállításai
 
@@ -44,7 +40,7 @@ Az AutoPilot-profilok segítségével szabályozhatja a Windows felhasználói e
 |**Beállítás**|**Leírás**|
 |:-----|:-----|
 |A Cortana, a OneDrive és az OEM-regisztráció kihagyása  <br/> |A telepítő nem telepíti a Cortanához és a személyes OneDrive-hoz hasonló fogyasztói appokat. Az eszköz felhasználója később telepítheti őket, ha helyi rendszergazda az eszközön. Az eredeti gyártó regisztrálása azért marad ki, mert az eszközt a Microsoft 365 Business fogja kezelni.  <br/> |
-|Céges bejelentkezési felület  <br/> |Ha a vállalat rendelkezik az [Office 365 bejelentkezési lapra védjegyezés hozzáadása a vállalat](https://support.office.com/article/a1229cdb-ce19-4da5-90c7-2b9b146aef0a), az eszköz felhasználói tapasztalatok kap történő bejelentkezés során.  <br/> |
+|Céges bejelentkezési felület  <br/> |Ha a vállalata a [vállalat márkajelzését hozzáadja az Office 365 bejelentkezés laphoz](https://support.office.com/article/a1229cdb-ce19-4da5-90c7-2b9b146aef0a), akkor az eszköz felhasználója ezt a tapasztalatot bejelentkezéskor fogja kapni.  <br/> |
 |Automatikus regisztrálás mobileszköz-kezelésre a konfigurált Azure Active Directory-fiókokkal  <br/> |A felhasználó identitását az Azure Active Directory fogja kezelni, és a felhasználók a Microsoft 365 Business-beli hitelesítő adataikkal fognak bejelentkezni a Windowsba és az Office 365-be.  <br/> |
    
  **Nem kötelező beállítások:**

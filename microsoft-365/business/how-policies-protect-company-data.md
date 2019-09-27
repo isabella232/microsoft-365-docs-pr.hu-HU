@@ -12,23 +12,19 @@ f1_keywords:
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: M365-subscription-management
-ms.custom:
-- Adm_O365
-- Core_O365Admin_Migration
-- MiniMaven
-- MSB365
+ms.custom: OKR_SMB_M365
 search.appverid:
 - BCS160
 - MET150
 - MOE150
 ms.assetid: 665485be-2389-4f1d-9ef8-dbef19c6acdf
-description: Tudnivalók a házirendek, amelyek bizonyos eszközöket és biztonsági csoportok védelme érdekében a vállalati adatok a felhasználó személyes eszközök.
-ms.openlocfilehash: ee7a0a1a397d7f527c3db16520ba157168cfbee3
-ms.sourcegitcommit: 66bb5af851947078872a4d31d3246e69f7dd42bb
+description: Ismerje meg a meghatározott eszközöket és biztonsági csoportokat tároló házirendeket a vállalati adatoknak a felhasználó személyes eszközeivel való védelme érdekében.
+ms.openlocfilehash: a34d0a83f10aba1bf9bffb2b81907d7629344665
+ms.sourcegitcommit: 6003d6da0a85c97357eb3dba3918eb145f381fe1
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 05/15/2019
-ms.locfileid: "34072640"
+ms.lasthandoff: 09/27/2019
+ms.locfileid: "37288076"
 ---
 # <a name="how-policies-in-microsoft-365-business-protect-company-data"></a>Hogyan védik a házirendek a céges adatokat a Microsoft 365 Businessben
 

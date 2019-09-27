@@ -1,5 +1,5 @@
 ---
-title: Fenyegetés növelhető a Microsoft 365 üzleti
+title: Növelje a Microsoft 365 Business fenyegetettség elleni védelmét
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
@@ -10,229 +10,227 @@ localization_priority: Normal
 ms.collection:
 - M365-subscription-management
 - M365-identity-device-management
-ms.custom:
-- MiniMaven
-- MSB365
+ms.custom: OKR_SMB_M365
 search.appverid:
 - BCS160
 - MET150
-description: Állítsa be az Office 365 speciális veszély védelmi, és a bizalmas adatok védelme.
-ms.openlocfilehash: b6e9941eee9de4f295b0f8056c1c91b7076e530c
-ms.sourcegitcommit: 7ac06563c6ff034358e8fd3f9298fc426187ade2
+description: Állítsa be az Office 365 fejlett Fenyegetésvédelmet, és őrizzék meg a bizalmas adatokat.
+ms.openlocfilehash: 81197a8baf1c4d0cbfd898c41a305c1a99bab57c
+ms.sourcegitcommit: 6003d6da0a85c97357eb3dba3918eb145f381fe1
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 05/31/2019
-ms.locfileid: "35086343"
+ms.lasthandoff: 09/27/2019
+ms.locfileid: "37288115"
 ---
-# <a name="increase-threat-protection"></a>Fenyegetés növelhető.
+# <a name="increase-threat-protection"></a>Növeli a fenyegetettséget
 
-Ez a cikk segítséget nyújt a Microsoft 365 előfizetése adathalász, malware és egyéb fenyegetések elleni védelme növelése. Ezeket az ajánlásokat is megfelelő szervezetek számára a biztonság, mint jogi irodák és egészségügyi klinikák fokozott szükségességét.
+Ez a cikk segítséget nyújt a Microsoft 365-előfizetés védelmének növelésben az adathalászat, a rosszindulatú programok és egyéb fenyegetések elleni védekezéshez. Ezek az ajánlások alkalmasak a szervezetek fokozott biztonsági igény, mint a ügyvédi irodák, és az egészségügyi klinikák.
 
-Mielőtt elkezdené, ellenőrizze az Office 365 biztonságos pontszám. Office 365 biztonságos pontszám alapján rendszeres tevékenységek és a biztonsági beállítások az Office 365 szervezet biztonsági elemzi, és hozzárendel egy pontszámot. Első lépésként a pillanatnyi pontszámunkat tudomásul véve. A cikkben javasolt műveletek végrehajtása a számítógép pontszáma növekszik. Célja nem a maximális pontszám elérése érdekében, de ne feledje, a környezet védelme érdekében a lehetőségek, amelyek negatívan befolyásolja a felhasználók számára a termelékenység. 
+Mielőtt elkezdené, ellenőrizze az Office 365 biztonságos pontszámát. Hivatal 365 biztosít pont elemez-a Hivatal 365 szervezetek ' biztonság azon alapszik-a szabályos tevékenységek és biztonság elintézés és átruház egy pont. Kezdje azzal, hogy tudomásul veszi a jelenlegi pontszám. Figyelembe az intézkedések ajánlott ebben a cikkben növeli a pontszámot. A cél nem az, hogy elérjék a maximális pontszámot, de tudatában kell lennie a lehetőségeket, hogy megvédjük a környezetet, amely nem negatívan befolyásolja a termelékenységet a felhasználók számára. 
 
-További tudnivalókért tanulmányozza [A Microsoft biztonságos pontszám](https://docs.microsoft.com/en-us/office365/securitycompliance/microsoft-secure-score).
+További információt a [Microsoft biztonságos pontszám](https://docs.microsoft.com/en-us/office365/securitycompliance/microsoft-secure-score)című témakörben talál.
 
-## <a name="raise-the-level-of-protection-against-malware-in-mail"></a>A levelek a kártevők elleni védelem szintjének emelése
+## <a name="raise-the-level-of-protection-against-malware-in-mail"></a>A rosszindulatú programok elleni védelem szintjének emelése a mail-ben
 
-Az Office 365 vagy Microsoft 365 környezetben a kártevők elleni védelem magában foglalja, de a védelem tovább növelhető, kártevő általánosan használt fájltípusok a mellékletek blokkolását. E-mailben a rosszindulatú programok elleni védekezés növelése:
+-A Hivatal 365 vagy Mikroszkóp 365 környezet beleértve védelem ellen malware, csak te tud növekszik ez védelem mellett eltorlaszolás egybefűzés-val reszelő jellegek amit van általában használt részére malware. A rosszindulatú szoftverek védelmének növelése az e-mailben:
   
-1. Ugrás a [https://protection.office.com](https://protection.office.com) , és jelentkezzen be a rendszergazdai fiók hitelesítő adatait. 
+1. Megy [https://protection.office.com](https://protection.office.com) és jel-ban-val-a admin számla megbízólevél. 
     
-2. Az Office 365 a &amp; Megfelelési központba, a bal oldali navigációs ablaktábla **fenyegetés kezelése**, válassza **a házirend** \> **Kártevőirtó**.
+2. Az Office &amp; 365 biztonsági megfelelőségi központ bal oldali navigációs ablaktábláján a **fenyegetéskezelés**alatt válassza a **házirend** \> **anti-malware**.
     
-3. Kattintson duplán az alapértelmezett házirend a vállalati szintű házirendet kíván módosítani.
+3. A vállalati szintű házirend szerkesztéséhez kattintson duplán az alapértelmezett házirendra.
     
-4. Kattintson a **Beállítások**gombra.
+4. Kattintson a **beállításokra**.
     
-5. ** **Általános melléklet típusú szűrő**csoportban jelölje be.** A blokkolt fájltípusok közvetlenül alatt ez a vezérlő az ablakban jelennek meg.  Ellenőrizze, e fájl típusai:
-   - ADE, adp, ani, bas, bat, chm, cmd, com, cpl, crt, hlp, ht, hta, inf, modulok, isp, feladat, js, jse, lnk, mda, mdb, mde, mdz, msc, msi, msp, mst, pcd, reg, scr, sct, shs, url, vb, vbe, vbs, wsc, wsf, wsh, exe, pif  <br/> Adjunk hozzá, vagy később, törölje a fájltípusok, szükség esetén.
+5. A **gyakori melléklettípusok szűrője**területen válassza **a**be-t. A letiltott fájltípusokat a közvetlenül a vezérlő alatt található ablak sorolja fel.  Győződj meg ön összead ezek filetypes:
+   - ade, ADP, Ani, BAS, bat, chm, cmd, com, cpl, CRT, hlp, HT, HTA, inf, ins, ISP, munka, js, JSE, lnk, MDA, mdb, MDE, mdz, MSC, MSI, MSP, MST, PCD, reg, SCR, SCT, SHS, URL, VB, VBE, vbs, wsc, wsf, WSH, exe, PIF  <br/> Szükség esetén később is hozzáadhat és törölhet fájltípusokat.
     
-6. Kattintson a **menteni.**
+6. Kattintson a **Mentés gombra.**
     
-További információért lásd: [Anti-malware védelem](https://go.microsoft.com/fwlink/?linkid=2015692&amp;clcid=0x409).
+További információt a kártevők elleni [védelem](https://go.microsoft.com/fwlink/?linkid=2015692&amp;clcid=0x409)című témakörben talál.
   
-## <a name="protect-against-ransomware"></a>Ransomware elleni védelem
+## <a name="protect-against-ransomware"></a>Elleni védelem ransomware
 
-Ransomware korlátozza a hozzáférést a adatok által titkosított fájlok, vagy zárolni szeretné a számítógép képernyőjén. Majd megpróbálja extort a pénzt az áldozatok azzal, hogy "ransom," általában Bitcoin, mint cryptocurrencies cserébe adatokhoz való hozzáférés formájában. 
+Ransomware korlátoz belépés-hoz adat mellett encrypting fájlokat vagy elzárás számítógép ernyőz. Ezt követően megpróbálja kicsikarni pénzt az áldozatok kérnek "váltságdíjat," általában a formájában cryptovaluták, mint a Bitcoin, cserébe az adatokhoz való hozzáférés. 
   
-Ransomware elleni védekezésként egy vagy több levelezési folyamat szabályok (ezek kerültek a [mail a kártevők elleni védelem szintjének emelése](#raise-the-level-of-protection-against-malware-in-mail) lépés) ransomware általánosan használt fájlkiterjesztések le, vagy ezek kapó felhasználók figyelmeztetés létrehozása mellékletek, e-mailben.
+Tudod megvéd ellen ransomware mellett teremtő egy vagy több felad folyik szabályok-hoz fatuskó reszelő kiterjesztés amit van általában használt részére ransomware (ezek voltak hozzáadott-ban [emelés a szint-ból védelem ellen malware-ban felad](#raise-the-level-of-protection-against-malware-in-mail) lép), vagy-hoz figyelmeztet használók ki kap ezek mellékleteket e-mailben.
 
-Az előző lépésben blokkolt fájlok mellett tanácsos is makrókat tartalmazó Office fájl mellékletek megnyitása előtt figyelmeztesse a felhasználókat szabály létrehozásához. Ransomware belül, a makrók lehet elrejteni, azt fogja figyelmeztetni a felhasználókat a személyek nem tudják megnyitni ezeket a fájlokat.
+Az előző lépésben blokkolt fájlokon kívül célszerű létrehozni egy olyan szabályt is, amely figyelmezteti a felhasználókat, mielőtt megnyitják az Office fájlmellékleteit, makrókat. Ransomware lehet elrejtve makrók, így figyelmezteti a felhasználókat, hogy ne nyissa meg ezeket a fájlokat az emberek nem tudják.
 
-Mail közlekedési szabály létrehozásához:
+Levelezési átviteli szabály létrehozása:
   
-1. Ugrás az admin center <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a> , és válassza a **Admin-centers** \> **Exchange**.
+1. Menj <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a> az Admin Center és válassza az **Admin Centers** \> **Exchange**.
     
-2. A **levelezés** kategóriában kattintson a **szabályok**gombra.
+2. A **levélforgalom** kategóriában kattintson a **szabályok**elemre.
     
-3. Kattintson a **+**, majd kattintson az **Új szabály létrehozása**.
+3. Kattintson **+** az gombra, majd kattintson **az új szabály létrehozása**parancsra.
     
-4. Kattintson a **További beállítások** a párbeszédpanel alján tekintheti meg a beállítások teljes készletének. 
+4. Kattintson a párbeszédpanel alján található **További beállítások** elemre a teljes beállításkészlet megtekintéséhez. 
     
-5. Az alábbi táblázat a szabályhoz tartozó beállításokat alkalmazza. A többi beállítást hagyja az alapértelmezett, kivéve, ha meg szeretnénk változtatni ezeket.
+5. Alkalmazza a következő táblázatban található beállításokat a szabályhoz. Hagyja a többi beállítást az alapértelmezetten, hacsak nem szeretné ezeket módosítani.
     
 6. Kattintson a **Mentés** gombra.
     
-|**Beállítás**|**A mellékletek az Office-fájlok megnyitása előtt figyelmeztesse a felhasználókat**||
+|**Beállítás**|**A felhasználók figyelmeztetése az Office-fájlok mellékleteinek megnyitása előtt**||
 |:-----|:-----|:-----|
-|Name (Név)  <br/> |Anti-ransomware szabály: figyelmeztesse a felhasználókat  <br/>  |
-|Ha a szabályt alkalmazni. . .  <br/> |Mellékletek. . . fájlkiterjesztés megfelel-e. . .  <br/> |
-|Adja meg a szavak vagy kifejezések  <br/> |Ezek a fájltípusok hozzáadása:  <br/> dotm, docm, xlsm, sltm, xla, xlam, xll, pptm, potm, ppam, ppsm, sldm  <br/>|
-|Tegye a következőket. . .  <br/> |Az üzenetet a címzett értesítés  <br/> |
-|Adja meg az üzenet szövegét  <br/> |Ilyen típusú fájlokat nem tudja, mert a rosszindulatú kódot tartalmazó makrókat tartalmaz személyektől nem nyitható meg.  <br/> |
+|Name (Név)  <br/> |Anti-ransomware szabály: figyelmeztesse a felhasználók  <br/>  |
+|Alkalmazza ezt a szabályt. . .  <br/> |Bármilyen mellékletet. . . fájlkiterjesztés megegyezik. . .  <br/> |
+|Szavak vagy kifejezések megadása  <br/> |Adja hozzá ezeket a fájltípusokat:  <br/> dotm, docm, xlsm, sltm, xla, xlam, XLL, PPTM, potm, ppam, ppsm, sldm  <br/>|
+|Tegye a következőt. . .  <br/> |Üzenet értesítése a címzettről  <br/> |
+|Üzenetszöveg biztosítása  <br/> |Ne nyissa meg az ilyen típusú fájlokat olyan személyeknél, akiket nem ismer, mert olyan makrókat tartalmazhatnak, amelyek kártékony kódot tartalmaznak.  <br/> |
    
 További információ:
   
-- [Ransomware kezelése](https://go.microsoft.com/fwlink/?linkid=2016501&amp;clcid=0x409)
+- [Hogyan kezeljük a ransomware](https://go.microsoft.com/fwlink/?linkid=2016501&amp;clcid=0x409)
     
-- [A OneDrive visszaállítása](https://support.office.com/article/fa231298-759d-41cf-bcd0-25ac53eb8a15.aspx)
+- [Visszaad-a OneDrive](https://support.office.com/article/fa231298-759d-41cf-bcd0-25ac53eb8a15.aspx)
     
 
 
-## <a name="stop-auto-forwarding-for-email"></a>E-mail automatikus továbbítását leállítása
+## <a name="stop-auto-forwarding-for-email"></a>Automatikus továbbítás leállítása e-mailhez
 
-Illetéktelen behatolóktól, akik hozzáférhetnek a felhasználói postafiók is ellophatják a levelek a szolgáltatással automatikusan továbbíthatja az e-mail postafiók megadásával. Ez akkor fordulhat elő, a felhasználói tudatosság nélkül is. Akkor is akadályozható ez mail Attribútumfolyam-szabály megadásával. 
+Bárdok ki elnyer belépés-hoz egy használók ' postaláda tud lop-a felad mellett elintézés a postaláda-hoz gépiesen továbbít elektronikus levél. Ez történhet még a felhasználó figyelmének felkeltése nélkül is. Ez az üzenet-folyamatszabály beállításával előzheti meg ezt a folyamatot. 
   
-Mail közlekedési szabály létrehozásához [a rövid](https://support.office.com/article/f9d693ba-5c78-47c0-b156-8e461e062aa7) videó, vagy kövesse az alábbi lépéseket:
+Levélátviteli szabály létrehozásához tekintse meg [ezt a rövid videót](https://support.office.com/article/f9d693ba-5c78-47c0-b156-8e461e062aa7) , vagy kövesse az alábbi lépéseket:
   
-1. A Microsoft 365 felügyeleti központban kattintson a **Admin-centers** \> **Exchange**.
+1. A Microsoft 365 Admin Center letöltőközpontban kattintson az **Admin Centers** \> **Exchange**elemre.
     
-2. A **levelezés** kategóriában kattintson a **szabályok**gombra.
+2. A **levélforgalom** kategóriában kattintson a **szabályok**elemre.
     
-3. Kattintson a **+**, majd kattintson az **Új szabály létrehozása**.
+3. Kattintson **+** az gombra, majd kattintson **az új szabály létrehozása**parancsra.
     
-4. Kattintson a **További beállítások** a párbeszédpanel alján tekintheti meg a beállítások teljes készletének. 
+4. Kattintson a párbeszédpanel alján található **További beállítások** elemre a teljes beállításkészlet megtekintéséhez. 
     
-5. Az alábbi táblázatban szereplő beállításokat alkalmazza. A többi beállítást hagyja az alapértelmezett, kivéve, ha meg szeretnénk változtatni ezeket.
+5. Alkalmazza a beállításokat a következő táblázatban. Hagyja a többi beállítást az alapértelmezetten, hacsak nem szeretné ezeket módosítani.
     
 6. Kattintson a **Mentés** gombra.
     
-|**Beállítás**|**A mellékletek az Office-fájlok megnyitása előtt figyelmeztesse a felhasználókat**|
+|**Beállítás**|**A felhasználók figyelmeztetése az Office-fájlok mellékleteinek megnyitása előtt**|
 |:-----|:-----|
-|Name (Név)  <br/> |E-mail automatikus továbbítását külső tartományokba megakadályozása  <br/> |
-|Ha a szabály alkalmazása...  <br/> |A feladó. . . külső és belső. . . A szervezeten belül  <br/> |
-|Feltétel hozzáadása  <br/> |Az üzenet tulajdonságai. . . az üzenet típusát tartalmazza. . . Automatikus továbbítás  <br/> |
-|Tegye a következőket...  <br/> |Tiltsa le az üzenetet. . . el az üzenetet, és annak magyarázatát tartalmazza.  <br/> |
-|Adja meg az üzenet szövegét  <br/> |A szervezeten kívüli automatikus továbbítási e-mail biztonsági okok miatt letiltja.  <br/> |
+|Name (Név)  <br/> |E-mailek külső tartományokra történő automatikus továbbításának megakadályozása  <br/> |
+|Alkalmazza ezt a szabályt, ha...  <br/> |A feladó. . . külső/belső. . . Szervezeten belül  <br/> |
+|Feltételfeltétel hozzáadása  <br/> |Az üzenettulajdonságok. . . tartalmazza az üzenettípust. . . Automatikus továbbítás  <br/> |
+|Tegye a következőt...  <br/> |Blokkolja az üzenetet. . . elutasíthatjuk az üzenetet, és magyarázatot is tartalmazniuk kell.  <br/> |
+|Üzenetszöveg biztosítása  <br/> |E-mailek automatikus továbbítása a szervezeten kívülre nem biztonsági okokból akadályoztatva van.  <br/> |
 
 
-## <a name="protect-your-email-from-phishing-attacks"></a>Az e-mail az adatlopási támadások elleni védelme
+## <a name="protect-your-email-from-phishing-attacks"></a>Védje meg e-mail adathalász támadások
 
-Ha egy vagy több egyéni tartományok beállítása az Office 365 vagy Microsoft 365 környezettől, beállíthatja a célzott adatlopás elleni védelem. ATP adatlopás elleni védelem, része az Office 365 speciális veszély védelmi, módszer segít megvédeni a szervezet a megszemélyesítés-alapú phishing rosszindulatú támadások és egyéb adathalászati célú támadások. Ha még nem konfigurált egyéni tartományban, nem szükséges ehhez.
+Ha egy vagy több egyéni tartományt konfigurál az Office 365 vagy a Microsoft 365 környezethez, beállíthatja a célzott adathalászat elleni védelmet. ATP anti-phishing védelem, része Hivatal 365 haladó fenyeget védelem, tud segít megvéd-a szervezet-ból kaján megszemélyesítés-kiindulópontul szolgáló phishing támadás és más phishing támadás. Ha nem konfigurált egy egyéni tartományt, akkor nem kell ezt megtennie.
   
-Azt javasoljuk, hogy az első lépések megtétele a megjelölt védelemmel rendelkező védelme érdekében a legfontosabb felhasználók és az egyéni tartomány házirend létrehozásával. 
+Javasoljuk, hogy a védelem elkezdésével hozzon létre egy házirendet a legfontosabb felhasználók és az egyéni tartományok védelmének érdekében. 
 
   
-Az ATP adathalászat-házirend létrehozásához [a rövid videó képzés](https://support.office.com/article/86c425e1-1686-430a-9151-f7176cce4f2c)nézni, vagy hajtsa végre az alábbi lépéseket:
+Az ATP-ellenes irányelvek létrehozásához tekintse meg ezt a [rövid oktató videót](https://support.office.com/article/86c425e1-1686-430a-9151-f7176cce4f2c), vagy hajtsa végre az alábbi lépéseket:
   
 1. Nyissa meg a [https://protection.office.com](https://protection.office.com) lapot. 
     
-2. Az Office 365 a &amp; Megfelelési központba, a bal oldali navigációs ablaktábla **fenyegetés kezelése**, válassza **a házirend**.
+2. Az Office 365 biztonsági &amp; megfelelőségi központ bal oldali navigációs ablakában a **fenyegetéskezelés**területen válassza a **házirend**-t.
     
-3. A **házirend** lapon válassza az **ATP adathalászat**.
+3. A **házirend** lapon válassza az **ATP-ellenes adathalászat**programot.
     
-4. Az **Adathalászat -** oldalon válassza az **+ létrehozása**. Elindul egy varázsló, amely végigvezeti az adathalászat-házirend meghatározása.
+4. Az **adathalászat elleni** lapon válassza a **+ Létrehozás**. Egy varázsló indítja el az adathalászat-ellenes házirend definiálásához szükséges lépéseket.
     
-5. Adja meg a nevét, leírását és a javasolt az alábbi diagram zónáiba házirend beállításait. További részletekért lásd: [ATP adathalászat - házirend beállításaival kapcsolatos további tudnivalók](https://go.microsoft.com/fwlink/?linkid=2016505&amp;clcid=0x409) . 
+5. Adja meg az alábbi grafikon által javasolt házirend nevét, leírását és beállításait. További tudnivalókért tanulmányozza az [ATP-ellenes házirend beállításainak](https://go.microsoft.com/fwlink/?linkid=2016505&amp;clcid=0x409) ismertetése című témakört. 
     
-6. Miután elolvasta a beállításokat, válassza **a házirend létrehozása** és **mentése**, szükség szerint.
+6. Miután áttekintette a beállításokat, válassza **a házirend létrehozása** vagy az adott esetben **Mentés**beállítást.
     
 
-|**Beállítás, illetve az option**<br/>|**Javasolt beállítás** <br/>|
+|**Beállítás vagy beállítás**<br/>|**Ajánlott beállítás** <br/>|
 |:-----|:-----|
-|Name (Név)  <br/> |Tartomány- és legértékesebb kampány személyzeti  <br/> |
-|Leírás  <br/> |Legfontosabb személyzet és a tartományban vannak nem megszemélyesített biztosítása érdekében.  <br/> |
-|A felhasználók hozzáadása  <br/> |Válassza **+ egy feltétel, a címzett hozzáadása**. Írja be a felhasználóneveket, vagy adja meg az e-mail címet, a jelölt, kampány-kezelő és egyéb fontos a személyzet tagjai. Megszemélyesítés védeni kívánt legfeljebb 20 külső és belső címeket adhat meg.  <br/> |
-|Tartományok védelme  <br/> |Válassza ki a **+ Hozzáadás a feltétel, a címzett tartományhoz**. Ha egy adott Microsoft 365 előfizetése társított egyéni tartomány megadása Több tartományt is megadhat.  <br/> |
-|Válassza a műveletek  <br/> |Ha egy megszemélyesített felhasználó által küldött e-mail: válassza a **Redirect üzenetet egy másik e-mail címet**, és írja be az e-mail címet, a biztonsági rendszergazda; például *Anna<span><span>@contoso.com*.          Ha e-mailben küld egy megszemélyesített tartomány: válassza ki a **Karantén üzenet**.  <br/> |
-|Postaláda intelligencia  <br/> |Alapértelmezés szerint a postafiók intelligencia új adathalászat-házirend létrehozásakor van jelölve. Hagyja **ezt a beállítást a legjobb eredmény elérése érdekében** .  <br/> |
-|Adja hozzá a megbízható feladók és tartományok  <br/> |Itt adhat meg a saját tartomány és a megbízható tartományokban.  <br/> |
-|Alkalmazott  <br/> |Válassza ki **a címzett tartománya**. **Ezek**jelölje be a **választ**. Válassza ki a **+ Hozzáadás**. Jelölje be a jelölőnégyzetet az a tartomány nevét, például *contoso.<span> <span>com*, a listában, és válassza a **Hozzáadás**. Válassza ki a **kész**.  <br/> |
+|Name (Név)  <br/> |Domainben és legértékesebb kampányában  <br/> |
+|Leírás  <br/> |Biztosítani kell a legfontosabb személyzet és a mi domain nem megszemélyezett.  <br/> |
+|Védjük a felhasználókat  <br/> |Select **+ feltétel hozzáadása, a címzett**. Írja be a felhasználóneveket, vagy írja be a pályázó, a kampányigazgató és más fontos munkatársak e-mail címét. Legfeljebb 20 olyan belső és külső címet adhat meg, amelyeket védeni szeretne a megszemélyesítésről.  <br/> |
+|Tartományok hozzáadása a védelmhez  <br/> |Select **+ feltétel hozzáadása, a címzett tartománya**. Adja meg a Microsoft 365 előfizetéshez tartozó egyéni tartományt, ha definiált egyet. Egynél több tartományt is megadhat.  <br/> |
+|Válasszon műveleteket!  <br/> |Ha az e-maileket egy megszemélyesítő felhasználó küldi: válassza az **üzenet átirányítása másik e-mail címre**lehetőséget, majd írja be a biztonsági rendszergazda e-mail címét; például *Alice<span><span>@contoso. com*.          Ha az e-maileket egy megszemélyezett tartomány küldi: válassza a **karantén üzenet**lehetőséget.  <br/> |
+|Postaláda-intelligencia  <br/> |Ha új adathalászat-ellenes házirendet hoz létre, a postaláda-intelligencia alapértelmezés szerint ki van választva. Hagyja ezt a **beállítást a** legjobb eredmény.  <br/> |
+|Megbízható feladók és tartományok hozzáadása  <br/> |Itt adhatja hozzá saját tartományát vagy bármely más megbízható tartományt.  <br/> |
+|Alkalmazva  <br/> |Jelölje ki **a címzetttartományt**. A **fentiek bármelyikén**válassza a **választ**. Válasszuk a **+ hozzáad** Jelölje be a tartomány neve melletti jelölőnégyzetet, például *contoso.<span> com <span>*,-ban oldalra dől, aztán kiválaszt **összead**. Válassza a **Done (kész**)-t.  <br/> |
    
-További információért lásd az [Office 365 ATP adathalászat - házirendek beállítása](https://go.microsoft.com/fwlink/?linkid=2016505&amp;clcid=0x409).
+További információ: az [Office 365 az ATP adathalászat elleni házirendek beállítása](https://go.microsoft.com/fwlink/?linkid=2016505&amp;clcid=0x409).
   
-## <a name="protect-against-malicious-attachments-and-files-with-atp-safe-attachments"></a>Ártalmas mellékleteket és ATP biztonságos mellékleteket tartalmazó fájlok elleni védelme
+## <a name="protect-against-malicious-attachments-and-files-with-atp-safe-attachments"></a>Védelmet nyújt a kártékony mellékletek és a fájlok az ATP biztonságos mellékletek
 
-Személyek rendszeresen megküldik, kap, és ossza mellékletek, például a dokumentumok, bemutatók, számolótáblák és több. Nincs mindig állapítható meg, hogy e melléklet biztonságos vagy rosszindulatú e-mail üzenetet ránézésre csak egyszerű. Office 365 speciális veszély védelmi védelem ATP biztonságos mellékletet tartalmaz, de a védelem nincs alapértelmezés szerint bekapcsolva. Javasoljuk, hogy a védelem használatának megkezdéséhez új szabályt hoz létre. Ezt a védelmet fájlok a SharePoint, a OneDrive és a Microsoft Teams terjed.
+Az emberek rendszeresen küldhetnek, fogadhatnak és megoszthat mellékleteket, például dokumentumokat, bemutatókat, táblázatokat stb. Nem mindig könnyű megmondani, hogy egy mellékletet biztonságos vagy rosszindulatú pusztán megnézi az e-mail üzenetet. Hivatal 365 haladó fenyeget védelem beleértve ATP biztos egybefűzés védelem, de ez védelem van nem esztergált-ra mellett hiba. Ajánlott egy új szabályt létrehozni a védelem használatának megkezdéséhez. Ez a védelem kiterjed a SharePoint, az OneDrive és a Microsoft csapatok fájljaihoz is.
   
-Az ATP biztonságos melléklet házirend létrehozásához vagy [a rövid](https://support.office.com/article/e7e68934-23dc-4b9c-b714-e82e27a8f8a5)videó, vagy hajtsa végre az alábbi lépéseket:
+Az ATP-biztonságos mellékletre vonatkozó házirend létrehozásához tekintse meg [ezt a rövid videót](https://support.office.com/article/e7e68934-23dc-4b9c-b714-e82e27a8f8a5), vagy hajtsa végre az alábbi lépéseket:
   
-1. Ugrás a [https://protection.office.com](https://protection.office.com) , és jelentkezzen be a rendszergazdai fiók. 
+1. Lépjen be [https://protection.office.com](https://protection.office.com) és jelentkezzen be rendszergazdai fiókával. 
     
-2. Az Office 365 a &amp; Megfelelési központba, a bal oldali navigációs ablaktábla **fenyegetés kezelése**, válassza **a házirend**.
+2. Az Office 365 biztonsági &amp; megfelelőségi központ bal oldali navigációs ablakában a **fenyegetéskezelés**területen válassza a **házirend**-t.
     
-3. A házirend lapon válassza a **biztonságos mellékletek ATP**.
+3. A házirend lapon válassza az **ATP-mellékleteket**.
     
-4. A biztonságos mellékletek lapon alkalmazni ezt a védelmet nagyjából **bekapcsolása a SharePoint, a OneDrive, és a Microsoft csapatok ATP** jelölőnégyzet bejelölésével. 
+4. A biztonságos mellékletek lapon ezt a védelmet nagyjából alkalmazza a **SharePoint, az OneDrive és a Microsoft csapatok esetén az ATP bekapcsolása** jelölőnégyzet bejelölésével. 
     
-5. Válassza ki **+** hozzon létre egy új házirendet. 
+5. Bejelölésével **+** új házirendet hozhat létre. 
     
-6. Az alábbi táblázatban szereplő beállításokat alkalmazza. 
+6. Alkalmazza a beállításokat a következő táblázatban. 
     
-7. Miután elolvasta a beállításokat, válassza **a házirend létrehozása** és **mentése**, szükség szerint.
+7. Miután áttekintette a beállításokat, válassza **a házirend létrehozása** vagy az adott esetben **Mentés**beállítást.
     
 
-|**Beállítás, illetve az option**|**Javasolt beállítás** <br/>|
+|**Beállítás vagy beállítás**|**Ajánlott beállítás** <br/>|
 |:-----|:-----|
-|Name (Név)  <br/> |Tiltsa le a jelenlegi és jövőbeli tartalmazó e-mailek észlelt kártevő.  <br/> |
-|Leírás  <br/> |Jelenlegi és jövőbeli e-mailek és észlelt kártevő mellékletek blokkolása.  <br/> |
-|Ismeretlen malware válasz mellékletek mentése  <br/> |Válassza a **blokk - a jelenlegi és jövőbeli e-mailek és az észlelt kártevő mellékletek blokkolása**.  <br/> |
-|Melléklet a észlelési átirányítása  <br/> |Átirányítás engedélyezése (jelölje be a) adja meg a rendszergazda fiók, illetve a postaláda beállítása karantén.          A fenti kijelölést alkalmazza, ha a mellékletek keres malware időtúllépés vagy hiba lép fel (akkor válassza ezt a mezőt).  <br/> |
-|Alkalmazott  <br/> |A címzett tartománya. . . Jelölje ki a tartományt.  <br/> |
+|Name (Név)  <br/> |Blokkolja a jelenlegi és a jövőbeli e-maileket észlelt malware.  <br/> |
+|Leírás  <br/> |Fatuskó időszerű és jövő elektronikus levél és egybefűzés-val kinyomoz malware.  <br/> |
+|Mellékletek mentése ismeretlen malware-válasz  <br/> |Kiválaszt **fatuskó-fatuskó a időszerű és jövő elektronikus levél és egybefűzés-val kinyomoz malware**.  <br/> |
+|Az észlelést átirányító csatolás  <br/> |Átirányítás engedélyezése (jelölje be ezt a négyzetet) adja meg a rendszergazda fiókot, vagy egy postaláda-beállítást a karanténhoz.          Alkalmazza a fenti kiválasztási, ha malware fürkésző a mellékletek alkalommal, vagy hiba történik (jelölje be ezt a négyzetet).  <br/> |
+|Alkalmazva  <br/> |A címzetttartomány. . . Válassza ki a tartományt.  <br/> |
    
-További információért lásd az [Office 365 ATP adathalászat - házirendek beállítása](https://go.microsoft.com/fwlink/?linkid=2016505&amp;clcid=0x409).
+További információ: az [Office 365 az ATP adathalászat elleni házirendek beállítása](https://go.microsoft.com/fwlink/?linkid=2016505&amp;clcid=0x409).
   
 
 
-## <a name="protect-against-phishing-attacks-with-atp-safe-links"></a>ATP biztonságos hivatkozásokkal adathalászati célú támadások elleni védelem
+## <a name="protect-against-phishing-attacks-with-atp-safe-links"></a>Adathalász támadások elleni védelem az ATP-kompatibilis hivatkozásokkal
 
-A támadók néha elrejtése a hivatkozások e-mailben vagy más fájlok rosszindulatú webhelyek. Office 365 ATP biztonságos kapcsolatok (ATP biztonságos hivatkozások) része az Office 365 speciális veszély védelmi, védekezhet a szervezet azáltal, hogy a webcímeket (URL) ellenőrzése időt, kattintson az Office dokumentumok és e-mailek. Védelem ATP biztonságos kapcsolatok házirendeken keresztül történik.
+Bárdok néha eldug kaján websites-ban láncszemek-ban elektronikus levél vagy más fájlokat. Hivatal 365 ATP biztos láncszemek (ATP biztos láncszemek), része Hivatal 365 haladó fenyeget védelem, tud segít megvéd-a szervezet mellett felszerelt idő--ból-kettyenés beigazolódás-ból pókháló címek (URLs)-ban elektronikus levél üzenet és Hivatal okiratok. A védelem az ATP Safe Links irányelvei segítségével határozható meg.
   
-Azt javasoljuk, hogy tegye a következőket:
+A következő műveleteket javasoljuk:
   
-- Módosítsa az alapértelmezett házirend növelhető.
+- Módosítsa az alapértelmezett házirendet a védelem növeléséhez.
     
-- Adjunk hozzá egy új házirendet a tartomány összes címzett célzott.
+- Adjon hozzá egy új házirendet a tartomány összes címzettjének.
     
-ATP biztonságos kapcsolatok beállításához tekintse meg [a rövid videó képzés](https://support.office.com/article/61492713-53c2-47da-a6e7-fa97479e97fa), vagy hajtsa végre az alábbi lépéseket:
+Az ATP-biztos hivatkozások beállításához tekintse meg [ezt a rövid oktató videót](https://support.office.com/article/61492713-53c2-47da-a6e7-fa97479e97fa), vagy hajtsa végre az alábbi lépéseket:
   
-1. Ugrás a [https://protection.office.com](https://protection.office.com) , és jelentkezzen be a rendszergazdai fiók. 
+1. Lépjen be [https://protection.office.com](https://protection.office.com) és jelentkezzen be rendszergazdai fiókával. 
     
-2. Az Office 365 a &amp; Megfelelési központba, a bal oldali navigációs ablaktábla **fenyegetés kezelése**, válassza **a házirend**.
+2. Az Office 365 biztonsági &amp; megfelelőségi központ bal oldali navigációs ablakában a **fenyegetéskezelés**területen válassza a **házirend**-t.
     
-3. A házirend lapon válassza a **Biztonságos kapcsolatok ATP**.
+3. A házirend lapon válassza az **ATP-biztos hivatkozások**parancsát.
     
 Az alapértelmezett házirend módosítása:
   
-1. **Az egész szervezetre érvényes házirendek**, a biztonságos kapcsolatok lapon jelölje be az **alapértelmezett** házirend. 
+1. A biztonságos hivatkozások lapon a **teljes szervezetre vonatkozó házirendek**területen jelölje ki az **alapértelmezett** házirendet. 
     
-2. **Tartalom e-mail kivételével érvényes beállítások**csoportban jelölje be az **Office 365 ProPlus, iOS és Android**.
+2. Alatt **elintézés amit alkalmaz-hoz elégedett kivéve elektronikus levél**, kiválaszt **Hivatal 365 ProPlus, hivatal részére iOS és Android**.
     
 3. Kattintson a **Mentés** gombra. 
     
-A tartomány összes címzett célzott új házirend létrehozása:
+A tartomány összes címzettjének tervezett új házirend létrehozása:
   
-1. Kattintson a biztonságos kapcsolatok lap **, amely az egész szervezetre érvényes házirendek**, **+** hozzon létre egy új házirendet. 
+1. A biztonságos hivatkozások lapon a **teljes szervezetre vonatkozó házirendek**csoportban kattintson az elemre **+** új házirend létrehozásához. 
     
-2. A következő táblázatban felsorolt beállításokat alkalmazza.
+2. Alkalmazza a következő táblázatban felsorolt beállításokat.
     
 3. Kattintson a **Mentés** gombra. 
 
-|**Beállítás, illetve az option**|**Javasolt beállítás** <br/>|
+|**Beállítás vagy beállítás**|**Ajánlott beállítás** <br/>|
 |:-----|:-----|
-|Name (Név)  <br/> |Biztonságos kapcsolatok csoportházirend a tartomány összes címzett  <br/> |
-|Jelölje ki a műveletet ismeretlen potenciálisan rosszindulatú URL-címeket az üzenetek  <br/> |Válassza ki az **- URL-címek fog írni, és összeveti az ismert rosszindulatú hivatkozásokat, amikor a felhasználó a hivatkozásra kattint**.  <br/> |
-|Biztonságos mellékletek segítségével letölthető tartalom beolvasása  <br/> |Jelölje be ezt a jelölőnégyzetet.  <br/> |
-|Alkalmazott  <br/> |A címzett tartománya. . . Jelölje ki a tartományt.  <br/> |
+|Name (Név)  <br/> |A tartomány összes címzettjének biztonságos csatolásokra vonatkozó házirendje  <br/> |
+|Az üzenetekben lévő ismeretlen potenciálisan kártékony URL-címekre vonatkozó művelet kiválasztása  <br/> |Select **on-URL-eket kell átírni, és ellenőrzik egy listát az ismert rosszindulatú linkek, amikor a felhasználó rákattint a linkre**.  <br/> |
+|A biztonságos mellékletek használata letölthető tartalmak beolvasásához  <br/> |Jelölje be ezt a négyzetet.  <br/> |
+|Alkalmazva  <br/> |A címzetttartomány. . . Válassza ki a tartományt.  <br/> |
    
-További információ: az [Office 365 ATP biztonságos kapcsolatok](https://go.microsoft.com/fwlink/?linkid=2016138&amp;clcid=0x409).
+További információ: [Office 365 ATP-biztos hivatkozások](https://go.microsoft.com/fwlink/?linkid=2016138&amp;clcid=0x409).
 
-## <a name="go-to-intune-admin-center"></a>Ugrás az Intune admin center
+## <a name="go-to-intune-admin-center"></a>Tovább az Intune admin Centerbe
 
-1. [Borzas portal](https://portal.azure.com/)bejelentkezni.
+1. Jelentkezz be az [Azure portálra](https://portal.azure.com/).
 
-2. Válassza ki **az összes szolgáltatás** és típus *Intune* a **Keresés mezőbe**.
+2. Kiválaszt **minden szolgáltatás** és begépel *Intune* -ban **kutatás doboz**.
 
-3. Után az eredmények megjelenítéséhez kattintson a start **Microsoft Intune** teszi a kedvenc tovább és könnyen megjegyezhető.
+3. Miután az eredmények jelennek meg, kattintson a Start mellett a **Microsoft Intune** , hogy ez egy kedvenc és könnyen megtalálhatja később.
 
-Az admin center mellett Intune segítségével igényelhetnek, és a szervezet eszközök kezelése. További tudnivalókért lásd: [Windows eszközök tanúsítványigénylési módszer lehetőségeit](https://docs.microsoft.com/intune/enrollment-method-capabs) és a [beiktatási beállítások Intune által kezelt eszközök](https://docs.microsoft.com/intune/enrollment-options).
+Az admin központ mellett az Intune segítségével is regisztrálhatja és kezelheti a szervezet eszközeit. További információt a Windows- [eszközök tanúsítványigénylési módszerével](https://docs.microsoft.com/intune/enrollment-method-capabs) és az [Intune által kezelt eszközök tanúsítványigénylési beállításaival](https://docs.microsoft.com/intune/enrollment-options)kapcsolatban a szolgáltatások című témakörben talál.

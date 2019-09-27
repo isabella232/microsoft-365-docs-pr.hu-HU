@@ -10,22 +10,18 @@ localization_priority: Normal
 ms.collection:
 - M365-subscription-management
 - M365-identity-device-management
-ms.custom:
-- Adm_O365
-- Core_O365Admin_Migration
-- MiniMaven
-- MSB365
+ms.custom: OKR_SMB_M365
 search.appverid:
 - BCS160
 - MET150
 ms.assetid: 9b4de218-f1ad-41fa-a61b-e9e8ac0cf993
 description: Útmutató a Microsoft 365 a helyi AD-hez csatlakozott Windows 10-eszközök védelmének engedélyezéséhez.
-ms.openlocfilehash: 15804a0bd6cf9d013c5138470aa4a4a7acec57e1
-ms.sourcegitcommit: 08c334b754bd6d64375b33d91a972a31f2f309cb
+ms.openlocfilehash: d1dbfc6a35d54db653ae0f911fad05ac2ce0a993
+ms.sourcegitcommit: 6003d6da0a85c97357eb3dba3918eb145f381fe1
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/21/2019
-ms.locfileid: "37100441"
+ms.lasthandoff: 09/27/2019
+ms.locfileid: "37288035"
 ---
 # <a name="enable-domain-joined-windows-10-devices-to-be-managed-by-microsoft-365-business"></a>A tartományhoz csatlakoztatott Windows 10-es eszközök kezelésének engedélyezése a Microsoft 365 Vállalati verzió számára
 
@@ -71,7 +67,7 @@ Ha már meglévő, tartományhoz csatlakoztatott Windows 10-eszközt szeretne re
     
 ## <a name="4-enable-automatic-enrollment-for-windows-10"></a>4. engedélyezze az automatikus igénylést a Windows 10
 
- A Windows 10 eszköznek az Intune mobil eszközkezeléséhez történő automatikus igényléséhez olvassa el a [Windows 10 eszköz regisztrálása a csoportházirenddel automatikusan](https://docs.microsoft.com/windows/client-management/mdm/enroll-a-windows-10-device-automatically-using-group-policy)című témakört. A csoportházirendet helyi számítógép szinten, illetve tömeges műveletek esetén a csoportházirendet a Csoportházirend kezelése konzollal és az ADMX-sablonok segítségével is létrehozhatja a tartományvezérlőn.
+ A Windows 10 eszköznek az Intune mobil eszközkezeléséhez történő automatikus igényléséhez olvassa el a [Windows 10 eszköz regisztrálása a csoportházirenddel automatikusan](https://docs.microsoft.com/windows/client-management/mdm/enroll-a-windows-10-device-automatically-using-group-policy)című témakört. A csoportházirendet helyi számítógép szinten, illetve tömeges műveletek esetén a csoportházirendet a Csoportházirend kezelése konzollal és az ADMX-sablonok használatával is létrehozhatja a tartományvezérlőn.
 
 ## <a name="5-configure-seamless-single-sign-on"></a>5. a zökkenőmentes egyszeri bejelentkezés beállítása
 

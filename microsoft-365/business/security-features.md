@@ -10,21 +10,18 @@ localization_priority: Normal
 ms.collection:
 - M365-subscription-management
 - M365-security-compliance
-ms.custom:
-- Core_O365Admin_Migration
-- MiniMaven
-- MSB365
+ms.custom: OKR_SMB_M365
 search.appverid:
 - BCS160
 - MET150
 ms.assetid: c123694a-1efb-459e-a8d5-2187975373dc
 description: Ismerje meg a Microsoft 365 Business biztonsági szolgáltatásait.
-ms.openlocfilehash: 6b8fc215b95913e1beef3a3715119b947a7af406
-ms.sourcegitcommit: 7690c8bfdea6e6d245cfa7c5b09b913b092cde0a
+ms.openlocfilehash: 8e45d5fdb6a78f3966c46542189aa30ddd80998e
+ms.sourcegitcommit: 6003d6da0a85c97357eb3dba3918eb145f381fe1
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/23/2019
-ms.locfileid: "37121158"
+ms.lasthandoff: 09/27/2019
+ms.locfileid: "37288455"
 ---
 # <a name="microsoft-365-business-security-and-compliance-features"></a>Mikroszkóp 365 teendő biztonság és engedékenység jellegét meghatározza
 
@@ -93,7 +90,7 @@ A Microsoft 365 Business továbbfejlesztett szolgáltatásai segítenek megvéde
 
 A Microsoft 365 üzleti előfizetés olyan szolgáltatásokat tartalmaz, amelyek segítenek fenntartani a megfelelést és a szabályozási szabványokat.
 
-- **[Az adatvesztés megelőzésére vonatkozó szakpolitikák áttekintése](https://support.office.com/article/1966b2a7-d1e2-4d92-ab61-42efbb137f5e)** (DLP). 
+- **[Az adatvesztés-megelőzési politikák áttekintése](https://support.office.com/article/1966b2a7-d1e2-4d92-ab61-42efbb137f5e)** (DLP). 
     
     Tudod felállít DLP-hoz gépiesen kinyomoz érzékeny információ, szeret hitelkártya számok, társadalmi biztonság számok, stb.-hoz megakadályoz-uk figyelmetlen cserépdarab külső rész-a társaság.
     

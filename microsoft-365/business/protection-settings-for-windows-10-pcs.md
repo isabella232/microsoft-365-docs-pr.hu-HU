@@ -10,21 +10,18 @@ localization_priority: Normal
 ms.collection:
 - M365-subscription-management
 - M365-identity-device-management
-ms.custom:
-- Core_O365Admin_Migration
-- MiniMaven
-- MSB365
+ms.custom: OKR_SMB_M365
 search.appverid:
 - BCS160
 - MET150
 ms.assetid: bd66c26c-73a4-45a8-8642-3ea4ee7cd89d
-description: Alapértelmezett és más Microsoft 365 üzleti Windows 10 eszközök biztonságos beállítások ismertetése
-ms.openlocfilehash: 844bddc4b93c7dc543ad6c6a79f5cf92c96ceff0
-ms.sourcegitcommit: 0c1227dc79b66bab529bf178c5672791369ba471
+description: Ismerje meg a Microsoft 365 Business rendszerben elérhető alapértelmezett és egyéb beállításokat a Windows 10 eszközök biztonságossá tétele érdekében.
+ms.openlocfilehash: 11042a63c1c0938d73ee8c2ee4326430af31b92d
+ms.sourcegitcommit: 6003d6da0a85c97357eb3dba3918eb145f381fe1
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 07/11/2019
-ms.locfileid: "35630609"
+ms.lasthandoff: 09/27/2019
+ms.locfileid: "37288685"
 ---
 # <a name="set-device-protection-settings-for-windows-10-pcs"></a>Eszközvédelmi beállítások megadása Windows 10-es PC-khez
 
@@ -34,9 +31,9 @@ Nézze meg ezt a videót a Windows 10-es eszközök biztonságos használatáró
   
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/a5734146-620a-4cec-8618-536b3ca37972?autoplay=false]
   
-1. Ugrás az admin center <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>. 
+1. Menj az admin központba <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>. 
     
-2. A bal oldali navigációs sáv, válassza az **eszközök** \> **politika** \> **hozzáadása**.
+2. Kattintson a bal oldali NAV \> **eszközházirendek** \> **hozzáadása**parancsára. ****
   
 3. A **Házirend felvétele** ablaktáblában adja meg a házirend egyedi nevét. 
     

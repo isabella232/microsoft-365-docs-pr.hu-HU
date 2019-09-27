@@ -1,5 +1,5 @@
 ---
-title: Beállítása – áttekintés
+title: A beállítás áttekintése
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
@@ -13,74 +13,71 @@ localization_priority: Normal
 ms.collection:
 - Adm_O365
 - M365-subscription-management
-ms.custom:
-- Adm_O365
-- Core_O365Admin_Migration
-- MSB365
+ms.custom: OKR_SMB_M365
 search.appverid:
 - BCS160
 - MET150
 ms.assetid: 6e7a2dfd-8ec4-4eb7-8390-3ee103e5fece
-description: A Microsoft 365 üzleti lépések létrehozott áttekintése.
-ms.openlocfilehash: ae7ed0aab36a6e759e0f0c1fbc3d3183273a284e
-ms.sourcegitcommit: 66bb5af851947078872a4d31d3246e69f7dd42bb
+description: A Microsoft 365 Business által létrehozott lépések áttekintése.
+ms.openlocfilehash: f156d236a783942ec06d457c9b7ca087d12d6f58
+ms.sourcegitcommit: 6003d6da0a85c97357eb3dba3918eb145f381fe1
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 05/15/2019
-ms.locfileid: "35086340"
+ms.lasthandoff: 09/27/2019
+ms.locfileid: "37288575"
 ---
-# <a name="overview-of-setup"></a>A telepítő áttekintése
+# <a name="overview-of-setup"></a>A beállítás áttekintése
 
-Lépéseket beállítása a legtöbb elvégezhető a telepítő varázsló, de az egyéb beállítások is szerepelnek.
+A legtöbb beállítási lépés elvégezhető a telepítővarázslóban, de a többi beállítás is listázható.
 
 
-## <a name="step-1-add-your-domain-and-users"></a>1. lépés: A tartomány és a felhasználó hozzáadása
+## <a name="step-1-add-your-domain-and-users"></a>1. lépés: a tartomány és a felhasználók hozzáadása
 
-   - **[A tartomány hozzáadása](set-up.md#add-your-domain-to-personalize-sign-in)** (a domain [regisztráció](sign-up.md)során vásárolt, ha ez a lépés már megtörtént.)
+   - **[Add hozzá a domain](set-up.md#add-your-domain-to-personalize-sign-in)** (ha vásárolta a domain [regisztráció](sign-up.md)során, ez a lépés már megtörtént.)
 
-    - **Felhasználók hozzáadása**. Ez a három módokon teheti meg:
-        - A [varázsló](set-up.md#add-users-in-the-wizard).
-        - Ha a helyszíni Active directory [Azure AD csatlakozás segítségével a felhasználók](https://docs.microsoft.com/office365/enterprise/set-up-directory-synchronization) hozzáadása a címtárszinkronizálás használata
-        - Is [újabb felhasználók hozzáadása](add-users-m365b.md) a felügyeleti központban.
-## <a name="step-2-set-up-security-policies-and-configure-devices"></a>2. lépés: Állítsa be a biztonsági házirendek és eszközök konfigurálása 
+    - **Hozzáadhatnak felhasználókat**. Ezt megteheti a következő három módon:
+        - A [varázslóban](set-up.md#add-users-in-the-wizard).
+        - Ha intézményi Active Directory címtárral rendelkezik, a címtár-szinkronizálás segítségével [felhasználókat adhat hozzá az azúrkék ad Connect alkalmazással](https://docs.microsoft.com/office365/enterprise/set-up-directory-synchronization) .
+        - Később az admin központban is [hozzáadhat felhasználókat](add-users-m365b.md) .
+## <a name="step-2-set-up-security-policies-and-configure-devices"></a>2. lépés: biztonsági házirendek beállítása és eszközök konfigurálása 
 
-  - A [telepítő varázsló](set-up.md#set-up-security-policies-and-device-configurations) segítségével konfigurálhatja az eszköz és a biztonsági házirendek. 
-  - Több hozzáadása vagy később a [felügyeleti központ](view-policies-and-devices.md) és az [Intune portal](https://docs.microsoft.com/intune/tutorial-walkthrough-intune-portal)szerkeszthetők is.
-  - A telepítő varázsló a biztonsági beállítások mellett az alábbi beállítások hozzáadásával növelheti a biztonsági:
+  - Az eszköz-és biztonsági házirendek konfigurálásához használja a [telepítővarázslót](set-up.md#set-up-security-policies-and-device-configurations) . 
+  - Később az [Admin központban](view-policies-and-devices.md) és az [Intune portálon](https://docs.microsoft.com/intune/tutorial-walkthrough-intune-portal)is hozzáadhat további, vagy szerkesztheti azokat.
+  - A Beállításvarázsló biztonsági beállításai mellett a következő beállítások hozzáadásával növelheti biztonságát:
 
-      - **E-mail rosszindulatú programok elleni védekezés**
-      - **Speciális veszély védelmi (ATP) biztonságos kapcsolatok**
-      - **ATP biztonságos mellékletek**
-      - **ATP-adathalászat**
+      - **E-mail malware-védelem**
+      - **Speciális Veszélyvédelmi (ATP) hivatkozások**
+      - **ATP-biztos mellékletek**
+      - **ATP anti-phishing**
       - **Exchange Online Archiválás**
       - **Adatvesztés megelőzése (DLP)**
-      - **Borzas információk védelméről (Plan1**)
+      - **Azure információvédelem (Plan1**)
 
-          Get elindítani a [Speciális biztonsági házirendek beállítása](set-up-advanced-security.md)című témakörben talál.
+          A kezdéshez tekintse [meg a speciális biztonsági házirendeket](set-up-advanced-security.md).
 
-        Lásd még: [365 a Microsoft üzleti biztonságos felső 10 mód](https://docs.microsoft.com/office365/admin/security-and-compliance/secure-your-business-data) a legjobb biztonsági gyakorlatok ütemterv.
+        Lásd még a [10 legjobb módja a Microsoft 365 Business biztonságának](https://docs.microsoft.com/office365/admin/security-and-compliance/secure-your-business-data) a legjobb biztonsági gyakorlatok útitervében való biztonságossá tétele érdekében.
 
-## <a name="step-3-set-up-and-manage-windows-10-devices"></a>3. lépés: Állítsa be, és a Windows 10 eszközök kezelése
+## <a name="step-3-set-up-and-manage-windows-10-devices"></a>3. lépés: a Windows 10-eszközök beállítása és kezelése
 
-   Ha eszköz Windows 10 Azure ad, a házirendek beállítása a [2](#step-2-set-up-security-policies-and-configure-devices) a rendszer alkalmazza azt.
+   Amikor csatlakozunk egy Windows 10 készüléket Azure AD-hez, a [2](#step-2-set-up-security-policies-and-configure-devices) .
 
-   - Windows 10 Pro egy [előfeltételként](pre-requisites-for-data-protection.md) Microsoft 365 üzleti, de ha Windows 7 Pro, Windows 8 Pro vagy Pro Windows 8.1-, az előfizetés feljogosítja a, hogy [frissítsen a Windows 10 Pro](https://docs.microsoft.com/microsoft-365/business/upgrade-to-windows-pro-creators-update).
-    - A [telepítő varázsló](set-up.md#set-up-security-policies-and-device-configurations) segítségével konfigurálja a Windows 10 eszközök.
+   - Windows 10 Profi van egy [előtti-követelmény](pre-requisites-for-data-protection.md) részére Mikroszkóp 365 teendő, de ha önnek van Windows 7 profi, Windows 8 profi, vagy Windows 8,1 Profi,-a aláírás feljogosítja ön-hoz egy [feljavít-hoz Windows 10 profi](https://docs.microsoft.com/microsoft-365/business/upgrade-to-windows-pro-creators-update).
+    - A Windows 10 eszközök házirendjeinek konfigurálásához használja a [telepítővarázslót](set-up.md#set-up-security-policies-and-device-configurations) .
 
-## <a name="stes-4-install-office-365-business"></a>Stes 4: Telepítse az Office 365 üzleti
-- A [telepítő varázsló](set-up.md#deploy-office-365-client-apps)segítségével a Windows-eszközök automatikusan telepíthető Office.
-- Automatikusan [az Office telepítése](auto-install-or-uninstall-office.md) az admin center.
-- Lehetővé teszik a felhasználók [Office alkalmazások telepítése](https://docs.microsoft.com/office365/admin/setup/install-applications) a Windows és az eszközök.
+## <a name="stes-4-install-office-365-business"></a>Stes 4: telepítse az Office 365 Business
+- Az Office-eszközöket a [telepítővarázslóval](set-up.md#deploy-office-365-client-apps)automatikusan is telepítheti a Windows-eszközökön.
+- Gépiesen [felszerel hivatal](auto-install-or-uninstall-office.md) -ból admin központ.
+- A felhasználók [telepíthetik az Office-alkalmazásokat](https://docs.microsoft.com/office365/admin/setup/install-applications) a Windows és az eszközök számára.
      
 ## <a name="advanced"></a>Speciális
-- **Automata segítségével állítsa be az új eszközök**
+- **A robotpilóta használata új eszközök beállításához**
             
-     [Windows automata](add-autopilot-devices-and-profile.md) segítségével automatikusan előre konfigurálja egy felhasználó **Új** Windows 10 eszközök, de lehet egyszerűbben, egy [partner](https://www.microsoft.com/solution-providers/search) , aki teheti meg. Ugrás a [Microsoft Store](https://go.microsoft.com/fwlink/?linkid=874598) is, és kérje meg a felhő technológia szakértői vásárol meg az új eszközök beállítása.
+     A [Windows automatikus vezérlőt](add-autopilot-devices-and-profile.md) használhatja a felhasználó számára az **új** Windows 10 eszköz automatikus konfigurálására, de egyszerűbb lehet olyan [partnert](https://www.microsoft.com/solution-providers/search) kérni, aki ezt megteheti. Ön is látogasson el a [Microsoft Store](https://go.microsoft.com/fwlink/?linkid=874598) , és kérje a felhő-technológiai szakértő létrehozott új eszközöket vásárol az Ön számára.
 
-- **Helyi erőforrások eléréséhez.**
+- **Az intézményi erőforrások elérése**
 
-     - Ha a szervezet használja a Windows Server Active Directory helyszíni, állíthat be Microsoft 365 üzleti védelme érdekében a Windows 10 eszközök továbbra is fenntartva helyi hitelesítést igénylő helyszíni erőforrásokhoz való hozzáférést. Kövesse a [Microsoft 365 üzleti által kezelt tartományhoz tartozó Windows 10 eszközök engedélyezése](manage-windows-devices.md) meg. Ez a javasolt módszer és eszközök ebben az állapotban úgynevezett hibrid Azure AD eszközöket csatlakozott.
+     - Ha a szervezet helyi Windows Server Active Directoryt használ, beállíthatja a Microsoft 365 Business rendszert, hogy védje a Windows 10 eszközeit, miközben továbbra is fenntartja az intézményi erőforrásokhoz való hozzáférést, amelyekhez szükség van lokális hitelesítésre. Hajtsa végre a [Microsoft 365 Business által felügyelt, tartományhoz csatlakoztatott Windows 10 eszközök engedélyezésére](manage-windows-devices.md) vonatkozó lépéseket. Ez az adott állapotú módszer és eszközök a hibrid Azure rendszerű hirdetési eszközök.
 
-    - Ha a vállalatnál a helyi Active Directory, amely tartalmazza az egyes helyi erőforrásokat (például fájlmegosztásokat és nyomtatókat), a Borzas AD csatlakoztatott eszközök hozzáférést biztosíthat a forrásokhoz való lépések itt: [Access helyszíni erőforrásokat egy 365 üzleti Microsoft Azure AD csatlakozott eszköz](access-resources.md).
+    - Ha vállalkozása olyan helyi Active Directoryval rendelkezik, amely intézményi erőforrásokat (például fájlmegosztásokat vagy nyomtatókat) tartalmaz, akkor az azúrkék AD-illesztett eszközök ezekhez az erőforrásokhoz való hozzáférését az alábbi lépések végrehajtásával adhatja meg: az [intézményi erőforrások elérése egy Azúrkék hirdetés-összekapcsolt berendezés-ban Mikroszkóp 365 teendő](access-resources.md).
 
   

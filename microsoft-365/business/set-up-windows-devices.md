@@ -10,21 +10,18 @@ localization_priority: Normal
 ms.collection:
 - M365-subscription-management
 - M365-identity-device-management
-ms.custom:
-- Core_O365Admin_Migration
-- MiniMaven
-- MSB365
+ms.custom: OKR_SMB_M365
 search.appverid:
 - BCS160
 - MET150
 ms.assetid: 2d7ff45e-0da0-4caa-89a9-48cabf41f193
-description: 'Megtudhatja, hogyan állíthatja be a Windows-eszközök Windows 10 Pro futó Microsoft 365 üzleti felhasználók számára. '
-ms.openlocfilehash: 5efe3aa1e329e7a9edcfd49fcc1f1391f95fd97f
-ms.sourcegitcommit: 66bb5af851947078872a4d31d3246e69f7dd42bb
+description: 'Útmutató a Windows 10 Pro és a Microsoft 365 üzleti felhasználók számára működő Windows-eszközök beállításához. '
+ms.openlocfilehash: c4edd09d952ed1c98be8f41f6bcbaff8a16319a7
+ms.sourcegitcommit: 6003d6da0a85c97357eb3dba3918eb145f381fe1
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 05/15/2019
-ms.locfileid: "34074550"
+ms.lasthandoff: 09/27/2019
+ms.locfileid: "37288475"
 ---
 # <a name="set-up-windows-devices-for-microsoft-365-business-users"></a>Windows rendszerű eszközök beállítása a Microsoft 365 Business felhasználóinak
 
@@ -36,7 +33,7 @@ Ha Ön Windows 7 Pro, Windows 8 Pro vagy Windows 8.1 Pro rendszerű Windows-eszk
   
 Ha többet szeretne megtudni arról, hogy hogyan frissítheti Windows-eszközeit a Windows 10 Pro alkotói frissítésére, kövesse a következő témakörben szereplő lépéseket: [Windows-eszközök frissítése a Windows Pro alkotói frissítésére](upgrade-to-windows-pro-creators-update.md).
   
-Lásd: [Ellenőrizze Azure AD az eszköz csatlakoztatva van](#verify-the-device-is-connected-to-azure-ad) , ellenőrizze a frissítés, vagy ellenőrizze, hogy a frissítés dolgozott. 
+Lásd: [az eszköz ellenőrzése csatlakoztatva van azúrkék HIRDETÉSRE](#verify-the-device-is-connected-to-azure-ad) , hogy ellenőrizze, rendelkezik-e a frissítéssel, vagy hogy működik-e a frissítés. 
   
 ## <a name="join-windows-10-devices-to-your-organizations-azure-ad"></a>Windows 10-es eszközök csatlakoztatása a szervezet Azure AD szolgáltatásához
 
@@ -82,7 +79,7 @@ A Windows 10 Pro alkotói frissítését futtató vadonatúj eszköz, illetve eg
   
    ![Enter your work or school email on the Let's get you signed in page](media/f70eb148-b1d2-4ba3-be38-7317eaf0321a.png)
   
-6. **Győződjön meg arról, hogy ez a szervezet** lapon ellenőrizze, hogy az adatok helyesek, és kattintsunk a **Csatlakozás**gombra.
+6. A győződjön meg róla, hogy **Ez a szervezet** lapja, ellenőrizze, hogy az adatok helyesek-e, majd kattintson a **Csatlakozás**gombra.
   
    A **Minden készen áll** lapon kattintson a **Kész** elemre.
   

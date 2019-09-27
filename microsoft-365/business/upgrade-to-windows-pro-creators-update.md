@@ -8,40 +8,37 @@ ms.topic: article
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: M365-subscription-management
-ms.custom:
-- Adm_O365
-- Core_O365Admin_Migration
-- MSB365
+ms.custom: OKR_SMB_M365
 search.appverid:
 - MET150
 - MOE150
 ms.assetid: ffc4d886-9e1d-453d-a0d0-2f62f18635e2
-description: 'Útmutató a Windows eszközök frissítsen Windows 10 Pro alkotók frissítés. '
-ms.openlocfilehash: baa0dd6ad1c91a0ad7497ce9496681eb87e65d87
-ms.sourcegitcommit: 66bb5af851947078872a4d31d3246e69f7dd42bb
+description: 'Útmutató a Windows-eszközök Windows 10 Pro alkotók frissítéséhez történő frissítéséhez. '
+ms.openlocfilehash: 95efe45ec43c027ff62b0468e0cfb1fbcc7b60bf
+ms.sourcegitcommit: 6003d6da0a85c97357eb3dba3918eb145f381fe1
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 05/15/2019
-ms.locfileid: "34074340"
+ms.lasthandoff: 09/27/2019
+ms.locfileid: "37288095"
 ---
 # <a name="upgrade-windows-devices-to-windows-pro-creators-update"></a>Windows-eszközök frissítése a Windows Pro alkotói frissítésére
 
-## <a name="upgrade-to-windows-10-pro-creators-update"></a>Frissítés Windows 10 Pro alkotók frissítése
+## <a name="upgrade-to-windows-10-pro-creators-update"></a>Feljavít-hoz Windows 10 profi teremtők korszerűsíteni
   
-1. Frissítsen a Windows 10 Pro alkotók frissítés, többféle lehetőség van. képes vagy:
+1. -Hoz feljavít-hoz Windows 10 profi teremtők korszerűsíteni, Önnek van több választások. képes vagy:
     
-    - A frissítés telepítése a [Microsoft szoftver letöltési hely](https://go.microsoft.com/fwlink/?LinkID=836951 ) - válassza ezt a lehetőséget, ha az eszköz a naplózott mint frissíteni kívánja az adott eszközön.
+    - A frissítés telepítése a [Microsoft szoftverletöltési webhelyről](https://go.microsoft.com/fwlink/?LinkID=836951 ) -akkor válassza ezt a lehetőséget, ha a bejelentkezett eszköz ugyanazon az eszközön van, mint amelyet frissíteni szeretne.
     
-      egy. A szoftver letöltési webhelyén, kattintson a **Frissítés most** az eszköz frissítése Windows 10 Pro alkotók frissítés indítása. 
+      A. -Ból szoftver letölt telek, kettyenés **korszerűsíteni most** -hoz elkezd felminősítő a berendezés-hoz Windows 10 profi teremtők korszerűsíteni. 
     
-     - Hozzon létre egy telepítési adathordozó az [Adathordozó-létrehozási eszköz](https://go.microsoft.com/fwlink/?LinkID=836960) használata – ezzel a beállítással hozhat létre egy Windows 10 Pro alkotók frissítés telepítési adathordozó (USB flash meghajtó vagy ISO fájl) telepítéséhez Windows 10 eltérő használ egy PC.
+     - Telepítési adathordozó létrehozása az adathordozó- [készítő eszköz](https://go.microsoft.com/fwlink/?LinkID=836960) segítségével-válassza ezt a lehetőséget, ha létre kíván hozni egy Windows 10 Pro alkotók Update telepítési ADATHORDOZÓT (USB flash meghajtó vagy ISO-fájl), hogy telepítse a Windows 10 a számítógépen, hogy eltér a te használ.
     
-        egy. Kövesse az útmutatót, hogyan használja az eszközt, és hozzon létre a telepítési adathordozót. 
+        A. Olvassa el az eszköz használatáról szóló útmutatót, és hozza létre telepítési adathordozókat. 
 
 > [!Note]
-> Ha Windows fut a Windows 7 Pro, Windows 8 Pro vagy Pro Windows 8.1-eszközök, a Microsoft 365 üzleti előfizetés feljogosítja meg a Windows 10 - frissítés nem szükséges termékkulcs.
+> Ha Windows 7 Pro, Windows 8 Pro vagy Windows 8,1 Pro operációs rendszert futtató készülékeit futtat, a Microsoft 365 Business előfizetés feljogosítja Önt a Windows 10 rendszerre történő frissítésre, és nem igényel termékkulcsot.
     
-Lásd a [Microsoft 365 üzleti felhasználók számára a Windows-eszközök beállítása](set-up-windows-devices.md) Windows 10 eszközök beállításának befejezéséhez. 
+További információ: a [Windows-eszközök beállítása a Microsoft 365 üzleti felhasználók](set-up-windows-devices.md) számára a Windows 10-eszközök beállításának befejezéséhez. 
   
-[Állítsa be a mobil eszközök Microsoft 365 üzleti felhasználók számára](set-up-mobile-devices.md) Android és iOS eszközök teljes beállítása témakörben talál. 
+Lásd [a mobileszközök beállítása a Microsoft 365 üzleti felhasználók](set-up-mobile-devices.md) számára az Android és iOS eszközök beállításának befejezését. 
   

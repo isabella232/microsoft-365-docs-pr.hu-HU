@@ -10,21 +10,18 @@ localization_priority: Normal
 ms.collection:
 - M365-subscription-management
 - M365-identity-device-management
-ms.custom:
-- Core_O365Admin_Migration
-- MiniMaven
-- MSB365
+ms.custom: OKR_SMB_M365
 search.appverid:
 - BCS160
 - MET150
 ms.assetid: d868561b-d340-4c04-a973-e2575d7f09bc
-description: Egy iPhone vagy az Android telefon, és a munka fájlokat az Office-alkalmazások telepítését Microsoft Office 365 üzleti Microsoft által védi.
-ms.openlocfilehash: 81ec7eb980cbe35ced37ab3b25d87d77d9e4390a
-ms.sourcegitcommit: 66bb5af851947078872a4d31d3246e69f7dd42bb
+description: Felszerel hivatal-ra egy iPhone vagy egy Android telefon, és-a dolgozik fájlokat hivatalban apps lesz megvéd mellett Mikroszkóp 365 teendő.
+ms.openlocfilehash: f5e1b16e3c95f6f44d2d294d74c166bf5d318dc4
+ms.sourcegitcommit: 6003d6da0a85c97357eb3dba3918eb145f381fe1
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 05/15/2019
-ms.locfileid: "34074690"
+ms.lasthandoff: 09/27/2019
+ms.locfileid: "37288765"
 ---
 # <a name="set-up-mobile-devices-for-microsoft-365-business-users"></a>Mobileszközök beállítása a Microsoft 365 Business felhasználóinak
 
@@ -35,9 +32,9 @@ A példa az Outlookra vonatkozik, de minden más, telepíteni kívánt Office-ap
   
 ## <a name="set-up-mobile-devices"></a>Mobileszközök beállítása
 
-## <a name="iphonetabiphone"></a>[iPhone](#tab/iPhone)
+## <a name="iphonetabiphone"></a>[Iphone](#tab/iPhone)
   
-IOS eszközökön 365 üzleti Microsoft Office alkalmazások beállítása a videó megtekintése:
+Nézzen meg egy videót arról, hogyan állíthat be Office alkalmazásokat az iOS-eszközökön a Microsoft 365 Business rendszerben:
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/e0ee7052-e0f4-4c42-a4f1-5e91b9776ce9?autoplay=false] 
 
@@ -67,7 +64,7 @@ Keresse meg az Outlookot az iPhone-on, és indítsa újra. Amikor a rendszer ké
   
 ## <a name="androidtabandroid"></a>[Android](#tab/Android)
   
-A Android telefon a telepítés megkezdéséhez keresse fel a Play tároló.
+Megkezdéséhez Setup az Android telefon, menjen a Play Store.
   
 ![On the Android home screen, tap Play Store](media/93df88e7-c778-40e1-b35e-868ca6e97f6c.png)
   
