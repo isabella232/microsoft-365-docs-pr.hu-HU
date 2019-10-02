@@ -16,12 +16,12 @@ search.appverid:
 - MET150
 ms.assetid: 9b4de218-f1ad-41fa-a61b-e9e8ac0cf993
 description: Útmutató a Microsoft 365 a helyi AD-hez csatlakozott Windows 10-eszközök védelmének engedélyezéséhez.
-ms.openlocfilehash: d1dbfc6a35d54db653ae0f911fad05ac2ce0a993
-ms.sourcegitcommit: 6003d6da0a85c97357eb3dba3918eb145f381fe1
+ms.openlocfilehash: 452e884f952a4b2c2e87148bb7203ed48a48d944
+ms.sourcegitcommit: 3a632d8ec009abf1aac57363eaf78aeeda5db136
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "37288035"
+ms.lasthandoff: 10/02/2019
+ms.locfileid: "37376095"
 ---
 # <a name="enable-domain-joined-windows-10-devices-to-be-managed-by-microsoft-365-business"></a>A tartományhoz csatlakoztatott Windows 10-es eszközök kezelésének engedélyezése a Microsoft 365 Vállalati verzió számára
 
@@ -39,7 +39,7 @@ Mielőtt a felhasználókat és a számítógépeket a helyi Active Directory-ta
 
    - Győződjön meg arról, hogy a könyvtárban nem találhatók ismétlődések a következő attribútumok számára: **mail**, **ProxyAddresses**és **userPrincipalName**. Ezeknek az értékeknek egyedieknek kell lenniük, és az ismétlődéseket el kell távolítani.
    
-   - Azt javasoljuk, hogy minden helyi felhasználói fiók **userPrincipalName** (UPN) attribútuma úgy legyen beállítva, hogy megfeleljen az elsődleges e-mail címnek, amely megfelel a licencelt Microsoft 365 felhasználónak. Például a *Mary. Shelley @<span>contoso.<span> com* helyett *Mary @ contoso. local*
+   - Javasoljuk, hogy minden helyi felhasználói fiók **userPrincipalName** (UPN) attribútuma úgy legyen konfigurálva, hogy megfeleljen az elsődleges e-mail címnek, amely megfelel a licencelt Microsoft 365 felhasználónak. Például *Mary.Shelley@contoso.com* , nem pedig *Mary @ contoso. local*
    
    - Ha az Active Directory tartomány nem útválasztható (például *. local* vagy *. LAN*) végződést ér el egy Internet-irányítható utótag, pl *. com* vagy *. org*helyett, akkor a helyi felhasználói fiókok UPN-utótagját először az alábbiak szerint kell módosítani [Nem útválasztható tartomány előkészítése a címtár-szinkronizáláshoz](https://docs.microsoft.com/office365/enterprise/prepare-a-non-routable-domain-for-directory-synchronization). 
 
@@ -75,6 +75,6 @@ Ha már meglévő, tartományhoz csatlakoztatott Windows 10-eszközt szeretne re
 
 ## <a name="6-set-up-windows-hello-for-business"></a>6. felállít Windows Szia részére teendő
 
- Windows Szia részére teendő helyettesít jelszó-val erős kettő-tényező hitelesítés (2FA) részére jel-ba egy helyi számítógép. Az egyik tényező egy aszimmetrikus kulcspár, a másik pedig egy PIN-kód vagy más helyi mozdulat, például ujjlenyomat vagy Arcfelismerés, ha az eszköz támogatja. Azt javasoljuk, hogy cserélje ki a jelszavakat a 2FA és a Windows Hello for Business, ahol lehetséges.
+ Windows Szia részére teendő helyettesít jelszó-val erős kettő-tényező hitelesítés (2FA) részére jel-ba egy helyi számítógép. Az egyik tényező egy aszimmetrikus kulcspár, a másik pedig egy PIN-kód vagy más helyi mozdulat, például ujjlenyomat vagy Arcfelismerés, ha az eszköz támogatja. Javasoljuk, hogy cserélje ki a jelszavakat a 2FA és a Windows Hello for Business, ahol lehetséges.
 
 -Hoz configure hibrid Windows Szia részére teendő, áttekintés a [hibrid kulcs hisz Windows Szia részére teendő előfeltétel](https://docs.microsoft.com/windows/security/identity-protection/hello-for-business/hello-hybrid-key-trust-prereqs). Akkor követ a oktatás-ban [configure hibrid Windows Szia részére teendő kulcs hisz elintézés](https://docs.microsoft.com/windows/security/identity-protection/hello-for-business/hello-hybrid-key-whfb-settings). 
