@@ -15,12 +15,12 @@ search.appverid:
 - BCS160
 - MET150
 description: Állítsa be az Office 365 fejlett Fenyegetésvédelmet, és őrizzék meg a bizalmas adatokat.
-ms.openlocfilehash: 81197a8baf1c4d0cbfd898c41a305c1a99bab57c
-ms.sourcegitcommit: 6003d6da0a85c97357eb3dba3918eb145f381fe1
+ms.openlocfilehash: 5009379d6a5d8c3a692799aa7c0f137dae1482fd
+ms.sourcegitcommit: 492f03a2c83e36846602fced396c8f8d32315c85
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "37288115"
+ms.lasthandoff: 10/04/2019
+ms.locfileid: "37398909"
 ---
 # <a name="increase-threat-protection"></a>Növeli a fenyegetettséget
 
@@ -146,8 +146,6 @@ Az ATP-ellenes irányelvek létrehozásához tekintse meg ezt a [rövid oktató 
 |Postaláda-intelligencia  <br/> |Ha új adathalászat-ellenes házirendet hoz létre, a postaláda-intelligencia alapértelmezés szerint ki van választva. Hagyja ezt a **beállítást a** legjobb eredmény.  <br/> |
 |Megbízható feladók és tartományok hozzáadása  <br/> |Itt adhatja hozzá saját tartományát vagy bármely más megbízható tartományt.  <br/> |
 |Alkalmazva  <br/> |Jelölje ki **a címzetttartományt**. A **fentiek bármelyikén**válassza a **választ**. Válasszuk a **+ hozzáad** Jelölje be a tartomány neve melletti jelölőnégyzetet, például *contoso.<span> com <span>*,-ban oldalra dől, aztán kiválaszt **összead**. Válassza a **Done (kész**)-t.  <br/> |
-   
-További információ: az [Office 365 az ATP adathalászat elleni házirendek beállítása](https://go.microsoft.com/fwlink/?linkid=2016505&amp;clcid=0x409).
   
 ## <a name="protect-against-malicious-attachments-and-files-with-atp-safe-attachments"></a>Védelmet nyújt a kártékony mellékletek és a fájlok az ATP biztonságos mellékletek
 
