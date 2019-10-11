@@ -19,12 +19,12 @@ search.appverid:
 - MET150
 ms.assetid: 6e7a2dfd-8ec4-4eb7-8390-3ee103e5fece
 description: A Microsoft 365 Business által létrehozott lépések áttekintése.
-ms.openlocfilehash: f156d236a783942ec06d457c9b7ca087d12d6f58
-ms.sourcegitcommit: 6003d6da0a85c97357eb3dba3918eb145f381fe1
+ms.openlocfilehash: 4be0a8aa1b050ee3e20a045eb2c07666765118ed
+ms.sourcegitcommit: cbf117a4cd92a907115c9f10752f3c557361e586
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "37288575"
+ms.lasthandoff: 10/10/2019
+ms.locfileid: "37440537"
 ---
 # <a name="overview-of-setup"></a>A beállítás áttekintése
 
@@ -41,7 +41,7 @@ A legtöbb beállítási lépés elvégezhető a telepítővarázslóban, de a t
         - Később az admin központban is [hozzáadhat felhasználókat](add-users-m365b.md) .
 ## <a name="step-2-set-up-security-policies-and-configure-devices"></a>2. lépés: biztonsági házirendek beállítása és eszközök konfigurálása 
 
-  - Az eszköz-és biztonsági házirendek konfigurálásához használja a [telepítővarázslót](set-up.md#set-up-security-policies-and-device-configurations) . 
+  - Az eszköz-és biztonsági házirendek konfigurálásához használja a [telepítővarázslót](set-up.md#protect-data-and-devices) . 
   - Később az [Admin központban](view-policies-and-devices.md) és az [Intune portálon](https://docs.microsoft.com/intune/tutorial-walkthrough-intune-portal)is hozzáadhat további, vagy szerkesztheti azokat.
   - A Beállításvarázsló biztonsági beállításai mellett a következő beállítások hozzáadásával növelheti biztonságát:
 
@@ -62,7 +62,7 @@ A legtöbb beállítási lépés elvégezhető a telepítővarázslóban, de a t
    Amikor csatlakozunk egy Windows 10 készüléket Azure AD-hez, a [2](#step-2-set-up-security-policies-and-configure-devices) .
 
    - Windows 10 Profi van egy [előtti-követelmény](pre-requisites-for-data-protection.md) részére Mikroszkóp 365 teendő, de ha önnek van Windows 7 profi, Windows 8 profi, vagy Windows 8,1 Profi,-a aláírás feljogosítja ön-hoz egy [feljavít-hoz Windows 10 profi](https://docs.microsoft.com/microsoft-365/business/upgrade-to-windows-pro-creators-update).
-    - A Windows 10 eszközök házirendjeinek konfigurálásához használja a [telepítővarázslót](set-up.md#set-up-security-policies-and-device-configurations) .
+    - A Windows 10 eszközök házirendjeinek konfigurálásához használja a [telepítővarázslót](set-up.md#protect-data-and-devices) .
 
 ## <a name="stes-4-install-office-365-business"></a>Stes 4: telepítse az Office 365 Business
 - Az Office-eszközöket a [telepítővarázslóval](set-up.md#deploy-office-365-client-apps)automatikusan is telepítheti a Windows-eszközökön.

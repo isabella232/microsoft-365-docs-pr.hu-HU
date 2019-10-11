@@ -14,13 +14,13 @@ ms.custom: OKR_SMB_M365
 search.appverid:
 - BCS160
 - MET150
-description: Állítsa be az Office 365 fejlett Fenyegetésvédelmet, és őrizzék meg a bizalmas adatokat.
-ms.openlocfilehash: 8144bcebe8a0cdf28a5e092f592362922ccbdd48
-ms.sourcegitcommit: 6003d6da0a85c97357eb3dba3918eb145f381fe1
+description: A megfelelőségi funkciók beállítása az adatvesztést és a címkeérzékeny adatok megelőzésére.
+ms.openlocfilehash: a0ba2fa6dbe7c786d577ad7098c1790f569f5acc
+ms.sourcegitcommit: 255e8194bb5767a9983d54d16e79d628732a1d97
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "37288745"
+ms.lasthandoff: 10/11/2019
+ms.locfileid: "37453916"
 ---
 # <a name="set-up-compliance-features"></a>Megfelelőségi funkciók beállítása
 
@@ -50,48 +50,21 @@ Ha peres eljárás miatti tartásba szeretne helyezni egy postafiókot, az admin
     
 **Visszatartás:** Engedélyezheti a testreszabott adatmegőrzési szabályokat, például egy adott idő megtartása érdekében, vagy a megőrzési időszak végén véglegesen törölheti a tartalmat. További információ [az adatmegőrzési szabályok áttekintése](https://support.office.com/article/5e377752-700d-4870-9b6d-12bfc12d2423)című témakörben található.
 
-## <a name="set-up-azure-information-protection-features"></a>Az azúrkék információvédelmi funkciók beállítása
+## <a name="set-up-sensitivity-labels"></a>A érzékenységi címkék beállítása
 
-Azúrkék információ védelem (AIP) segít ön osztályoz és tetszés szerinti, megvéd-a okiratok és elektronikus levél, mellett alkalmaz felirat. A címkék automatikusan alkalmazhatók, ha a rendszergazdák szabályokat és feltételeket határoznak meg, manuálisan, felhasználók szerint, vagy olyan kombinációban, ahol a felhasználók ajánlásokat kapnak.
+Érzékenység címkék jönnek Azure Information Protection (AIP) terv 1, és segít osztályozni, és tetszés szerint, védi a dokumentumok és e-maileket, alkalmazásával címkéket. A címkék automatikusan alkalmazhatók, ha a rendszergazdák szabályokat és feltételeket határoznak meg, manuálisan, felhasználók szerint, vagy olyan kombinációban, ahol a felhasználók ajánlásokat kapnak.
 
-Az Outlook az interneten akkor lehet alkalmazni, a következő beépített címkék és korlátozások az Ön e-maileket:
-  
-- **Nem továbbíthatja**: a címzettek elolvashatják az üzenetet, de nem továbbíthatja, nyomtathatja vagy másolhatja a tartalmat
-    
-- **Titkosítás**: a teljes üzenet titkosítva van. A címzetteknek igazolnia kell személyazonosságukat a titkosított tartalom elérése előtt, és nem tudják eltávolítani a titkosítást.
-    
-- **Bizalmas**: a szervezet alkalmazottai számára teljes körű engedélyeket ad az e-mail tartalmakhoz és mellékletekhez, a szervezeten kívüli személyeknek azonban nem. Az adatok tulajdonosai bármely ponton nyomon követhetjük és visszavonhatják a tartalmat.
-    
-- **Nagyon bizalmas**: Ez a korlátozás rendkívül bizalmas adatokra is alkalmazható, így az alkalmazottak megtekinthetik, szerkeszthetik és válaszolhatják az adatokat, de nem továbbíthatók, nyomtathatók vagy másolhatók. Az adatok tulajdonosai bármely ponton nyomon követhetjük és visszavonhatják a tartalmat.
+Az érzékenységi címkék beállításához tekintse meg az [érzékenységi címkék létrehozását és kezelését](https://support.office.com/en-us/article/2fb96b54-7dd2-4f0c-ac8d-170790d4b8b9) ismertető videót.
 
-### <a name="make-sure-azure-information-protection-is-activated"></a>Győződjön meg arról, hogy a Azure információvédelem aktiválva van
 
-Annak ellenőrzése, hogy az AIP aktiválva van-e:
-
-1. Jelentkezz be az [Azure portálra](https://portal.azure.com/).
-
-2. Kiválaszt **minden szolgáltatás** és begépel *Azure információ védelem* -ban **kutatás doboz**.
-
-3. Egyszer a eredmények bemutatás, kettyenés a Elkezd mellett **Azure információ védelem** -hoz csinál ez egy kedvenc és könnyű-hoz talál később.
-
-4. Jelölje be az **Azure** \> **adatvédelmi védelem aktiválása** választógombot, és győződjön meg arról, hogy az állapot aktivált állapotú-e. 
-
-### <a name="view-the-azure-information-protection-policy-and-default-labels"></a>Az Azure adatvédelmi házirend és az alapértelmezett címkék megtekintése 
-
-A meglévő címkék megtekintéséhez és módosításához:
-
-1. Az Azure információs védelem irányítópultján válassza a **besorolások** \> **címkéit**. <br/>![Az Azure információvédelem szabványos címkéi.](media/AIPLabels.png)
-
-2. Választhat címkét, hogy megtekinthesse lehetőségek, meg tudod változtatni a megjelenítendő név, színek, stb
- 
-3. Lásd: [módosítás és új Címkék létrehozása](https://docs.microsoft.com/azure/information-protection/infoprotect-tutorial-step2) , ha saját magunk szeretnénk létrehozni. 
 
 ### <a name="install-the-azure-information-protection-client-manually"></a>A Azure adatvédelmi ügyfél manuális telepítése
 
 Az AIP ügyfél manuális telepítése:
 
-1. Letölt **Azinfoprotection. exe** - [bólMikroszkóp Letölt Központ](https://www.microsoft.com/download/details.aspx?id=53018).
+1. Letölt **AzinfoProtection_UL. exe** - [bólMikroszkóp Letölt Központ](https://www.microsoft.com/download/details.aspx?id=53018).
  
-2. Ellenőrizheti, hogy a telepítés működött-e, ha megtekinti a Word-dokumentumot, és meggyőződött arról, hogy a **védelem** lehetőség elérhető a **Kezdőlap** lapon. <br/>![Védelem lap legördülő lista Word-dokumentumban.](media/Word_Protect.png)
+2. Ellenőrizheti, hogy a telepítés működött-e, ha megtekinti a Word-dokumentumot, és meggyőződött arról, hogy az **érzékenység** lehetőség elérhető a **Kezdőlap** lapon.
+<br/>![Védelem lap legördülő lista Word-dokumentumban.](media/word-sensitivity.png)
 
 További információért [telepítse az ügyfélprogramot](https://docs.microsoft.com/azure/information-protection/infoprotect-tutorial-step3).

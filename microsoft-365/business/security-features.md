@@ -16,12 +16,12 @@ search.appverid:
 - MET150
 ms.assetid: c123694a-1efb-459e-a8d5-2187975373dc
 description: Ismerje meg a Microsoft 365 Business biztonsági szolgáltatásait.
-ms.openlocfilehash: 8e45d5fdb6a78f3966c46542189aa30ddd80998e
-ms.sourcegitcommit: 6003d6da0a85c97357eb3dba3918eb145f381fe1
+ms.openlocfilehash: c0c37b09fd0bb0218864b6bc97aa127feae1ff16
+ms.sourcegitcommit: 255e8194bb5767a9983d54d16e79d628732a1d97
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "37288455"
+ms.lasthandoff: 10/11/2019
+ms.locfileid: "37453976"
 ---
 # <a name="microsoft-365-business-security-and-compliance-features"></a>Mikroszkóp 365 teendő biztonság és engedékenység jellegét meghatározza
 
@@ -98,9 +98,9 @@ A Microsoft 365 üzleti előfizetés olyan szolgáltatásokat tartalmaz, amelyek
     
     Az Exchange Online archiválási licenc lehetővé teszi az üzenetek egyszerű archiválását folyamatos adatmentéssel. Tárolja az összes felhasználó e-maileket, beleértve a törölt elemek, abban az esetben van szükség később felfedezés vagy helyreállítás. Emellett különböző adatmegőrzési szabályokat is használhat az e-mail adatok megőrzésére a peres eljárások esetében, az eDiscovery vagy a megfelelőségi követelmények betartása érdekében.
     
-- **[Azure információvédelem](https://go.microsoft.com/fwlink/p/?linkid=871406)**
-    
-    Az információvédelem segítségével szabályozhatja az e-mailhez és dokumentumokhoz való hozzáférést, például a "nincs továbbítás" és a "ne legyen másolás" adatokat. A kényes információkat "bizalmas"-ként is besorolhatja, és meghatározhatja, hogy a minősített információk hogyan oszthatók el a vállalkozországon kívül és belül. Enterprise-Grade titkosítás könnyen alkalmazható az e-mail és dokumentumok tartani az adatokat magán. Mikroszkóp 365 teendő beleértve minden a jellegét meghatározza-ból [Azure információ védelem tervez 1](https://go.microsoft.com/fwlink/p/?linkid=871407). Telepítheti a Azure informatikai ügyfélbővítményt az Office alkalmazásokhoz is. További részletekért tekintse meg az [Azure adatvédelmi ügyfél rendszergazdájának útmutatóját](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide).
+- **[Érzékenységi címkék](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)**
+
+   Mikroszkóp 365 teendő beleértve minden a jellegét meghatározza-ból [Azure információ védelem tervez 1](https://go.microsoft.com/fwlink/p/?linkid=871407). Ezzel a tervvel hozhat létre **érzékenységi címkéket**, amelyek lehetővé teszik, hogy szabályozza a hozzáférést az érzékeny információkat e-mailben és dokumentumok ellenőrzés, mint a "ne továbbítsa" és a "ne másolja." A kényes információkat "bizalmas"-ként is besorolhatja, és meghatározhatja, hogy a minősített információk hogyan oszthatók el a vállalkozországon kívül és belül. Enterprise-Grade titkosítás könnyen alkalmazható az e-mail és dokumentumok tartani az adatokat magán. Telepítheti a Azure informatikai ügyfélbővítményt az Office alkalmazásokhoz is. További részletekért lásd a [Azure információvédelem egyesített, címkéző ügyfelén](https://docs.microsoft.com/azure/information-protection/rms-client/unifiedlabelingclient-version-release-history). A érzékenységi címkék esetében telepítse az **AzInfoProtection_UL. exe fájlt**.
 
 Ezeket a szolgáltatásokat a biztonsági &amp; megfelelőség központ és az Intune felügyeleti központ segítségével kezelheti. Idővel az egyszerűsített vezérlők bekerülnek a Microsoft 365 Business admin központba.
   

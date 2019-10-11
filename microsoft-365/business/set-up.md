@@ -19,12 +19,12 @@ search.appverid:
 - MET150
 ms.assetid: 6e7a2dfd-8ec4-4eb7-8390-3ee103e5fece
 description: Útmutató a Microsoft 365 Business beállításához.
-ms.openlocfilehash: d33839693001f36fbb56541775015f739300b043
-ms.sourcegitcommit: 6003d6da0a85c97357eb3dba3918eb145f381fe1
+ms.openlocfilehash: 4f31af3fa63416d3b1bd7281f7712313252ad437
+ms.sourcegitcommit: cbf117a4cd92a907115c9f10752f3c557361e586
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "37288495"
+ms.lasthandoff: 10/10/2019
+ms.locfileid: "37440597"
 ---
 # <a name="set-up-microsoft-365-business-in-the-setup-wizard"></a>A Microsoft 365 Business beállítása a telepítővarázslóban
 
@@ -44,7 +44,7 @@ Amikor vagy megvásárol Mikroszkóp 365 teendő, Önnek van a választás-ból 
     > [!IMPORTANT]
     > Ha a regisztráció során tartományt vásárolt, akkor itt nem jelenik meg **a domainlépés hozzáadása** . Tovább a [felhasználók hozzáadásához](#add-users-and-assign-licenses) helyette.
 
-    ![Válassza a tartomány hozzáadása-t.](media/addadomainadmincenter.png)
+    ![Válassza az Ugrás a telepítéshez beállítást.](media/gotosetupinadmincenter.png)
     
 3. A varázslóban adja meg a használni kívánt tartománynevet (például contoso.com).
 
@@ -70,7 +70,9 @@ A varázslóban hozzáadott felhasználók automatikusan Microsoft 365 üzleti l
 
 1. Ha a Microsoft 365 üzleti előfizetés már meglévő felhasználókkal rendelkezik (például, ha a Azure AD Connect szolgáltatást használta), akkor most lehetősége van licencek kiosztésére. Nyugodtan felvehet licenceket hozzájuk is.
 
-3. A felhasználók hozzáadása után lehetősége van a hitelesítő adatok megosztására az új felhasználóknál is. Ezeket kinyomtathatja, elküldheti e-mailben, vagy pedig letöltheti.
+2. A felhasználók hozzáadása után lehetősége van a hitelesítő adatok megosztására az új felhasználóknál is. Ezeket kinyomtathatja, elküldheti e-mailben, vagy pedig letöltheti.
+
+3. A csapatok létrehozása a szervezet számára csoport választhatja a csapatok hozzáadását és a felhasználók hozzáadását. Ezt később is megteheti. További információt a [vállalati szintű csapat létrehozása](https://support.office.com/article/037bb27a-bcc9-48fe-8d72-44d9482420a3)című témakörben talál.
 
 4. Hagyja ki az e-mail-üzenetek áttelepítését, és kattintson a **Tovább** gombra az **E-mail-üzenetek áttelepítése** lapon. 
 
@@ -86,14 +88,14 @@ A szolgáltatások beállításához frissítenie kell bizonyos rekordokat a DNS
   
 1. A beállítási varázsló általában felismeri a regisztrálóját, és részletes útmutatást jelenít meg arról, hogy miként frissítheti a névkiszolgálói rekordokat a regisztráló webhelyén. Ha nem, [módosítsa a névszervereket az Office 365 beállításához bármely tartományregisztrálóval](https://support.office.com/article/a8b487a9-2a45-4581-9dc4-5d28a47010a2). 
 
-    - Ha vannak meglévő DNS-rekordjai, például egy meglévő webhely, de a DNS-állomás a tartományhoz történő [kapcsolódáshoz](https://docs.microsoft.com/office365/admin/get-help-with-domains/domain-connect)engedélyezve van, válassza **a saját rekord hozzáadása**lehetőséget. 
+    - Ha vannak meglévő DNS-rekordjai, például egy meglévő webhely, de a DNS-állomás a tartományhoz történő [kapcsolódáshoz](https://docs.microsoft.com/office365/admin/get-help-with-domains/domain-connect)engedélyezve van, válassza **a saját rekord hozzáadása**lehetőséget. Az **online szolgáltatások kiválasztása** lapon fogadja el az összes alapértelmezett beállításokat, majd kattintson a **Tovább gombra**, és válassza az engedélyezés a DNS-állomás oldalán **engedélyt** .
     - Ha van meglévő DNS-rekordja más DNS-állomásokkal (nincs engedélyezve a tartomány csatlakoztatásához), saját DNS-rekordokat kell kezelnie annak érdekében, hogy a meglévő szolgáltatások ne maradjanak kapcsolatban. További információ a [tartomány alapjai](https://docs.microsoft.com/office365/admin/get-help-with-domains/dns-basics) című témakörben található.
 
         ![Összeköt-a birtok oldal-val én ' kezel az én-m saját DNS hanglemezek.](media/connectyourdomainpage.png)
 
 2. Kövesse a varázsló lépéseit, és az e-mail és egyéb szolgáltatások lesznek beállítva az Ön számára.
 
-### <a name="set-up-security-policies-and-device-configurations"></a>Biztonsági házirendek és eszközkonfigurációk beállítása 
+### <a name="protect-data-and-devices"></a>Védjük az adatokat és az eszközöket 
 
 A varázslóban beállított házirendek automatikusan alkalmazásra kerülnek a *minden felhasználó*nevű [biztonsági csoportra](https://docs.microsoft.com/office365/admin/create-groups/compare-groups#security-groups) . További csoportokat is létrehozhat, ha házirendeket rendel az admin Centerhez.
 
@@ -113,7 +115,6 @@ A varázslóban beállított házirendek automatikusan alkalmazásra kerülnek a
 3. Azt is választhatja, hogy [automatikusan telepíti az Office](install-office-on-windows-10-during-setup.md) -t a Windows 10 eszközén.
 
     ![Képernyőkép beállítása a Windows 10 eszköz konfigurációs lapjáról.](media/setwin10config.png)
-
 
 
 ## <a name="deploy-office-365-client-apps"></a>Az Office 365 ügyfélalkalmazások telepítése
