@@ -8,7 +8,7 @@
 ### [Állítsa be a Microsoft 365 Business](set-up.md)
 ### [Feljavít-hoz Windows profi teremtők korszerűsíteni](upgrade-to-windows-pro-creators-update.md)
 ### [Felkészülés az Office ügyfélszámítógépekre történő telepítésre](prepare-for-office-client-deployment.md)
-### [Az Office automatikus telepítése és eltávolítása](auto-install-or-uninstall-office.md)
+### [Súgófelhasználók telepítése Office](help-users-install-office.md)
 ### [Az intézményi erőforrások elérése]()
 #### [A tartományhoz csatlakoztatott Windows 10-eszközök kezelésének engedélyezése](manage-windows-devices.md)
 #### [Források elérése Azure Active Directory-eszközön keresztül](access-resources.md)
