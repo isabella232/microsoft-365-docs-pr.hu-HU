@@ -10,18 +10,22 @@ localization_priority: Normal
 ms.collection:
 - M365-subscription-management
 - M365-identity-device-management
-ms.custom: OKR_SMB_M365
+ms.custom:
+- Core_O365Admin_Migration
+- MiniMaven
+- MSB365
+- OKR_SMB_M365
 search.appverid:
 - BCS160
 - MET150
 ms.assetid: 80bdae57-f8bc-4e40-a58c-956007117ecb
 description: 'Útmutató a Microsoft 365 Business használatáról a vállalati adatok felhasználói eszközökről vagy Windows PC-ről történő eltávolításához. '
-ms.openlocfilehash: b6d953fcf52c4da0d97dfe5c75236740baf4b607
-ms.sourcegitcommit: 6003d6da0a85c97357eb3dba3918eb145f381fe1
+ms.openlocfilehash: 169bc7d849bb934de2788daebb90308b1a086111
+ms.sourcegitcommit: bd52f7b662887f552f90c46f69d6a2a42fb66914
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "37288725"
+ms.lasthandoff: 10/17/2019
+ms.locfileid: "37575738"
 ---
 # <a name="remove-company-data-from-devices"></a>Céges adatok eltávolítása az eszközökről
 
