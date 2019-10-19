@@ -11,10 +11,10 @@ audience: microsoft-business 
 keywords: Microsoft 365 Business, Microsoft 365, SMB, GYIK, gyakran feltett kérdések, válaszok, üzleti
 ms.date: 06/08/2018
 ms.openlocfilehash: cc6cc924cf45fa19d7f91235515981b636abf77d
-ms.sourcegitcommit: bd17ee20da1685e5c660d5f99746c81c63a17b22
+ms.sourcegitcommit: 0d423b50d2f1f4eccd64e35e00f67313244efba9
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/24/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "37141509"
 ---
 # <a name="microsoft-365-business-frequently-asked-questions"></a>Microsoft 365 üzleti gyakran feltett kérdések
@@ -125,7 +125,7 @@ Igen, a Microsoft 365 üzleti előfizetők licenccel, hogy teljes Intune képess
   
 
 ### <a name="does-azure-active-directory-premium-p1-come-with-microsoft-365-business"></a>Van Azure Active Directory Premium P1 jön a Microsoft 365 Business? 
-A Microsoft 365 Business tartalmaz Select Azure prémium P1 (AADP P1) szolgáltatásokat, mint például önkiszolgáló jelszó visszaállítás az AD write-back, Azure MFA és feltételes hozzáférés funkciókkal. Nem tartalmazza a teljes AADP P1-et. További információért olvassa el a [Microsoft 365 Business Service Leírás](https://technet.microsoft.com/library/b042d1fd-c997-46d8-8c02-1df4c932f148) című témakört. 
+Mikroszkóp 365 teendő beleértve kiválaszt Azúr prémium P1 (AADP P1) jellegét meghatározza mint maga szolgáltatás jelszó orrgazdaság-val hirdetés ír-hát, kék MFA és feltételes belépés. Nem tartalmazza a teljes AADP P1-et. További információért olvassa el a [Microsoft 365 Business Service Leírás](https://technet.microsoft.com/library/b042d1fd-c997-46d8-8c02-1df4c932f148) című témakört. 
  
  
 ### <a name="does-microsoft-365-business-allow-customers-to-manage-macs"></a>Csinál Mikroszkóp 365 teendő enged vásárlók-hoz kezel Macs? 
