@@ -18,12 +18,12 @@ search.appverid:
 - BCS160
 - MET150
 description: Állítsa be az Office 365 fejlett Fenyegetésvédelmet, és őrizzék meg a bizalmas adatokat.
-ms.openlocfilehash: 0b0c1ac1d23bc7b167a58ecf93019a77c51c4366
-ms.sourcegitcommit: bd52f7b662887f552f90c46f69d6a2a42fb66914
+ms.openlocfilehash: fb63ca7e3cf38ecf31aab98e425b02e8b9983bf8
+ms.sourcegitcommit: 4d5e4cb3fa3ab45ad15f103c720c77277b22fc23
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 10/17/2019
-ms.locfileid: "37576018"
+ms.lasthandoff: 10/22/2019
+ms.locfileid: "37636752"
 ---
 # <a name="increase-threat-protection"></a>Növeli a fenyegetettséget
 
@@ -134,7 +134,7 @@ Az ATP-ellenes irányelvek létrehozásához tekintse meg ezt a [rövid oktató 
     
 4. Az **adathalászat elleni** lapon válassza a **+ Létrehozás**. Egy varázsló indítja el az adathalászat-ellenes házirend definiálásához szükséges lépéseket.
     
-5. Adja meg az alábbi grafikon által javasolt házirend nevét, leírását és beállításait. További tudnivalókért tanulmányozza az [ATP-ellenes házirend beállításainak](https://go.microsoft.com/fwlink/?linkid=2016505&amp;clcid=0x409) ismertetése című témakört. 
+5. Adja meg az alábbi grafikon által javasolt házirend nevét, leírását és beállításait. További tudnivalókért tanulmányozza az [ATP-ellenes házirend beállításainak](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-anti-phishing-policies#learn-about-atp-anti-phishing-policy-options) ismertetése című témakört. 
     
 6. Miután áttekintette a beállításokat, válassza **a házirend létrehozása** vagy az adott esetben **Mentés**beállítást.
     
