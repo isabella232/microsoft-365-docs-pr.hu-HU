@@ -10,12 +10,12 @@ localization_priority: Normal
 audience: microsoft-business 
 keywords: Microsoft 365 Business, Microsoft 365, SMB, GYIK, gyakran feltett kérdések, válaszok, üzleti
 ms.date: 06/08/2018
-ms.openlocfilehash: 18198007bf61d448581335594016433668edb47d
-ms.sourcegitcommit: 23173f7d0ca5079662ef4060371d8ee11bac228e
+ms.openlocfilehash: 23cf7c4770387050c60ac21f537fbd7738a8aab4
+ms.sourcegitcommit: 1e3916bbe94d4fbb858566e7db5018e1e46bcd0d
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 10/21/2019
-ms.locfileid: "37611421"
+ms.lasthandoff: 10/23/2019
+ms.locfileid: "37646385"
 ---
 # <a name="microsoft-365-business-frequently-asked-questions"></a>Microsoft 365 üzleti gyakran feltett kérdések
 
@@ -164,7 +164,7 @@ Az olyan informatikai szolgáltatók, amelyek még nem a Microsoft partnerei, t�
 A partnerek most értékesítési Office 365 használhatja ugyanazt a konzultációs értékesítési módszerek eladni a Microsoft 365 Business. Ráadásul, vagyunk bemutató több anyagi javak és képzés részére-a eladások csapat-hoz ért a vásárlók ' létező iskolapad környezet, Aktivál Címtár bizalom, mozgékonyság és biztonság szükséges-hoz hatékonyan kommunikál a teli érték-ból Mikroszkóp 365 teendő az ügyfél szempontjából lényeges módon. Ezen erőforrások megkeresése az Office Partnerportálon [http://partners.office.com/microsoft365business](http://partners.office.com/microsoft365business). 
 
 ### <a name="how-can-microsoft-365-business-help-partners-increase-the-profitability"></a>Hogyan segítheti a Microsoft 365 Business a partnerek számára a jövedelmezőség növelését? 
-Mikroszkóp 365 teendő akarat segít társas viszony csökken költségek átmenő nagyobb működési hatásosság és növel állami jövedelem átmenő a eladás-ból további szolgáltatás. A Forrester kutatás, Mikroszkóp 365 teendő egész gazdasági hatás (TEI) dolgozószoba, június 2017https://partners.office.com/TEIBusiness)(, bemutat amit Mikroszkóp 365 teendő akarat volna pozitív ütközés-ra társ jövedelmezőség. 
+Mikroszkóp 365 teendő akarat segít társas viszony csökken költségek átmenő nagyobb működési hatásosság és növel állami jövedelem átmenő a eladás-ból további szolgáltatás. A Forrester kutatás, Mikroszkóp 365 teendő egész gazdasági hatás (TEI) dolgozószoba, június 2017https://www.microsoft.com/microsoft-365/partners/PartnerTEI)(, bemutat amit Mikroszkóp 365 teendő akarat volna pozitív ütközés-ra társ jövedelmezőség. 
 
 A TEI tanulmányi partnerek jelentették, hogy a Microsoft 365 üzleti várnak: 
 
