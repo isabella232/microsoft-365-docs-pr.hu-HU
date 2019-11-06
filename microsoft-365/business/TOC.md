@@ -1,9 +1,9 @@
 # Microsoft 365 üzleti
-## [A Microsoft 365](index.md)
+## [A Microsoft 365](index.yml)
 ## [Mi az a Microsoft 365 Business?](microsoft-365-business-overview.md)
 ## [Kap Mikroszkóp 365 teendő](sign-up.md)
 ## [Követelmények előfeltétele az adatvédelem](pre-requisites-for-data-protection.md)
-## Telepítő
+## Beállítás
 ### [A beállítás áttekintése](set-up-overview.md)
 ### [Állítsa be a Microsoft 365 Business](set-up.md)
 ### [Feljavít-hoz Windows profi teremtők korszerűsíteni](upgrade-to-windows-pro-creators-update.md)
@@ -20,7 +20,7 @@
 ### [Növeli a fenyegetettséget](increase-threat-protection.md)
 ### [Megfelelőségi funkciók beállítása](set-up-compliance.md)
 ## Felhasználók kezelése
-### [Add users](add-users-m365b.md)
+### [Felhasználók hozzáadása](add-users-m365b.md)
 ### [Alkalmazott eltávolítása](/Office365/Admin/add-users/remove-former-employee?toc=/microsoft-365/business/toc.json&bc=/microsoft-365/business/breadcrumb/toc.json)
 ## Eszközök kezelése
 ### [Házirendek és eszközök megtekintése és szerkesztése](view-policies-and-devices.md)
@@ -32,7 +32,10 @@
 ### [Eszközvédelmi beállítások a Windows 10 PC-hez](protection-settings-for-windows-10-pcs.md)
 #### [Érvényesít elintézés-ra Windows 10 PCs](validate-settings-on-windows-10-pcs.md)
 ### [Alkalmazásvédelmi beállítások a Windows 10 PC-hez](protection-settings-for-windows-10-devices.md)
-## [Áttelepítés a Microsoft 365 Vállalati verzióba](migrate-to-microsoft-365-business.md)
+## Áttelepítés a Microsoft 365 Vállalati verzióba
+### [Áttérés az Office 365 Business Premium csomagról](migrate-to-microsoft-365-business.md)
+### [Áttérés az Office 365 E3 csomagból](migrate-from-e3.md)
+### [Vándorol ro Mikroszkóp 365 vállalat](migrate-from-microsoft-365-business-to-microsoft-365-enterprise.md)
 ## Számlázás
 ### [A számlád](/Office365/Admin/subscriptions-and-billing/view-your-bill-or-invoice?toc=/microsoft-365/business/toc.json&bc=/microsoft-365/business/breadcrumb/toc.json)
 ### [Fizetni](/Office365/Admin/subscriptions-and-billing/pay-for-your-subscription?toc=/microsoft-365/business/toc.json&bc=/microsoft-365/business/breadcrumb/toc.json)

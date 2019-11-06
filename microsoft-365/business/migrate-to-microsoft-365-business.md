@@ -1,5 +1,5 @@
 ---
-title: Vándorol-hoz Mikroszkóp 365 teendő-ból Hivatal 365 teendő prémium
+title: Feljavít-hoz Mikroszkóp 365 teendő-ból Hivatal 365 teendő prémium
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
@@ -19,34 +19,24 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: 5b4ba843-24b8-4526-8e1f-f9b9eab89d06
-description: Ismerje meg, hogyan helyezheti át vállalkozásáról a Microsoft 365 Business.
-ms.openlocfilehash: ae9ca0fe97916fdae6104a6edbb04efba5d9299e
-ms.sourcegitcommit: bd52f7b662887f552f90c46f69d6a2a42fb66914
+description: Lép amit feljavít-a teendő-ból Hivatal 365 teendő prémium-hoz Mikroszkóp 365 teendő.
+ms.openlocfilehash: 1e337b908f848da1d33cbd8e662652550d302b14
+ms.sourcegitcommit: 0fa897d06b664c0ed005817752da1426d4ee17cb
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 10/17/2019
-ms.locfileid: "37575878"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "38002123"
 ---
-# <a name="migrate-to-microsoft-365-business-from-office-365-business-premium"></a>Vándorol-hoz Mikroszkóp 365 teendő-ból Hivatal 365 teendő prémium
+# <a name="upgrade-to-microsoft-365-business-from-office-365-business-premium"></a>Feljavít-hoz Mikroszkóp 365 teendő-ból Hivatal 365 teendő prémium
 
-Ha már van egy Office 365 az üzleti előfizetés, például az Office 365 Business Premium, könnyen hozzá licenceket a Microsoft 365 Business, és rendelje hozzá néhány, vagy az összes felhasználó.
-  
-> [!NOTE]
-> Ön vidám ' használ a [kapcsol tervek](https://support.office.com/article/73318661-8f33-478b-bcc7-fb8d69dbb22a?.aspx#switchbutton) gomb-hoz feljavít-hoz Mikroszkóp 365 teendő még. 
-  
-## <a name="add-microsoft-365-business-licenses"></a>Microsoft 365 üzleti licencek hozzáadása
+Ha van egy [office 365 az üzleti előfizetés](https://products.office.com/compare-all-microsoft-office-products-4-column?activetab=tab:primaryr2), például az Office 365 Business Premium, könnyen frissíthet a Microsoft 365 Business. Feljavít-hoz Mikroszkóp 365 teendő ha Ön akar-hoz összead: 
+- Windows 10 Pro (a Windows 8 vagy újabb rendszert futtató számítógépekre)
+- Az üzleti adatokat az eszközökön kezelő egyszerű vezérlők
+- Fejlett biztonsági lehetőségek.
+Többet megtudni a Microsoft 365 Business a [Microsoft.com](https://www.microsoft.com/microsoft-365/business)
 
-Kétféleképpen juthat a Microsoft 365 Business-hez. Egy partner megvásárolhatja a Microsoft 365 Business programot a [Microsoft partner Center webhelyéről](get-microsoft-365-business.md). Az Ön partnere is segíthet átmenet a Microsoft 365 Business.
-  
-Ha saját előfizetést kezel, az [értékesítéssel kapcsolatba lehet lépni](https://www.microsoft.com/microsoft-365/business) a Microsoft 365 üzleti licenceinek megvásárlásával. 
-  
-További információ az [előfizetési tanácsadó partner felvétele, módosítása vagy törlése](https://support.office.com/article/f86e8177-936e-491e-9024-44dea2b296ff) című témakörben található, hogy megtudja, hogyan kezdhet el dolgozni egy partnerrel. 
-  
-Ha Ön kapott egy láncszem-hoz megvásárol-a engedély, lesz séta átmenő egy varázsló szeret a egy alul. Válassza az **Igen, hozzáadom a fiókomban**lehetőséget. A licencek számát és a fizetés módját is felválogathat.
-  
-![A Microsoft 365 üzleti közvetlen vásárlás linken válassza ki az aktuális fiókhoz való hozzáadást, vagy regisztráljon egy új fiókra.](media/8bc54fd1-9cab-44d5-af91-c471e89aea46.png)
-  
-## <a name="assign-microsoft-365-licenses"></a>Microsoft 365 licencek hozzárendelése
+## <a name="whats-the-difference-between-office-365-business-premium-and-microsoft-365-business"></a>Izé ' a különbség között Hivatal 365 teendő prémium és Mikroszkóp 365 teendő?
+Adtunk hozzá egy side-by-oldali összehasonlítása két tervek a [Microsoft 365 üzleti szolgáltatás leírását](https://docs.microsoft.com/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-business-service-description). 
 
 1. Egyszer önnek van megvásárol új engedélyez, és ez a először Ön tett, a beállít zászló részére Mikroszkóp 365 teendő akarat bemutatás-ra tető-ból admin központ.
     
@@ -69,7 +59,7 @@ Ha Ön kapott egy láncszem-hoz megvásárol-a engedély, lesz séta átmenő eg
     
     Ha nem rendelkezik új alkalmazottakkal, és engedélyeket kíván hozzárendelni a meglévő felhasználókhoz, akkor válassza a **Next (tovább**) gombra.
     
-4. A * * az e-mail üzenetek áttelepítése * * oldalon kiválaszthatja, hogy vándorol elektronikus levél részére akármi-ból új felhasználók hozzáadott lépésben 3. Kihagyhatja ezt a lépést is. Válassza a **Tovább** gombot.
+4. Az e-mailek **áttelepítése** lapon választhatja az e-mailek áttelepítését bármely új felhasználóhoz, amelyet a 3. lépésben felvett. Kihagyhatja ezt a lépést is. Válassza a **Tovább** gombot.
     
 5. Az utolsó oldalon válassza **az Ugrás az admin Centerhez**parancsot, majd folytassa a telepítést.
     
@@ -79,19 +69,47 @@ Ha Ön kapott egy láncszem-hoz megvásárol-a engedély, lesz séta átmenő eg
     
     ![A felhasználói kártyán válassza a terméklicencek mellett található Szerkesztés programot.](media/be0fe2d8-7ff8-447c-88f6-d212ed78451c.png)
   
-8. A **terméklicencek** segítségével csúsztassa a **Microsoft 365 Business** **programot** \> **Mentés**, majd **Bezárás**gombra.
-    
-Egyszer önnek van megvásárol a kezdő engedély részére Mikroszkóp 365 teendő, tudod most is összead több-ban **turbékolás** \> **megvásárol szolgáltatás**. A **beszerzési szolgáltatások** lapon kattintson a **Microsoft 365 névjegykártya** ellipszisgombjára, és válassza a **licencmennyiség módosítása** pontot további vásárlásra. 
+## <a name="before-you-get-started"></a>Mielőtt elindulsz
+
+- **Mikor válasszam a frissítést?** A frissítés a megfelelő választás, ha egy adott tervhez hozzárendelt **összes felhasználót** szeretne frissíteni. Ha a frissítést választja, a felhasználók egy időben átkapcsolnak egy másik tervre. Ha nem kíván egyetlen tervbe tartozó mindenkit frissíteni, akkor vásárolja meg az új terv licenceit (ebben az esetben a Microsoft 365 Business), és [egyenként rendelje hozzá ezeket a licenceket](https://docs.microsoft.com/office365/admin/manage/assign-licenses-to-users) minden egyes frissíteni kívánt felhasználóhoz. 
+- **Egyes bővítmények megakadályozhatják a frissítést** Ha megpróbálja elindítani a frissítést, és van olyan bővítmény, amely megakadályozza a továbblépne, először távolítsa el a bővítményt, majd adja hozzá később, ha továbbra is szüksége van rá. 
+- **Ha előre fizetett a terv** Ott isnt ' egy őszinte feljavít kerti ösvény részére előre fizetett tervek. Akkor is tudni fogja, hogy van-e előre fizetett terv, mert a tervet egy üzletben megvásárolt TERMÉKAZONOSÍTÓVAL beállította. Lépjen kapcsolatba egy partnerrel, látogasson el a Microsoft áruházba, vagy várjon, amíg az előrefizetett terv elévül, hogy átváltsunk egy új tervre.
+
+## <a name="upgrade-to-microsoft-365-business"></a>Feljavít-hoz Mikroszkóp 365 teendő
+Vásárolja meg a licencet az alábbi lépéseket az [új admin központ](https://docs.microsoft.com/office365/admin/microsoft-365-admin-center-preview):
+1. Jelentkezz be az admin központba <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>.
+2. Nyissa meg a navigációs ablakot, és jelölje ki a **Számlázási** \> **termékek & szolgáltatásokat**. Keresse meg az Office 365 előfizetését, és válassza ki, hogy megtekintsem a részleteket. 
+
+    ![Egy screenshot mutatja, hogyan találjuk meg, és válassza ki az előfizetést az admin központban.](media/FindYourSubscription.png)
+
+3. A következő oldalon válassza a **frissítés**-t. 
+
+      ![Egy screenshot mutatja, hogy hol válassza a frissítés az Admin Center.](media/SelectUpgrade.png)
+
+  > [!NOTE]
+  > Ha megjelenik egy üzenet, amely szerint "az előfizetés frissítése nem támogatja a csoport alapú licencelési szolgáltatást a Azure Active Directoryban", ezt nyugodtan figyelmen kívül hagyhatja, hacsak nincs nagy szervezete. Azok a szervezetek, akik bejelölték ezt a beállítást, tudatában lesznek annak, hogy csoportalapú licencelési lehetőséget használnak.
+
+4. Ezután megtekintheti azon Office-tervek listáját, amelyekre frissíthet. Ebben az esetben keresse meg a Microsoft 365 üzleti tervet. Görgessen lefelé, ha a tervben szereplő összes Office-alkalmazást és-szolgáltatást meg szeretné jeleníteni. A **microsoft 365 Business**alatt válassza a **frissítés** -t a Microsoft 365 Business és a kosár hozzáadásához.
+5. A kosárban:
+    1. Az összes jelenlegi felhasználó licencét automatikusan a kosárba tesszük. Ha több licencet szeretne, akkor meg kell [vásárolnia és a licenceket egyenként kell hozzárendelnie](https://docs.microsoft.com/office365/admin/manage/assign-licenses-to-users).  
+    2. Beállíthatja, hogyan szeretne fizetni, havonta vagy évente. Válassza ki a legördülő menüt, hogy a választott.
+6. Válassza a **pénztár** pontra, ahol megjelenik a vásárlás összefoglalása, beleértve a számla fizetési módját. Tudod is összead egy sétány kód itt ha önnek van egy.
+7. A vásárlás befejezéséhez válassza a **helysorrend** -t.
+A Microsoft néhány percbe telik, amikor új szervizterveket hoz létre. A folyamat állapotának ellenőrzéséhez válassza a **frissítési állapot ellenőrzése**-t. 
+1. Miután a terve elkészült, lehet, hogy ki kell töltenie néhány további beállítási lépést az admin centeren. A navigációs ablaktáblán válassza a **Kezdőlap** a további telepítési lépések befejezéséhez.
+
+> [!NOTE]
+> Az Ofifce 365 licencért egy, már nem szükséges licencet kap. Bankszámláját vagy hitelkártyáját a rendszer az új terv beállítása után körülbelül két nappal terheli.
   
 ## <a name="protect-user-devices-and-files"></a>A felhasználói eszközök és fájlok védelme
 
-Miután rendelt licenceket a Microsoft 365 Business-hez, elkezdheti megvédeni a felhasználók eszközeit és fájljait.
+Most, hogy a Microsoft 365 Business licencek ki vannak rendelve, az összes lépést, hogy megindítsa a védelmet eszközök és fájlok. Youll ' lenni használ némely új választások tartalmazott-ban admin központ hajózás táblaüveg.
   
-1. Az admin központban, a bal oldali NAV, megy **eszközök** \> **policies**.
+1. Az admin központban, a navigációs ablaktáblán lépjen az **eszközök** \> **házirendjei**pontra.
     
-2. Az **eszközházirendek** lapon kattintson a **Hozzáadás**elemre.
+2. Az **eszközházirendek** lapon jelölje be a **Hozzáadás**választógombot.
     
-3. A **házirend hozzáadása** ablaktáblában adjon nevet a házirendnek, majd válassza ki a legördülő menüből a **házirendtípust** . 
+3. A **házirend hozzáadása** ablaktáblán adja meg a házirend nevét (például a munkahelyi fájlok védelme), majd válasszon egy **házirendtípust** a legördülő menüből. 
     
     Az Android és iPhone eszközökön, valamint a Windows 10 rendszerben a fájlok védelmére vonatkozó alkalmazás-házirendek, valamint a vállalat tulajdonában lévő Windows 10 eszközök eszközkonfigurációs házirendjeinek beállítására is beállítható. A részletekért lásd az alábbi linkeket:
     
@@ -101,17 +119,14 @@ Miután rendelt licenceket a Microsoft 365 Business-hez, elkezdheti megvédeni a
     
   - [Eszközvédelmi beállítások megadása a Windows 10 PC-hez](protection-settings-for-windows-10-pcs.md)
     
-   ![A házirend hozzáadása ablaktáblán adja meg a név nevét, majd a legördülő menüből válassza ki a házirendtípust.](media/76ef37e4-1d18-4f34-8a0f-391ab1d0ae2b.png)
   
-4. A házirendek beállítása után Ön és alkalmazottai beállhatnak eszközöket:
+4. A házirendek beállítása után Ön és munkatársai beállhatnak eszközöket:
     
-  - Ha-a Windows arent ' már-ra Windows profi alkotó korszerűsíteni, lesz szükség-hoz [feljavít őket-hoz Windows profi teremtők korszerűsíteni](upgrade-to-windows-pro-creators-update.md).
+  - Ha a Windows-eszközök még nem használják a Windows Pro Creator frissítését, [frissítenie kell őket a Windows Pro készítők frissítésre](upgrade-to-windows-pro-creators-update.md).
     
   - A Windows-eszközök a [Microsoft 365 üzleti felhasználók számára létrehozott Windows-eszközök beállítása](set-up-windows-devices.md) című témakörben találhat további lépéseket. 
     
   - Lásd a [mobil eszközök beállítása a Microsoft 365 üzleti felhasználóknak](set-up-mobile-devices.md) lépéseket az Android telefonok és iPhone. 
-    
-5. Az Office ügyfélalkalmazások automatikus telepítéséhez tekintse meg [az Office ügyfélprogramok telepítésének előkészítése a Microsoft 365 Business webhelyén](prepare-for-office-client-deployment.md) , és az [Office automatikus telepítése vagy eltávolítása Windows 10 eszközökön](auto-install-or-uninstall-office.md).
-    
+
 
 
