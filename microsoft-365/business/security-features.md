@@ -20,12 +20,12 @@ search.appverid:
 - MET150
 ms.assetid: c123694a-1efb-459e-a8d5-2187975373dc
 description: Ismerje meg a Microsoft 365 Business biztonsági szolgáltatásait.
-ms.openlocfilehash: 0d1c35192bf82ac61e59356cda4d9fb29cb3d995
-ms.sourcegitcommit: 4d5e4cb3fa3ab45ad15f103c720c77277b22fc23
+ms.openlocfilehash: 5e295480b1a578ca26646a89d6a0a4183a15428d
+ms.sourcegitcommit: 70e920f76526f47fc849df615de4569e0ac2f4be
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 10/22/2019
-ms.locfileid: "37636772"
+ms.lasthandoff: 11/07/2019
+ms.locfileid: "38031445"
 ---
 # <a name="microsoft-365-business-security-and-compliance-features"></a>Mikroszkóp 365 teendő biztonság és engedékenység jellegét meghatározza
 
@@ -73,7 +73,7 @@ A Microsoft 365 Business továbbfejlesztett szolgáltatásai segítenek megvéde
 - **[A Intune teljes képességei az Azure portálon](https://go.microsoft.com/fwlink/p/?linkid=871403)**
     
     Az Intune Admin Center elérésére az Azure portálon további biztonsági funkciókat állíthat be, például a MacOS eszközök, iPhone és Android eszközök kezelését, valamint a Windows speciális eszközkezelőit, amelyek a Microsofttól nem érhetők el. 365 üzleti admin központ.
-- **Ugyanez a [feltételes hozzáférés](https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/overview) azúrkék ad P1 terv**
+- **Ugyanez a [feltételes hozzáférés](https://docs.microsoft.com/azure/active-directory/conditional-access/overview) azúrkék ad P1 terv**
 
     A feltételes hozzáférés segíthet megvédeni a szervezetet a bejelentkezési kockázattól, a váratlan hálózati vagy területi hozzáférési kísérletektől, a hozzáférési kísérletek kockázatos eszköztípusokhoz és így tovább. A feltételes hozzáférési házirendek érvényesítése az első hitelesítés befejezése után történik, és az első hitelesítési esemény jeleit használja annak megállapításához, hogy a megkísérelt hozzáférést jóvá kell-e hagyja, megtagadja vagy f több bizonyítékot (például az azonosítás második formáját) Szükséges.
 

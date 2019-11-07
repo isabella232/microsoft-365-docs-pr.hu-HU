@@ -21,12 +21,12 @@ search.appverid:
 - MET150
 - MOE150
 description: Útmutató a Microsoft 365 kampányok feltételes hozzáférési házirendjeinek beállításához.
-ms.openlocfilehash: 31f3b7f3678671af3b5ca3947dec37041b226fac
-ms.sourcegitcommit: bd52f7b662887f552f90c46f69d6a2a42fb66914
+ms.openlocfilehash: 3772aa0d505ef54a0587423e890ede519d571e0c
+ms.sourcegitcommit: 70e920f76526f47fc849df615de4569e0ac2f4be
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 10/17/2019
-ms.locfileid: "37575638"
+ms.lasthandoff: 11/07/2019
+ms.locfileid: "38031395"
 ---
 # <a name="set-up-conditional-access-policies"></a>Feltételes hozzáférési házirendek beállítása
 
@@ -53,9 +53,9 @@ További információt ezekről a házirendekkel kapcsolatban: [Mik az alaptervi
     ![A feltételes hozzáférésű alaptervi házirendeket tartalmazó lap.](media/baslinepolicies.png)
 1. Az egyes házirendek esetében tekintse meg a következő konkrét utasításokat:
 
-  - [MFA megkövetelése az adminoknak](https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/howto-baseline-protect-administrators)
-- [A felhasználók számára az MFA megkövetelése](https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/howto-baseline-protect-end-users)  
- - [Örökölt hitelesítés blokkolása](https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/howto-baseline-protect-legacy-auth)
+  - [MFA megkövetelése az adminoknak](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators)
+- [A felhasználók számára az MFA megkövetelése](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-end-users)  
+ - [Örökölt hitelesítés blokkolása](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-legacy-auth)
   - [Az MFA megkövetelése a Szervizkezelés számára](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-azure)
 
 Számos további házirend is beállítható, például a jóváhagyott ügyfélalkalmazások megkövetelése. További információt a [feltételes hozzáférésű dokumentációban](https://docs.microsoft.com/azure/active-directory/conditional-access/) talál.

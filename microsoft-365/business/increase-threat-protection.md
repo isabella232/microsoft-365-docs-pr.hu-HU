@@ -18,12 +18,12 @@ search.appverid:
 - BCS160
 - MET150
 description: Állítsa be az Office 365 fejlett Fenyegetésvédelmet, és őrizzék meg a bizalmas adatokat.
-ms.openlocfilehash: fb63ca7e3cf38ecf31aab98e425b02e8b9983bf8
-ms.sourcegitcommit: 4d5e4cb3fa3ab45ad15f103c720c77277b22fc23
+ms.openlocfilehash: 1827b70f1e4d78a072753390c1a99d7cb4bd5cfd
+ms.sourcegitcommit: 70e920f76526f47fc849df615de4569e0ac2f4be
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 10/22/2019
-ms.locfileid: "37636752"
+ms.lasthandoff: 11/07/2019
+ms.locfileid: "38030764"
 ---
 # <a name="increase-threat-protection"></a>Növeli a fenyegetettséget
 
@@ -31,7 +31,7 @@ Ez a cikk segítséget nyújt a Microsoft 365-előfizetés védelmének növelé
 
 Mielőtt elkezdené, ellenőrizze az Office 365 biztonságos pontszámát. Hivatal 365 biztosít pont elemez-a Hivatal 365 szervezetek ' biztonság azon alapszik-a szabályos tevékenységek és biztonság elintézés és átruház egy pont. Kezdje azzal, hogy tudomásul veszi a jelenlegi pontszám. Figyelembe az intézkedések ajánlott ebben a cikkben növeli a pontszámot. A cél nem az, hogy elérjék a maximális pontszámot, de tudatában kell lennie a lehetőségeket, hogy megvédjük a környezetet, amely nem negatívan befolyásolja a termelékenységet a felhasználók számára. 
 
-További információt a [Microsoft biztonságos pontszám](https://docs.microsoft.com/en-us/office365/securitycompliance/microsoft-secure-score)című témakörben talál.
+További információt a [Microsoft biztonságos pontszám](https://docs.microsoft.com/office365/securitycompliance/microsoft-secure-score)című témakörben talál.
 
 ## <a name="raise-the-level-of-protection-against-malware-in-mail"></a>A rosszindulatú programok elleni védelem szintjének emelése a mail-ben
 

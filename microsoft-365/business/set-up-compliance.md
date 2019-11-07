@@ -18,12 +18,12 @@ search.appverid:
 - BCS160
 - MET150
 description: A megfelelőségi funkciók beállítása az adatvesztést és a címkeérzékeny adatok megelőzésére.
-ms.openlocfilehash: 73709c1302a2e9e46eb2d54ea021438b5f1743c5
-ms.sourcegitcommit: bd52f7b662887f552f90c46f69d6a2a42fb66914
+ms.openlocfilehash: 5213c55f4a8ce0e223896f1b960847714d6d06cb
+ms.sourcegitcommit: 70e920f76526f47fc849df615de4569e0ac2f4be
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 10/17/2019
-ms.locfileid: "37575658"
+ms.lasthandoff: 11/07/2019
+ms.locfileid: "38031415"
 ---
 # <a name="set-up-compliance-features"></a>Megfelelőségi funkciók beállítása
 
@@ -57,7 +57,7 @@ Ha peres eljárás miatti tartásba szeretne helyezni egy postafiókot, az admin
 
 Érzékenység címkék jönnek Azure Information Protection (AIP) terv 1, és segít osztályozni, és tetszés szerint, védi a dokumentumok és e-maileket, alkalmazásával címkéket. A címkék automatikusan alkalmazhatók, ha a rendszergazdák szabályokat és feltételeket határoznak meg, manuálisan, felhasználók szerint, vagy olyan kombinációban, ahol a felhasználók ajánlásokat kapnak.
 
-Az érzékenységi címkék beállításához tekintse meg az [érzékenységi címkék létrehozását és kezelését](https://support.office.com/en-us/article/2fb96b54-7dd2-4f0c-ac8d-170790d4b8b9) ismertető videót.
+Az érzékenységi címkék beállításához tekintse meg az [érzékenységi címkék létrehozását és kezelését](https://support.office.com/article/2fb96b54-7dd2-4f0c-ac8d-170790d4b8b9) ismertető videót.
 
 
 

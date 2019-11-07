@@ -22,12 +22,12 @@ search.appverid:
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
 description: Ismerje meg, hogy hozzanak létre a Microsoft 365 Business.
-ms.openlocfilehash: 0c717271da17ff4bf28d8d3546df3a9da427dba5
-ms.sourcegitcommit: 53148fc3663bdcfa9605684317785cb19f37e141
+ms.openlocfilehash: afc39ce57e63ad039780ad33e60fa81d8e8eec7a
+ms.sourcegitcommit: 70e920f76526f47fc849df615de4569e0ac2f4be
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 10/24/2019
-ms.locfileid: "37697765"
+ms.lasthandoff: 11/07/2019
+ms.locfileid: "38031465"
 ---
 # <a name="overview-of-microsoft-365-business"></a>Áttekintés-ból Mikroszkóp 365 teendő
 
@@ -98,4 +98,4 @@ A biztonsági szolgáltatások teljes listáját a [Microsoft 365 üzleti bizton
 
 - Ha Ön dont ' volna egy társ és akar-hoz kap Mikroszkóp 365 teendő, tudod [vesz ez itt](https://www.microsoft.com/microsoft-365/business) és követ a [jel megjelöl](sign-up.md) oktatás.
 
-- Tudod is fej őfelemikroszkóp [készlet](https://www.microsoft.com/en-us/store/locations/find-a-store?icid=en-us_UF_FAS) -hoz mindkettő vesz Mikroszkóp 365 teendő és kap készlet-megjelöl segít.
+- Tudod is fej őfelemikroszkóp [készlet](https://www.microsoft.com/store/locations/find-a-store?icid=en-us_UF_FAS) -hoz mindkettő vesz Mikroszkóp 365 teendő és kap készlet-megjelöl segít.
