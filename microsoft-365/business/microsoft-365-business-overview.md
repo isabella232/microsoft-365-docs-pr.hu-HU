@@ -22,18 +22,18 @@ search.appverid:
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
 description: Ismerje meg, hogy hozzanak létre a Microsoft 365 Business.
-ms.openlocfilehash: afc39ce57e63ad039780ad33e60fa81d8e8eec7a
-ms.sourcegitcommit: 70e920f76526f47fc849df615de4569e0ac2f4be
+ms.openlocfilehash: 86af927c05168fabe5a72f331c14c9f3e5cbc1dd
+ms.sourcegitcommit: 550ea6f093ec35182e7c65a2811e9bfb07ec7d01
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 11/07/2019
-ms.locfileid: "38031465"
+ms.lasthandoff: 11/08/2019
+ms.locfileid: "38038949"
 ---
 # <a name="overview-of-microsoft-365-business"></a>Áttekintés-ból Mikroszkóp 365 teendő
 
 ## <a name="what-is-microsoft-365-business"></a>Mi a Microsoft 365 Vállalati verzió?
 
-A Microsoft 365 Vállalati verzió a vállalati hatékonyságot és együttműködést elősegítő eszközök átfogó gyűjteménye, amely például olyan termékeket tartalmaz, mint az Outlook, a Word, az Excel és egyéb Office-termékek, amelyek mindig naprakészek. Az egyszerűen kezelhető, nagyvállalati szintű biztonsági funkciókkal minden iOS, Android és Windows 10 rendszerű eszközén megvédheti a munkahelyi fájljait.
+Mikroszkóp 365 teendő van egy aláírás szolgáltatás amit beleértve Hivatal 365 termelékenység szerszámok plusz haladó képességek-hoz segít megvéd-a teendő ellen cyberfenyegetések, megvéd-a adat, és kezel a berendezés.
   
 A Microsoft 365 Business legfeljebb 300 licenccel való használatra készült. Ha ennél több licencre van szüksége, további információért olvassa el a [Microsoft 365 Nagyvállalati verzió](https://go.microsoft.com/fwlink/p/?linkid=860986) dokumentációját.
 

@@ -21,12 +21,12 @@ search.appverid:
 - MET150
 ms.assetid: 5abfef7b-5957-484a-b06b-a7c55e013e44
 description: Útmutató a Microsoft 365 Business megvásárlását a Microsoft Partnerközpontból.
-ms.openlocfilehash: 168c68c7394ff736e9d94cb40872230a3f3b8894
-ms.sourcegitcommit: 70e920f76526f47fc849df615de4569e0ac2f4be
+ms.openlocfilehash: 09d2f24fba1725278b663d5c3159163a56dcdc59
+ms.sourcegitcommit: 550ea6f093ec35182e7c65a2811e9bfb07ec7d01
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 11/07/2019
-ms.locfileid: "38030814"
+ms.lasthandoff: 11/08/2019
+ms.locfileid: "38038919"
 ---
 # <a name="get-microsoft-365-business"></a>A Microsoft 365 Vállalati verzió beszerzése
 
@@ -36,7 +36,7 @@ Ha nincs partnere, és meg szeretné vásárolni a Microsoft 365 Businesst, [itt
 
 A részletes útmutatásért lásd: [Feliratkozás a Microsoft 365 Business-ra](sign-up.md) .
 
-Tudod is fej őfelemikroszkóp [készlet](https://www.microsoft.com/store/locations/find-a-store?icid=en-us_UF_FAS) -hoz mindkettő vesz Mikroszkóp 365 teendő és kap készlet-megjelöl segít.
+Tudod is fej őfelemikroszkóp [készlet](https://www.microsoft.com/en-us/store/locations/find-a-store?icid=en_US_Store_UH_FAS) -hoz mindkettő vesz Mikroszkóp 365 teendő és kap készlet-megjelöl segít.
   
 ## <a name="get-microsoft-365-business-from-microsoft-partner-center"></a>A Microsoft 365 Business beszerzése a Microsoft Partnerközpontban
 
@@ -46,7 +46,7 @@ Tudod is fej őfelemikroszkóp [készlet](https://www.microsoft.com/store/locati
     
     ![In the Microsoft Partner center, add a new customer.](media/ec807d07-bbd2-411f-8fe1-c644cf9a3882.png)
   
-3. Az ügyfél **Subscription** (Előfizetés) lapján válassza az Add subscription (Előfizetés felvétele) elemet, a Catalog (Katalógus) beállításnál válassza a Small business (Kisvállalati) lehetőséget, majd a **Microsoft 365 Business** (Microsoft 365 Vállalati verzió) terméket.
+3. Az ügyfél **előfizetésének** lapján válassza az **előfizetés hozzáadása**lehetőséget, válassza ki a kisvállalati lehetőséget a katalógus területen, majd válassza a **Microsoft 365 Business**beállítást.
     
     Adja meg a szükséges licencek számát (legfeljebb 300 lehet). Ha több mint 300 felhasználója van, olvassa el a [Microsoft 365 Nagyvállalati verzió](https://go.microsoft.com/fwlink/p/?linkid=862316) ismertetését. 
     
