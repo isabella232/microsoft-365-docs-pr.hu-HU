@@ -20,12 +20,12 @@ search.appverid:
 - MET150
 ms.assetid: 5b4ba843-24b8-4526-8e1f-f9b9eab89d06
 description: Lép amit feljavít-a teendő-ból Hivatal 365 teendő prémium-hoz Mikroszkóp 365 teendő.
-ms.openlocfilehash: 1e337b908f848da1d33cbd8e662652550d302b14
-ms.sourcegitcommit: 0fa897d06b664c0ed005817752da1426d4ee17cb
+ms.openlocfilehash: f3a25746cf123fa471c29084a62a6fcfc1542a02
+ms.sourcegitcommit: f0a4290793e296474ecd3c6eb0ca96eae7faa434
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "38002123"
+ms.lasthandoff: 11/11/2019
+ms.locfileid: "38231411"
 ---
 # <a name="upgrade-to-microsoft-365-business-from-office-365-business-premium"></a>Feljavít-hoz Mikroszkóp 365 teendő-ból Hivatal 365 teendő prémium
 
@@ -38,37 +38,6 @@ Többet megtudni a Microsoft 365 Business a [Microsoft.com](https://www.microsof
 ## <a name="whats-the-difference-between-office-365-business-premium-and-microsoft-365-business"></a>Izé ' a különbség között Hivatal 365 teendő prémium és Mikroszkóp 365 teendő?
 Adtunk hozzá egy side-by-oldali összehasonlítása két tervek a [Microsoft 365 üzleti szolgáltatás leírását](https://docs.microsoft.com/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-business-service-description). 
 
-1. Egyszer önnek van megvásárol új engedélyez, és ez a először Ön tett, a beállít zászló részére Mikroszkóp 365 teendő akarat bemutatás-ra tető-ból admin központ.
-    
-    > [!NOTE]
-    > A Setup banner egy lehetőség, hogy új felhasználók, új domain, és áttelepítheti az e-mail az új felhasználók számára. Ha nem tervez-hoz csinál akármi, Önnek kellene csendes keresztülmenni a varázsló és választ hiba választások-hoz csinál ez eltűnik-ból admin haza oldal. 
-  
-   ![Válassza ki a Start setup a Microsoft 365 Business készen áll arra, hogy hozzanak létre banner.](media/8d3b0d97-7cca-497f-9364-4b00ad670209.png)
-  
-    Válassza a **Start Setup**-t.
-    
-2. A **Bejelentkezés és az E-mail testreszabása** lapon a tartományt úgy adhatja hozzá, hogy a **már meglévő tartomány csatlakoztatása** lehetőséget választva egy másik tartományt is hozzáadhat az előfizetéshez. 
-    
-    Ha már beállított egy tartományt, a második mező azt fogja jelezni, hogy **továbbra is használja** \< _a tartománynevet_ \> az **e-mailhez és a bejelentkezéshez**.   Ha ön kikötő ' felállít egy birtok veled aláírás, ez akarat mond **folytatódik használ** \<- _a társaság Name.onmicrosoft.com_ \> **részére elektronikus levél és jel-ban**.  
-    
-    Válassza a **Tovább** gombot.
-    
-    ![A bejelentkezés és e-mail oldal testreszabása lapon válassza a tartomány hozzáadását vagy a használat során használandó tartománynevet.](media/c3f5cfb2-1189-4d2f-803b-c9feb008a7a3.png)
-  
-3. Az **új felhasználók hozzáadása** lapon új felhasználókat vehet fel, ha olyan új alkalmazottakkal rendelkezik, akiknek hozzá szeretné rendelni a Microsoft 365 üzleti licenceket. 
-    
-    Ha nem rendelkezik új alkalmazottakkal, és engedélyeket kíván hozzárendelni a meglévő felhasználókhoz, akkor válassza a **Next (tovább**) gombra.
-    
-4. Az e-mailek **áttelepítése** lapon választhatja az e-mailek áttelepítését bármely új felhasználóhoz, amelyet a 3. lépésben felvett. Kihagyhatja ezt a lépést is. Válassza a **Tovább** gombot.
-    
-5. Az utolsó oldalon válassza **az Ugrás az admin Centerhez**parancsot, majd folytassa a telepítést.
-    
-6. Az admin központban nyissa meg a **felhasználók** \> **aktív felhasználóit**.
-    
-7. Válassza ki azt a felhasználót, akihez a **Microsoft 365 üzleti** licencet hozzá kívánja rendelni, majd válassza a **terméklicencek**melletti **Szerkesztés** választ.
-    
-    ![A felhasználói kártyán válassza a terméklicencek mellett található Szerkesztés programot.](media/be0fe2d8-7ff8-447c-88f6-d212ed78451c.png)
-  
 ## <a name="before-you-get-started"></a>Mielőtt elindulsz
 
 - **Mikor válasszam a frissítést?** A frissítés a megfelelő választás, ha egy adott tervhez hozzárendelt **összes felhasználót** szeretne frissíteni. Ha a frissítést választja, a felhasználók egy időben átkapcsolnak egy másik tervre. Ha nem kíván egyetlen tervbe tartozó mindenkit frissíteni, akkor vásárolja meg az új terv licenceit (ebben az esetben a Microsoft 365 Business), és [egyenként rendelje hozzá ezeket a licenceket](https://docs.microsoft.com/office365/admin/manage/assign-licenses-to-users) minden egyes frissíteni kívánt felhasználóhoz. 
