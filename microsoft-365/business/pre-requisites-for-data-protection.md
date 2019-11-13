@@ -18,12 +18,12 @@ search.appverid:
 - MET150
 ms.assetid: 7770e280-3a6c-436f-a157-b008a2744f51
 description: 'Ismerje meg az előfeltétele a szervezet beállításához a Microsoft 365 Business. '
-ms.openlocfilehash: 3bf02ab831a1eb158959490ff7f4d4274a15bb3f
-ms.sourcegitcommit: bd52f7b662887f552f90c46f69d6a2a42fb66914
+ms.openlocfilehash: 157abf0a3396ab374297441bf90d6defc4093390
+ms.sourcegitcommit: e2ed110c4c3a8434f9fcc9d610069bc77bc39220
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 10/17/2019
-ms.locfileid: "37575838"
+ms.lasthandoff: 11/12/2019
+ms.locfileid: "38290530"
 ---
 # <a name="pre-requisites-for-protecting-data-on-devices-with-microsoft-365-business"></a>A Microsoft 365 Business-szel rendelkező eszközök adatvédelmének előfeltételei
 
@@ -34,6 +34,8 @@ Első lépésként be kell állítania a szervezetét a Microsoft 365 Business s
 - A windowsos eszközöknek Windows 7 Professional, Windows 8 Pro vagy Windows 8.1 Pro operációs rendszert kell futtatniuk.
     
     [Windows-eszközök frissítése a Windows Pro alkotói frissítésére](upgrade-to-windows-pro-creators-update.md)
+    
+    Ha ön futás Windows 10 haza, akkor sírnod kell **megvásárol** Windows 10 profi. Útmutatásokért lásd: [a Windows 10 Home frissítése a Windows 10 Pro rendszerben](https://support.office.com/article/0aee10c1-4d34-43ee-a325-579c6c2df90e?ui=en-US&rs=en-US&ad=US) . 
     
 - Távolítsa el az eszközöket a mobileszköz-kezelési megoldásokból (Mobile Iron, AirWatch stb.). A szervezet összes tagját a(z) Microsoft 365 Business mobileszköz-kezelési szolgáltatásában fogja regisztrálni.
     
