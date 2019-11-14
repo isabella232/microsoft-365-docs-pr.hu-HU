@@ -1,5 +1,5 @@
 ---
-title: További felhasználók felvétele a Microsoft 365 Business verzióban
+title: Összead több használók-hoz Mikroszkóp 365 teendő
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
@@ -21,29 +21,29 @@ search.appverid:
 - MET150
 ms.assetid: 96153102-1db1-4df8-bca5-38cea80b65ce
 description: Ismerje meg, hogyan adhat hozzá új felhasználókat, hogyan biztosítsa eszközeiket, és hogyan rendelhet szerepköröket a Microsoft 365 Business-ben.
-ms.openlocfilehash: 0ea3a4845e46ed1d13abf966eea895aa394aebca
-ms.sourcegitcommit: bd52f7b662887f552f90c46f69d6a2a42fb66914
+ms.openlocfilehash: 25f19873400dad1c57445a63dd354bbb5d1fce49
+ms.sourcegitcommit: 8193b7da5b1a415835d02ca96883c351df7326ed
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 10/17/2019
-ms.locfileid: "37574758"
+ms.lasthandoff: 11/14/2019
+ms.locfileid: "38322535"
 ---
-# <a name="add-additional-users-to-microsoft-365-business"></a>További felhasználók felvétele a Microsoft 365 Business verzióban
+# <a name="add-more-users-to-microsoft-365-business"></a>Összead több használók-hoz Mikroszkóp 365 teendő
 
 ## <a name="add-new-users"></a>Új felhasználók hozzáadása
 
 1. Menj az admin központba <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>. 
-2. A bal oldali NAV válassza ki a **felhasználók** \> **aktív felhasználók**.
-1. Az **aktív felhasználók** lapon válassza a **felhasználó hozzáadása**-t.
- 4. Az **Új felhasználó** panelen írja be a szükséges információkat. 
+2. A bal oldali navigációs ablaktáblán kattintson az **aktív felhasználók** **felhasználóira** \> .
+3. Az **aktív felhasználók** lapon válassza a **felhasználó hozzáadása**-t.
+4. Az **új felhasználói** panelen írja be a szükséges adatokat. 
   
-    Ezenkívül az **Elérhetőségi adatok** csoportban megadhatja az esetleges további információkat, a **Jelszó** csoportban kiválaszthatja a jelszó beállításának módját, a **Szerepkörök** csoportban pedig szerepköröket oszthat ki.
+    A **kapcsolattartási adatok**alatt további információkat is megadhat, megadhatja, hogyan állítja be a jelszót a **jelszóbeállítás** alatt, és hozzárendelje a szerepköröket a **szerepkörök szerepkörhöz**.
       
     ![Enter user information in the New user card](media/f04d39ca-48be-4868-8330-8552a4754c8b.png)
       
-    A Terméklicencek szakaszban állítsa a **Microsoft 365 Business** terméklicencét **Be** értékre.
+    A terméklicencek részben állítsa be a **Microsoft 365 üzleti** termék Licencbeállítását **on**értékre.
       
     ![Set the license setting to On position](media/7404f7f7-93bc-44a3-9ffb-4208b5b17402.png)
   
-Lásd még: [felhasználók hozzáadása egyenként vagy ömlesztve](https://docs.microsoft.com/office365/admin/add-users/add-users).
+A felhasználók hozzáadásáról további információt a [felhasználók hozzáadása egyenként vagy ömlesztve](https://docs.microsoft.com/office365/admin/add-users/add-users)című témakörben talál.
   
