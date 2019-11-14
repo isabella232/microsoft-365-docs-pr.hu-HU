@@ -21,17 +21,15 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: c3ac23c5-d4b4-4b1b-b7ce-ea759521bf8c
-description: 'További tudnivalók: Microsoft 365 üzleti eszköz államok.'
-ms.openlocfilehash: 06e5c800e6a104785c1fd0724223e05d7729722e
-ms.sourcegitcommit: 66bb5af851947078872a4d31d3246e69f7dd42bb
+description: Információ a Microsoft 365 Business eszköz eszközállapoiról.
+ms.openlocfilehash: b55e6a5d538ec28d195225e93797cea27afd2e8b
+ms.sourcegitcommit: 8193b7da5b1a415835d02ca96883c351df7326ed
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 05/15/2019
-ms.locfileid: "34072720"
+ms.lasthandoff: 11/14/2019
+ms.locfileid: "38320208"
 ---
 # <a name="device-states"></a>Eszközállapotok
-
-## <a name="device-states"></a>Eszközállapotok
 
 Az **Eszközműveletek** listában (Rendszergazdai kezdőlap \> **Eszközműveletek**) szereplő eszközöknek az alábbi állapotai lehetnek.
   
@@ -43,12 +41,12 @@ Az **Eszközműveletek** listában (Rendszergazdai kezdőlap \> **Eszközművele
 |Kivezetés függőben  <br/> |A Microsoft 365 Business felkészülőben van a vállalati adatok eszközről való eltávolítására.  <br/> |
 |Kivezetés folyamatban  <br/> |A Microsoft 365 Business jelenleg a vállalati adatok eszközről való eltávolításán dolgozik.  <br/> |
 |Kivezetés sikertelen  <br/> | A vállalati adatok eltávolításának művelete nem sikerült.  <br/> |
-|Kivezetés visszavonva  <br/> |A kivezetési művelet vissza lett vonva.  <br/> |
+|Visszavonva  <br/> |Visszavonta a műveletet.  <br/> |
 |Törlés függőben  <br/> |Várakozás a gyári állapot visszaállításának megkezdésére.  <br/> |
 |Törlés folyamatban  <br/> |Megkezdődött a gyári állapot visszaállítása.  <br/> |
-|Törlés sikertelen  <br/> |Nem sikerült végrehajtani a gyári állapot visszaállítását.  <br/> |
-|Törlés visszavonva  <br/> |A gyári állapot visszaállítása vissza lett vonva.  <br/> |
-|Nem kifogástalan  <br/> |Ez azt jelenti, hogy egy művelet függőben (vagy folyamatban) van, de az eszköz nem jelentkezett be több mint 30 napja.  <br/> |
+|Törlés sikertelen  <br/> |Nem tudott ' csinál gyár orrgazdaság.  <br/> |
+|Kitakarás megszakítva  <br/> |Gyári törlés törölték.  <br/> |
+|Nem kifogástalan  <br/> |A művelet függőben (vagy folyamatban) van, de az eszköz 30 + napig nem ellenőrzött.  <br/> |
 |Törlés függőben  <br/> |Egy törlési művelet függőben van.  <br/> |
 |Észlelt  <br/> |A Microsoft 365 Business észlelte az eszközt.  <br/> |
    

@@ -24,16 +24,16 @@ search.appverid:
 - MOE150
 ms.assetid: f338e660-6483-4eef-acb9-53dee5bd4408
 description: Ismerje meg, mire számíthat a Business Cloud Suite telepítése után.
-ms.openlocfilehash: b11c247e8d857f8c7a4d41f633267038b3dd86c6
-ms.sourcegitcommit: bd52f7b662887f552f90c46f69d6a2a42fb66914
+ms.openlocfilehash: d19438d6e085ba27ec3fb0308005a9bf473383e1
+ms.sourcegitcommit: 8193b7da5b1a415835d02ca96883c351df7326ed
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 10/17/2019
-ms.locfileid: "37574698"
+ms.lasthandoff: 11/14/2019
+ms.locfileid: "38320188"
 ---
 # <a name="help-users-connect-to-microsoft-365-business"></a>A felhasználók könnyebben kapcsolódhatnak a Microsoft 365 Businesshez
 
-A telepítés után az alapértelmezett eszközházirendek máris alkalmazhatók. Mobileszközökön a felhasználók letöltik az Office-appokat, a házirendek pedig akkor lépnek érvénybe, amikor a felhasználó a munkahelyi vagy iskolai fiókjával jelentkezik be. Windowsos PC-k esetében még néhány további lépés, például egy helyi frissítés is elvégzendő, mielőtt a házirendek alkalmazhatók lennének. Javasoljuk, hogy az alábbi témaköröket ossza meg a felhasználókkal, hogy gördülékenyebb legyen a beállítás és a használatba vétel.
+A telepítés befejezése után az alapértelmezett eszközházirendek vannak érvényben, és készen állnak az alkalmazására. A mobileszközökön a felhasználók Office-alkalmazásokat töltnek le. Ezeket a házirendeket akkor alkalmazzák, amikor a felhasználó a munkájával vagy az iskolai fiókkal bejelentkezik. Windowsos PC-k esetében még néhány további lépés, például egy helyi frissítés is elvégzendő, mielőtt a házirendek alkalmazhatók lennének. Tekintse meg és ossza meg az alábbi témaköröket, hogy segítse a felhasználókat a beállítás és a csatlakozás során:
   
 [Windows rendszerű eszközök beállítása a Microsoft 365 Vállalati verzió felhasználóinak](set-up-windows-devices.md)
   

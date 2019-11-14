@@ -22,19 +22,17 @@ search.appverid:
 - MOE150
 ms.assetid: 5ffd5327-a83a-4d53-94d6-22ba2f9fd090
 description: Ismerje meg most, hogy telepítéskor automatikusan telepítse az Office-t a Windows 10 eszközbe.
-ms.openlocfilehash: 64585d0a34e409822959939d5ae40fac57ff943b
-ms.sourcegitcommit: bd52f7b662887f552f90c46f69d6a2a42fb66914
+ms.openlocfilehash: fbc11553452ae5068ad7013a409901dee5b3570d
+ms.sourcegitcommit: 8193b7da5b1a415835d02ca96883c351df7326ed
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 10/17/2019
-ms.locfileid: "37575998"
+ms.lasthandoff: 11/14/2019
+ms.locfileid: "38320048"
 ---
 # <a name="install-office-on-windows-10-during-setup"></a>Az Office telepítése Windows 10-es eszközön a telepítés során
 
 ![Banner, hogy pont https://aka.ms/aboutM365preview-hoz.](media/m365admincenterchanging.png)
 
-Ez a beállítás alapértelmezés szerint ki van kapcsolva. Bekapcsolhatja, ha szeretné biztosítani, hogy a felhasználók az Office legújabb verzióját futtassák az összes Windows 10-es eszközükön, de először ellenőrizze, hogy minden követelmény teljesül-e. A [Felkészülés Office-ügyfél központi telepítésére a Microsoft 365 Vállalati verzió segítségével](prepare-for-office-client-deployment.md) című témakörben ismertetett egyéb követelmények mellett a felhasználóknak licenccel kell rendelkezniük a Microsoft 365 Business szolgáltatáshoz ahhoz, hogy ez a beállítás a szoftvert az eszközükre küldje. 
+Ez a beállítás alapértelmezés szerint ki van kapcsolva. Azt is beállíthatja, hogy a felhasználók minden Windows 10 eszközön az Office legújabb verziójával rendelkeznek, de először ellenőrizze, hogy minden előfeltétel teljesül-e. Használók kell lenni engedélyezett részére Mikroszkóp 365 teendő részére ez elintézés-hoz támadás a szoftver-hoz berendezés, ráadásul más igények leír-ban [előkészít részére Hivatal ügyfél felfejlődés mellett mikroszkóp 365 teendő](prepare-for-office-client-deployment.md). 
   
-Azt javasoljuk, hogy a telepítés során az alapértelmezett beállításokat fogadja el. Ha különböző felhasználói csoportokra különféle beállításokat szeretne alkalmazni, a telepítés után felügyelheti az Office üzembe helyezését csoportonként is. Válassza a Felügyeleti központ kezdőlapjáról az **Eszközök** \> **Az Office üzembe helyezésének kezelése** lehetőséget. Részletes útmutatást [Az Office automatikus telepítése vagy eltávolítása Windows 10-eszközökön](auto-install-or-uninstall-office.md) című témakörben talál.
-  
-
+Javasoljuk, hogy a telepítés során fogadja el az alapértelmezett beállítást. Ha különböző felhasználói csoportokra különféle beállításokat szeretne alkalmazni, a telepítés után felügyelheti az Office üzembe helyezését csoportonként is. Válassza a Felügyeleti központ kezdőlapjáról az **Eszközök** \> **Az Office üzembe helyezésének kezelése** lehetőséget. Részletes útmutatást [Az Office automatikus telepítése vagy eltávolítása Windows 10-eszközökön](auto-install-or-uninstall-office.md) című témakörben talál.
