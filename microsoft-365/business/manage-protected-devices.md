@@ -23,17 +23,19 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 018a2a96-3811-4b5d-b751-3b6330b34256
-description: Ismerje meg, hogyan visszaállítása vagy törlés védelem házirendeken keresztül kezelhető eszköz.
-ms.openlocfilehash: 78eff4b4d29ee5de6f773841cc77239f6acf0634
-ms.sourcegitcommit: 66bb5af851947078872a4d31d3246e69f7dd42bb
+description: Ismerkedjen meg a védelmi házirendekkel kezelt eszköz alaphelyzetbe állítására vagy megtörlésével.
+ms.openlocfilehash: ef3b8ed0e3b3f8b9136d3929bce1b835309498c7
+ms.sourcegitcommit: 9a057e70637dcfe06d4f729a96c02be989cf9e25
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 05/15/2019
-ms.locfileid: "34074670"
+ms.lasthandoff: 11/14/2019
+ms.locfileid: "38633329"
 ---
 # <a name="manage-protected-devices-with-microsoft-365-business"></a>Védett eszközök kezelése a Microsoft 365 Business használatával
 
-Miután a felhasználó csatlakozik az eszközével a szervezet rendszeréhez azzal, hogy az eszközön bejelentkezik a munkahelyi profiljába vagy valamelyik Office-appba, az eszközt az Ön által beállított házirendekkel tudjuk védeni, és az eszköz megjelenik majd az **Eszközök** lapon is. Az elveszett vagy ellopott eszközt ezen a lapon kezelheti, és törölhet róla minden céges adatot. Windows 10-es eszközökön a gyári állapotot is visszaállíthatja, így minden egyéni beállítás törlődik róluk. Az eszközkezeléssel kapcsolatos további lehetőségekről az alábbi cikkekben talál részletesebb információt: 
+Miután egy felhasználó az eszközhöz vagy az eszközön található Office alkalmazásokhoz csatlakoztatja az eszközt a szervezethez, megvédheti az eszközt a beállított házirendekkel. A csatlakoztatott eszközök az **eszközök** oldalon vannak felsorolva. Az elveszett vagy ellopott eszközt ezen a lapon kezelheti, és törölhet róla minden céges adatot. Windows 10-es eszközökön a gyári állapotot is visszaállíthatja, így minden egyéni beállítás törlődik róluk. 
+
+Az eszközök kezeléséhez használható feladatokkal kapcsolatos további tudnivalókért tanulmányozza az alábbi cikkeket: 
   
 [Céges adatok eltávolítása az eszközökről](remove-company-data.md)
   

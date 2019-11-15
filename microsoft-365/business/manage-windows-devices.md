@@ -20,20 +20,20 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: 9b4de218-f1ad-41fa-a61b-e9e8ac0cf993
-description: Útmutató a Microsoft 365 a helyi AD-hez csatlakozott Windows 10-eszközök védelmének engedélyezéséhez.
-ms.openlocfilehash: 392c57a7350a901c1481be632e880cc9fcaa6140
-ms.sourcegitcommit: bd52f7b662887f552f90c46f69d6a2a42fb66914
+description: Tájékoztatás arról, hogy miként engedélyezhető a Microsoft 365 a helyi Active Directory-ban a Windows 10-eszközök védelmében.
+ms.openlocfilehash: 93e3364fc94f3878bec13d0a87b17a7d3678a4cc
+ms.sourcegitcommit: 9a057e70637dcfe06d4f729a96c02be989cf9e25
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 10/17/2019
-ms.locfileid: "37575978"
+ms.lasthandoff: 11/14/2019
+ms.locfileid: "38633269"
 ---
 # <a name="enable-domain-joined-windows-10-devices-to-be-managed-by-microsoft-365-business"></a>A tartományhoz csatlakoztatott Windows 10-es eszközök kezelésének engedélyezése a Microsoft 365 Vállalati verzió számára
 
 Ha a szervezet helyi Windows Server Active Directoryt használ, beállíthatja a Microsoft 365 Business rendszert, hogy védje a Windows 10 eszközeit, miközben továbbra is fenntartja az intézményi erőforrásokhoz való hozzáférést, amelyekhez szükség van lokális hitelesítésre.
-Ennek beállításához használhat **hibrid Azure-ad egyesített eszközöket**. Ezek olyan eszközök, amelyek mind a helyi Active Directory címtárba, mind a Azure Active Directoryba csatlakoztak.
+A védelem beállításához **hibrid Azure-ad illesztésre szolgáló eszközök**is végrehajhatók. Ezek az eszközök mind a helyszíni Active Directory, mind az Azure Active Directory címtárba vannak csatlakoztatva.
 
-A következő videó részletesen ismerteti, hogyan kell beállítani ezt a leggyakoribb forgatókönyvre, amely az alábbi lépésekben is részletes.
+Ez a videó leírja, hogy hogyan állíthatja be ezt a leggyakoribb forgatókönyvhöz, amely a következő lépésekben is részletes.
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE3C9hO]
   
@@ -44,9 +44,9 @@ Mielőtt a felhasználókat és a számítógépeket a helyi Active Directory-ta
 
    - Győződjön meg arról, hogy a könyvtárban nem találhatók ismétlődések a következő attribútumok számára: **mail**, **ProxyAddresses**és **userPrincipalName**. Ezeknek az értékeknek egyedieknek kell lenniük, és az ismétlődéseket el kell távolítani.
    
-   - Javasoljuk, hogy minden helyi felhasználói fiók **userPrincipalName** (UPN) attribútuma úgy legyen konfigurálva, hogy megfeleljen az elsődleges e-mail címnek, amely megfelel a licencelt Microsoft 365 felhasználónak. Például *Mary.Shelley@contoso.com* , nem pedig *Mary @ contoso. local*
+   - Azt javasoljuk, hogy minden helyi felhasználói fiók esetében konfigurálja a **userPrincipalName** (UPN) attribútumot úgy, hogy az megfeleljen az elsődleges e-mail címnek, amely megfelel a licencelt Microsoft 365 felhasználónak. Például: *Mary.Shelley@contoso.com* helyett *Mary@contoso. local*
    
-   - Ha az Active Directory tartomány nem útválasztható (például *. local* vagy *. LAN*) végződést ér el egy Internet-irányítható utótag, pl *. com* vagy *. org*helyett, akkor a helyi felhasználói fiókok UPN-utótagját először az alábbiak szerint kell módosítani [Nem útválasztható tartomány előkészítése a címtár-szinkronizáláshoz](https://docs.microsoft.com/office365/enterprise/prepare-a-non-routable-domain-for-directory-synchronization). 
+   - Ha az Active Directory tartomány nem útválasztható (például *. local* vagy *. LAN*) végződést ér el egy Internet-útválasztásra alkalmas utótag, pl *. com* vagy *. org*helyett, módosítsa a helyi felhasználói fiókok UPN-utótagját úgy, ahogyan azt a [nem Útválasztható tartomány a címtár-szinkronizáláshoz való előkészítéssel](https://docs.microsoft.com/office365/enterprise/prepare-a-non-routable-domain-for-directory-synchronization)című témakörben leírtak szerint. 
 
 ## <a name="2-install-and-configure-azure-ad-connect"></a>2. telepítése és konfigurálása Azure AD Connect
 
@@ -55,28 +55,28 @@ A felhasználók, csoportok és kapcsolattartók helyi Active Directoryból a Az
 > [!NOTE]
 > A lép van pontosan ugyanaz részére Mikroszkóp 365 teendő. 
 
-A Azure AD Connect szolgáltatás beállításainak konfigurálásakor javasoljuk a **Jelszó-szinkronizálás** és a **zökkenőmentes egyszeri bejelentkezés**engedélyezését, valamint a **jelszó** írásának funkcióját, amelyet a Microsoft 365 Business is támogat.
+A Azure AD Connect szolgáltatás beállításainak konfigurálásakor ajánlott engedélyezni a **Jelszó-szinkronizálást**, a **zökkenőmentes egyszeri bejelentkezést**és a **jelszó** -írási funkciót, amelyet a Microsoft 365 Business is támogat.
 
 > [!NOTE]
 > Van néhány további lépés a jelszóírésre az Azure AD Connect-ben lévő jelölőnégyzeten kívül. További információ [: Hogyan-hoz configure jelszó writeback](https://docs.microsoft.com/azure/active-directory/authentication/howto-sspr-writeback). 
 
 ## <a name="3-configure-hybrid-azure-ad-join"></a>3. configure hibrid Azure AD illesztés
 
-Mielőtt bekapcsolódott a Windows 10 eszköz a Hybrid Azure Active Directory-hoz, győződjön meg arról, hogy megfelel az alábbi feltételeknek:
+Mielőtt engedélyezne a Windows 10 rendszerű eszközök Hybrid Azure AD csatlakozését, győződjön meg arról, hogy megfelel az alábbi feltételeknek:
 
-   - A legújabb verziójú Azure AD Connect-et futtatja.
+   - Az Azure AD Connect legújabb verzióját futtatja.
 
    - Azúrkék AD összeköt birtokol szinkronizál minden a számítógép tárgy-ból berendezés ön akar-hoz lenni hibrid Azure AD összekapcsolt. Ha a számítógép-objektumok meghatározott szervezeti egységekhez tartoznak, akkor győződjön meg arról, hogy ezek a szervezeti egységek szinkronizálásra vannak beállítva a Azure AD Connect-ben is.
 
-Ha már meglévő, tartományhoz csatlakoztatott Windows 10-eszközt szeretne regisztrálni a Hybrid Azure AD csatlakozásakor, kövesse az [oktatóprogram: a hibrid Azure Active Directory-illesztés konfigurálása felügyelt tartományokhoz](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-managed-domains#configure-hybrid-azure-ad-join)című témakört. Ez hibrid-lehetővé teszi, hogy a meglévő helyszíni Active Directory-hoz csatlakozott a Windows 10 számítógépet, és tegyék felhő kész.
+Ha már meglévő, tartományhoz csatlakoztatott Windows 10-eszközt szeretne regisztrálni a Hybrid Azure AD csatlakozásakor, kövesse az [oktatóprogram: a hibrid Azure Active Directory-illesztés konfigurálása felügyelt tartományokhoz](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-managed-domains#configure-hybrid-azure-ad-join)című témakört. Ez a hibrid-lehetővé teszi, hogy a meglévő helyszíni Active Directory-hoz csatlakozott a Windows 10 számítógépek, és azokat felhő kész.
     
 ## <a name="4-enable-automatic-enrollment-for-windows-10"></a>4. engedélyezze az automatikus igénylést a Windows 10
 
- A Windows 10 eszköznek az Intune mobil eszközkezeléséhez történő automatikus igényléséhez olvassa el a [Windows 10 eszköz regisztrálása a csoportházirenddel automatikusan](https://docs.microsoft.com/windows/client-management/mdm/enroll-a-windows-10-device-automatically-using-group-policy)című témakört. A csoportházirendet helyi számítógép szinten, illetve tömeges műveletek esetén a csoportházirendet a Csoportházirend kezelése konzollal és az ADMX-sablonok használatával is létrehozhatja a tartományvezérlőn.
+ A Windows 10 eszköznek az Intune mobil eszközkezeléséhez történő automatikus igényléséhez olvassa el a [Windows 10 eszköz regisztrálása a csoportházirenddel automatikusan](https://docs.microsoft.com/windows/client-management/mdm/enroll-a-windows-10-device-automatically-using-group-policy)című témakört. A csoportházirendet beállíthatja helyi számítógépszinten, illetve tömeges műveletek esetén a Csoportházirend kezelése konzol és az ADMX-sablonok segítségével ezt a csoportházirend-beállítást a tartományvezérlőn lehet létrehozni.
 
 ## <a name="5-configure-seamless-single-sign-on"></a>5. a zökkenőmentes egyszeri bejelentkezés beállítása
 
-  A problémamentes egyszeri bejelentkezés a felhasználókat automatikusan aláírja a Microsoft 365 felhőalapú erőforrásaira, amikor vállalati számítógépeket használnak. Egyszerűen telepítse az [Azure Active Directory problémamentes egyszeri bejelentkezés: Gyors indítás](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-sso-quick-start#step-2-enable-the-feature)című témakörben ismertetett két csoportházirend-beállítás egyikét. A **csoportházirend-beállítás nem** teszi lehetővé a felhasználók számára a beállításaik módosítását, **míg a csoportházirend** -beállítás az értékeket állítja be, de a felhasználó által konfigurálható értéket is hagy.
+  A zökkenőmentes SSO automatikusan a felhasználókat a Microsoft 365 felhőalapú erőforrásába aláírja, amikor vállalati számítógépeket használnak. Egyszerűen telepítse az [Azure Active Directory problémamentes egyszeri bejelentkezés: Gyors indítás](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-sso-quick-start#step-2-enable-the-feature)című témakörben ismertetett két csoportházirend-beállítás egyikét. A csoportházirend **-beállítás nem engedélyezi a felhasználóknak** a beállításaik módosítását, míg **a csoportházirend** -beállítás az értékeket állítja be, de a felhasználó által konfigurálható beállításokat is.
 
 ## <a name="6-set-up-windows-hello-for-business"></a>6. felállít Windows Szia részére teendő
 
