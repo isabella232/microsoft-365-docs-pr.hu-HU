@@ -18,12 +18,12 @@ search.appverid:
 - BCS160
 - MET150
 description: Állítsa be az Office 365 fejlett Fenyegetésvédelmet, és őrizzék meg a bizalmas adatokat.
-ms.openlocfilehash: 00a40ceb6d51add2ebe8cc7ca4c299fe07a10b89
-ms.sourcegitcommit: 8193b7da5b1a415835d02ca96883c351df7326ed
+ms.openlocfilehash: bca5400a04ca2986496c4a704289474887eb834b
+ms.sourcegitcommit: 8ca97fa879ae4ea44468be629d6c32b429efeeec
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 11/14/2019
-ms.locfileid: "38320108"
+ms.lasthandoff: 11/16/2019
+ms.locfileid: "38676008"
 ---
 # <a name="increase-threat-protection"></a>Növeli a fenyegetettséget
 
@@ -86,7 +86,7 @@ Levelezési átviteli szabály létrehozása:
    
 További információ:
   
-- [Hogyan kezeljük a ransomware](https://go.microsoft.com/fwlink/?linkid=2016501&amp;clcid=0x409)
+- [Hogyan kezeljük a ransomware](https://go.microsoft.com/fwlink/?linkid=2016501)
     
 - [Visszaad-a OneDrive](https://support.office.com/article/fa231298-759d-41cf-bcd0-25ac53eb8a15.aspx)
 
@@ -178,7 +178,7 @@ Az ATP-biztonságos mellékletre vonatkozó házirend létrehozásához tekintse
 |Az észlelést átirányító csatolás  <br/> |Átirányítás engedélyezése (jelölje be ezt a négyzetet) adja meg a rendszergazda fiókot, vagy egy postaláda-beállítást a karanténhoz.          Alkalmazza a fenti kiválasztási, ha malware fürkésző a mellékletek alkalommal, vagy hiba történik (jelölje be ezt a négyzetet).  <br/> |
 |Alkalmazva  <br/> |A címzetttartomány. . . Válassza ki a tartományt.  <br/> |
    
-További információ: az [Office 365 az ATP adathalászat elleni házirendek beállítása](https://go.microsoft.com/fwlink/?linkid=2016505&amp;clcid=0x409).
+További információ: az [Office 365 az ATP adathalászat elleni házirendek beállítása](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-anti-phishing-policies).
   
 
 

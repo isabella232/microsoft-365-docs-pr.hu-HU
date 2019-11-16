@@ -19,18 +19,18 @@ search.appverid:
 - MET150
 ms.assetid: 27ff1678-865a-4707-8145-e1155aa815d6
 description: Tanulja meg kezelni a Microsoft 365 Business kapcsolódó adminisztrációs feladatokat, mobil eszközöket, a Windows 10 PCs-t és sok ilyen feladatot.
-ms.openlocfilehash: ee1c856c6c0005842df8b3581a602dd539490bea
-ms.sourcegitcommit: 9a057e70637dcfe06d4f729a96c02be989cf9e25
+ms.openlocfilehash: 77b8757d9e6ab644b16e97ff20f50c0ce3123088
+ms.sourcegitcommit: 8ca97fa879ae4ea44468be629d6c32b429efeeec
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 11/14/2019
-ms.locfileid: "38633309"
+ms.lasthandoff: 11/16/2019
+ms.locfileid: "38675968"
 ---
 # <a name="manage-microsoft-365-business"></a>A Microsoft 365 Business kezelése
 
 ## <a name="general-microsoft-365-business-admin-tasks"></a>A Microsoft 365 Vállalati verziós rendszergazdák általános feladatai
 
-A legtöbbje a [Admin elégedett](/Office365/Admin/admin-home.md) részére Hivatal 365 részére teendő is alkalmazott-hoz Mikroszkóp 365 teendő.
+A legtöbbje a [Admin elégedett](https://docs.microsoft.com/office365/admin/admin-home) részére Hivatal 365 részére teendő is alkalmazott-hoz Mikroszkóp 365 teendő.
 
 - [Összead több használók-hoz Mikroszkóp 365 teendő](add-users-m365b.md)
     
@@ -55,9 +55,7 @@ Tekintse meg a Microsoft 365 Business használatáról szóló alábbi részeket
 ## <a name="manage-windows-10-pcs"></a>Windows 10-es számítógépek kezelése
 
 - [Windows rendszerű eszközök beállítása a Microsoft 365 Vállalati verzió felhasználóinak](set-up-windows-devices.md)
-    
-- [Az Office automatikus telepítése vagy eltávolítása Windows 10-es eszközökön](auto-install-or-uninstall-office.md)
-    
+
     Az Office automatikus telepítése előtt olvassa el a [Felkészülés Office-ügyfél központi telepítésére a Microsoft 365 Vállalati verzió segítségével](prepare-for-office-client-deployment.md) című cikket. 
     
 - [Eszközvédelmi beállítások megadása Windows 10-es eszközökhöz](protection-settings-for-windows-10-pcs.md)

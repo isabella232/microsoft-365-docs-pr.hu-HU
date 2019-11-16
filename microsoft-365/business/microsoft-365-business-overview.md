@@ -22,12 +22,12 @@ search.appverid:
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
 description: Tudjon meg többet a Microsoft 365 Business-ről.
-ms.openlocfilehash: 03e16c336a2d6d3d8ffd5875ed7419bba3c7e378
-ms.sourcegitcommit: 9a057e70637dcfe06d4f729a96c02be989cf9e25
+ms.openlocfilehash: abd1e8374ef7530a879de71ab7ad0125f1ca4616
+ms.sourcegitcommit: 8ca97fa879ae4ea44468be629d6c32b429efeeec
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 11/14/2019
-ms.locfileid: "38633399"
+ms.lasthandoff: 11/16/2019
+ms.locfileid: "38676077"
 ---
 # <a name="overview-of-microsoft-365-business"></a>Áttekintés-ból Mikroszkóp 365 teendő
 
@@ -98,4 +98,7 @@ A biztonsági szolgáltatások teljes listáját a [Microsoft 365 üzleti bizton
 
 - Ha Ön dont ' volna egy társ és akar-hoz kap Mikroszkóp 365 teendő, tudod [vesz ez itt](https://www.microsoft.com/microsoft-365/business) és követ a [jel megjelöl](sign-up.md) oktatás.
 
-- Tudod is fej őfelemikroszkóp [készlet](https://www.microsoft.com/store/locations/find-a-store?icid=en-us_UF_FAS) -hoz mindkettő vesz Mikroszkóp 365 teendő és kap készlet-megjelöl segít.
+- Tudod is fej őfelemikroszkóp [készlet](https://www.microsoft.com/en-us/store/locations/find-a-store?icid=gm_fy18_hol_bopis_feature3&CustomerIntent=Consumer) -hoz mindkettő vesz Mikroszkóp 365 teendő és kap készlet-megjelöl segít.
+
+    > [!NOTE]
+    > Ez a link az üzletek az Egyesült Államokban csak

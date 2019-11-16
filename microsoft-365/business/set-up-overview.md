@@ -23,12 +23,12 @@ search.appverid:
 - MET150
 ms.assetid: 6e7a2dfd-8ec4-4eb7-8390-3ee103e5fece
 description: A Microsoft 365 Business által létrehozott lépések áttekintése.
-ms.openlocfilehash: 50f172c235aa06aa78fec60fc119ac7f568df308
-ms.sourcegitcommit: bd52f7b662887f552f90c46f69d6a2a42fb66914
+ms.openlocfilehash: 3e1cf240db673a7b961ec8aa574f3e09efee476b
+ms.sourcegitcommit: 8ca97fa879ae4ea44468be629d6c32b429efeeec
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 10/17/2019
-ms.locfileid: "37575588"
+ms.lasthandoff: 11/16/2019
+ms.locfileid: "38676028"
 ---
 # <a name="overview-of-setup"></a>A beállítás áttekintése
 
@@ -70,7 +70,6 @@ A legtöbb beállítási lépés elvégezhető a telepítővarázslóban, de a t
 
 ## <a name="stes-4-install-office-365-business"></a>Stes 4: telepítse az Office 365 Business
 - Az Office-eszközöket a [telepítővarázslóval](set-up.md#deploy-office-365-client-apps)automatikusan is telepítheti a Windows-eszközökön.
-- Gépiesen [felszerel hivatal](auto-install-or-uninstall-office.md) -ból admin központ.
 - A felhasználók [telepíthetik az Office-alkalmazásokat](https://docs.microsoft.com/office365/admin/setup/install-applications) a Windows és az eszközök számára.
      
 ## <a name="advanced"></a>Speciális
@@ -82,6 +81,6 @@ A legtöbb beállítási lépés elvégezhető a telepítővarázslóban, de a t
 
      - Ha a szervezet helyi Windows Server Active Directoryt használ, beállíthatja a Microsoft 365 Business rendszert, hogy védje a Windows 10 eszközeit, miközben továbbra is fenntartja az intézményi erőforrásokhoz való hozzáférést, amelyekhez szükség van lokális hitelesítésre. Hajtsa végre a [Microsoft 365 Business által felügyelt, tartományhoz csatlakoztatott Windows 10 eszközök engedélyezésére](manage-windows-devices.md) vonatkozó lépéseket. Ez az adott állapotú módszer és eszközök a hibrid Azure rendszerű hirdetési eszközök.
 
-    - Ha vállalkozása olyan helyi Active Directoryval rendelkezik, amely intézményi erőforrásokat (például fájlmegosztásokat vagy nyomtatókat) tartalmaz, akkor az azúrkék AD-illesztett eszközök ezekhez az erőforrásokhoz való hozzáférését az alábbi lépések végrehajtásával adhatja meg: az [intézményi erőforrások elérése egy Azúrkék hirdetés-összekapcsolt berendezés-ban Mikroszkóp 365 teendő](access-resources.md).
+    - Ha vállalkozása olyan helyi Active Directoryval rendelkezik, amely intézményi erőforrásokat (például fájlmegosztásokat és nyomtatókat) is tartalmaz, akkor az Azure-alapú AD-összekapcsolt eszközök számára hozzáférést biztosít ezekhez az erőforrásokhoz az alábbi lépések végrehajtásával: [a Microsoft 365 Business egy Azure rendszerű ad-illesztett eszközből származó intézményi erőforrások elérése](access-resources.md).
 
   
