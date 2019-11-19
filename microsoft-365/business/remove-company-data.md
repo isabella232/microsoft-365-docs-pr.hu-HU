@@ -20,16 +20,16 @@ search.appverid:
 - MET150
 ms.assetid: 80bdae57-f8bc-4e40-a58c-956007117ecb
 description: 'Útmutató a Microsoft 365 Business használatáról a vállalati adatok felhasználói eszközökről vagy Windows PC-ről történő eltávolításához. '
-ms.openlocfilehash: 169bc7d849bb934de2788daebb90308b1a086111
-ms.sourcegitcommit: bd52f7b662887f552f90c46f69d6a2a42fb66914
+ms.openlocfilehash: 59e94a08e149a5cb119aabbbe816ccd2f4a9f9fb
+ms.sourcegitcommit: 5d11f516e78ea4a74145e19ba2300f0792c8bac1
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 10/17/2019
-ms.locfileid: "37575738"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38715232"
 ---
 # <a name="remove-company-data-from-devices"></a>Céges adatok eltávolítása az eszközökről
 
-[![Label, hogy tudd, az admin központ változik, és találsz további részleteket a aka.ms/aboutM365preview.](media/m365admincenterchanging.png)](https://docs.microsoft.com/office365/admin/microsoft-365-admin-center-preview)
+[![A megjelenő címke figyelmeztet a felügyeleti központ változásaira, további részleteket itt talál: aka.ms/aboutM365preview.](media/m365admincenterchanging.png)](https://docs.microsoft.com/office365/admin/microsoft-365-admin-center-preview)
 
 ## <a name="remove-company-data"></a>Céges adatok eltávolítása
 
@@ -41,9 +41,9 @@ A Microsoft 365 Business segítségével eltávolíthatja a felhasználói álta
   
 3. A **Manage** oldalon válassza ki vagy keresse meg azt a felhasználót, akinek az adatait el szeretné távolítani, majd válassza ki a nevet. 
     
-4. A következő ablaktáblán válassza ki az eszközt vagy eszközöket az **eszközök** listájából, és a megnyíló eszközpanelen választhatja ki, hogy az eszközt gyári beállításokra állítja vissza, vagy a vállalat adatait az eszköztípustól függően eltávolítja. 
+4. A következő ablaktáblán válassza ki az eszközt vagy eszközt az **eszközök** listájából. A megnyíló eszközpanelen kiválaszthatja, hogy az eszköz típusától függően alaphelyzetbe állítja-e a gyári beállításokat vagy eltávolíthatja a vállalati adatokat. 
     
-    ![On the remove comapany data pane, select the device from which you want to remove the data.](media/resetorremove.png)
+    ![A vállalat adatainak eltávolítása ablaktáblán válassza ki azt az eszközt, amelyről el kívánja távolítani az adatokat.](media/resetorremove.png)
   
 5. A megerősítés ablaktáblán kattintson a Bezárás **megerősítése** \> **** parancsra.
     

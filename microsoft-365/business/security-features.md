@@ -20,12 +20,12 @@ search.appverid:
 - MET150
 ms.assetid: c123694a-1efb-459e-a8d5-2187975373dc
 description: Ismerje meg a Microsoft 365 Business biztonsági szolgáltatásait.
-ms.openlocfilehash: 5e295480b1a578ca26646a89d6a0a4183a15428d
-ms.sourcegitcommit: 70e920f76526f47fc849df615de4569e0ac2f4be
+ms.openlocfilehash: f24836ef93c529eddc05c767d6e4fa8af6aef314
+ms.sourcegitcommit: 5d11f516e78ea4a74145e19ba2300f0792c8bac1
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 11/07/2019
-ms.locfileid: "38031445"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38715142"
 ---
 # <a name="microsoft-365-business-security-and-compliance-features"></a>Mikroszkóp 365 teendő biztonság és engedékenység jellegét meghatározza
 
@@ -33,14 +33,13 @@ Mikroszkóp 365 teendő felajánl Simplified biztonság jellegét meghatározza-
     
 ## <a name="microsoft-365-business-admin-center-security-features"></a>Microsoft 365 Business Admin Center biztonsági szolgáltatások
 
-[![Label, hogy tudd, az admin központ változik, és találsz további részleteket a aka.ms/aboutM365preview.](media/m365admincenterchanging.png)](https://docs.microsoft.com/office365/admin/microsoft-365-admin-center-preview)
+[![A megjelenő címke figyelmeztet a felügyeleti központ változásaira, további részleteket itt talál: aka.ms/aboutM365preview.](media/m365admincenterchanging.png)](https://docs.microsoft.com/office365/admin/microsoft-365-admin-center-preview)
 
 A Microsoft 365 üzleti biztonsági szolgáltatásainak nagy részét az admin központban kezelheti, így a szolgáltatások be-és kikapcsolhatók. Az admin központban a következőkre van szüksége:
   
-  
 - [Készlet alkalmazás vezetés elintézés részére Android vagy iOS berendezés](app-protection-settings-for-android-and-ios.md) . 
     
-    Ezek közé tartozik a fájlok törlése egy inaktív eszközről egy meghatározott időszak után, titkosított munka fájlokat, megköveteli, hogy a felhasználók meg egy PIN-kódot, stb
+    Ezek közé tartozik például a fájlok törlése egy inaktív eszközről egy meghatározott időszak után, a munka fájljainak titkosítása, hogy a felhasználók PIN-kódot hozzanak létre stb.
     
 - [A Windows 10 eszköz alkalmazásvédelmi beállításainak megadása](protection-settings-for-windows-10-devices.md) . 
     
@@ -68,14 +67,14 @@ A Microsoft 365 Business továbbfejlesztett szolgáltatásai segítenek megvéde
     
   - Kifinomult egybefűzés fürkésző és AI-energiát termelő analízis-hoz kinyomoz és eldob veszélyes üzenet.
     
-  - Önműködő ellenőriz-ból láncszemek-ban elektronikus levél-hoz felmérő ha ők része egy phishing terv. Ez emléktárgy Ön biztos-ból bejutó nem biztonságos websites.
+  - Önműködő ellenőriz-ból láncszemek-ban elektronikus levél-hoz felbecsáll ha ők ' része egy phishing terv. Ez emléktárgy Ön biztos-ból bejutó nem biztonságos websites.
 
 - **[A Intune teljes képességei az Azure portálon](https://go.microsoft.com/fwlink/p/?linkid=871403)**
     
-    Az Intune Admin Center elérésére az Azure portálon további biztonsági funkciókat állíthat be, például a MacOS eszközök, iPhone és Android eszközök kezelését, valamint a Windows speciális eszközkezelőit, amelyek a Microsofttól nem érhetők el. 365 üzleti admin központ.
+    Az Intune admin központ eléréséhez az Azure portálon további biztonsági szolgáltatásokat állíthat be, például a MacOS eszközök, iPhone és Android eszközök kezelését, valamint a Windows speciális eszközkezelőit, amelyek nem érhetők el a Microsoft 365 üzleti admin központ.
 - **Ugyanez a [feltételes hozzáférés](https://docs.microsoft.com/azure/active-directory/conditional-access/overview) azúrkék ad P1 terv**
 
-    A feltételes hozzáférés segíthet megvédeni a szervezetet a bejelentkezési kockázattól, a váratlan hálózati vagy területi hozzáférési kísérletektől, a hozzáférési kísérletek kockázatos eszköztípusokhoz és így tovább. A feltételes hozzáférési házirendek érvényesítése az első hitelesítés befejezése után történik, és az első hitelesítési esemény jeleit használja annak megállapításához, hogy a megkísérelt hozzáférést jóvá kell-e hagyja, megtagadja vagy f több bizonyítékot (például az azonosítás második formáját) Szükséges.
+    A feltételes elérés segítségével megvédheti szervezetét a bejelentkezési kockázatból, a váratlan hálózatból vagy területi beállításból származó hozzáférési kísérletektől, a kockázatos eszköztípusok elérésének kísérletétől stb. A feltételes hozzáférési házirendek érvényesítése az első hitelesítés befejezése után történik, és az első hitelesítési esemény jeleit használja annak megállapítására, hogy a megkísérelt hozzáférést jóvá kell-e hagyja, meg kell tagadni, vagy több bizonyítékot (például a második űrlap azonosítás) szükséges.
 
     A tartalmazott feltételes hozzáférési funkciók:
 
@@ -85,7 +84,7 @@ A Microsoft 365 Business továbbfejlesztett szolgáltatásai segítenek megvéde
     - Hozzáférés megkövetelése az MFA-hoz
     - Az [örökölt hitelesítést](https://docs.microsoft.com/azure/active-directory/conditional-access/block-legacy-authentication) használó alkalmazásokhoz való hozzáférés blokkolása
     - Alkalmazások használata a TP [Intune app védelem](https://docs.microsoft.com/azure/active-directory/conditional-access/app-protection-based-conditional-access)
-    - Egyéni autentikáció, mint például külső szolgáltatók által készített MFA, például DUO.
+    - Egyéni hitelesítés, mint például a MFA, külső szolgáltatók, például a DUO.
    
     Egyéb jellemzők:
     - [Önkiszolgáló jelszóvisszaállító](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-customization) a hibrid Azure ad szolgáltatásra
@@ -96,15 +95,15 @@ A Microsoft 365 üzleti előfizetés olyan szolgáltatásokat tartalmaz, amelyek
 
 - **[Az adatvesztés-megelőzési politikák áttekintése](https://support.office.com/article/1966b2a7-d1e2-4d92-ab61-42efbb137f5e)** (DLP). 
     
-    Tudod felállít DLP-hoz gépiesen kinyomoz érzékeny információ, szeret hitelkártya számok, társadalmi biztonság számok, stb.-hoz megakadályoz-uk figyelmetlen cserépdarab külső rész-a társaság.
+    Beállíthatja, hogy a DLP automatikusan észlelje a bizalmas adatokat, például a hitelkártyaszámokat, a társadalombiztosítási számokat, és így tovább, hogy megakadályozza a vállalaton kívülre történő véletlen megosztását.
     
 - **[Exchange Online Archiválás](https://products.office.com/exchange/microsoft-exchange-online-archiving-email)**
     
-    Az Exchange Online archiválási licenc lehetővé teszi az üzenetek egyszerű archiválását folyamatos adatmentéssel. Tárolja az összes felhasználó e-maileket, beleértve a törölt elemek, abban az esetben van szükség később felfedezés vagy helyreállítás. Emellett különböző adatmegőrzési szabályokat is használhat az e-mail adatok megőrzésére a peres eljárások esetében, az eDiscovery vagy a megfelelőségi követelmények betartása érdekében.
+    Az Exchange Online archiválási licenc lehetővé teszi az üzenetek egyszerű archiválását folyamatos adatmentéssel. Tárolja az összes felhasználó e-maileket, beleértve a törölt elemek, abban az esetben, ha ők szükség később felfedezés vagy helyreállítás. Emellett különböző adatmegőrzési szabályokat is használhat az e-mail adatok megőrzésére a peres eljárások esetében, az eDiscovery vagy a megfelelőségi követelmények betartása érdekében.
     
 - **[Érzékenységi címkék](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)**
 
-   Mikroszkóp 365 teendő beleértve minden a jellegét meghatározza-ból [Azure információ védelem tervez 1](https://go.microsoft.com/fwlink/p/?linkid=871407). Ezzel a tervvel hozhat létre **érzékenységi címkéket**, amelyek lehetővé teszik, hogy szabályozza a hozzáférést az érzékeny információkat e-mailben és dokumentumok ellenőrzés, mint a "ne továbbítsa" és a "ne másolja." A kényes információkat "bizalmas"-ként is besorolhatja, és meghatározhatja, hogy a minősített információk hogyan oszthatók el a vállalkozországon kívül és belül. Enterprise-Grade titkosítás könnyen alkalmazható az e-mail és dokumentumok tartani az adatokat magán. Telepítheti a Azure informatikai ügyfélbővítményt az Office alkalmazásokhoz is. További részletekért lásd a [Azure információvédelem egyesített, címkéző ügyfelén](https://docs.microsoft.com/azure/information-protection/rms-client/unifiedlabelingclient-version-release-history). A érzékenységi címkék esetében telepítse az **AzInfoProtection_UL. exe fájlt**.
+   Mikroszkóp 365 teendő beleértve minden a jellegét meghatározza-ból [Azure információ védelem tervez 1](https://go.microsoft.com/fwlink/p/?linkid=871407). Ezzel tervez, tudod teremt **érzékenység felirat** ami lehetővé teszi ön-hoz irányít belépés-hoz érzékeny információ-ban elektronikus levél és okiratok,-val vezérlőberendezés szeret "nem továbbít" és "nem másol" A kényes információkat "bizalmas"-ként is besorolhatja, és meghatározhatja, hogy a minősített információk hogyan oszthatók el a vállalkozországon kívül és belül. Enterprise-Grade titkosítás könnyen alkalmazható az e-mail és dokumentumok tartani az adatokat magán. Telepítheti a Azure informatikai ügyfélbővítményt az Office alkalmazásokhoz is. További információ: [Azure információvédelem egységes címkézési ügyfél](https://docs.microsoft.com/azure/information-protection/rms-client/unifiedlabelingclient-version-release-history). A érzékenységi címkék esetében telepítse az **AzInfoProtection_UL. exe fájlt**.
 
 Ezeket a szolgáltatásokat a biztonsági &amp; megfelelőség központ és az Intune felügyeleti központ segítségével kezelheti. Idővel az egyszerűsített vezérlők bekerülnek a Microsoft 365 Business admin központba.
   
