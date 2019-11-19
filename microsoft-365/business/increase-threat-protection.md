@@ -18,12 +18,12 @@ search.appverid:
 - BCS160
 - MET150
 description: Állítsa be az Office 365 fejlett Fenyegetésvédelmet, és őrizzék meg a bizalmas adatokat.
-ms.openlocfilehash: bca5400a04ca2986496c4a704289474887eb834b
-ms.sourcegitcommit: 8ca97fa879ae4ea44468be629d6c32b429efeeec
+ms.openlocfilehash: 87a5c79636a2eefe394b4a30e72971eb851e3ecb
+ms.sourcegitcommit: 38934a2115d5cdeb44c7484d57be07686c6f7720
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 11/16/2019
-ms.locfileid: "38676008"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38704075"
 ---
 # <a name="increase-threat-protection"></a>Növeli a fenyegetettséget
 
@@ -233,4 +233,4 @@ További információ: [Office 365 ATP-biztos hivatkozások](https://go.microsof
 
 3. Egyszer a eredmények feltűnik, kiválaszt a Elkezd mellett **Mikroszkóp Intune** -hoz csinál ez egy kedvenc és könnyű-hoz talál később.
 
-Az admin központ mellett az Intune segítségével is regisztrálhatja és kezelheti a szervezet eszközeit. További információt a Windows- [eszközök tanúsítványigénylési módszerével](https://docs.microsoft.com/intune/enrollment-method-capabs) és az [Intune által kezelt eszközök tanúsítványigénylési beállításaival](https://docs.microsoft.com/intune/enrollment-options)kapcsolatban a szolgáltatások című témakörben talál.
+Az admin központ mellett az Intune segítségével is regisztrálhatja és kezelheti a szervezet eszközeit. További információt a Windows- [eszközök tanúsítványigénylési módszerével](https://docs.microsoft.com/intune/enrollment/enrollment-method-capab) és az [Intune által kezelt eszközök tanúsítványigénylési beállításaival](https://docs.microsoft.com/intune/enrollment-options)kapcsolatban a szolgáltatások című témakörben talál.
