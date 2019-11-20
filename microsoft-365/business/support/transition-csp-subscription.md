@@ -9,12 +9,12 @@ localization_priority: Normal
 audience: microsoft-business 
 keywords: Microsoft 365 Business, Microsoft 365, SMB, átmeneti CSP-előfizetés
 ms.date: 11/01/2017
-ms.openlocfilehash: b907c3a3bccc4179369890b7769dcb14ba2acbb7
-ms.sourcegitcommit: 2c2248b03f7753d64490f2f7e56ec644a235b65a
+ms.openlocfilehash: 72e620df69a425ca7e5c41c5a6651bc0f7f533de
+ms.sourcegitcommit: b535fe233234fd25146cfe15478e20d954f71e03
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "38311094"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "38748341"
 ---
 # <a name="transition-a-microsoft-365-business-csp-subscription"></a>Microsoft 365 Business CSP-előfizetés át,
 
@@ -101,4 +101,4 @@ Az alábbi táblázat összefoglalja a Windows 10 eszközkonfigurációs házire
 | **A felhasználók letölthetnek appokat innen: Microsoft Áruház** | Az adminisztrátor meghatározza, hogy a felhasználó letölthet-e alkalmazásokat a Microsoft Store webhelyéről | Felhasználó tud letölt apps-ból Mikroszkóp készlet bármikor |
 | **A felhasználók igénybe vehetik Cortana segítségét** | Az admin a Cortana-hoz való felhasználói hozzáférés politikáját határozza meg | A Cortana ki-/bekapcsolható felhasználói eszközei |
 | **A Microsofttól származó tippek és hirdetések fogadásának engedélyezése a felhasználók számára** | Admin határozza meg a házirendet a felhasználó tippeket és hirdetéseket a Microsoft | Felhasználó tud fordít-ra/távoli porkoláb és hirdetés-ból Mikroszkóp |
-| **A felhasználók másolhatnak tartalmakat az Office-appokból személyes appokba** | Admin határozza meg politika tartani a Windows 10 eszközök naprakész | A felhasználók eldönthetik, hogy mikor frissítsék a Windows rendszert |
+| **A felhasználók másolhatnak tartalmakat az Office-appokból személyes appokba** | Az admin meghatározza a Windows 10-eszközök naprakészen tartapolitikáját | A felhasználók eldönthetik, hogy mikor frissítsék a Windows rendszert |

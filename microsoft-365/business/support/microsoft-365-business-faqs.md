@@ -10,12 +10,12 @@ localization_priority: Normal
 audience: microsoft-business 
 keywords: Microsoft 365 Business, Microsoft 365, SMB, GYIK, gyakran feltett kérdések, válaszok, üzleti
 ms.date: 06/08/2018
-ms.openlocfilehash: e4db583fa52807e27bb088083aae028e2e1c05ce
-ms.sourcegitcommit: 2c2248b03f7753d64490f2f7e56ec644a235b65a
+ms.openlocfilehash: 09a155c87bf90309f8a4cdd2eb5c0b71d2337d58
+ms.sourcegitcommit: b535fe233234fd25146cfe15478e20d954f71e03
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "38311064"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "38748371"
 ---
 # <a name="microsoft-365-business-frequently-asked-questions"></a>Microsoft 365 üzleti gyakran feltett kérdések
 
@@ -36,7 +36,7 @@ Mikroszkóp 365 van egy egységbe rendezett oldat amit hoz együtt legjobb--ban-
 -   App védelem az Office és más mobil alkalmazások az Intune app Protection. 
 -  Eszközkezelés Windows 10 PC-hez, MacOS-hoz és mobil eszközökhöz az Intune eszközkezelés révén. 
 -  Azonosság védelem-val multi--tényező hitelesítés, maga-szolgáltatás jelszó orrgazdaság, és feltételes belépés.
--  Egységes biztonsági konfiguráció az eszközök&mdash;között a Cégadatok védelme eszközök között; Windows Defender, amely mindig és naprakész. 
+-  Egységes biztonsági konfiguráció az eszközök&mdash;között a Cégadatok védelme eszközök között; Windows Defender programot, amely mindig be-és naprakész. 
  
  
 **Egyszerűsített eszköztelepítés és felhasználói beállítás** 
@@ -52,18 +52,18 @@ Mikroszkóp 365 van egy egységbe rendezett oldat amit hoz együtt legjobb--ban-
 Mikroszkóp 365 teendő van egy átfogó, felhő-kiindulópontul szolgáló biztonság oldat amit akadályok ön:  
 - Védje meg az üzleti ellen haladó cyberfenyegetések kifinomult adathalászat és ransomware védelem. 
 - Az érzékeny adatokhoz titkosítás használatával szabályozhatja az adatok véletlen megosztását olyan személlyel, aki számára nem engedélyezett a hozzáférés. 
-- Biztosítsa az üzleti vállalkozásaira vonatkozó eszközöket, és segítsen megőrizni az iOS, Android, Windows és Mac eszközök biztonságát, valamint a Windows eszközöket naprakészen.
+- Biztonságossá tegye az üzleti vállalkozásaira vonatkozó eszközöket, és segít megőrizni az iOS, Android, Windows és Mac eszközök biztonságát, valamint a Windows-eszközök naprakészen tartaz adatait.
 
 Mikroszkóp 365 teendő van teljesen egységbe rendezett-val Hivatal 365-hoz beszerez ön-val egy családias elhelyezés részére közigazgatás, turbékolás, és 24x7 támogat. Ez áll a vállalati szintű technológia épült vállalkozások kevesebb, mint 300 alkalmazottak. 
 
 ### <a name="how-can-i-get-microsoft-365-business-for-my-business"></a>Hogyan tud én kap Mikroszkóp 365 teendő részére az én-m teendő? 
-A Microsoft 365 Business megvásárolható <a href="https://www.microsoft.com/solution-providers/search" target="_blank">Microsoft-partneren</a> vagy közvetlenül a <a href="https://www.microsoft.com//microsoft-365/business" target="_blank">Microsofttól</a>. Annak eldöntéséhez, hogy közvetlenül a Microsofttól vagy a Microsoft-partneren keresztül vásárolható-e, meg kell fontolnia a munkatársak képességeinek és az informatikai infrastruktúra fenntartásának szándékát. A Microsoft-partnerek segíthetnek az informatikai infrastruktúrájának telepítéséhez és kezeléséhez, beleértve a Microsoft megoldásait is.
+A Microsoft 365 Business megvásárolható <a href="https://www.microsoft.com/solution-providers/search" target="_blank">Microsoft-partneren</a> vagy közvetlenül a <a href="https://www.microsoft.com//microsoft-365/business" target="_blank">Microsofttól</a>. Annak eldöntéséhez, hogy közvetlenül a Microsofttól vagy a Microsoft-partneren keresztül vásárolható-e, meg kell fontolnia a munkatársak képességeinek és az informatikai infrastruktúra fenntartásának szándékát. A Microsoft-partnerek segíthetnek az IT-infrastruktúra, többek között a Microsoft-megoldások üzembe helyezéséhez és kezeléséhez.
 
 ### <a name="how-much-does-microsoft-365-business-cost"></a>Mennyibe kerül a Microsoft 365 Business? 
 A Microsoft 365 Business kínálják USD $20.00 felhasználó/hónap alapján _éves szerződést_ , ha vásárolt közvetlenül a Microsofttól. Microsoft-partneren keresztül történő vásárláskor az árképzés változhat a partner által nyújtott szolgáltatásokon és a Microsoft 365 Business árazási modelljétől függően. 
 
 ### <a name="is-there-a-cap-to-how-many-microsoft-365-business-seats-a-customer-can-have"></a>Van egy sapka, hogy hány Microsoft 365 üzleti ülőhely egy ügyfél lehet? 
-Mikroszkóp 365 teendő volt szándékos részére kicsi-hoz közeg-méret teendő-val alacsony-hoz közeg ez bonyolultság igények. Vásárlók tud megvásárol valameddig 300 Mikroszkóp 365 teendő engedélyez részére-uk szervezet. A felhasználók kombinhatják és egyeztethetik a felhő-előfizetéseket; Ennek eredményeképpen az informatikai követelményektől függően az ügyfelek ugyanarra a fiókhoz hozzáadhatják a Microsoft 365 Enterprise licenceit. 
+Mikroszkóp 365 teendő volt szándékos részére kicsi-hoz közeg-méret teendő-val alacsony-hoz közeg ez bonyolultság igények. Vásárlók tud megvásárol valameddig 300 Mikroszkóp 365 teendő engedélyez részére-uk szervezet. A felhasználók kombinhatják és egyeztethetik a felhőalapú előfizetéseket. Ennek eredményeképpen az informatikai követelményektől függően az ügyfelek ugyanarra a fiókhoz hozzáadhatják a Microsoft 365 Enterprise licenceit. 
  
 Mikor vásárlók tekint egy környezet áll vmiből-ból sokszoros aláírás jellegek, ők kellet volna dolgozik-val-uk bízott ez tanácsadók-hoz meghatároz hogyan legjobb-hoz kezel és biztosít a különböző előfizetések mint Mikroszkóp 365 teendő és Mikroszkóp 365 vállalat használ különböző képességekkel rendelkeznek az alkalmazások és adatok biztonságossá és kezeléséhez.
 
@@ -81,7 +81,7 @@ Ha a manapság futtatott hardverek a Windows 7 Pro vagy újabb verziójával fut
 A Windows 10 rendszerben a meglévő (Win32) alkalmazáskompatibilitás erős, a legtöbb alkalmazás változtatás nélkül működik. Vásárlók és-uk bízott ez tanácsadók kellet volna olvas a ajánlott alkalmazás vizsgálat folyamat <a href="https://docs.microsoft.com/windows/deployment/planning/windows-10-compatibility#recommended-application-testing-process" target="_blank">Windows alá 10 összeférhetőség</a> és áttekintés a <a href="https://products.office.com/office-system-requirements#subscription-plans-section" target="_blank">Hivatal rendszer igények</a> -hoz biztosít egy zökkenőmentes átmeneti-hoz Mikroszkóp 365 teendő. 
 
 ### <a name="what-is-windows-10-business"></a>Mi az a Windows 10 Business? 
-Windows 10 Business egy sor olyan felhő-szolgáltatások és eszköz-kezelési képességek, amelyek kiegészítik a Windows 10 Pro, és lehetővé teszi a központosított kezelése és biztonsági ellenőrzéseket a Microsoft 365 Business.
+Windows 10 Business egy sor felhő szolgáltatások és eszközgazdálkodási képességeket, amelyek kiegészítik a Windows 10 Pro, és lehetővé teszi a központosított kezelése és biztonsági ellenőrzéseket a Microsoft 365 Business.
 
 Windows 10 teendő is jön-val bizonyos prémium Mikroszkóp védő jellegét meghatározza szeret ellenőr dosszié belépés és hálózat védelem részére pókháló-kiindulópontul szolgáló fonál. Ez is beleértve Windows robotpilóta, egy szolgáltatás amit áramvonalas a felfejlődés-ból új Windows 10 PCs.
 
@@ -95,7 +95,7 @@ Sok alkalmazott szívesebben használja saját mobiltelefonját vagy táblagépe
 Mikroszkóp 365 teendő felajánl vásárlók egy egyszerű de erős anyagi eszközök-ból felhatalmazó alkalmazottak-hoz használ-uk személyes berendezés részére dolgozik rövid idő felszerelt a teendő-val a lehetőség arra megakadályoz ezek berendezés-ból bejutó, megtart, és/vagy cserépdarab teendő információ. Pontosabban: 
 * **App védelem részére Hivatal mozgatható apps** segít megvéd hivatal adat, beleértve elektronikus levél, naptár, kapcsolatok, és okiratok-ra iOS és Android Mozgatható berendezés, mellett végrehajtó politikák mint gépiesen törlés teendő adat után egy előírt időtartam-ból nem összekötő pálca-hoz szolgáltatás, megkövetel amit információ van raktározott egyetlen-ban OneDrive részére teendő, megkövetel egy kitűző/ujjlenyomat ellenőrzés-hoz belépés Hivatal apps, és megakadályozás társaság adat-ból lét fénymásoló-ból egy hivatal app Mozgatható alkalmazás vezetés részére más mozgatható apps átmenő Intune van is elérhető részére Mikroszkóp 365 teendő előfizetők. 
   
-* **Berendezés vezetés Windows alá 10 PCs** megenged teendő-hoz választ-hoz készlet és kierőszakol képességek mint Windows Védő védelem részére malware, önműködő korszerűsít, és fordítás távoli ernyőz után egy előírt időtartam. Ráadásul, elveszett vagy lopott Windows 10 berendezés lehet teljesen megtöröl-ból teendő pályázatokat és adat átmenő a admin központ. 
+* **Berendezés vezetés Windows alá 10 PCs** megenged teendő-hoz választ-hoz készlet és kierőszakol képességek mint Windows Védő védelem részére malware, önműködő korszerűsít, és fordítás távoli ernyőz után egy előírt időtartam. Ezen kívül, elveszett vagy ellopott Windows 10 eszközök teljesen letörölhető az üzleti alkalmazások és adatok révén az Admin Center. 
 
 * **Eszközkezelés az iOS, Android & MacOS** funkciók segítségével a vállalkozások biztonságosan kezelheti a különböző eszköz ökoszisztéma, amely magában foglalja iOS, Android, Windows és MacOS eszközök. 
 
@@ -107,7 +107,7 @@ Windows 10 üzleti is tartalmazza a Windows Defender Exploit Guard, egy új Beha
 ### <a name="whats-the-difference-between-office-365-business-premium-microsoft-365-business-and-microsoft-365-enterprise"></a>Izé ' a különbség között Hivatal 365 teendő prémium, Mikroszkóp 365 teendő, és Mikroszkóp 365 vállalat? 
 Mikroszkóp birtokol különböző termelékenység és biztonság vezetés felajánlás amit kicsi-hoz közeg-méret vásárlók május tekint mikor felminősítő-uk iskolapad és berendezés infrastruktúra, mindegyik hoz mindinkább erős jellegét meghatározza és működési. 
 
-**Hivatal 365 teendő prémium** szállít legjobb--ban-osztály termelékenység-val Hivatal 365 apps és szolgáltatás de nem tartalmaz a alkalmazás védelem és berendezés vezetés képességek-ból Mikroszkóp 365 teendő.
+**Hivatal 365 teendő prémium** szállít legjobb--ban-osztály termelékenység-val Hivatal 365 apps és szolgáltatás, de nem ' tartalmaz a alkalmazás védelem és berendezés vezetés képességek-ból Mikroszkóp 365 teendő.
 
 **Mikroszkóp 365 teendő** összeköt Hivatal 365 apps és szolgáltatás-val haladó biztonság képességek-hoz segít megvéd-a teendő ellen haladó cyberfenyeget, oltalmaz-a adat és kezel-a berendezés. Ez beleértve egy Simplified Vezetés Vigasztal átmenő melyik berendezés és adat politikák május lenni intézett. Sok kicsi-hoz közeg-méret teendő lehet legjobb szolgál-val Mikroszkóp 365 teendő. 
  
@@ -135,7 +135,7 @@ Igen, a Microsoft 365 üzleti előfizetők licenccel, hogy teljes Intune képess
   
 
 ### <a name="does-azure-active-directory-premium-p1-come-with-microsoft-365-business"></a>Van Azure Active Directory Premium P1 jön a Microsoft 365 Business? 
-A Microsoft 365 Business tartalmaz Select Azure prémium P1 (AADP P1) szolgáltatásokat, mint például önkiszolgáló jelszóvisszaállítás az AD write-back, Azure MFA és feltételes hozzáférés funkcióval. Nem tartalmazza a teljes AADP P1-et. További információt a [Microsoft 365 üzleti szolgáltatás leírásában](https://technet.microsoft.com/library/b042d1fd-c997-46d8-8c02-1df4c932f148) találhat. 
+A Microsoft 365 Business tartalmaz Select Azure prémium P1 (AADP P1) szolgáltatásokat, mint például önkiszolgáló jelszóvisszaállítás az AD write-back, Azure MFA és feltételes hozzáférés funkcióval. Nem tartalmazza a teljes AADP P1-et. További információt a [Microsoft 365 üzleti szolgáltatás leírásában](https://technet.microsoft.com/library/b042d1fd-c997-46d8-8c02-1df4c932f148)talál.
  
  
 ### <a name="does-microsoft-365-business-allow-customers-to-manage-macs"></a>Csinál Mikroszkóp 365 teendő enged vásárlók-hoz kezel Macs? 
@@ -178,16 +178,16 @@ A Microsoft az erőforrások széles választékát nyújtja a CSP-partnerek sz�
 ### <a name="what-up-sell-opportunities-does-microsoft-365-business-give-partners"></a>Mi a fel-sell lehetőségeket, hogy a Microsoft 365 üzleti partnereket? 
 Mikroszkóp 365 teendő megenged társas viszony-hoz fenntart-uk bízott tanácsadó helyzet-val vásárlók mellett teremtő egy szilárd és biztosít emelvény azon melyik-hoz elad további szolgáltatás és-hoz feljavít létező termékek és szolgáltatás. Mikroszkóp 365 teendő szolgáltat egy alkalom-hoz volna egy feljavít vita-val vásárlók most használ cserél szolgál, cserél online, vagy hivatal 365 teendő alapvető. A partnerek nagyobb bevételt is nyerhetnek a megnövekedett menedzselt szolgáltatásokból és/vagy a PerUser támogatási díjakból. 
  
--Val a új Windows robotpilóta vonás tartalmazott-ban Mikroszkóp 365 teendő, társas viszony ki volt kelletlen-hoz elad új Windows berendezés köszönhetően felfejlődés Hadtáp és költségek akarat talál ez lehetőség sok több vonzó. Azok az ügyfelek, akik bíznak az intézményi és mobil eszközeik biztonságában, szintén nagyobb valószínűséggel fektetnek be több olyan szolgáltatásra, mint például a Dynamics 365. 
+-Val a új Windows robotpilóta vonás tartalmazott-ban Mikroszkóp 365 teendő, társas viszony ki volt kelletlen-hoz elad új Windows berendezés miatt felfejlődés Hadtáp és költségek akarat talál ez alkalom sok több vonzó. Azok az ügyfelek, akik bíznak az intézményi és mobil eszközeik biztonságában, szintén nagyobb valószínűséggel fektetnek be több olyan szolgáltatásra, mint például a Dynamics 365. 
  
 ### <a name="should-partners-sell-microsoft-365-business-over-other-plans-from-microsoft"></a>Kellet volna társas viszony elad Mikroszkóp 365 teendő felső más tervek-ból Mikroszkóp? 
 A Microsoft Cloud Solution Provider mindig eladja a tervet, amely a legjobban megfelel az ügyfél üzleti igényeit és költségvetését. Ha például egy vevőnek meg kell felelnie a magánélet tiszteletben tartásához és a biztonsági előírásoknak, a CSP értékesítheti a Microsoft 365 Business-ot és minden olyan bővítményt, amelyek segítenek az ügyfélnek az igényeinek megfelelni, vagy a Microsoft 365 Business és speciális biztonsági és kezelési szabályokat javasolhat Vállalat SKUs. 
  
-### <a name="some-of-my-customers-have-devices-that-are-not-genuine-will-microsoft-365-business-make-these-devices-genuine"></a>Némely-ból az én-m vásárlók volna berendezés amit van nem valódi; akarat Mikroszkóp 365 teendő csinál ezek berendezés valódi? 
-Mikroszkóp 365 teendő nem csinál egy másképp nem-valódi változat-ból Windows, valódi. Mikroszkóp 365 teendő csinál beszerez egy feljavít jótétemény helyeslés azok vásárlók futás valódi Windows 7, 8, vagy 8,1 Profi-hoz feljavít-hoz a leg--bb újabb keletű, valódi változat-ból Windows 10 profi. 
+### <a name="some-of-my-customers-have-devices-that-arent-genuine-will-microsoft-365-business-make-these-devices-genuine"></a>Némely-ból az én-m vásárlók volna berendezés amit nem valódi; akarat Mikroszkóp 365 teendő csinál ezek berendezés valódi? 
+Mikroszkóp 365 teendő nem ' csinál egy másképp nem-valódi változat-ból Windows, valódi. Mikroszkóp 365 teendő csinál beszerez egy feljavít jótétemény helyeslés azok vásárlók futás valódi Windows 7, 8, vagy 8,1 Profi-hoz feljavít-hoz a leg--bb újabb keletű, valódi változat-ból Windows 10 profi. 
 
 ### <a name="what-is-the-gdpr-and-how-does-microsoft-365-business-help-customers-with-their-compliance-obligations"></a>Mi a GDPR és hogyan segíti az ügyfeleket a Microsoft 365 Business a megfelelési kötelezettségeikkel?
-Az általános adatvédelmi rendelet (GDPR) egy átfogó új adatvédelmi jogszabály, amely az Európai Unió (EU) lakosai számára nagyobb ellenőrzést biztosít "személyes adataik" felett, és megköveteli, hogy a szervezetek fenntartsák a személyes adatok integritását. Az GDPR olyan szervezeteket követel meg, akik az EU-lakosokhoz kötött személyes adatokat vezérlnek, illetve dolgozzák fel, hogy csak olyan, harmadik féltől származó adatfeldolgozókat használják, amelyek megfelelnek a személyes adatok feldolgozására vonatkozó GDPR-követelményeknek. 2017 márciusában a Microsoft rendelkezésre bocsátott egy, a fenti biztosítékokat biztosító szerződéses garanciát. Azoknak a felhasználóknak, akik kérdéseikre segítenek abban, hogy a Microsoft hogyan segítheti őket a további GDPR-kötelezettségek teljesítéséért, meg kell ismerkedniük a Microsoft 365 Business fejlett megfelelőségi és biztonsági képességeivel (például a Azure információvédelem, az veszteségmegelőzés, fejlett fenyegetettség elleni védelem stb.) és más lakosztályokban (például Microsoft 365 Enterprise E5). Ha többet szeretne megtudni, látogasson el [www.microsoft.com/GDPR](https://www.microsoft.com/gdpr).
+Az általános adatvédelmi rendelet (GDPR) egy átfogó új adatvédelmi jogszabály, amely az Európai Unió (EU) lakosai számára nagyobb ellenőrzést biztosít "személyes adataik" felett, és megköveteli, hogy a szervezetek fenntartsák a személyes adatok integritását. A GDPR olyan szervezeteket igényel, amelyek az uniós lakosokhoz kötött személyes adatok ellenőrzését vagy feldolgozását csak olyan, harmadik féltől származó adatfeldolgozók használatára használják, amelyek megfelelnek a személyes adatok feldolgozására vonatkozó GDPR-követelményeknek. 2017 márciusában a Microsoft rendelkezésre bocsátott egy, a fenti biztosítékokat biztosító szerződéses garanciát. Azoknak a felhasználóknak, akik kérdéseikre segítenek abban, hogy a Microsoft hogyan segítheti őket a további GDPR-kötelezettségek teljesítéséért, meg kell ismerkedniük a Microsoft 365 Business fejlett megfelelőségi és biztonsági képességeivel (például a Azure információvédelem, az veszteségmegelőzés, fejlett fenyegetettség elleni védelem stb.) és más lakosztályokban (például Microsoft 365 Enterprise E5). Ha többet szeretne megtudni, látogasson el [www.microsoft.com/GDPR](https://www.microsoft.com/gdpr).
 
 
 ## <a name="footnotes"></a>Lábjegyzetek
