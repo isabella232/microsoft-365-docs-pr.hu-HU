@@ -20,12 +20,12 @@ search.appverid:
 - MET150
 ms.assetid: 2d7ff45e-0da0-4caa-89a9-48cabf41f193
 description: 'Útmutató a Windows 10 Pro és a Microsoft 365 üzleti felhasználók számára működő Windows-eszközök beállításához. '
-ms.openlocfilehash: 7b6fa2ce3243500c3ddcff7883fa9d8da27dcf86
-ms.sourcegitcommit: bd52f7b662887f552f90c46f69d6a2a42fb66914
+ms.openlocfilehash: f929c64b00e4ebf24e9f82fcfea433119abf2f1c
+ms.sourcegitcommit: 6a413a65b8c2e10cea08f0a15635b28a1362a582
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 10/17/2019
-ms.locfileid: "37575568"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38718879"
 ---
 # <a name="set-up-windows-devices-for-microsoft-365-business-users"></a>Windows rendszerű eszközök beállítása a Microsoft 365 Business felhasználóinak
 
@@ -41,7 +41,7 @@ Lásd: [az eszköz ellenőrzése csatlakoztatva van azúrkék HIRDETÉSRE](#veri
   
 ## <a name="join-windows-10-devices-to-your-organizations-azure-ad"></a>Windows 10-es eszközök csatlakoztatása a szervezet Azure AD szolgáltatásához
 
-Ha már a szervezet összes Windows-eszköze frissítve lett a Windows 10 Pro alkotói frissítésére, vagy már eleve a Windows 10 Pro alkotói frissítését futtatja, csatlakoztathatja az eszközöket a szervezet Azure Active Directory szolgáltatásához. A csatlakoztatott eszközök automatikusan a Windows 10 Business verzióra frissülnek, amely része a Microsoft 365 Business-előfizetésnek.
+Ha a szervezet összes Windows-eszközéhez vagy frissítette a Windows 10 Pro készítők frissítés vagy már fut a Windows 10 Pro készítők frissítés, akkor csatlakozhat ezekhez az eszközökhöz, hogy a szervezet Azure Active Directory. Miután az eszközök csatlakoztak, azok lesz automatikusan frissítve a Windows 10 Business, amely része a Microsoft 365 Business előfizetés.
   
 ### <a name="for-a-brand-new-or-newly-upgraded-windows-10-pro-device"></a>Vadonatúj vagy újonnan frissített Windows 10 Pro-eszköz esetén
 
@@ -89,7 +89,7 @@ A Windows 10 Pro alkotói frissítését futtató vadonatúj eszköz, illetve eg
   
    ![On the Make sure this is your organization screen, click Join](media/c749c0a2-5191-4347-a451-c062682aa1fb.png)
   
-Szinkronizálja újból a OneDrive Vállalati verzióba esetleg feltöltött fájlokat. Ha egy külső eszközt vett igénybe a profil és a fájlok áttelepítéséhez, ezeket is szinkronizálja az új profilba.
+Szinkronizálja újból a OneDrive Vállalati verzióba esetleg feltöltött fájlokat. Ha harmadik féltől származó eszközt használt a profil-és fájláttelepítéshez, akkor is szinkronizálja azokat az új profillal.
   
 ## <a name="verify-the-device-is-connected-to-azure-ad"></a>Annak ellenőrzése, hogy az eszköz csatlakoztatva van-e az Azure AD szolgáltatáshoz
 
@@ -97,7 +97,7 @@ A szinkronizálási állapot ellenőrzéséhez a **Hozzáférés munkahelyi vagy
   
 A Szinkronizálás állapota lapon a Szinkronizálás elemre kattintva beszerezheti a legújabb mobileszköz-kezelési házirendeket a PC-re.
   
-A Microsoft 365 Business-fiók használatának megkezdéséhez kattintson a Windows **Start** gombjára, kattintson a jobb gombbal az aktuális fiókjának a képére, és válassza a **Fiókváltás** parancsot. Jelentkezzen be a szervezeti e-mail-címével és jelszavával.
+A Microsoft 365 üzleti fiók használatának megkezdéséhez nyissa meg a Windows **Start** gombját, kattintson a jobb gombbal a jelenlegi fiókképre, majd **kapcsolja be a fiókot**. Jelentkezzen be a szervezeti e-mail-címével és jelszavával.
   
 ![Click Info button to view synchronization status](media/818f7043-adbf-402a-844a-59d50034911d.png)
   

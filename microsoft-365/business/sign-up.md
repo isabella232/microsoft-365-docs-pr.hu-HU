@@ -19,12 +19,12 @@ search.appverid:
 - BCS160
 - MET150
 description: Megtanulják, hogyan kell vásárolni és iratkozzon fel a Microsoft 365 Business.
-ms.openlocfilehash: ef34a3e2bc848ce98efb2218f7bdd9b2a186b6b2
-ms.sourcegitcommit: 9206e7f2d61b5ba7f788fe5e7f75a2218c12c716
+ms.openlocfilehash: 16953f7c752c3105af795e721332e2e6d6bdebe5
+ms.sourcegitcommit: 6a413a65b8c2e10cea08f0a15635b28a1362a582
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 11/05/2019
-ms.locfileid: "37968783"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38718719"
 ---
 # <a name="sign-up-for-microsoft-365-business"></a>Iratkozzon fel a Microsoft 365 Business
 
@@ -46,10 +46,10 @@ Vannak három ways-hoz kap Mikroszkóp 365 teendő:
 -Hoz jel megjelöl és megvásárol Mikroszkóp 365 részére-a teendő, kiegészít a következő lép:
 
 1. -On [mikroszkóp 365 részére teendő oldal](https://go.microsoft.com/fwlink/?linkid=2109654), kiválaszt **lát tervek & árkialakítás**. 
-2. A következő oldalon, megtudja, a havi költség, és Görgess le az oldalt, hogy többet megtudni, mi szerepel a Microsoft 365 Business. Alatt Mikroszkóp 365 teendő, kiválaszt **vesz most**.
+2. A következő oldalon, megtudja a havi költség, majd görgessen az oldal, hogy többet megtudni, mi szerepel a Microsoft 365 Business. Alatt Mikroszkóp 365 teendő, kiválaszt **vesz most**.
 3. -On **köszönöm részére kiválasztás mikroszkóp 365 teendő** oldal, belép-a információ-hoz kap kezdett.
 4. Az **1. lépésben**adja meg a már használt e-mail címet. Ez lehet a jelenlegi munkahelyi e-mail címe, vagy bármely olyan cím, amelyet a Microsoft a telepítés során a kommunikációhoz használ. Az is a cím, ahová elküldjük Önnek a számlát és felújításokra vonatkozó információkat. Ezután válassza ki, **állítsa be a fiókot**.
-5. A **2. lépésben**adja meg a nevét, üzleti telefonszámát, cégnevét és helyét. Ne feledje, hogy országa vagy régiója pontosan meghatározza a Microsoft által kapott szolgáltatásokat, és a lépés elvégzése után nem módosítható. Válassza a **Tovább** gombot.
+5. A **2. lépésben**adja meg a nevét, üzleti telefonszámát, cégnevét és helyét. Az Ön országa vagy régiója meghatározza a Microsoft által kapott pontos szolgáltatásokat, és a lépés elvégzése után nem módosítható. Válassza a **Tovább** gombot.
     > [!NOTE]
     > Jelenítjük meg a cég nevét az admin központban; Ez az, ahol kezelheti Microsoft 365 felhasználók, licencek, és így tovább. Azt is tartalmazza, hogy bármely belső (SharePoint) site URL-eket.
 6. A **3. lépésben**:
@@ -66,7 +66,7 @@ Vannak három ways-hoz kap Mikroszkóp 365 teendő:
         
         - **Nem vagyok benne biztos, vagy van egy saját domain nevet már** 
         
-             Válassza a **Microsoft-tartomány beolvasása most**. Ez nem kerül semmibe, és később lehet kapni egy egyéni nevet a vállalkozás, vagy csatlakozni az egyik már saját&mdash;megmutatjuk, hogyan.
+             Válassza a **Microsoft-tartomány beolvasása most**. Ez nem kerül semmibe, és később lehet kapni egy egyéni nevet a vállalkozás, vagy csatlakozni egy már saját. Megmutatjuk, hogyan.
 
     3. Válassza a **következő** -t a felhasználói azonosító és a Business e-mail cím létrehozásához. Írja be a használni kívánt nevet (aliast is). Például Robert Young a RobY-t vagy a RobYoung-t használhatja munkahelyi aliasként. Adjon hozzá egy jelszót, és válassza a **Feliratkozás**. Jegyezze fel a jelszavát. Küldünk egy e-mailt a címre beírt 1. lépésben, hogy emlékeztesse Önt a felhasználói azonosítót.
 7. A **4. lépésben**: 

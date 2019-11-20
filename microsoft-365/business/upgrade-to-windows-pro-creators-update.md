@@ -18,29 +18,29 @@ search.appverid:
 - MOE150
 ms.assetid: ffc4d886-9e1d-453d-a0d0-2f62f18635e2
 description: 'Útmutató a Windows-eszközök Windows 10 Pro alkotók frissítéséhez történő frissítéséhez. '
-ms.openlocfilehash: 5daebb16dcb98ebcdacfb5c7cf330772b24ab753
-ms.sourcegitcommit: bd52f7b662887f552f90c46f69d6a2a42fb66914
+ms.openlocfilehash: 72522626d3d5cd836b47e896202e6c18c06fe0b1
+ms.sourcegitcommit: 6a413a65b8c2e10cea08f0a15635b28a1362a582
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 10/17/2019
-ms.locfileid: "37575488"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38718849"
 ---
 # <a name="upgrade-windows-devices-to-windows-pro-creators-update"></a>Windows-eszközök frissítése a Windows Pro alkotói frissítésére
 
 ## <a name="upgrade-to-windows-10-pro-creators-update"></a>Feljavít-hoz Windows 10 profi teremtők korszerűsíteni
   
-1. -Hoz feljavít-hoz Windows 10 profi teremtők korszerűsíteni, Önnek van több választások. képes vagy:
+-Hoz feljavít-hoz Windows 10 profi teremtők korszerűsíteni, Önnek van több választások. képes vagy:
     
-    - A frissítés telepítése a [Microsoft szoftverletöltési webhelyről](https://go.microsoft.com/fwlink/?LinkID=836951 ) -akkor válassza ezt a lehetőséget, ha a bejelentkezett eszköz ugyanazon az eszközön van, mint amelyet frissíteni szeretne.
-    
-      A. -Ból szoftver letölt telek, kettyenés **korszerűsíteni most** -hoz elkezd felminősítő a berendezés-hoz Windows 10 profi teremtők korszerűsíteni. 
-    
-     - Telepítési adathordozó létrehozása az adathordozó- [készítő eszköz](https://go.microsoft.com/fwlink/?LinkID=836960) segítségével-válassza ezt a lehetőséget, ha létre kíván hozni egy Windows 10 Pro alkotók Update telepítési ADATHORDOZÓT (USB flash meghajtó vagy ISO-fájl), hogy telepítse a Windows 10 a számítógépen, hogy eltér a te használ.
-    
-        A. Olvassa el az eszköz használatáról szóló útmutatót, és hozza létre telepítési adathordozókat. 
+- A frissítés telepítése a [Microsoft szoftverletöltési webhelyről](https://go.microsoft.com/fwlink/?LinkID=836951 ) &ndash; válassza ezt a beállítást. Ha a bejelentkezett eszköz ugyanazon az eszközön van, mint a frissítendő. 
 
-> [!Note]
-> Ha Windows 7 Pro, Windows 8 Pro vagy Windows 8,1 Pro operációs rendszert futtató készülékeit futtat, a Microsoft 365 Business előfizetés feljogosítja Önt a Windows 10 rendszerre történő frissítésre, és nem igényel termékkulcsot.
+    - -Ból szoftver letölt telek, kettyenés **korszerűsíteni most** -hoz elkezd felminősítő a berendezés-hoz Windows 10 profi teremtők korszerűsíteni. 
+    
+- Telepítési adathordozó létrehozása a [médiafájl-készítő eszközzel](https://go.microsoft.com/fwlink/?LinkID=836960) &ndash; válassza ezt a lehetőséget, hogy hozzon létre egy Windows 10 Pro alkotók Update telepítési adathordozó (USB flash meghajtó vagy ISO-fájl) telepíteni a Windows 10 a számítógépen, hogy különbözik a te használ.
+
+    - Olvassa el az eszköz használatáról szóló útmutatót, és hozza létre telepítési adathordozókat. 
+
+> [!NOTE]
+> Ha Windows 7 Pro, Windows 8 Pro vagy Windows 8,1 Pro rendszerű eszközöket futtat, a Microsoft 365 Business előfizetés feljogosítja Önt a Windows 10 frissítésére; Ön dont ' megkövetel egy termék kulcs.
     
 További információ: a [Windows-eszközök beállítása a Microsoft 365 üzleti felhasználók](set-up-windows-devices.md) számára a Windows 10-eszközök beállításának befejezéséhez. 
   

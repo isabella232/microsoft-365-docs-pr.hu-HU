@@ -22,24 +22,23 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: 6e7a2dfd-8ec4-4eb7-8390-3ee103e5fece
-description: A Microsoft 365 Business által létrehozott lépések áttekintése.
-ms.openlocfilehash: 3e1cf240db673a7b961ec8aa574f3e09efee476b
-ms.sourcegitcommit: 8ca97fa879ae4ea44468be629d6c32b429efeeec
+description: A Microsoft 365 Business telepítési lépéseinek áttekintése.
+ms.openlocfilehash: 3447f06d031462a7bebc6f129238de9f0c5dee41
+ms.sourcegitcommit: 6a413a65b8c2e10cea08f0a15635b28a1362a582
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 11/16/2019
-ms.locfileid: "38676028"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38721559"
 ---
 # <a name="overview-of-setup"></a>A beállítás áttekintése
 
-A legtöbb beállítási lépés elvégezhető a telepítővarázslóban, de a többi beállítás is listázható.
-
+A telepítési lépések többsége elvégezhető a telepítővarázslóban, de a többi beállítás is listázható.
 
 ## <a name="step-1-add-your-domain-and-users"></a>1. lépés: a tartomány és a felhasználók hozzáadása
 
    - **[Add hozzá a domain](set-up.md#add-your-domain-to-personalize-sign-in)** (ha vásárolta a domain [regisztráció](sign-up.md)során, ez a lépés már megtörtént.)
 
-    - **Hozzáadhatnak felhasználókat**. Ezt megteheti a következő három módon:
+    - **Hozzáadhatnak felhasználókat**. A felhasználókat háromféle módon adhatja hozzá a felhasználókhoz:
         - A [varázslóban](set-up.md#add-users-in-the-wizard).
         - Ha intézményi Active Directory címtárral rendelkezik, a címtár-szinkronizálás segítségével [felhasználókat adhat hozzá az azúrkék ad Connect alkalmazással](https://docs.microsoft.com/office365/enterprise/set-up-directory-synchronization) .
         - Később az admin központban is [hozzáadhat felhasználókat](add-users-m365b.md) .
@@ -65,21 +64,21 @@ A legtöbb beállítási lépés elvégezhető a telepítővarázslóban, de a t
 
    Amikor csatlakozunk egy Windows 10 készüléket Azure AD-hez, a [2](#step-2-set-up-security-policies-and-configure-devices) .
 
-   - Windows 10 Profi van egy [előtti-követelmény](pre-requisites-for-data-protection.md) részére Mikroszkóp 365 teendő, de ha önnek van Windows 7 profi, Windows 8 profi, vagy Windows 8,1 Profi,-a aláírás feljogosítja ön-hoz egy [feljavít-hoz Windows 10 profi](https://docs.microsoft.com/microsoft-365/business/upgrade-to-windows-pro-creators-update).
+   - Windows 10 Profi van egy [előfeltétel](pre-requisites-for-data-protection.md) részére Mikroszkóp 365 teendő, de ha önnek van Windows 7 profi, Windows 8 profi, vagy Windows 8,1 Profi,-a aláírás feljogosítja ön-hoz egy [feljavít-hoz Windows 10 profi](https://docs.microsoft.com/microsoft-365/business/upgrade-to-windows-pro-creators-update).
     - A Windows 10 eszközök házirendjeinek konfigurálásához használja a [telepítővarázslót](set-up.md#protect-data-and-devices) .
 
-## <a name="stes-4-install-office-365-business"></a>Stes 4: telepítse az Office 365 Business
+## <a name="step-4-install-office-365-business"></a>4. lépés: telepítse az Office 365 Business
 - Az Office-eszközöket a [telepítővarázslóval](set-up.md#deploy-office-365-client-apps)automatikusan is telepítheti a Windows-eszközökön.
 - A felhasználók [telepíthetik az Office-alkalmazásokat](https://docs.microsoft.com/office365/admin/setup/install-applications) a Windows és az eszközök számára.
      
 ## <a name="advanced"></a>Speciális
 - **A robotpilóta használata új eszközök beállításához**
             
-     A [Windows automatikus vezérlőt](add-autopilot-devices-and-profile.md) használhatja a felhasználó számára az **új** Windows 10 eszköz automatikus konfigurálására, de egyszerűbb lehet olyan [partnert](https://www.microsoft.com/solution-providers/search) kérni, aki ezt megteheti. Ön is látogasson el a [Microsoft Store](https://go.microsoft.com/fwlink/?linkid=874598) , és kérje a felhő-technológiai szakértő létrehozott új eszközöket vásárol az Ön számára.
+     A [Windows automatikus vezérlőt](add-autopilot-devices-and-profile.md) használhatja a felhasználó számára az **új** Windows 10 eszköz automatikus konfigurálására, de egyszerűbb lehet olyan [partnert](https://www.microsoft.com/solution-providers/search) kérni, aki ezt megteheti. Tudod is megy [Mikroszkóp készlet](https://go.microsoft.com/fwlink/?linkid=874598), és kérdez egy felhő technológia szakértő-hoz felállít új berendezés amit ön megvásárol.
 
 - **Az intézményi erőforrások elérése**
 
-     - Ha a szervezet helyi Windows Server Active Directoryt használ, beállíthatja a Microsoft 365 Business rendszert, hogy védje a Windows 10 eszközeit, miközben továbbra is fenntartja az intézményi erőforrásokhoz való hozzáférést, amelyekhez szükség van lokális hitelesítésre. Hajtsa végre a [Microsoft 365 Business által felügyelt, tartományhoz csatlakoztatott Windows 10 eszközök engedélyezésére](manage-windows-devices.md) vonatkozó lépéseket. Ez az adott állapotú módszer és eszközök a hibrid Azure rendszerű hirdetési eszközök.
+     - Ha a szervezet helyi Windows Server Active Directoryt használ, beállíthatja a Microsoft 365 Business rendszert, hogy védje a Windows 10 eszközeit, miközben továbbra is fenntartja az intézményi erőforrásokhoz való hozzáférést, amelyekhez szükség van lokális hitelesítésre. Hajtsa végre a [Microsoft 365 Business által felügyelt, tartományhoz csatlakoztatott Windows 10 eszközök engedélyezésére](manage-windows-devices.md) vonatkozó lépéseket. Ez az előnyben részesített módszer, és az ebben az állapotban lévő eszközök elnevezése Hybrid Azure hirdetési egyesített eszközök.
 
     - Ha vállalkozása olyan helyi Active Directoryval rendelkezik, amely intézményi erőforrásokat (például fájlmegosztásokat és nyomtatókat) is tartalmaz, akkor az Azure-alapú AD-összekapcsolt eszközök számára hozzáférést biztosít ezekhez az erőforrásokhoz az alábbi lépések végrehajtásával: [a Microsoft 365 Business egy Azure rendszerű ad-illesztett eszközből származó intézményi erőforrások elérése](access-resources.md).
 

@@ -23,18 +23,18 @@ search.appverid:
 - MET150
 ms.assetid: 6e7a2dfd-8ec4-4eb7-8390-3ee103e5fece
 description: Útmutató a Microsoft 365 Business beállításához.
-ms.openlocfilehash: cd59570cbcb9b027780e160117b44be88770d6b9
-ms.sourcegitcommit: bd52f7b662887f552f90c46f69d6a2a42fb66914
+ms.openlocfilehash: f29dbdb61636fdfe573a1a6920d0aed963b737ad
+ms.sourcegitcommit: 6a413a65b8c2e10cea08f0a15635b28a1362a582
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 10/17/2019
-ms.locfileid: "37575548"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38721489"
 ---
 # <a name="set-up-microsoft-365-business-in-the-setup-wizard"></a>A Microsoft 365 Business beállítása a telepítővarázslóban
 
 ## <a name="add-your-domain-users-and-set-up-policies"></a>A tartomány, a felhasználók és a házirendek beállítása
 
-[![Label, hogy tudd, az admin központ változik, és találsz további részleteket a aka.ms/aboutM365preview.](media/m365admincenterchanging.png)](https://docs.microsoft.com/office365/admin/microsoft-365-admin-center-preview)
+[![A megjelenő címke figyelmeztet a felügyeleti központ változásaira, további részleteket itt talál: aka.ms/aboutM365preview.](media/m365admincenterchanging.png)](https://docs.microsoft.com/office365/admin/microsoft-365-admin-center-preview)
 
 Amikor vagy megvásárol Mikroszkóp 365 teendő, Önnek van a választás-ból használ egy birtok Ön saját, vagy buying egy közben a [jel-megjelöl](sign-up.md).
 
@@ -58,7 +58,7 @@ Amikor vagy megvásárol Mikroszkóp 365 teendő, Önnek van a választás-ból 
     
 4. A varázsló lépéseit követve [hozzon létre DNS-rekordokat az Office 365 olyan DNS-](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) szolgáltatójánál, amely igazolja, hogy Ön a tartomány tulajdonosa. Ha ismeri a domainnevét, akkor tekintse meg a [gazdagép utasításait](https://docs.microsoft.com/office365/admin/get-help-with-domains/set-up-your-domain-host-specific-instructions)is.
 
-    Ha-a ellenséges eltartó van GoDaddy, vagy másik házigazda lehetővé tett-val [birtok összeköt](https://docs.microsoft.com/office365/admin/get-help-with-domains/domain-connect), a folyamat van könnyű és lesz lenni keresztül keresztül-hoz jel-ban és enged Mikroszkóp hitelesít-ra-a nevében:
+    Ha a tárhely szolgáltató GoDaddy vagy más Host engedélyezve [domain Connect](https://docs.microsoft.com/office365/admin/get-help-with-domains/domain-connect), a folyamat egyszerű, és akkor automatikusan felkérték, hogy jelentkezzen be, és hagyja, hogy a Microsoft hitelesít az Ön nevében.
 
     ![-Ra GoDaddy igazol belépés oldal, kiválaszt engedélyez.](media/godaddyauth.png)
 
@@ -74,13 +74,13 @@ A varázslóban hozzáadott felhasználók automatikusan Microsoft 365 üzleti l
 
 1. Ha a Microsoft 365 üzleti előfizetés már meglévő felhasználókkal rendelkezik (például, ha a Azure AD Connect szolgáltatást használta), akkor most lehetősége van licencek kiosztésére. Nyugodtan felvehet licenceket hozzájuk is.
 
-2. A felhasználók hozzáadása után lehetősége van a hitelesítő adatok megosztására az új felhasználóknál is. Ezeket kinyomtathatja, elküldheti e-mailben, vagy pedig letöltheti.
+2. A felhasználók hozzáadása után lehetőség van a hitelesítő adatok megosztására is az új felhasználókkal. Ezeket kinyomtathatja, elküldheti e-mailben, vagy pedig letöltheti.
 
 3. A csapatok létrehozása a szervezet számára csoport választhatja a csapatok hozzáadását és a felhasználók hozzáadását. Ezt később is megteheti. További információt a [vállalati szintű csapat létrehozása](https://support.office.com/article/037bb27a-bcc9-48fe-8d72-44d9482420a3)című témakörben talál.
 
 4. Hagyja ki az e-mail-üzenetek áttelepítését, és kattintson a **Tovább** gombra az **E-mail-üzenetek áttelepítése** lapon. 
 
-    Ha egy másik e-mail szolgáltatótól költözik, és később át kívánja másolni az adatokat, akkor [áttelepítheti az e-maileket és a névjegyeket az Office 365](https://support.office.com/article/a3e3bddb-582e-4133-8670-e61b9f58627e).
+    Ha egy másik e-mail szolgáltatótól távolodik, és később szeretné másolni az adatokat, akkor [áttelepítheti az e-maileket és a névjegyeket az Office 365](https://support.office.com/article/a3e3bddb-582e-4133-8670-e61b9f58627e).
 
 
 ### <a name="connect-your-domain"></a>Tartomány csatlakoztatása
@@ -103,7 +103,7 @@ A szolgáltatások beállításához frissítenie kell bizonyos rekordokat a DNS
 
 A varázslóban beállított házirendek automatikusan alkalmazásra kerülnek a *minden felhasználó*nevű [biztonsági csoportra](https://docs.microsoft.com/office365/admin/create-groups/compare-groups#security-groups) . További csoportokat is létrehozhat, ha házirendeket rendel az admin Centerhez.
 
-1. -Ra a **megvéd-a dolgozik fájlokat-ra mozgatható berendezés** a választás **megvéd dolgozik fájlokat mikor berendezés van elveszett vagy lopott** van válogatott mellett hiba. Lehetősége van bekapcsolni annak **kezelését, hogy a felhasználók hogyan férhessék hozzá az Office-fájlokat a mobileszközökön**, és ez ajánlott.
+1. Ha a **munkahelyi fájlokat védi a mobileszközökön**, az alapértelmezés szerint be van jelölve a **munkahelyi fájlok védelme, ha az eszközök elvesznek vagy ellopják** . Lehetősége van bekapcsolni annak **kezelését, hogy a felhasználók hogyan férhessék hozzá az Office-fájlokat a mobileszközökön**, és ez ajánlott.
 
     ![Ernyőz-ból megvéd dolgozik fájlokat-ra mozgatható berendezés oldal.](media/protectworkfilesondevices.png)
 
@@ -123,7 +123,8 @@ A varázslóban beállított házirendek automatikusan alkalmazásra kerülnek a
 
 ## <a name="deploy-office-365-client-apps"></a>Az Office 365 ügyfélalkalmazások telepítése
 
-Ha úgy dönt, hogy a telepítés során automatikusan telepíti az Office-alkalmazásokat, az alkalmazások a Windows 10 eszközén telepíthetnek, amint a felhasználók az azúrkék HIRDETÉSRE be lettek jelentkezve a saját munkájukat hitelesítő adataikkal.
+Ha úgy dönt, hogy telepítéskor automatikusan telepíti az Office-alkalmazásokat, az alkalmazások a Windows 10 eszközökre fognak telepíteni, amint a felhasználók a Azure AD rendszerbe be vannak jelentkezve a saját felhasználói hitelesítő adataik segítségével.
+
 Az Office mobil iOS vagy Android eszközökre történő telepítéséhez tekintse meg [a mobileszközök beállítása a Microsoft 365 üzleti felhasználók számára](set-up-mobile-devices.md)című témakört.
 
 Az Office programot egyenként is telepíthetjük. Útmutatás: az [Office telepítése PC vagy Mac számítógépre](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658) .

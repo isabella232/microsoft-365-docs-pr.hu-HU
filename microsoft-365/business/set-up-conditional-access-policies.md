@@ -21,12 +21,12 @@ search.appverid:
 - MET150
 - MOE150
 description: Útmutató a Microsoft 365 kampányok feltételes hozzáférési házirendjeinek beállításához.
-ms.openlocfilehash: 0fccd103e3633c7fa5ac07c731341eee93059986
-ms.sourcegitcommit: 5d11f516e78ea4a74145e19ba2300f0792c8bac1
+ms.openlocfilehash: aebdb733c2dd9a05947335ad4f151104d801568e
+ms.sourcegitcommit: 6a413a65b8c2e10cea08f0a15635b28a1362a582
 ms.translationtype: MT
 ms.contentlocale: hu-HU
 ms.lasthandoff: 11/19/2019
-ms.locfileid: "38715082"
+ms.locfileid: "38718829"
 ---
 # <a name="set-up-conditional-access-policies"></a>Feltételes hozzáférési házirendek beállítása
 
@@ -35,10 +35,10 @@ A [feltételes hozzáférési](https://docs.microsoft.com/azure/active-directory
 Ezek a házirendek megkövetelik a rendszergazdákról és a felhasználóktól, hogy egy második hitelesítési formát (többtényezős hitelesítést vagy MFA) adjon meg, ha bizonyos feltételek teljesülnek. Ha például egy felhasználó egy másik országból jelentkezik be, a bejelentkezés kockázatosnak tekinthető, és a felhasználónak meg kell adnia egy további hitelesítési formát. 
 
 Jelenleg az alábbi alapirányelvek tartalmazzák a következőket:
-- **Megkövetel MFA részére admins** — megkövetel multi--tényező hitelesítés részére a leg--bb kiváltságos ügyintéző szerepek, beleértve világ-ügyintéző.
-- **Végfelhasználói védelem** – csak akkor igényel többtényezős hitelesítést a felhasználóknak, ha a bejelentkezés kockázatos. 
-- **Örökölt hitelesítés blokkolása** — a régebbi ügyfélalkalmazások és néhány új alkalmazás nem használ újabb, biztonságosabb hitelesítési protokollokat. Ezek a régebbi alkalmazások megkerülhetik a feltételes hozzáférési házirendeket, és jogosulatlan hozzáférést nyerhetnek a környezetéhez. Ez a házirend blokkolja a feltételes hozzáférést nem támogató ügyfélszámítógépekről való hozzáférést. 
-- **Szükséges az MFA szolgáltatás kezelése** – ehhez többtényezős hitelesítésre van szükség a kezelőeszközök számára, beleértve az Azure portált is (ahol az alaptervi házirendeket konfigurálja). 
+- A &ndash; **rendszergazdák számára az MFA megkövetelése** többtényezős hitelesítést igényel a legkiváltságosabb rendszergazdai szerepkörökhöz, beleértve a globális rendszergazdát is.
+- A **végfelhasználói védelem** &ndash; csak akkor igényel többtényezős hitelesítést a felhasználóknak, ha a bejelentkezés kockázatos. 
+- **Örökölt hitelesítés** &ndash; letiltása régebbi ügyfélalkalmazások és néhány új alkalmazás nem használ újabb, biztonságosabb hitelesítési protokollokat. Ezek a régebbi alkalmazások megkerülhetik a feltételes hozzáférési házirendeket, és jogosulatlan hozzáférést nyerhetnek a környezetéhez. Ez a házirend blokkolja a feltételes hozzáférést nem támogató ügyfélszámítógépekről való hozzáférést. 
+- **Megkövetel MFA részére szolgáltatás vezetés** &ndash; megkövetel multi--tényező hitelesítés részére belépés-hoz vezetés szerszámok, beleértve Azure bejárat (hol vagy configure alap politikák). 
 
 A Microsoft az alábbi alapházirendek használatát javasolja. Miután ezek a házirendek engedélyezve vannak, a rendszer megkérdezi az adminisztrátorokat és a felhasználókat, hogy regisztrálják-e az Azure Multii-Factor hitelesítést.
 
