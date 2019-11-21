@@ -35,7 +35,7 @@
 ## Áttelepítés a Microsoft 365 Vállalati verzióba
 ### [Áttérés az Office 365 Business Premium csomagról](migrate-to-microsoft-365-business.md)
 ### [Áttérés az Office 365 E3 csomagból](migrate-from-e3.md)
-### [Vándorol ro Mikroszkóp 365 vállalat](migrate-from-microsoft-365-business-to-microsoft-365-enterprise.md)
+### [Áttelepítés a Microsoft 365 Enterprise-ra](migrate-from-microsoft-365-business-to-microsoft-365-enterprise.md)
 ## Számlázás
 ### [A számlád](/Office365/Admin/subscriptions-and-billing/view-your-bill-or-invoice?toc=/microsoft-365/business/toc.json&bc=/microsoft-365/business/breadcrumb/toc.json)
 ### [Fizetni](/Office365/Admin/subscriptions-and-billing/pay-for-your-subscription?toc=/microsoft-365/business/toc.json&bc=/microsoft-365/business/breadcrumb/toc.json)
