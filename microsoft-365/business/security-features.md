@@ -20,12 +20,12 @@ search.appverid:
 - MET150
 ms.assetid: c123694a-1efb-459e-a8d5-2187975373dc
 description: Ismerje meg a Microsoft 365 Business biztonsági szolgáltatásait.
-ms.openlocfilehash: f24836ef93c529eddc05c767d6e4fa8af6aef314
-ms.sourcegitcommit: 5d11f516e78ea4a74145e19ba2300f0792c8bac1
+ms.openlocfilehash: 98eb0c2015ed6088b2d5e8621c8e72a5b63f2a17
+ms.sourcegitcommit: 58a7bd70a4bcf52530baf5f82507fd5dc4455fd9
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "38715142"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "39668848"
 ---
 # <a name="microsoft-365-business-security-and-compliance-features"></a>Mikroszkóp 365 teendő biztonság és engedékenység jellegét meghatározza
 
@@ -74,7 +74,8 @@ A Microsoft 365 Business továbbfejlesztett szolgáltatásai segítenek megvéde
     Az Intune admin központ eléréséhez az Azure portálon további biztonsági szolgáltatásokat állíthat be, például a MacOS eszközök, iPhone és Android eszközök kezelését, valamint a Windows speciális eszközkezelőit, amelyek nem érhetők el a Microsoft 365 üzleti admin központ.
 - **Ugyanez a [feltételes hozzáférés](https://docs.microsoft.com/azure/active-directory/conditional-access/overview) azúrkék ad P1 terv**
 
-    A feltételes elérés segítségével megvédheti szervezetét a bejelentkezési kockázatból, a váratlan hálózatból vagy területi beállításból származó hozzáférési kísérletektől, a kockázatos eszköztípusok elérésének kísérletétől stb. A feltételes hozzáférési házirendek érvényesítése az első hitelesítés befejezése után történik, és az első hitelesítési esemény jeleit használja annak megállapítására, hogy a megkísérelt hozzáférést jóvá kell-e hagyja, meg kell tagadni, vagy több bizonyítékot (például a második űrlap azonosítás) szükséges.
+
+    A feltételes elérés segítségével megvédheti szervezetét a bejelentkezési kockázatból, a váratlan hálózatból vagy területi beállításból származó hozzáférési kísérletektől, a kockázatos eszköztípusok elérésének kísérletétől stb. A feltételes hozzáférési házirendek érvényesítése az első hitelesítés befejezése után történik, és az első hitelesítési esemény jeleit használja annak megállapításához, hogy a megkísérelt hozzáférést jóvá kell-e hagyja, meg kell tagadni, vagy ha több bizonyítékot (például egy második azonosítási formát) szükséges.
 
     A tartalmazott feltételes hozzáférési funkciók:
 

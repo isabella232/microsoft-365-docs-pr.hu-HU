@@ -18,12 +18,12 @@ search.appverid:
 - MET150
 ms.assetid: b0f4d010-9fd1-44d0-9d20-fabad2cdbab5
 description: Tájékoztatás arról, hogyan lehet hozzáférni az intézményi erőforrásokhoz, például az üzleti alkalmazások, a fájlmegosztások és a nyomtatók eléréséhez egy Azure Active Directory-hoz csatlakozott a Windows 10 eszközhöz.
-ms.openlocfilehash: fdc1eca6913ba6af4f6b65691fdee2165e7c827e
-ms.sourcegitcommit: 8193b7da5b1a415835d02ca96883c351df7326ed
+ms.openlocfilehash: 4a2ff28107c6e2ec4473859c75bf720df7662747
+ms.sourcegitcommit: 58a7bd70a4bcf52530baf5f82507fd5dc4455fd9
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 11/14/2019
-ms.locfileid: "38323395"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "39668788"
 ---
 # <a name="access-on-premises-resources-from-an-azure-ad-joined-device-in-microsoft-365-business"></a>Az intézményi erőforrásokhoz való hozzáférés egy Azure alapú AD-illesztett eszközről a Microsoft 365 Business
 
@@ -32,6 +32,9 @@ Minden olyan Windows 10 eszköz, amely Azure Active Directory-hoz csatlakozott, 
 További információ: [Bevezetés az eszközkezelésben az Azure Active Directory szolgáltatásban](https://docs.microsoft.com/azure/active-directory/device-management-introduction).
 A lépéseket a következő szakaszokban is összefoglaltuk.
 
+> [!IMPORTANT]
+> Ez az eljárás csak az OAuth és az NTLM esetében alkalmazható. A Kerberos-hitelesítés nem támogatott.
+ 
 ## <a name="run-azure-ad-connect"></a>Fuss Azure AD Connect
 
 Hajtsa végre az alábbi lépéseket annak engedélyezéséhez, hogy a szervezet Azure AD csatlakozott eszközei hozzáférhessenek az intézményi erőforrásokhoz.
@@ -43,6 +46,8 @@ Hajtsa végre az alábbi lépéseket annak engedélyezéséhez, hogy a szervezet
 3. Miután a Windows 10 eszközöket a Azure AD csatlakozott, mindegyik felhasználónak újra kell indítania az eszközöket, és be kell jelentkeznie a Microsoft 365 Business hitelesítő adataival. Mostantól minden eszköz hozzáfér az intézményi erőforrásokhoz is.
     
 A Azure Active Directory-eszközök intézményi erőforrásainak eléréséhez nincs szükség további lépésekre. Ez a funkció a Windows 10-be van beépítve. 
+
+Ha önnek van tervek-hoz logika-hoz AADJ berendezés más mint jelszó módszer szeret kitűző/bio-metrikus keresztül WHFB megbízólevél logika aztán belépés-ra-előtétel anyagi javak (osztozik, nyomdászok.. stb.), kérjük, kövessehttps://docs.microsoft.com/en-us/windows/security/identity-protection/hello-for-business/hello-hybrid-aadj-sso-base
   
 Ha a szervezet nem áll készen a fent leírt Azure Active Directory egyesített eszközkonfigurációban történő telepítésére, érdemes a [hibrid Azure ad egyesített eszközkonfigurációt](manage-windows-devices.md)beállítani.
   
