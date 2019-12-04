@@ -13,6 +13,7 @@ localization_priority: Normal
 ms.collection:
 - Adm_O365
 - M365-subscription-management
+- TRN_SMB
 ms.custom:
 - Adm_O365
 - Core_O365Admin_Migration
@@ -23,14 +24,20 @@ search.appverid:
 - MET150
 ms.assetid: 6e7a2dfd-8ec4-4eb7-8390-3ee103e5fece
 description: Útmutató a Microsoft 365 Business beállításához.
-ms.openlocfilehash: f29dbdb61636fdfe573a1a6920d0aed963b737ad
-ms.sourcegitcommit: 6a413a65b8c2e10cea08f0a15635b28a1362a582
+ms.openlocfilehash: 7ab6ae095ae30f8ceb74be69fcee20f31977ae21
+ms.sourcegitcommit: 8fda7852b2a5baa92b8a365865b014ea6d100bbc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "38721489"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "39818917"
 ---
 # <a name="set-up-microsoft-365-business-in-the-setup-wizard"></a>A Microsoft 365 Business beállítása a telepítővarázslóban
+
+Tekintse meg a Microsoft 365 Business beállítását ismertető videót.<br><br>
+
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE1FYSM] 
+
+Ha Ön alapít ez video segíteni kész, kijelenti magát a [kiegészít képzés sor részére kicsi teendő és azok új-hoz mikroszkóp 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
 
 ## <a name="add-your-domain-users-and-set-up-policies"></a>A tartomány, a felhasználók és a házirendek beállítása
 
@@ -44,16 +51,18 @@ Amikor vagy megvásárol Mikroszkóp 365 teendő, Önnek van a választás-ból 
 
 1. Jelentkezzen be a [Microsoft 365 felügyeleti központba](https://admin.microsoft.com) a globális rendszergazdai hitelesítő adatok használatával. 
 
-2. Válassza a **tartomány hozzáadása** vagy a **felhasználók hozzáadása** a varázsló elindításához.
+2. A varázsló elindításához válassza a **mehet beállítást** .
+
+    ![Válassza az Ugrás a telepítéshez beállítást.](media/gotosetupinadmincenter.png)
+
+3. Az **Office alkalmazások telepítése** lapon tetszés szerint telepítheti az alkalmazásokat a saját számítógépére.
+    
+4. A **tartomány hozzáadása** lépésben adja meg a használni kívánt tartománynevet (például contoso.com).
+
     > [!IMPORTANT]
     > Ha a regisztráció során tartományt vásárolt, akkor itt nem jelenik meg **a domainlépés hozzáadása** . Tovább a [felhasználók hozzáadásához](#add-users-and-assign-licenses) helyette.
 
-    ![Válassza az Ugrás a telepítéshez beállítást.](media/gotosetupinadmincenter.png)
-    
-3. A varázslóban adja meg a használni kívánt tartománynevet (például contoso.com).
-
-
-    ![Ernyőz-ból megszemélyesít-a jel--ban oldal.](media/personalizesignin.png)
+    ![Ernyőz-ból megszemélyesít-a jel--ban oldal.](media/adddomain.png)
 
     
 4. A varázsló lépéseit követve [hozzon létre DNS-rekordokat az Office 365 olyan DNS-](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) szolgáltatójánál, amely igazolja, hogy Ön a tartomány tulajdonosa. Ha ismeri a domainnevét, akkor tekintse meg a [gazdagép utasításait](https://docs.microsoft.com/office365/admin/get-help-with-domains/set-up-your-domain-host-specific-instructions)is.
@@ -76,13 +85,6 @@ A varázslóban hozzáadott felhasználók automatikusan Microsoft 365 üzleti l
 
 2. A felhasználók hozzáadása után lehetőség van a hitelesítő adatok megosztására is az új felhasználókkal. Ezeket kinyomtathatja, elküldheti e-mailben, vagy pedig letöltheti.
 
-3. A csapatok létrehozása a szervezet számára csoport választhatja a csapatok hozzáadását és a felhasználók hozzáadását. Ezt később is megteheti. További információt a [vállalati szintű csapat létrehozása](https://support.office.com/article/037bb27a-bcc9-48fe-8d72-44d9482420a3)című témakörben talál.
-
-4. Hagyja ki az e-mail-üzenetek áttelepítését, és kattintson a **Tovább** gombra az **E-mail-üzenetek áttelepítése** lapon. 
-
-    Ha egy másik e-mail szolgáltatótól távolodik, és később szeretné másolni az adatokat, akkor [áttelepítheti az e-maileket és a névjegyeket az Office 365](https://support.office.com/article/a3e3bddb-582e-4133-8670-e61b9f58627e).
-
-
 ### <a name="connect-your-domain"></a>Tartomány csatlakoztatása
 
 > [!NOTE]
@@ -95,31 +97,29 @@ A szolgáltatások beállításához frissítenie kell bizonyos rekordokat a DNS
     - Ha vannak meglévő DNS-rekordjai, például egy meglévő webhely, de a DNS-állomás a tartományhoz történő [kapcsolódáshoz](https://docs.microsoft.com/office365/admin/get-help-with-domains/domain-connect)engedélyezve van, válassza **a saját rekord hozzáadása**lehetőséget. Az **online szolgáltatások kiválasztása** lapon fogadja el az összes alapértelmezett beállításokat, majd kattintson a **Tovább gombra**, és válassza az engedélyezés a DNS-állomás oldalán **engedélyt** .
     - Ha van meglévő DNS-rekordja más DNS-állomásokkal (nincs engedélyezve a tartomány csatlakoztatásához), saját DNS-rekordokat kell kezelnie annak érdekében, hogy a meglévő szolgáltatások ne maradjanak kapcsolatban. További információ a [tartomány alapjai](https://docs.microsoft.com/office365/admin/get-help-with-domains/dns-basics) című témakörben található.
 
-        ![Összeköt-a birtok oldal-val én ' kezel az én-m saját DNS hanglemezek.](media/connectyourdomainpage.png)
+        ![A rekordok oldal aktiválása.](media/activaterecords.png)
 
 2. Kövesse a varázsló lépéseit, és az e-mail és egyéb szolgáltatások lesznek beállítva az Ön számára.
 
-### <a name="protect-data-and-devices"></a>Védjük az adatokat és az eszközöket 
+### <a name="protect-your-organization"></a>A szervezet védelme 
 
 A varázslóban beállított házirendek automatikusan alkalmazásra kerülnek a *minden felhasználó*nevű [biztonsági csoportra](https://docs.microsoft.com/office365/admin/create-groups/compare-groups#security-groups) . További csoportokat is létrehozhat, ha házirendeket rendel az admin Centerhez.
 
-1. Ha a **munkahelyi fájlokat védi a mobileszközökön**, az alapértelmezés szerint be van jelölve a **munkahelyi fájlok védelme, ha az eszközök elvesznek vagy ellopják** . Lehetősége van bekapcsolni annak **kezelését, hogy a felhasználók hogyan férhessék hozzá az Office-fájlokat a mobileszközökön**, és ez ajánlott.
+1. A **növekedés elleni védelem a fejlett számítógépes fenyegetések**, ajánlott, hogy fogadja el az alapértelmezett, hogy hagyja [Office 365 Advance fenyegetés védelem](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp) Scan fájlokat és linkeket az Office alkalmazásokban.
 
-    ![Ernyőz-ból megvéd dolgozik fájlokat-ra mozgatható berendezés oldal.](media/protectworkfilesondevices.png)
+    ![Ernyőz-ból növekszik védelem oldal.](media/increasetreatprotection.png)
 
-     - Az [alapértelmezett értékek](protect-work-files-on-lost-or-stolen-device.md)megjelenítéséhez bontsa ki a **fájlvédelem a munkahelyi fájlokat, ha az eszköz elvész vagy ellopják** :
 
-        ![Képernyőkép az alapértelmezett értékekről az elveszett eszközökön lévő fájlok védelméhez.](media/protectworkfilesondevicesdefault.png)
+2. -On **megakadályoz átereszt-ból érzékeny adat** oldal, elfogad a hiba-hoz megereszt Hivatal 365 adat elvesztés megakadályozás (DLP)-hoz nyom érzékeny adat-ban Hivatal apps és megakadályoz a esetleges cserépdarab-ból ezek külső rész-a szervezet.
 
-    - Válassza a **kezelés, hogy a felhasználók hogyan férhetnek hozzá az Office-fájlokhoz a mobileszközökön** , és bontsa ki azt az [alapértelmezett értékek](manage-user-access-on-mobile-devices.md)megjelenítéséhez. Javasoljuk, hogy a telepítés során fogadja el az alapértelmezett értékeket, hogy az összes felhasználóra érvényes Android, iOS és Windows 10 alkalmazások házirendjeit hozza létre. A telepítés után további házirendeket is létrehozhat majd.
+3. Az **Office mobileszközre szánt adatok védelme** lapon hagyja meg a mobilalkalmazás-kezelés beállítást, bontsa ki a beállításokat, és tekintse át őket, majd válassza a **mobilalkalmazás-kezelési házirend létrehozása**beállítást.
 
-        ![A mobil Office-fájlokhoz tartozó védelmi beállítások képernyőképe.](media/useraccessonmobile.png)
+    ![Ernyőz-ból megvéd adat-ban hivatal részére mozgatható oldal.](media/protectdatainmobile.png)
 
-2. Az adatok és eszközök védelmének utolsó lépése lehetővé teszi a házirendek beállítására a Windows 10 eszközök biztonságossá tétele érdekében. Ezeket a beállításokat a rendszer automatikusan alkalmazza, amikor a felhasználó Windows 10-e csatlakozik a szervezethez. A **biztonságos Windows 10 eszközöket** kibonthatja az [alapértelmezett értékek](secure-windows-10-devices.md)megtekintéséhez és módosításához.
-3. Azt is választhatja, hogy [automatikusan telepíti az Office](install-office-on-windows-10-during-setup.md) -t a Windows 10 eszközén.
 
-    ![Képernyőkép beállítása a Windows 10 eszköz konfigurációs lapjáról.](media/setwin10config.png)
+## <a name="secure-windows-10-pcs"></a>Biztonságos Windows 10 PC-k
 
+-On bal NAV, kiválaszt **beállít** aztán, alatt **énekel--ban és biztonság**, választ **biztosít-a Windows 10 számítógépek**. A **megtekintéshez** válassza a nézet-t. A [Windows 10 rendszerű számítógép biztonságossá tétele](secure-win-10-pcs.md) teljes körű utasításokért lásd:
 
 ## <a name="deploy-office-365-client-apps"></a>Az Office 365 ügyfélalkalmazások telepítése
 
@@ -128,3 +128,7 @@ Ha úgy dönt, hogy telepítéskor automatikusan telepíti az Office-alkalmazás
 Az Office mobil iOS vagy Android eszközökre történő telepítéséhez tekintse meg [a mobileszközök beállítása a Microsoft 365 üzleti felhasználók számára](set-up-mobile-devices.md)című témakört.
 
 Az Office programot egyenként is telepíthetjük. Útmutatás: az [Office telepítése PC vagy Mac számítógépre](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658) .
+
+## <a name="see-also"></a>See also
+
+[Microsoft 365 üzleti képzési videók](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
