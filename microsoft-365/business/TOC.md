@@ -6,10 +6,11 @@
 ## Beállítás
 ### [A beállítás áttekintése](set-up-overview.md)
 ### [Állítsa be a Microsoft 365 Business](set-up.md)
+### [Biztonságos Windows 10 számítógép](secure-win-10-pcs.md)
 ### [Feljavít-hoz Windows profi teremtők korszerűsíteni](upgrade-to-windows-pro-creators-update.md)
 ### [Felkészülés az Office ügyfélszámítógépekre történő telepítésre](prepare-for-office-client-deployment.md)
 ### [Súgófelhasználók telepítése Office](help-users-install-office.md)
-### [Az intézményi erőforrások elérése]()
+### [Intézményi erőforrások elérése]
 #### [A tartományhoz csatlakoztatott Windows 10-eszközök kezelésének engedélyezése](manage-windows-devices.md)
 #### [Források elérése Azure Active Directory-eszközön keresztül](access-resources.md)
 ## Felhasználóeszköz beállítása

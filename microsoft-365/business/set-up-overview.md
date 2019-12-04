@@ -23,12 +23,12 @@ search.appverid:
 - MET150
 ms.assetid: 6e7a2dfd-8ec4-4eb7-8390-3ee103e5fece
 description: A Microsoft 365 Business telepítési lépéseinek áttekintése.
-ms.openlocfilehash: 3447f06d031462a7bebc6f129238de9f0c5dee41
-ms.sourcegitcommit: 6a413a65b8c2e10cea08f0a15635b28a1362a582
+ms.openlocfilehash: 425c465262c266ca764ae8c7a52130903fa635a5
+ms.sourcegitcommit: 8fda7852b2a5baa92b8a365865b014ea6d100bbc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "38721559"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "39812778"
 ---
 # <a name="overview-of-setup"></a>A beállítás áttekintése
 
@@ -44,16 +44,15 @@ A telepítési lépések többsége elvégezhető a telepítővarázslóban, de 
         - Később az admin központban is [hozzáadhat felhasználókat](add-users-m365b.md) .
 ## <a name="step-2-set-up-security-policies-and-configure-devices"></a>2. lépés: biztonsági házirendek beállítása és eszközök konfigurálása 
 
-  - Az eszköz-és biztonsági házirendek konfigurálásához használja a [telepítővarázslót](set-up.md#protect-data-and-devices) . 
+  - Az eszközházirendek konfigurálásához használja a [telepítővarázslót](set-up.md#protect-your-organization) . 
   - Később az [Admin központban](view-policies-and-devices.md) és az [Intune portálon](https://docs.microsoft.com/intune/tutorial-walkthrough-intune-portal)is hozzáadhat további, vagy szerkesztheti azokat.
-  - A Beállításvarázsló biztonsági beállításai mellett a következő beállítások hozzáadásával növelheti biztonságát:
+  - A telepítő varázsló emellett alapvető fenyegetettséget és adatvesztés-megelőzési beállításokat is beállít.
+  
+  A Beállításvarázsló biztonsági beállításai mellett a következő beállítások hozzáadásával növelheti biztonságát:
 
       - **E-mail malware-védelem**
-      - **Speciális Veszélyvédelmi (ATP) hivatkozások**
-      - **ATP-biztos mellékletek**
       - **ATP anti-phishing**
       - **Exchange Online Archiválás**
-      - **Adatvesztés megelőzése (DLP)**
       - **Azure információvédelem (Plan1**)
 
           A kezdéshez tekintse [meg a speciális biztonsági házirendeket](set-up-advanced-security.md).
@@ -62,10 +61,12 @@ A telepítési lépések többsége elvégezhető a telepítővarázslóban, de 
 
 ## <a name="step-3-set-up-and-manage-windows-10-devices"></a>3. lépés: a Windows 10-eszközök beállítása és kezelése
 
-   Amikor csatlakozunk egy Windows 10 készüléket Azure AD-hez, a [2](#step-2-set-up-security-policies-and-configure-devices) .
+A varázsló futtatása után a szervezet összes Windwos 10 számítógépét be szeretné szerezni.
+  
+- Windows 10 Profi van egy [előfeltétel](pre-requisites-for-data-protection.md) részére Mikroszkóp 365 teendő, de ha önnek van Windows 7 profi, Windows 8 profi, vagy Windows 8,1 Profi,-a aláírás feljogosítja ön-hoz egy [feljavít-hoz Windows 10 profi](https://docs.microsoft.com/microsoft-365/business/upgrade-to-windows-pro-creators-update).
+- Kövesse a [Windows 10 PC](secure-win-10-pcs.md) -k biztonságának lépéseit a Windows 10 eszközök házirendjeinek beállításához.
 
-   - Windows 10 Profi van egy [előfeltétel](pre-requisites-for-data-protection.md) részére Mikroszkóp 365 teendő, de ha önnek van Windows 7 profi, Windows 8 profi, vagy Windows 8,1 Profi,-a aláírás feljogosítja ön-hoz egy [feljavít-hoz Windows 10 profi](https://docs.microsoft.com/microsoft-365/business/upgrade-to-windows-pro-creators-update).
-    - A Windows 10 eszközök házirendjeinek konfigurálásához használja a [telepítővarázslót](set-up.md#protect-data-and-devices) .
+Amikor csatlakozunk egy Windows 10 készüléket Azure AD-hez, a Windows 10 számítógépeire beállított házirendek kerülnek alkalmazásra. További információ: a [Windows-eszközök beállítása a Microsoft 365 üzleti felhasználók](set-up-windows-devices.md)számára.
 
 ## <a name="step-4-install-office-365-business"></a>4. lépés: telepítse az Office 365 Business
 - Az Office-eszközöket a [telepítővarázslóval](set-up.md#deploy-office-365-client-apps)automatikusan is telepítheti a Windows-eszközökön.
@@ -82,4 +83,6 @@ A telepítési lépések többsége elvégezhető a telepítővarázslóban, de 
 
     - Ha vállalkozása olyan helyi Active Directoryval rendelkezik, amely intézményi erőforrásokat (például fájlmegosztásokat és nyomtatókat) is tartalmaz, akkor az Azure-alapú AD-összekapcsolt eszközök számára hozzáférést biztosít ezekhez az erőforrásokhoz az alábbi lépések végrehajtásával: [a Microsoft 365 Business egy Azure rendszerű ad-illesztett eszközből származó intézményi erőforrások elérése](access-resources.md).
 
-  
+## <a name="see-also"></a>See also
+
+[Microsoft 365 üzleti képzési videók](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)

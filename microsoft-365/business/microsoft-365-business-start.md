@@ -10,6 +10,7 @@ localization_priority: Normal
 ms.collection:
 - Adm_O365
 - M365-subscription-management
+- TRN_SMB
 ms.custom:
 - Adm_O365
 - Core_O365Admin_Migration
@@ -21,18 +22,22 @@ search.appverid:
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
 description: Ismerje meg, hogy hozzanak létre a Microsoft 365 Business.
-ms.openlocfilehash: f269e970cc1ee5ba7455ea799b238db577116f09
-ms.sourcegitcommit: 38934a2115d5cdeb44c7484d57be07686c6f7720
+ms.openlocfilehash: 2e6e1e6153fe4033aa7dd47280c737957d0e4bd5
+ms.sourcegitcommit: 8fda7852b2a5baa92b8a365865b014ea6d100bbc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "38704115"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "39813058"
 ---
 # <a name="get-started-with-microsoft-365-business"></a>A Microsoft 365 Business használatbavétele
 
 ## <a name="what-is-microsoft-365-business"></a>Mi a Microsoft 365 Vállalati verzió?
 
 A Microsoft 365 Business egy átfogó üzleti termelékenységi és együttműködési eszköz, például az Outlook, a Word, az Excel és más Office termékek, amelyek mindig naprakész. Tudod megvéd-a dolgozik fájlokat-ra minden-a iOS, Android, és Windows 10 berendezés-val vállalat-osztályoz biztonság ez minden egyszerű-hoz kezel.
+
+Tekintse meg ezt a videót a Microsoft 365 Business gyors áttekintéséhez.<br><br>
+
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2mhaA] 
   
 Mikroszkóp 365 teendő van tervezett részére valameddig 300 engedélyez. Ha további licencekre van szüksége, további információért olvassa el a [Microsoft 365 Enterprise](https://go.microsoft.com/fwlink/p/?linkid=860986) dokumentációjában található tudnivalókat. 
   
@@ -49,6 +54,13 @@ Mikroszkóp 365 teendő van tervezett részére valameddig 300 engedélyez. Ha t
 A következő ábra leírja, hogyan kell beállítani a Microsoft 365 Business az adminok. Ezenkívül a Windows rendszerű PC-k Microsoft 365 Business használatára való előkészítésének lépéseit is tartalmazza. Új eszközöket is hozzáadhat a Microsoft 365 Business admin Centerhez a [Windows robotpilóta](add-autopilot-devices-and-profile.md)segítségével. A robotpilóta segítségével beállíthat és konfigurálhat új eszközöket, hogy azok készen állnak a hatékony használatra, amint a felhasználó bejelentkezik a Microsoft 365 Business hitelesítő adataival.
   
 ![A diagram that shows the setup and management flow for admins, and also for a user](media/249f81fc-7e79-44c7-8425-3a0b7b651c3b.png)
+
+Tekintse meg a Microsoft 365 Business beállítását ismertető videót.<br><br>
+
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE1FYSM] 
+
+Ha Ön alapít ez video segíteni kész, kijelenti magát a [kiegészít képzés sor részére kicsi teendő és azok új-hoz mikroszkóp 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
+
   
 ### <a name="1-set-up-microsoft-365-business-admin"></a>1: állítsa be a Microsoft 365 Business (admin)
 
@@ -89,9 +101,10 @@ Ha olyan helyi Active Directoryt tart fenn, amely az intézményi erőforrásoka
     
 - Mint a Microsoft 365 Business admin, akkor hozzáférhet az ügyfélszolgálati Csoport: ** [Kapcsolatfelvétel üzleti termékek támogatása-admin Súgó](https://support.office.com/article/32a17ca7-6fa0-4870-8a8d-e25ba4ccfd4b)**
     
-## <a name="related-topics"></a>Kapcsolódó témakörök
+## <a name="see-also"></a>See also
+
 [A Microsoft 365 Vállalati verzióval kapcsolatos dokumentáció és források](https://go.microsoft.com/fwlink/p/?linkid=853701)
   
 [A Microsoft 365 Vállalati verzió kezelése](manage.md)[Áttelepítés a Microsoft 365 Vállalati verzióba](migrate-to-microsoft-365-business.md)
-  
 
+[Microsoft 365 üzleti képzési videók](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816) 

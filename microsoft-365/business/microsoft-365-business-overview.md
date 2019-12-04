@@ -11,6 +11,7 @@ localization_priority: Normal
 ms.collection:
 - Adm_O365
 - M365-subscription-management
+- TRN_SMB
 ms.custom:
 - Adm_O365
 - Core_O365Admin_Migration
@@ -22,19 +23,25 @@ search.appverid:
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
 description: Tudjon meg többet a Microsoft 365 Business-ről.
-ms.openlocfilehash: abd1e8374ef7530a879de71ab7ad0125f1ca4616
-ms.sourcegitcommit: 8ca97fa879ae4ea44468be629d6c32b429efeeec
+ms.openlocfilehash: 419754b5ea06baabac8c170a860e076dc7fa8f81
+ms.sourcegitcommit: 8fda7852b2a5baa92b8a365865b014ea6d100bbc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 11/16/2019
-ms.locfileid: "38676077"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "39812858"
 ---
 # <a name="overview-of-microsoft-365-business"></a>Áttekintés-ból Mikroszkóp 365 teendő
 
 ## <a name="what-is-microsoft-365-business"></a>Mi a Microsoft 365 Vállalati verzió?
 
 Mikroszkóp 365 teendő van egy aláírás szolgáltatás amit beleértve Hivatal 365 termelékenység szerszámok plusz haladó képességek-hoz segít megvéd-a teendő ellen cyberfenyegetések, megvéd-a adat, és kezel berendezés.
+
+Tekintse meg ezt a videót a Microsoft 365 Business gyors áttekintéséhez.<br><br>
+
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2mhaA] 
   
+Ha Ön alapít ez video segíteni kész, kijelenti magát a [kiegészít képzés sor részére kicsi teendő és azok új-hoz mikroszkóp 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816). 
+
 Mikroszkóp 365 teendő van tervezett részére valameddig 300 engedélyez. Ha további licencekre van szüksége, további információért olvassa el a [Microsoft 365 Enterprise](https://go.microsoft.com/fwlink/p/?linkid=860986) dokumentációjában található tudnivalókat.
 
 Lásd a [Microsoft 365 Business Service leírását](https://docs.microsoft.com/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-business-service-description) a teljes szolgáltatáslistához.
@@ -102,3 +109,7 @@ A biztonsági szolgáltatások teljes listáját a [Microsoft 365 üzleti bizton
 
     > [!NOTE]
     > Ez a link az üzletek az Egyesült Államokban csak
+
+## <a name="see-also"></a>See also
+
+[Microsoft 365 üzleti képzési videók](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
