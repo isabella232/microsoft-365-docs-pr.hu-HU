@@ -15,30 +15,31 @@ ms.custom:
 - MiniMaven
 - MSB365
 - OKR_SMB_M365
+- TRN_M365B
+- OKR_SMB_Videos
 search.appverid:
 - BCS160
 - MET150
 ms.assetid: d868561b-d340-4c04-a973-e2575d7f09bc
 description: Felszerel hivatal-ra egy iPhone vagy egy Android telefon, és-a dolgozik fájlokat hivatalban apps lesz megvéd mellett Mikroszkóp 365 teendő.
-ms.openlocfilehash: e09db43705d601df0c0b30a46ee36cf0295ecae3
-ms.sourcegitcommit: 6a413a65b8c2e10cea08f0a15635b28a1362a582
+ms.openlocfilehash: d87ea714f578130d05be57d1f66270b306f37c7c
+ms.sourcegitcommit: c5ca71d6feb0f033b50ccd4de816fd59b0925007
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "38718939"
+ms.lasthandoff: 12/04/2019
+ms.locfileid: "39831383"
 ---
 # <a name="set-up-mobile-devices-for-microsoft-365-business-users"></a>Mobileszközök beállítása a Microsoft 365 Business felhasználóinak
 
 Az Office iPhone-ra vagy Android-telefonra való telepítéshez kövesse a lapokon szereplő utasításokat. A lépések elvégzése után az Office-appokban létrehozott munkahelyi fájlok védelmét a Microsoft 365 Business biztosítja.
 
-  
 A példa az Outlookra vonatkozik, de minden más, telepíteni kívánt Office-appra érvényes.
   
 ## <a name="set-up-mobile-devices"></a>Mobileszközök beállítása
 
 ## <a name="iphonetabiphone"></a>[Iphone](#tab/iPhone)
   
-Nézzen meg egy videót arról, hogyan állíthat be Office alkalmazásokat az iOS-eszközökön a Microsoft 365 Business rendszerben:
+Nézzen meg egy videót arról, hogyan állíthat be Office alkalmazásokat iOS-eszközökre a Microsoft 365 Business rendszerben.<br><br>
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/e0ee7052-e0f4-4c42-a4f1-5e91b9776ce9?autoplay=false] 
 
@@ -68,6 +69,12 @@ Keresse meg az Outlookot az iPhone-on, és indítsa újra. Amikor a rendszer ké
   
 ## <a name="androidtabandroid"></a>[Android](#tab/Android)
   
+Nézzen meg egy videót az Outlook és az Office Android-eszközökön való telepítéséről.<br><br>
+
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/ecc2e9c0-bc7e-4f26-8b14-91d84dbcfef0] 
+
+Ha Ön alapít ez video segíteni kész, kijelenti magát a [kiegészít képzés sor részére kicsi teendő és azok új-hoz mikroszkóp 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
+
 Megkezdéséhez Setup az Android telefon, menjen a Play Store.
   
 ![On the Android home screen, tap Play Store](media/93df88e7-c778-40e1-b35e-868ca6e97f6c.png)
@@ -91,7 +98,9 @@ A Play Store-ban telepítse az Intune Company Portal webhelyet.
 Nyissa meg ismét az Outlookot, és adja meg, majd erősítse meg a PIN-kódot. Az Outlook app mostantól készen áll a használatra.
   
 ![Set  PIN for Outlook app in Android](media/edb91afb-f1ed-451a-bc6b-8ccba664e055.png)
-  
+
+## <a name="see-also"></a>See also
+
+[Microsoft 365 üzleti képzési videók](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
+
 ---
-
-

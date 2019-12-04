@@ -16,16 +16,18 @@ ms.custom:
 - Core_O365Admin_Migration
 - MSB365
 - OKR_SMB_M365
+- TRN_M365B
+- OKR_SMB_Videos
 search.appverid:
 - BCS160
 - MET150
 description: Megtanulják, hogyan kell vásárolni és iratkozzon fel a Microsoft 365 Business.
-ms.openlocfilehash: 3470d07f98a1c5806a27d8f21f152a818e4a0371
-ms.sourcegitcommit: 8fda7852b2a5baa92b8a365865b014ea6d100bbc
+ms.openlocfilehash: d755931b6383a15376d3a875a9cf1ed93e9f4a63
+ms.sourcegitcommit: c5ca71d6feb0f033b50ccd4de816fd59b0925007
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "39812798"
+ms.lasthandoff: 12/04/2019
+ms.locfileid: "39831243"
 ---
 # <a name="sign-up-for-microsoft-365-business"></a>Iratkozzon fel a Microsoft 365 Business
 
@@ -44,7 +46,7 @@ Vannak három ways-hoz kap Mikroszkóp 365 teendő:
 
 ## <a name="sign-up-steps"></a>Feliratkozás lépései
 
-Tekintse meg ezt a videót a feliratkozó folyamat gyors áttekintéséhez.
+Tekintse meg ezt a videót a feliratkozó folyamat gyors áttekintéséhez.<br><br>
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE3znhX] 
 
