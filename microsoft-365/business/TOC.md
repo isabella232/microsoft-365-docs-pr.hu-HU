@@ -10,7 +10,7 @@
 ### [Feljavít-hoz Windows profi teremtők korszerűsíteni](upgrade-to-windows-pro-creators-update.md)
 ### [Felkészülés az Office ügyfélszámítógépekre történő telepítésre](prepare-for-office-client-deployment.md)
 ### [Súgófelhasználók telepítése Office](help-users-install-office.md)
-### [Intézményi erőforrások elérése]
+### Az intézményi erőforrások elérése
 #### [A tartományhoz csatlakoztatott Windows 10-eszközök kezelésének engedélyezése](manage-windows-devices.md)
 #### [Források elérése Azure Active Directory-eszközön keresztül](access-resources.md)
 ## Felhasználóeszköz beállítása
