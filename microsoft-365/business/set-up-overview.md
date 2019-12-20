@@ -23,12 +23,12 @@ search.appverid:
 - MET150
 ms.assetid: 6e7a2dfd-8ec4-4eb7-8390-3ee103e5fece
 description: A Microsoft 365 Business telepítési lépéseinek áttekintése.
-ms.openlocfilehash: 425c465262c266ca764ae8c7a52130903fa635a5
-ms.sourcegitcommit: 8fda7852b2a5baa92b8a365865b014ea6d100bbc
+ms.openlocfilehash: f531830bffbe1cb6ce4e39ee2ba12da5738a2684
+ms.sourcegitcommit: 8c244b38c43dd00c4ef0102f8bed02ab36639a6b
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "39812778"
+ms.lasthandoff: 12/10/2019
+ms.locfileid: "39967623"
 ---
 # <a name="overview-of-setup"></a>A beállítás áttekintése
 
@@ -50,14 +50,16 @@ A telepítési lépések többsége elvégezhető a telepítővarázslóban, de 
   
   A Beállításvarázsló biztonsági beállításai mellett a következő beállítások hozzáadásával növelheti biztonságát:
 
-      - **E-mail malware-védelem**
-      - **ATP anti-phishing**
-      - **Exchange Online Archiválás**
-      - **Azure információvédelem (Plan1**)
 
-          A kezdéshez tekintse [meg a speciális biztonsági házirendeket](set-up-advanced-security.md).
+- **E-mail malware-védelem**
+- **ATP anti-phishing**
+- **Exchange Online Archiválás**
+- **Azure információvédelem (Plan1**)
 
-        Lásd még a [10 legjobb módja a Microsoft 365 Business biztonságának](https://docs.microsoft.com/office365/admin/security-and-compliance/secure-your-business-data) a legjobb biztonsági gyakorlatok útitervében való biztonságossá tétele érdekében.
+
+A kezdéshez tekintse [meg a speciális biztonsági házirendeket](set-up-advanced-security.md).
+
+Lásd még a [10 legjobb módja a Microsoft 365 Business biztonságának](https://docs.microsoft.com/office365/admin/security-and-compliance/secure-your-business-data) a legjobb biztonsági gyakorlatok útitervében való biztonságossá tétele érdekében.
 
 ## <a name="step-3-set-up-and-manage-windows-10-devices"></a>3. lépés: a Windows 10-eszközök beállítása és kezelése
 

@@ -18,12 +18,12 @@ search.appverid:
 - MET150
 ms.assetid: b0f4d010-9fd1-44d0-9d20-fabad2cdbab5
 description: Tájékoztatás arról, hogyan lehet hozzáférni az intézményi erőforrásokhoz, például az üzleti alkalmazások, a fájlmegosztások és a nyomtatók eléréséhez egy Azure Active Directory-hoz csatlakozott a Windows 10 eszközhöz.
-ms.openlocfilehash: 4a2ff28107c6e2ec4473859c75bf720df7662747
-ms.sourcegitcommit: 58a7bd70a4bcf52530baf5f82507fd5dc4455fd9
+ms.openlocfilehash: 89ac38f3da9cbdd3ff1a5eb33dc129d2e83521c7
+ms.sourcegitcommit: 8c244b38c43dd00c4ef0102f8bed02ab36639a6b
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "39668788"
+ms.lasthandoff: 12/10/2019
+ms.locfileid: "39967163"
 ---
 # <a name="access-on-premises-resources-from-an-azure-ad-joined-device-in-microsoft-365-business"></a>Az intézményi erőforrásokhoz való hozzáférés egy Azure alapú AD-illesztett eszközről a Microsoft 365 Business
 
@@ -47,7 +47,7 @@ Hajtsa végre az alábbi lépéseket annak engedélyezéséhez, hogy a szervezet
     
 A Azure Active Directory-eszközök intézményi erőforrásainak eléréséhez nincs szükség további lépésekre. Ez a funkció a Windows 10-be van beépítve. 
 
-Ha önnek van tervek-hoz logika-hoz AADJ berendezés más mint jelszó módszer szeret kitűző/bio-metrikus keresztül WHFB megbízólevél logika aztán belépés-ra-előtétel anyagi javak (osztozik, nyomdászok.. stb.), kérjük, kövessehttps://docs.microsoft.com/en-us/windows/security/identity-protection/hello-for-business/hello-hybrid-aadj-sso-base
+Ha önnek van tervek-hoz logika-hoz AADJ berendezés más mint jelszó módszer szeret kitűző/bio-metrikus keresztül WHFB megbízólevél logika aztán belépés-ra-előtétel anyagi javak (osztozik, nyomdászok.. stb.), kérjük, kövessehttps://docs.microsoft.com/windows/security/identity-protection/hello-for-business/hello-hybrid-aadj-sso-base
   
 Ha a szervezet nem áll készen a fent leírt Azure Active Directory egyesített eszközkonfigurációban történő telepítésére, érdemes a [hibrid Azure ad egyesített eszközkonfigurációt](manage-windows-devices.md)beállítani.
   
