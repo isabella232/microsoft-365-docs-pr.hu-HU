@@ -16,21 +16,31 @@ ms.custom:
 - MiniMaven
 - MSB365
 - OKR_SMB_M365
+- TRN_M365B
+- OKR_SMB_Videos
 search.appverid:
 - BCS160
 - MET150
 ms.assetid: 96153102-1db1-4df8-bca5-38cea80b65ce
 description: Ismerje meg, hogyan adhat hozzá új felhasználókat, hogyan biztosítsa eszközeiket, és hogyan rendelhet szerepköröket a Microsoft 365 Business-ben.
-ms.openlocfilehash: 25f19873400dad1c57445a63dd354bbb5d1fce49
-ms.sourcegitcommit: 8193b7da5b1a415835d02ca96883c351df7326ed
+ms.openlocfilehash: f0498134d9f258f831cdbab10b7ee9c77b5d133d
+ms.sourcegitcommit: 178ecb21cacdeaf440f3df2fe6e539e9127fcf15
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 11/14/2019
-ms.locfileid: "38322535"
+ms.lasthandoff: 12/23/2019
+ms.locfileid: "40850924"
 ---
 # <a name="add-more-users-to-microsoft-365-business"></a>Összead több használók-hoz Mikroszkóp 365 teendő
 
 ## <a name="add-new-users"></a>Új felhasználók hozzáadása
+
+Nézzen meg egy rövid videót a felhasználó felvételéről. <br><br>
+
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE1FOfN] 
+
+Ha Ön alapít ez video segíteni kész, kijelenti magát a [kiegészít képzés sor részére kicsi teendő és azok új-hoz mikroszkóp 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
+
+Felhasználó hozzáadása:
 
 1. Menj az admin központba <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>. 
 2. A bal oldali navigációs ablaktáblán kattintson az **aktív felhasználók** **felhasználóira** \> .
