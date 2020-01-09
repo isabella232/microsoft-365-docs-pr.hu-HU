@@ -25,12 +25,12 @@ search.appverid:
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
 description: Tudjon meg többet a Microsoft 365 Business-ről.
-ms.openlocfilehash: 1d4eb62a31cc44ab8dc75964c038f0a3deef4005
-ms.sourcegitcommit: c5ca71d6feb0f033b50ccd4de816fd59b0925007
+ms.openlocfilehash: eafd03be90c128051c8c91bc339af69a0a613136
+ms.sourcegitcommit: d48b7852383262083a6a109530d84f0858cb3801
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/04/2019
-ms.locfileid: "39831433"
+ms.lasthandoff: 01/09/2020
+ms.locfileid: "40999554"
 ---
 # <a name="overview-of-microsoft-365-business"></a>Áttekintés-ból Mikroszkóp 365 teendő
 
@@ -42,7 +42,7 @@ Tekintse meg ezt a videót a Microsoft 365 Business gyors áttekintéséhez.<br>
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2mhaA] 
   
-Ha Ön alapít ez video segíteni kész, kijelenti magát a [kiegészít képzés sor részére kicsi teendő és azok új-hoz mikroszkóp 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816). 
+Ha hasznosnak találta ezt a videót, tekintse meg a [teljes tanfolyamok kisvállalatoknak és Microsoft 365-újoncoknak](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816) című témakört. 
 
 Mikroszkóp 365 teendő van tervezett részére valameddig 300 engedélyez. Ha további licencekre van szüksége, további információért olvassa el a [Microsoft 365 Enterprise](https://go.microsoft.com/fwlink/p/?linkid=860986) dokumentációjában található tudnivalókat.
 
@@ -99,7 +99,7 @@ Az **eszközöket a következők rögzítik** :
 
 - Az egyszerűsített vezérlők segítségével kezelheti a vállalatnál található összes Windows 10 számítógép házirendjeit, a BitLocker titkosítást és a fontos Windows-frissítések automatikus telepítését (a Windows frissítési házirendjeinek érvényesítése).
 
-A biztonsági szolgáltatások teljes listáját a [Microsoft 365 üzleti biztonsági szolgáltatások](security-features.md)című témakörben tekintheti meg. A [Microsoft 365 Business beállítása](set-up.md)után további tudnivalókat a [speciális biztonsági házirendek beállítása](set-up-advanced-security.md) az irányított telepítés részeként nem szereplő biztonsági szolgáltatások elinduláshoz című témakörben talál. Olvas is [tető 10 Ways-hoz biztosít hivatal 365 és mikroszkóp 365 teendő tervek](https://docs.microsoft.com/office365/admin/security-and-compliance/secure-your-business-data) részére egy jó áttekintés-ra hogyan viselkedni felállít védelem ellen Cyber bűnösök és bárdok.
+A biztonsági szolgáltatások teljes listáját a [Microsoft 365 üzleti biztonsági szolgáltatások](security-features.md)című témakörben tekintheti meg. A [Microsoft 365 Business beállítása](set-up.md)után további információ: a [fenyegetésvédelem növelése](increase-threat-protection.md) és a [megfelelőségi szolgáltatások beállítása](set-up-compliance.md) az irányított telepítés részeként nem szereplő biztonsági szolgáltatások elinduláshoz. Olvas is [tető 10 Ways-hoz biztosít hivatal 365 és mikroszkóp 365 teendő tervek](https://docs.microsoft.com/office365/admin/security-and-compliance/secure-your-business-data) részére egy jó áttekintés-ra hogyan viselkedni felállít védelem ellen Cyber bűnösök és bárdok.
 
 ## <a name="get-microsoft-365-business"></a>A Microsoft 365 Vállalati verzió beszerzése
 
@@ -112,6 +112,6 @@ A biztonsági szolgáltatások teljes listáját a [Microsoft 365 üzleti bizton
     > [!NOTE]
     > Ez a link az üzletek az Egyesült Államokban csak
 
-## <a name="see-also"></a>See also
+## <a name="see-also"></a>Lásd még
 
-[Microsoft 365 üzleti képzési videók](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
+[Microsoft 365 Vállalati verziós oktatóvideók](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
