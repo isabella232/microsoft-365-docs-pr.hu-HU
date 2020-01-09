@@ -23,12 +23,12 @@ search.appverid:
 - MET150
 ms.assetid: 6e7a2dfd-8ec4-4eb7-8390-3ee103e5fece
 description: A Microsoft 365 Business telepítési lépéseinek áttekintése.
-ms.openlocfilehash: 4aca617015cceb85ca35c8d8ada7b83d1416d959
-ms.sourcegitcommit: 178ecb21cacdeaf440f3df2fe6e539e9127fcf15
+ms.openlocfilehash: cab999493bf86ed0adf32521eaf6b3943f107f79
+ms.sourcegitcommit: cf7b0fd80ecfb7a216111a801269c5322794795e
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/23/2019
-ms.locfileid: "40850804"
+ms.lasthandoff: 01/09/2020
+ms.locfileid: "40995250"
 ---
 # <a name="overview-of-setup"></a>A beállítás áttekintése
 
@@ -36,7 +36,7 @@ Nézzen meg egy rövid videót a Microsoft 365 Business beállításról.<br><br
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE4jZwg] 
 
-Ha Ön alapít ez video segíteni kész, kijelenti magát a [kiegészít képzés sor részére kicsi teendő és azok új-hoz mikroszkóp 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
+Ha hasznosnak találta ezt a videót, tekintse meg a [teljes tanfolyamok kisvállalatoknak és Microsoft 365-újoncoknak](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816) című témakört.
 
 A telepítési lépések többsége elvégezhető a telepítővarázslóban, de a többi beállítás is listázható.
 
@@ -61,7 +61,7 @@ A telepítési lépések többsége elvégezhető a telepítővarázslóban, de 
 - **Exchange Online Archiválás**
 - **Azure információvédelem (Plan1**)
 
-A kezdéshez tekintse [meg a speciális biztonsági házirendek beállítása](set-up-advanced-security.md)című témakört.
+A kezdéshez tekintse meg a [veszélyvédelem növelése](increase-threat-protection.md) és a [megfelelőségi funkciók beállítása](set-up-compliance.md)című témakört.
 
 Lásd még a [10 legjobb módja a Microsoft 365 Business biztonságának](https://docs.microsoft.com/office365/admin/security-and-compliance/secure-your-business-data) a legjobb biztonsági gyakorlatok útitervében való biztonságossá tétele érdekében.
 
@@ -89,6 +89,6 @@ Amikor csatlakozunk egy Windows 10 készüléket Azure AD-hez, a Windows 10 szá
 
     - Ha vállalkozása olyan helyi Active Directoryval rendelkezik, amely intézményi erőforrásokat (például fájlmegosztásokat és nyomtatókat) is tartalmaz, akkor az Azure-alapú AD-összekapcsolt eszközök számára hozzáférést biztosít ezekhez az erőforrásokhoz az alábbi lépések végrehajtásával: [a Microsoft 365 Business egy Azure rendszerű ad-illesztett eszközből származó intézményi erőforrások elérése](access-resources.md).
 
-## <a name="see-also"></a>See also
+## <a name="see-also"></a>Lásd még
 
-[Microsoft 365 üzleti képzési videók](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
+[Microsoft 365 Vállalati verziós oktatóvideók](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
