@@ -20,12 +20,12 @@ search.appverid:
 - MET150
 ms.assetid: 5b4ba843-24b8-4526-8e1f-f9b9eab89d06
 description: Lép amit feljavít-a teendő-ból Hivatal 365 teendő prémium-hoz Mikroszkóp 365 teendő.
-ms.openlocfilehash: 95c4504d7e6e33bdededee0cfca7add0cb5f7204
-ms.sourcegitcommit: 2c2248b03f7753d64490f2f7e56ec644a235b65a
+ms.openlocfilehash: 61da9148ccb87654aa2391ff90c4f086a4cbbe24
+ms.sourcegitcommit: 3c296126ba69a32af07e339f2f1eacdd8e5b878e
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "38640561"
+ms.lasthandoff: 01/14/2020
+ms.locfileid: "41120141"
 ---
 # <a name="upgrade-to-microsoft-365-business-from-office-365-business-premium"></a>Feljavít-hoz Mikroszkóp 365 teendő-ból Hivatal 365 teendő prémium
 
@@ -68,7 +68,7 @@ A Microsoft néhány percbe telik, amikor új szervizterveket hoz létre. A foly
 1. Miután a terve elkészült, lehet, hogy ki kell töltenie néhány további beállítási lépést az admin centeren. A navigációs ablaktáblán válassza a **Kezdőlap** a további telepítési lépések befejezéséhez.
 
 > [!NOTE]
-> Az Ofifce 365 licencért egy, már nem szükséges licencet kap. Bankszámláját vagy hitelkártyáját a rendszer az új terv beállítása után körülbelül két nappal terheli.
+> Youll ' kap egy egyenletes visszatérítés részére a Hivatal 365 engedélyez amit Ön nem hosszabb szükség. Bankszámláját vagy hitelkártyáját a rendszer az új terv beállítása után körülbelül két nappal terheli.
   
 ## <a name="protect-user-devices-and-files"></a>A felhasználói eszközök és fájlok védelme
 
