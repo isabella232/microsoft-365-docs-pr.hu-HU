@@ -22,12 +22,12 @@ search.appverid:
 - MOE150
 ms.assetid: ffc4d886-9e1d-453d-a0d0-2f62f18635e2
 description: 'Útmutató a Windows-eszközök Windows 10 Pro rendszerre történő frissítéséhez '
-ms.openlocfilehash: acad4a393e0870299df768fd4c821d9c1e83ecac
-ms.sourcegitcommit: cf7b0fd80ecfb7a216111a801269c5322794795e
+ms.openlocfilehash: 3457b35c5f9e313e176664ca088e64ce5dd4f881
+ms.sourcegitcommit: 1db269c0349a252eaf3f315ee72ff679fff829f1
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 01/09/2020
-ms.locfileid: "40995270"
+ms.lasthandoff: 01/22/2020
+ms.locfileid: "41265858"
 ---
 # <a name="upgrade-windows-devices-to-windows-10-pro"></a>Windows-eszközök frissítése a Windows 10 Pro rendszerre
 
@@ -50,7 +50,7 @@ A Windows 10 Pro verzióra való frissítéshez több lehetőség közül válas
     - Olvassa el az eszköz használatáról szóló útmutatót, és hozza létre telepítési adathordozókat. 
 
 > [!NOTE]
-> Ha Windows 7 Pro, Windows 8 Pro vagy Windows 8,1 Pro rendszerű eszközöket futtat, a Microsoft 365 Business előfizetés feljogosítja Önt a Windows Pro 10 verzióra; Ön dont ' megkövetel egy termék kulcs.
+> Ha Windows 7 Pro, Windows 8 Pro vagy Windows 8,1 Pro operációs rendszert futtató eszközök vannak a számítógépen, a Microsoft 365 Business előfizetés feljogosítja Önt a Windows Pro 10 frissítésére.
     
 További információ: a [Windows-eszközök beállítása a Microsoft 365 üzleti felhasználók](set-up-windows-devices.md) számára a Windows 10-eszközök beállításának befejezéséhez. 
   
