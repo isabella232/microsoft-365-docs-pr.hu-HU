@@ -1,5 +1,7 @@
 ---
 title: AutoPilot-eszközök létrehozása és szerkesztése
+f1.keywords:
+- NOCSH
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
@@ -22,39 +24,39 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 0f7b1d7c-4086-4331-8534-45d7886f9f34
-description: Megtanulják, hogyan kell feltölteni eszközök segítségével AutoPilot a Microsoft 365 Business. Profilt hozzárendelhet egy eszközhöz vagy eszközcsoporthoz.
-ms.openlocfilehash: 1dd6b1a574166379e29465bf3699e47e3b155e0b
-ms.sourcegitcommit: 8193b7da5b1a415835d02ca96883c351df7326ed
+description: Megtudhatja, hogy miként tölthet fel eszközöket az AutoPilot használatával a Microsoft 365 Business programban. Profilt rendelhet egy eszközhöz vagy eszközcsoporthoz.
+ms.openlocfilehash: 5a99f691b0325f511f34e3a6c3a20f08ee8d909f
+ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 11/14/2019
-ms.locfileid: "38320258"
+ms.lasthandoff: 01/29/2020
+ms.locfileid: "41594011"
 ---
 # <a name="create-and-edit-autopilot-devices"></a>AutoPilot-eszközök létrehozása és szerkesztése
 
 ## <a name="upload-a-list-of-devices"></a>Eszközlista feltöltése
 
-Az eszközök feltöltéséhez használja a [részletes útmutatót](add-autopilot-devices-and-profile.md) , de az **Eszközök lapon is** tölthet fel eszközöket. 
+A részletes [útmutatósegítségével](add-autopilot-devices-and-profile.md) eszközöket tölthet fel, de az **Eszközök** lapon is feltöltheti az eszközöket. 
   
 Az eszközöknek meg kell felelniük ezeknek a követelményeknek:
   
-- Windows 10, 1703-es vagy újabb verzió
+- Windows 10, 1703-as vagy újabb verzió
     
-- Új berendezés amit kikötő ' átmenő Windows ki--ból-doboz tapasztalat
+- Új eszközök, amelyek nem voltak a Windows beépített élményén
 
-1. -Ban Mikroszkóp 365 teendő admin központ, választ **berendezés** \> **robotpilóta**.
+1. A Microsoft 365 Vállalati felügyeleti központban válassza az **Eszközök** \> **AutoPilot**lehetőséget.
   
-2. A **robotpilóta** oldalán válassza ki az eszközök **fület.** \> ****
+2. Az **AutoPilot** lapon válassza **** az \> Eszközök lapot **Eszközök hozzáadása**.
     
     ![In the Devices tab, choose Add devices.](media/6ba81e22-c873-40ad-8a72-ce64d15ea6ba.png)
   
-3. Az **eszközök hozzáadása** panelen tallózással keresse meg a **mentett** \> [eszközlistát tartalmazó CSV-fájlt](https://support.office.com/article/932e3676-2491-49f0-9177-d893d2f5276e) . **** \>
+3. Az **Eszközök hozzáadása** panelen keresse meg a **Bezárás** **mentése** \> című eszközlistát tartalmazó [CSV-fájlt.](https://support.office.com/article/932e3676-2491-49f0-9177-d893d2f5276e) \>
     
-    Ezt az információt a hardver forgalmazójától kaphatja meg, vagy a [Get-WindowsAutoPilotInfo PowerShell parancsfájl](https://www.powershellgallery.com/packages/Get-WindowsAutoPilotInfo) segítségével hozhat létre CSV-fájlt. 
+    Ezeket az információkat a hardver gyártójától szerezheti be, vagy a [Get-WindowsAutoPilotInfo PowerShell parancsfájl](https://www.powershellgallery.com/packages/Get-WindowsAutoPilotInfo) segítségével CSV-fájlt hozhat létre. 
     
 ## <a name="assign-a-profile-to-a-device-or-a-group-of-devices"></a>Profil társítása egy eszközhöz vagy az eszközök egy csoportjához
 
-1. A **Windows előkészítése** lapon válassza az **eszközök** fület, és jelölje be az eszközök melletti jelölőnégyzetet. 
+1. A **Windows előkészítése** lapon válassza az **Eszközök** lapot, és jelölje be az egy vagy több eszköz melletti jelölőnégyzetet. 
     
 2. Az **Eszköz** panelen válasszon egy profilt a **Hozzárendelt profil** legördülő listából. 
     

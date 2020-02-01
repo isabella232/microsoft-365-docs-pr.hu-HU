@@ -1,5 +1,7 @@
 ---
 title: Windows rendszerű eszközök beállítása a Microsoft 365 Business felhasználóinak
+f1.keywords:
+- CSH
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
@@ -21,13 +23,13 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: 2d7ff45e-0da0-4caa-89a9-48cabf41f193
-description: 'Útmutató a Windows 10 Pro és a Microsoft 365 üzleti felhasználók számára működő Windows-eszközök beállításához. '
-ms.openlocfilehash: 1e160d624ce5150a1fb74899949aca824589d908
-ms.sourcegitcommit: c5ca71d6feb0f033b50ccd4de816fd59b0925007
+description: 'Megtudhatja, hogy miként állíthatja be a Windows 10 Pro rendszert futtató Windows-eszközöket a Microsoft 365 Vállalati verzió felhasználói számára. '
+ms.openlocfilehash: a93a184d6209561712144c0947e62d450f850daf
+ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/04/2019
-ms.locfileid: "39831343"
+ms.lasthandoff: 01/29/2020
+ms.locfileid: "41594289"
 ---
 # <a name="set-up-windows-devices-for-microsoft-365-business-users"></a>Windows rendszerű eszközök beállítása a Microsoft 365 Business felhasználóinak
 
@@ -39,17 +41,17 @@ Ha Ön Windows 7 Pro, Windows 8 Pro vagy Windows 8.1 Pro rendszerű Windows-eszk
   
 Ha többet szeretne megtudni arról, hogy hogyan frissítheti Windows-eszközeit a Windows 10 Pro alkotói frissítésére, kövesse a következő témakörben szereplő lépéseket: [Windows-eszközök frissítése a Windows Pro alkotói frissítésére](upgrade-to-windows-pro-creators-update.md).
   
-Lásd: [az eszköz ellenőrzése csatlakoztatva van azúrkék HIRDETÉSRE](#verify-the-device-is-connected-to-azure-ad) , hogy ellenőrizze, rendelkezik-e a frissítéssel, vagy hogy működik-e a frissítés.
+[Lásd: Az eszköz csatlakoztatva van az Azure AD-hez,](#verify-the-device-is-connected-to-azure-ad) és ellenőrizze, hogy rendelkezik-e a frissítéssel, vagy győződjön meg arról, hogy a frissítés működött.
 
-Nézzen meg egy rövid videót a Windows és a Microsoft 365 csatlakozásával kapcsolatban.<br><br>
+Nézzen meg egy rövid videót a Windows Microsoft 365-höz való csatlakoztatásáról.<br><br>
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE3yXh3] 
 
-Ha Ön alapít ez video segíteni kész, kijelenti magát a [kiegészít képzés sor részére kicsi teendő és azok új-hoz mikroszkóp 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
+Ha hasznosnak találta ezt a videót, tekintse meg a [teljes tanfolyamok kisvállalatoknak és Microsoft 365-újoncoknak](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816) című témakört.
   
 ## <a name="join-windows-10-devices-to-your-organizations-azure-ad"></a>Windows 10-es eszközök csatlakoztatása a szervezet Azure AD szolgáltatásához
 
-Ha a szervezet összes Windows-eszközéhez vagy frissítette a Windows 10 Pro készítők frissítés vagy már fut a Windows 10 Pro készítők frissítés, akkor csatlakozhat ezekhez az eszközökhöz, hogy a szervezet Azure Active Directory. Miután az eszközök csatlakoztak, azok lesz automatikusan frissítve a Windows 10 Business, amely része a Microsoft 365 Business előfizetés.
+Ha a szervezet összes Windows-eszköze frissítve lett a Windows 10 Pro Creators update szolgáltatásra, vagy már windows 10 Pro Creators Update szolgáltatást futtat, csatlakoztathatja ezeket az eszközöket a szervezet Azure Active Directoryjához. Az eszközök csatlakoztatása után automatikusan frissítjük őket a Windows 10 Business rendszerre, amely a Microsoft 365 Vállalati verziós előfizetés része.
   
 ### <a name="for-a-brand-new-or-newly-upgraded-windows-10-pro-device"></a>Vadonatúj vagy újonnan frissített Windows 10 Pro-eszköz esetén
 
@@ -91,13 +93,13 @@ A Windows 10 Pro alkotói frissítését futtató vadonatúj eszköz, illetve eg
   
    ![Enter your work or school email on the Let's get you signed in page](media/f70eb148-b1d2-4ba3-be38-7317eaf0321a.png)
   
-6. A győződjön meg róla, hogy **Ez a szervezet** lapja, ellenőrizze, hogy az adatok helyesek-e, majd kattintson a **Csatlakozás**gombra.
+6. A **Ellenőrizze, hogy ez a szervezet lapja-e,** ellenőrizze, hogy az adatok helyesek-e, majd kattintson a **Csatlakozás**gombra.
   
    A **Minden készen áll** lapon kattintson a **Kész** elemre.
   
    ![On the Make sure this is your organization screen, click Join](media/c749c0a2-5191-4347-a451-c062682aa1fb.png)
   
-Szinkronizálja újból a OneDrive Vállalati verzióba esetleg feltöltött fájlokat. Ha harmadik féltől származó eszközt használt a profil-és fájláttelepítéshez, akkor is szinkronizálja azokat az új profillal.
+Szinkronizálja újból a OneDrive Vállalati verzióba esetleg feltöltött fájlokat. Ha harmadik féltől származó eszközt használt a profil és a fájlok áttelepítéséhez, szinkronizálja azokat az új profillal is.
   
 ## <a name="verify-the-device-is-connected-to-azure-ad"></a>Annak ellenőrzése, hogy az eszköz csatlakoztatva van-e az Azure AD szolgáltatáshoz
 
@@ -105,7 +107,7 @@ A szinkronizálási állapot ellenőrzéséhez a **Hozzáférés munkahelyi vagy
   
 A Szinkronizálás állapota lapon a Szinkronizálás elemre kattintva beszerezheti a legújabb mobileszköz-kezelési házirendeket a PC-re.
   
-A Microsoft 365 üzleti fiók használatának megkezdéséhez nyissa meg a Windows **Start** gombját, kattintson a jobb gombbal a jelenlegi fiókképre, majd **kapcsolja be a fiókot**. Jelentkezzen be a szervezeti e-mail-címével és jelszavával.
+A Microsoft 365 Vállalati verzió szoláris használatának megkezdéséhez nyissa meg a Windows **Start** gombot, kattintson a jobb gombbal az aktuális fiókképére, majd **váltson fiókközött.** Jelentkezzen be a szervezeti e-mail-címével és jelszavával.
   
 ![Click Info button to view synchronization status](media/818f7043-adbf-402a-844a-59d50034911d.png)
   
@@ -123,6 +125,6 @@ Ellenőrizheti, hogy megtörtént-e az Azure AD szolgáltatáshoz csatlakoztatot
 
 A mobileszközök beállításáról a [Mobileszközök beállítása a Microsoft 365 Business felhasználóinak](set-up-mobile-devices.md), az eszközvédelmi vagy appvédelmi beállítások megadásáról pedig [A Microsoft 365 Business kezelése](manage.md) című témakörben tájékozódhat.
   
-## <a name="see-also"></a>See also
+## <a name="see-also"></a>Lásd még
 
-[Microsoft 365 üzleti képzési videók](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
+[Microsoft 365 Vállalati verziós oktatóvideók](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)

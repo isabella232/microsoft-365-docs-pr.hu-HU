@@ -1,5 +1,7 @@
 ---
-title: Áttekintés-ból Mikroszkóp 365 teendő
+title: A Microsoft 365 Vállalati verzió áttekintése
+f1.keywords:
+- NOCSH
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
@@ -24,93 +26,93 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
-description: Tudjon meg többet a Microsoft 365 Business-ről.
-ms.openlocfilehash: eafd03be90c128051c8c91bc339af69a0a613136
-ms.sourcegitcommit: d48b7852383262083a6a109530d84f0858cb3801
+description: További információ a Microsoft 365 Vállalati verzióról.
+ms.openlocfilehash: 0a7aafdda384624767e06c0b39c5a58784ac0a0a
+ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 01/09/2020
-ms.locfileid: "40999554"
+ms.lasthandoff: 01/29/2020
+ms.locfileid: "41593741"
 ---
-# <a name="overview-of-microsoft-365-business"></a>Áttekintés-ból Mikroszkóp 365 teendő
+# <a name="overview-of-microsoft-365-business"></a>A Microsoft 365 Vállalati verzió áttekintése
 
 ## <a name="what-is-microsoft-365-business"></a>Mi a Microsoft 365 Vállalati verzió?
 
-Mikroszkóp 365 teendő van egy aláírás szolgáltatás amit beleértve Hivatal 365 termelékenység szerszámok plusz haladó képességek-hoz segít megvéd-a teendő ellen cyberfenyegetések, megvéd-a adat, és kezel berendezés.
+A Microsoft 365 Business egy előfizetéses szolgáltatás, amely az Office 365 hatékonyságnövelő eszközeit, valamint a kiberfenyegetésekkel szembeni védelmet, az adatok védelmét és az eszközök kezelését segítő fejlett funkciókat tartalmaz.
 
-Tekintse meg ezt a videót a Microsoft 365 Business gyors áttekintéséhez.<br><br>
+Ebből a videóból gyorsan áttekintheti a Microsoft 365 Vállalati verziót.<br><br>
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2mhaA] 
   
 Ha hasznosnak találta ezt a videót, tekintse meg a [teljes tanfolyamok kisvállalatoknak és Microsoft 365-újoncoknak](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816) című témakört. 
 
-Mikroszkóp 365 teendő van tervezett részére valameddig 300 engedélyez. Ha további licencekre van szüksége, további információért olvassa el a [Microsoft 365 Enterprise](https://go.microsoft.com/fwlink/p/?linkid=860986) dokumentációjában található tudnivalókat.
+A Microsoft 365 Business legfeljebb 300 licenchez szól. Ha további licencre van szüksége, további információt a [Microsoft 365 Enterprise](https://go.microsoft.com/fwlink/p/?linkid=860986) dokumentációjában talál.
 
-Lásd a [Microsoft 365 Business Service leírását](https://docs.microsoft.com/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-business-service-description) a teljes szolgáltatáslistához.
+A Teljes szolgáltatáslistát a [Microsoft 365 Vállalati verzió szolgáltatásleírásában](https://docs.microsoft.com/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-business-service-description) olvassa el.
   
 ## <a name="small-business-security-needs"></a>Kisvállalati biztonsági igények
 
-Az üzleti adatok sokféleképpen sérülhetnek. A felhasználó és a felhasználók veszélyeztethetik a szervezet biztonságát, amikor biztonsági jogosultságokkal rendelkező hitelesítő adatokkal jelentkezik be, illetve különböző eszközökre és alkalmazásokra vonatkozó szervezeti adatokat is megtekinthat. Konkrétabban, a szervezet veszélyben:
+Az üzleti adatok sokféleképpen sérülhetnek. Ön és a felhasználók veszélyeztethetik a szervezet biztonságát, ha sérült hitelesítő adatokkal jelentkezik be, vagy különböző eszközökön és alkalmazásokon tekinti meg a szervezeti adatokat. Pontosabban, a szervezet veszélyben van:
 
 - Sérült vagy gyenge bejelentkezési hitelesítő adatok.
-- Sérült eszköz gyenge PIN-kód, vagy a felhasználó tulajdonában lévő eszköz.
-- Használók ki tud másol/tészta/megment-a szervezetek ' adat-hoz személyes apps.
-- Azok a felhasználók, akik külső féltől származó alkalmazásokat telepítsenek és használnak, gyenge biztonsággal.
-- E-mail biztonsági rések, beleértve a kényes adatok megosztását, adathalász kísérletek, rosszindulatú programok, és így tovább.
-- Amikor az emberek, akik nem, férhetnek hozzá a dokumentumokhoz, érzékeny információkat.
+- Sérült eszköz gyenge tűvel vagy felhasználó tulajdonában lévő eszközzel.
+- Azok a felhasználók, akik személyes alkalmazásokba másolhatják/beilleszthetik/menthetik a szervezet adatait.
+- Azok a felhasználók, akik gyenge biztonságú, harmadik féltől származó alkalmazásokat telepítenek és használnak.
+- Az e-mailek biztonsági rései, beleértve a bizalmas adatok megosztását, az adathalász kísérleteket, a rosszindulatú programokat stb.
+- Amikor azok az emberek, akiknek nem kellene, hozzáférhetnek a bizalmas adatokat használó dokumentumokhoz.
 
-Mikroszkóp 365 teendő segít oltalmaz-a adat-ban mindegyik-ból ezek példák. Az üzleti adatokat védő biztonsági funkciókat az alábbi ábra részletezi.
+A Microsoft 365 Business minden ilyen esetben segít megvédeni az adatokat. Az üzleti adatokat védő biztonsági funkciókat az alábbi ábrán részletezheti.
 
-![Egy alak, amely megmutatja, hogyan védi a M365B a vállalkozás.](media/m365businessvalueadd.png)
+![Egy ábra, amely bemutatja, hogyan védi az M365B vállalkozását.](media/m365businessvalueadd.png)
 
-## <a name="how-your-data-and-devices-are-protected"></a>Hogyan védik az adatokat és az eszközöket?
+## <a name="how-your-data-and-devices-are-protected"></a>Az adatok és eszközök védelme
 
-A Microsoft 365 Business segít **megvédeni fenyegetések** :
+A Microsoft 365 Business **az:**
 
-- Az e-mailekben és dokumentumokban lévő hivatkozások valós időben történő beolvasása a nem biztonságos webhelyek blokkolására (ATP Safe Links).
+- Szkennelés linkek e-mailek és dokumentumok valós időben, hogy blokkolja a nem biztonságos weboldalak (ATP Safe Links).
 
-- Haladó analízis-ból elektronikus levél egybefűzés-ban egy homokszóró láda környezet-hoz kinyomoz újonnan fejlett malware (ATP biztos egybefűzés). 
+- Az e-mail mellékletek speciális elemzésének végrehajtása sandbox környezetben az újonnan kifejlesztett rosszindulatú programok (ATP-biztonságos mellékletek) észleléséhez. 
 
-- A fejlett támadások (ATP adathalászat elleni hírszerzés) elleni védelem érdekében lehetővé teszi az adathalászat elleni házirendek használatát, amelyek gépi tanulási modelleket és megszemélyesítési észlelést használnak. 
+- A gépi tanulási modelleket és a megszemélyesítés észlelését használó adathalászat elleni házirendek engedélyezése a speciális támadások (ATP-adathalászat elleni intelligencia) elleni védelem érdekében. 
 
-- Olyan speciális házirendek létrehozása, amelyek letiltsák a nem megbízható helyekről való hozzáférést, vagy kikerülik a több tényezővel rendelkező hitelesítést a megbízható helyekről, például az irodai hálózatról (Azure MFA, beleértve a megbízható IP-eket és a feltételes hozzáférést is). 
+- Speciális házirendek beállítása, amelyek letiltják a nem megbízható helyekről való hozzáférést, vagy megkerülik a többtényezős hitelesítést megbízható helyekről, például az irodai hálózatról (Azure MFA beleértve a megbízható IP-címeket és a feltételes hozzáférést). 
 
-- Végrehajtó malware védelem keresztül minden-a szervezetek ' Windows 10 berendezés és megvéd fájlokat-ban kulcs rendszer tartók-ból megváltozik készítette ransomware (Windows Védő)
+- A rosszindulatú programok elleni védelem érvényesítése a szervezet összes Windows 10-es eszközén, valamint a kulcsfontosságú rendszermappákban lévő fájlok védelme a zsarolóprogramok (Windows Defender) által végrehajtott módosításoktól
 
-Az Ön **üzleti adatait az alábbiak védik** :
+Az **üzleti adatokat a** következők védik:
 
-- Használ Önműködő nyomozás-hoz segít megakadályoz érzékeny információ mint társadalmi biztonság számok vagy hitel kartotékok-ból szivárog külső rész-a teendő (adat elvesztés megakadályozás). 
+- Az automatikus észlelés használata megakadályozza, hogy a bizalmas adatok, például a társadalombiztosítási számok vagy a hitelkártyák kiszivárogjanak a vállalkozáson kívülre (adatvesztés megelőzése). 
 
-- Érzékeny e-mailek titkosítása, így biztonságosan kommunikálhat az ügyfelekkel vagy a szervezeten kívüli más emberekkel. Ez biztosítja, hogy csak a címzett olvashatja el az üzenetet (az Office 365 üzenettitkosítás).
+- Bizalmas e-mailek titkosítása, hogy biztonságosan kommunikálhassaz ügyfelekkel vagy a szervezeten kívüli személyekkel. Ez biztosítja, hogy csak a címzett tudja olvasni az üzenetet (Office 365 Üzenettitkosítás).
 
-- Controlling, aki hozzáfér a vállalati információkhoz a korlátozások alkalmazásával, mint például a **ne másolással** , és ne **továbbítsa** az e-mailre és a dokumentumokra (Azure Information Protection, 1. terv).
+- Annak szabályozása, hogy ki férhet hozzá a vállalati adatokhoz olyan korlátozások alkalmazásával, mint például **a Ne másolja és** ne **továbbítsa az** e-maileket és dokumentumokat (Azure Information Protection, 1. terv).
 
-- A korlátlan felhőalapú archiválás engedélyezése, így megőrizheti az összes szervezet e-mail címét, beleértve a korábbi alkalmazottak postaládáit is (Exchange Online archiválás).
+- Korlátlan felhőarchiválás engedélyezése, így megtarthatja a szervezet összes e-mailjét, beleértve a korábbi alkalmazottak postaládáit is (Exchange Online Archiválás).
 
-Az **eszközöket a következők rögzítik** :
+Az eszközöket a következők **biztosítják:**
 
-- Annak szabályozása, hogy mely eszközök és felhasználók férhetnek hozzá az Office 365 adataihoz, és segítségével letilthat felhasználókat az otthoni számítógépek, a nem jóváhagyott alkalmazások vagy a munkaidőn kívüli (feltételes hozzáférés) bejelentkezésétől.
+- Annak szabályozása, hogy mely eszközök és felhasználók férhetnek hozzá az Office 365-adatokhoz, és letilthatja, hogy a felhasználók bejelentkezhessenek az otthoni számítógépekről, a jóvá nem hagyott alkalmazásokból vagy a munkaidőn kívül (feltételes hozzáférés).
 
-- Biztonsági házirendek alkalmazása az üzleti adatok védelmére iOS és Android rendszerű eszközökön. Megkövetelheti például, hogy a felhasználók PIN-kódot vagy ujjlenyomatot biztosítsanak az üzleti adatokhoz való hozzáféréshez, és titkosíthassák a mobileszközökön lévő adatokat (alkalmazásvédelem az Office Mobile alkalmazásai számára).
+- Biztonsági házirendek alkalmazása az üzleti adatok védelme érdekében iOS és Android eszközökön. Megkövetelheti például a felhasználóktól, hogy PIN-kódot vagy ujjlenyomatot adjanak az üzleti adatok eléréséhez, és titkosítsák az adatokat a mobileszközökön (Office-mobilappok alkalmazásvédelme).
 
-- Üzleti dokumentumok, e-mailek és egyéb adatok megőrzése az Office-alkalmazások jóváhagyott alkalmazásai között, valamint az alkalmazottak megakadályozása a jogosulatlan alkalmazások és helyek mentésével kapcsolatban (App Protection for Office mobil alkalmazások).
+- Üzleti dokumentumok, e-mailek és egyéb adatok vezetése jóváhagyott Office-mobilalkalmazásokban, és megakadályozhatja, hogy az alkalmazottak jogosulatlan alkalmazásokba és helyekre mentsék ezeket (Office-mobilappok alkalmazásvédelme).
 
-- A személyes adatok módosítása nélkül az elveszett vagy ellopott eszközök üzleti adatainak távoli törlése (szelektív törlés).
+- Az üzleti adatok távoli törlése elveszett vagy ellopott eszközökről a személyes adatok befolyásolása nélkül (Intune szelektív törlés).
 
-- Az egyszerűsített vezérlők segítségével kezelheti a vállalatnál található összes Windows 10 számítógép házirendjeit, a BitLocker titkosítást és a fontos Windows-frissítések automatikus telepítését (a Windows frissítési házirendjeinek érvényesítése).
+- Egyszerűsített vezérlők használatával kezelheti a vállalat összes Windows 10-es számítógépére vonatkozó házirendeket, kényszeríti a BitLocker titkosítást, és automatikusan telepíti a kritikus Windows-frissítéseket (Windows frissítési házirendek kényszerítése).
 
-A biztonsági szolgáltatások teljes listáját a [Microsoft 365 üzleti biztonsági szolgáltatások](security-features.md)című témakörben tekintheti meg. A [Microsoft 365 Business beállítása](set-up.md)után további információ: a [fenyegetésvédelem növelése](increase-threat-protection.md) és a [megfelelőségi szolgáltatások beállítása](set-up-compliance.md) az irányított telepítés részeként nem szereplő biztonsági szolgáltatások elinduláshoz. Olvas is [tető 10 Ways-hoz biztosít hivatal 365 és mikroszkóp 365 teendő tervek](https://docs.microsoft.com/office365/admin/security-and-compliance/secure-your-business-data) részére egy jó áttekintés-ra hogyan viselkedni felállít védelem ellen Cyber bűnösök és bárdok.
+A biztonsági szolgáltatások teljes listáját a [Microsoft 365 Vállalati verzió biztonsági szolgáltatásai](security-features.md)című témakörben található. A [Microsoft 365 Vállalati](set-up.md)verzió beállítása után olvassa el a [fenyegetésvédelem növelése](increase-threat-protection.md) és a [megfelelőségi funkciók beállítása](set-up-compliance.md) az irányított beállítás részét nem képező biztonsági szolgáltatások megkezdéséhez. Olvassa el az [Office 365 és a Microsoft 365 Vállalati csomagok védelmének 10 legfontosabb módját](https://docs.microsoft.com/office365/admin/security-and-compliance/secure-your-business-data) is, és jó áttekintést kaphat arról, hogyan állíthatja be a kiberbűnözők és a hackerek elleni védelmet.
 
 ## <a name="get-microsoft-365-business"></a>A Microsoft 365 Vállalati verzió beszerzése
 
-- Ha önnek van egy társ, ők ' kap Mikroszkóp 365 teendő: [kap mikroszkóp 365 teendő-bólMikroszkóp társ központ](get-microsoft-365-business.md#get-microsoft-365-business-from-microsoft-partner-center).
+- Ha van partnere, a Microsoft 365 Vállalati verzió: [A Microsoft 365 Vállalati verzió beszerezheti a Microsoft Partner Center programból.](get-microsoft-365-business.md#get-microsoft-365-business-from-microsoft-partner-center)
 
-- Ha Ön dont ' volna egy társ és akar-hoz kap Mikroszkóp 365 teendő, tudod [vesz ez itt](https://www.microsoft.com/microsoft-365/business) és követ a [jel megjelöl](sign-up.md) oktatás.
+- Ha nincs partnere, és szeretné megszerezni a Microsoft 365 Business-t, [itt megvásárolhatja,](https://www.microsoft.com/microsoft-365/business) és kövesse a [regisztrációs](sign-up.md) utasításokat.
 
-- Tudod is fej őfelemikroszkóp [készlet](https://www.microsoft.com/en-us/store/locations/find-a-store?icid=gm_fy18_hol_bopis_feature3&CustomerIntent=Consumer) -hoz mindkettő vesz Mikroszkóp 365 teendő és kap készlet-megjelöl segít.
+- A [Microsoft Store-ba](https://www.microsoft.com/en-us/store/locations/find-a-store?icid=gm_fy18_hol_bopis_feature3&CustomerIntent=Consumer) is eljuthat, hogy megvásárolja a Microsoft 365 Business t, és további segítségre van szüksége.
 
     > [!NOTE]
-    > Ez a link az üzletek az Egyesült Államokban csak
+    > Ez a link csak az Egyesült Államokban található üzletekre szolgál.
 
 ## <a name="see-also"></a>Lásd még
 

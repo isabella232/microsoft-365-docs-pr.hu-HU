@@ -1,5 +1,7 @@
 ---
 title: Office-dokumentumok felhasználói mobileszközökön történő elérésének felügyelete
+f1.keywords:
+- NOCSH
 ms.author: sirkkuw
 author: sirkkuw
 manager: scotv
@@ -22,17 +24,17 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: aa31319c-9196-48c9-a90b-4057e0494c7a
-description: Ismerje meg a védelmi házirendeket, amelyek segítik az Office alkalmazások mobileszközökről való biztonságos elérését.
-ms.openlocfilehash: c24dae7e0eea777e728ebead9a2abcc3785763dd
-ms.sourcegitcommit: 9a057e70637dcfe06d4f729a96c02be989cf9e25
+description: Ismerje meg a védelmi szabályzatokat, amelyek segítségével biztonságos hozzáférést biztosíthat nak az Office-alkalmazásokhoz mobileszközökről.
+ms.openlocfilehash: 39d28a3a78fb06d0020c484b1782b544f6a8c656
+ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 11/14/2019
-ms.locfileid: "38633349"
+ms.lasthandoff: 01/29/2020
+ms.locfileid: "41593821"
 ---
 # <a name="manage-how-users-access-office-documents-on-mobile-devices"></a>Office-dokumentumok felhasználói mobileszközökön történő elérésének felügyelete
 
- Az Office-dokumentumok felhasználói mobileszközökön történő elérésének felügyeletét végző házirendek alapértelmezés szerint **Ki** értékre van állítva. Javasoljuk, hogy a telepítés során fogadja el az alapértelmezett értékeket, hogy az összes felhasználóra érvényes Android, iOS és Windows 10 alkalmazások házirendjeit hozza létre. A telepítés után további házirendeket is létrehozhat majd. 
+ Az Office-dokumentumok felhasználói mobileszközökön történő elérésének felügyeletét végző házirendek alapértelmezés szerint **Ki** értékre van állítva. Azt javasoljuk, hogy a telepítés során fogadja el az alapértelmezett értékeket az Android, az iOS és a Windows 10 alkalmazásházirendjeinek létrehozásához, amelyek minden felhasználóra vonatkoznak. A telepítés után további házirendeket is létrehozhat majd. 
   
 ## <a name="settings-that-control-how-users-access-office-files-on-mobile-devices"></a>Az Office-fájlok mobileszközökön történő elérésének felügyeletét meghatározó beállítások
 
@@ -41,10 +43,10 @@ Az alábbi beállítások használhatók a munkahelyi Office-fájlok elérésén
 |||
 |:-----|:-----|
 |Beállítás  <br/> |Leírás  <br/> |
-|PIN-kód vagy ujjlenyomat megkövetelése az Office-appok eléréséhez  <br/> |Ha ez a beállítás **be van kapcsolva**, akkor a felhasználóknak a felhasználónevükön és a jelszavuk mellett egy másik hitelesítési formát kell biztosítaniuk, mielőtt az Office alkalmazásokat mobileszközükön használhatják.  <br/> |
+|PIN-kód vagy ujjlenyomat megkövetelése az Office-appok eléréséhez  <br/> |Ha ez a beállítás Be van **kapcsolva,** a felhasználóknak a felhasználónevükön és jelszavukon kívül más hitelesítési formát is meg kell adniuk ahhoz, hogy mobileszközükön használhassák az Office-alkalmazásokat.  <br/> |
 |PIN-kód visszaállítása ennyi sikertelen bejelentkezési kísérlet után  <br/> |Annak érdekében, hogy ne lehessen a PIN-kódot véletlenszerű próbálkozásokkal megfejteni, az Ön által megadott számú téves próbálkozás után a PIN-kód alaphelyzetbe áll.  <br/> |
-|A felhasználónak ismét be kell jelentkeznie az Office-appok ennyi ideig tartó üresjárata után  <br/> |Ez a beállítás határozza meg, hogy a felhasználók mennyi ideig lehetnek üresjáratban, mielőtt a rendszer újra bejelentkezne.  <br/> |
-|Hozzáférés letiltása a munkahelyi fájlokhoz a feltört vagy rootolással feltört eszközökön  <br/> |A hozzáértő felhasználók esetleg feltört vagy rootolással feltört eszközzel is rendelkezhetnek. Ez azt jelenti, hogy a felhasználó módosíthatja az operációs rendszer, amely lehet, hogy az eszköz hajlamosabbak a malware. Ha ez a beállítás **Be** állapotban van, az ilyen eszközök le lesznek tiltva.  <br/> |
-|A felhasználók nem másolnak tartalmat az Office alkalmazásokból a személyes alkalmazásba  <br/> |Ha a beállítás **be van kapcsolva**, a felhasználó nem másolhatja az adatokat egy munkahelyi fájlba egy személyes fájlba. Ha a beállítás **ki van kapcsolva**, a felhasználó átmásolhatja az adatokat egy munkahelyi fájlból egy személyes alkalmazásba vagy személyes fiókba.  <br/> |
+|A felhasználónak ismét be kell jelentkeznie az Office-appok ennyi ideig tartó üresjárata után  <br/> |Ez a beállítás határozza meg, hogy a felhasználó mennyi ideig lehet tétlen, mielőtt a rendszer ismételten bejelentkezne.  <br/> |
+|Hozzáférés letiltása a munkahelyi fájlokhoz a feltört vagy rootolással feltört eszközökön  <br/> |A hozzáértő felhasználók esetleg feltört vagy rootolással feltört eszközzel is rendelkezhetnek. Ez azt jelenti, hogy a felhasználó módosíthatja az operációs rendszert, ami az eszközt fogékonyabbá teheti a rosszindulatú programokra. Ha ez a beállítás **Be** állapotban van, az ilyen eszközök le lesznek tiltva.  <br/> |
+|Nem engedélyezze a felhasználóknak, hogy tartalmakat másoljanak az Office-alkalmazásokból személyes alkalmazásokba  <br/> |Ha a beállítás Be van **kapcsolva,** a felhasználó nem másolhat át adatokat egy munkahelyi fájlban egy személyes fájlba. Ha a beállítás Ki van **kapcsolva,** a felhasználó átmásolhatja az adatokat egy munkahelyi fájlból egy személyes alkalmazásba vagy személyes fiókba.  <br/> |
    
 

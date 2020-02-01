@@ -1,5 +1,7 @@
 ---
-title: Melyik előfizetés a megfelelő az Ön vállalkozása számára?
+title: Milyen előfizetés megfelelő a vállalkozásszámára?
+f1.keywords:
+- NOCSH
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
@@ -15,14 +17,14 @@ ms.custom:
 search.appverid:
 - BCS160
 - MET150
-description: Állapítsa meg, hogy az Office 365 E3, Office 365 Business Premium vagy Microsoft 365 Business megfelelő-e az Ön vállalkozása számára.
-ms.openlocfilehash: f3adf67cf164b14596bc0cedf1cacd7dec41955e
-ms.sourcegitcommit: b535fe233234fd25146cfe15478e20d954f71e03
+description: Határozza meg, hogy az Office 365 E3, az Office 365 Vállalati prémium verzió vagy a Microsoft 365 Vállalati verzió megfelelő-e a vállalkozásszámára.
+ms.openlocfilehash: 44d8b6c64882b0357674793e8430423802b0fc1a
+ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "38748321"
+ms.lasthandoff: 01/29/2020
+ms.locfileid: "41594935"
 ---
-# <a name="what-subscription-is-right-for-your-small-business"></a>Mi előfizetés igaza van a kisvállalkozás?
+# <a name="what-subscription-is-right-for-your-small-business"></a>Milyen előfizetés megfelelő a kisvállalkozásszámára?
 
-A Microsoft több tervet is kínál kisvállalkozások számára. A ajánlott előfizetések van egyik hivatal 365 teendő prémium vagy Mikroszkóp 365 teendő-val valameddig 300 használók. Mikroszkóp 365 teendő felajánl több biztonság jellegét meghatározza mint hivatal 365 teendő prémium részére egy hozzáadott ár.
+A Microsoft számos tervet kínál kisvállalkozások számára. Az ajánlott előfizetések az Office 365 Vállalati Prémium verzió vagy a Legfeljebb 300 felhasználóval rendelkező Microsoft 365 Vállalati verzió. A Microsoft 365 Vállalati verzió több biztonsági szolgáltatást kínál, mint az Office 365 Vállalati prémium verzió, és további költségekkel rendelkezik.

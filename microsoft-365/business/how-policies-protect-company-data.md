@@ -1,5 +1,7 @@
 ---
 title: Hogyan védik a házirendek a céges adatokat a Microsoft 365 Businessben
+f1.keywords:
+- NOCSH
 ms.author: sirkkuw
 author: sirkkuw
 manager: scotv
@@ -23,19 +25,19 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 665485be-2389-4f1d-9ef8-dbef19c6acdf
-description: A vállalati adatoknak a felhasználók személyi eszközén való védelméhez olyan házirendeket használjon, amelyek meghatározott eszközöket és biztonsági csoportokat céloznak meg.
-ms.openlocfilehash: 225dbadf599d5287a706ce50ec2b3cc9dd27c996
-ms.sourcegitcommit: 8193b7da5b1a415835d02ca96883c351df7326ed
+description: A felhasználók személyes eszközeire vonatkozó vállalati adatok védelme érdekében használjon olyan házirendeket, amelyek meghatározott eszközöket és biztonsági csoportokat céloznak meg.
+ms.openlocfilehash: c33d228fef5e138f94810faf1174ea3243277f4d
+ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 11/14/2019
-ms.locfileid: "38320128"
+ms.lasthandoff: 01/29/2020
+ms.locfileid: "41593901"
 ---
 # <a name="how-policies-in-microsoft-365-business-protect-company-data"></a>Hogyan védik a házirendek a céges adatokat a Microsoft 365 Businessben
 
 Házirendek meghatározott eszköztípusokhoz hozhatók létre, és meghatározott felhasználói csoportokra alkalmazhatók. Azaz létrehozhat például olyan házirendeket, amelyek csak a vezetőkre vonatkoznak, és olyanokat is, amelyek mindenki másra érvényesek.
   
-Android- és iOS-eszközök esetén hozzáadhat és szerkeszthet olyan alkalmazásházirendeket, amelyek az Office-appokat és az általuk használt munkafájlokat védik. Mi vagyunk képesek a Windows 10 eszközöket egy kicsit, így a alkalmazás-házirendek tartalmazhatnak több beállítást, mint például a titkosítás és védelem a hálózati és felhő helyeken. Windows 10-es eszközöknél olyan házirendeket is létrehozhat, amelyek vírusvédelmi, automatikus frissítési vagy másféle beállításokat tesznek kötelezővé. Javasoljuk, hogy ragaszkodjon a telepítés során létrehozott házirendekkel, de ha szeretné a házirendek finomhangolását vagy további további hozzáadását, tekintse meg a következő cikkeket:
+Android- és iOS-eszközök esetén hozzáadhat és szerkeszthet olyan alkalmazásházirendeket, amelyek az Office-appokat és az általuk használt munkafájlokat védik. A Windows 10-es eszközöket egy kicsit jobban tudjuk vezérzni, így az alkalmazásszabályzatok további beállításokat is tartalmazhatnak, például titkosítást és védelmet a hálózati és felhőbeli helyekszámára. Windows 10-es eszközöknél olyan házirendeket is létrehozhat, amelyek vírusvédelmi, automatikus frissítési vagy másféle beállításokat tesznek kötelezővé. Javasoljuk, hogy tartsa magát a telepítés során létrehozott házirendekhez, de ha finomítani szeretné a házirendeket, vagy további beállításokat szeretne hozzáadni, olvassa el az alábbi cikkeket:
   
 [Appkonfigurációk megadása Android- vagy iOS-eszközökön](app-protection-settings-for-android-and-ios.md)
   

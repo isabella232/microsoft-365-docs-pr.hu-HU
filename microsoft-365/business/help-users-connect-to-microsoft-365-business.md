@@ -1,5 +1,7 @@
 ---
 title: A felhasználók könnyebben kapcsolódhatnak a Microsoft 365 Businesshez
+f1.keywords:
+- NOCSH
 ms.author: sirkkuw
 author: sirkkuw
 manager: scotv
@@ -23,17 +25,17 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: f338e660-6483-4eef-acb9-53dee5bd4408
-description: Ismerje meg, mire számíthat a Business Cloud Suite telepítése után.
-ms.openlocfilehash: d19438d6e085ba27ec3fb0308005a9bf473383e1
-ms.sourcegitcommit: 8193b7da5b1a415835d02ca96883c351df7326ed
+description: Olvassa el, mire számíthat a Business Cloud Suite beállítása után.
+ms.openlocfilehash: 41055b02f0ca62aad27c2fd1838abac5f58832f4
+ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 11/14/2019
-ms.locfileid: "38320188"
+ms.lasthandoff: 01/29/2020
+ms.locfileid: "41593931"
 ---
 # <a name="help-users-connect-to-microsoft-365-business"></a>A felhasználók könnyebben kapcsolódhatnak a Microsoft 365 Businesshez
 
-A telepítés befejezése után az alapértelmezett eszközházirendek vannak érvényben, és készen állnak az alkalmazására. A mobileszközökön a felhasználók Office-alkalmazásokat töltnek le. Ezeket a házirendeket akkor alkalmazzák, amikor a felhasználó a munkájával vagy az iskolai fiókkal bejelentkezik. Windowsos PC-k esetében még néhány további lépés, például egy helyi frissítés is elvégzendő, mielőtt a házirendek alkalmazhatók lennének. Tekintse meg és ossza meg az alábbi témaköröket, hogy segítse a felhasználókat a beállítás és a csatlakozás során:
+A telepítés befejezése után az alapértelmezett eszközházirendek érvényben vannak, és készen állnak az alkalmazásra. Mobileszközökön a felhasználók letöltik az Office-alkalmazásokat. A rendszer ezután alkalmazza a házirendeket, amikor a felhasználó bejelentkezik a munkahelyi vagy iskolai fiókjával. Windowsos PC-k esetében még néhány további lépés, például egy helyi frissítés is elvégzendő, mielőtt a házirendek alkalmazhatók lennének. Tekintse meg és ossza meg az alábbi témaköröket, amelyek segítenek a felhasználóknak a beállításhoz és a csatlakozáshoz:
   
 [Windows rendszerű eszközök beállítása a Microsoft 365 Vállalati verzió felhasználóinak](set-up-windows-devices.md)
   

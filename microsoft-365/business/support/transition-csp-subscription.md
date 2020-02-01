@@ -1,104 +1,106 @@
 ---
-title: Microsoft 365 Business CSP-előfizetés át, 
-description: Megtudhatja, hogyan lehet a Microsoft 365 Business CSP előfizetését GA-ra átmenni. 
+title: Microsoft 365 Vállalati csp-előfizetés váltása 
+description: Ismerje meg, hogyan válthat át a Microsoft 365 Vállalati alapú csp-előfizetést előzetes verzióról GA-ra. 
 author: jasongroce
+f1.keywords:
+- NOCSH
 ms.author: jasgro
 ms.topic: article 
 ms.prod: microsoft-365-business
 localization_priority: Normal
 audience: microsoft-business 
-keywords: Microsoft 365 Business, Microsoft 365, SMB, átmeneti CSP-előfizetés
+keywords: Microsoft 365 Vállalati verzió, Microsoft 365, SMB, átmeneti CSP-előfizetés
 ms.date: 11/01/2017
-ms.openlocfilehash: 72e620df69a425ca7e5c41c5a6651bc0f7f533de
-ms.sourcegitcommit: b535fe233234fd25146cfe15478e20d954f71e03
+ms.openlocfilehash: 4aadfa24bec8728c7e011ac6da48a8e30516e145
+ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "38748341"
+ms.lasthandoff: 01/29/2020
+ms.locfileid: "41595045"
 ---
-# <a name="transition-a-microsoft-365-business-csp-subscription"></a>Microsoft 365 Business CSP-előfizetés át,
+# <a name="transition-a-microsoft-365-business-csp-subscription"></a>Microsoft 365 Vállalati csp-előfizetés váltása
 
-Ha rendelkezik Microsoft 365 Business Preview CSP előfizetéssel, akkor kövesse az alábbi útmutatót, hogy megtudja, hogyan lehet áttérni a meglévő előnézet-előfizetést a Microsoft 365 Business GA szoftverbe (általános elérhetőség).
+Ha Microsoft 365 Vállalati előzetes verziós kripta-előfizetéssel rendelkezik, az alábbi útmutatóból megtudhatja, hogyan válthat át meglévő előzetes előfizetését a Microsoft 365 Vállalati vállalati verzióra (általános elérhetőség).
 
-**Hogyan átmenet egy előnézet előfizetés GA**
+**Az előzetes verziójú előfizetés ga-ra váltása**
 
 1. Jelentkezzen be a <a href="https://partnercenter.microsoft.com" target="_blank">Partnerközpontba</a>.
-2. Az irányítópulton válassza a **vevők**, majd keresse meg és jelölje ki a vállalatnevet.
+2. Az irányítópulton válassza az **Ügyfelek**lehetőséget, majd keresse meg és válassza ki a vállalat nevét.
 
-    Megjelennek a vállalat előfizetései.
+    A vállalat előfizetései fel lesznek sorolva.
 
-    ![Ügyfél-előfizetések a Partnerközpontban](images/pc_customer_subscriptions_1.png)
+    ![Az ügyfél előfizetései a Partnerközpontban](images/pc_customer_subscriptions_1.png)
     
-3. A vállalat **előfizetések** lapján jelölje be az **előfizetés hozzáadása**választógombot.
-4. Az **új előfizetés** lapon válassza ki a **Small Business** és válassza a **Microsoft 365 Business** listaoldalt.
-5. Adja meg a licencek számát, majd kattintson a **Tovább: Review (ellenőrzés** ) lehetőségre az előfizetés áttekintéséhez, majd válassza a **Küldés**-t.
+3. A vállalat **Előfizetések** lapján válassza az **Előfizetés hozzáadása**lehetőséget.
+4. Az **Új előfizetés** lapon válassza a **Kisvállalkozás** lehetőséget, majd a Listából válassza a **Microsoft 365 Business** lehetőséget.
+5. Adja meg a licencek számát, majd válassza a **Tovább: Véleményezés lehetőséget** az előfizetés áttekintéséhez, majd válassza a **Küldés**lehetőséget.
 
-    ![Tekintse át a Microsoft 365 Business új előfizetését.](images/pc_customer_reviewnewsubscription.png)
+    ![Tekintse át a Microsoft 365 Business új előfizetését](images/pc_customer_reviewnewsubscription.png)
 
-    A **engedély-kiindulópontul szolgáló előfizetések** akarat mutat **Mikroszkóp 365 teendő sajtóbemutató** és **Mikroszkóp 365 teendő**. Ezután felfüggeszti az előfizetés előnézetét.
+    A **licencalapú előfizetések** a **Microsoft 365 Business Preview** és a Microsoft **365 Business**előzetes verziót jelenítik meg. Ezután felfüggeszti az előzetes verziós előfizetést.
 
-6. Válassza a **Microsoft 365 Business Preview**-t.
-7. -On **mikroszkóp 365 teendő sajtóbemutató** oldal, kiválaszt **felfüggesztett** -hoz felfüggeszt a sajtóbemutató aláírás.
+6. Válassza a **Microsoft 365 Üzleti előzetes verzió**lehetőséget.
+7. A **Microsoft 365 Üzleti előzetes verzió** lapján válassza a **Felfüggesztett** lehetőséget az előzetes verziós előfizetés felfüggesztéséhez.
 
-    ![A Microsoft 365 Business Preview előfizetésének felfüggesztése](images/pc_customer_m365bpreview_suspend.png)
+    ![A Microsoft 365 Business Preview előfizetés felfüggesztése](images/pc_customer_m365bpreview_suspend.png)
 
-8. Jóváhagyásához válassza a **Küldés** -t.
+8. Válassza a **Megerősítés beküldése** lehetőséget.
 
-    -On **előfizetések** oldal, igazol amit a **Mikroszkóp 365 teendő sajtóbemutató** helyzet mutat **felfüggesztett**.
+    Az **Előfizetések** lapon ellenőrizze, hogy a **Microsoft 365 Vállalati előzetes verzió** állapota **felfüggesztés.**
 
-    ![Nyugtázza az előfizetés-előnézetet állapot felfüggesztése](images/pc_customer_m365bpreview_suspend_confirm.png)
+    ![Az előzetes verzióelőfizetés állapotának felfüggesztése](images/pc_customer_m365bpreview_suspend_confirm.png)
 
-9. Szükség esetén a licencszerződést is érvényesítheti. Ehhez kövesse az alábbi lépéseket:
-    1. Válassza ki a **felhasználókat és licenceket** a vállalat **előfizetések** oldalán.
-    2. A **felhasználók és licencek** lapon jelöljön ki egy felhasználót.
-    3. -On használók ' oldal, ellenőriz a **átruház engedélyez** rész és igazol amit ez mutat **Mikroszkóp 365 teendő**.
+9. Szükség esetén érvényesítheti a licencszerződést is. Ehhez kövesse az alábbi lépéseket:
+    1. Válassza a **Felhasználók és licencek** lehetőséget a vállalat **Előfizetések** lapján.
+    2. A **Felhasználók és licencek** lapon jelöljön ki egy felhasználót.
+    3. A felhasználó oldalán ellenőrizze a **Licencek hozzárendelése** szakaszt, és ellenőrizze, hogy a **Microsoft 365 Vállalati verzió látható-e.**
 
-        ![Erősítse meg a Microsoft 365 üzleti licenc hozzárendelését a felhasználóhoz](images/pc_customer_userslicenses_m365b_validate.png)
+        ![Annak ellenőrzése, hogy a Microsoft 365 Vállalati verzió licenc hozzá van rendelve a felhasználóhoz](images/pc_customer_userslicenses_m365b_validate.png)
 
-## <a name="impact-to-customers-and-users-during-and-after-transition"></a>Az ügyfeleknek és a felhasználóknak átmenet közben és után gyakorolt hatása
+## <a name="impact-to-customers-and-users-during-and-after-transition"></a>Az ügyfelekre és a felhasználókra gyakorolt hatás az átmenet alatt és után
 
-Nincs hatása az ügyfelek és a felhasználók az átmenet során, és utáni átmenet.
+Az átállás és a felhasználók nincshatással az ügyfelekre és a felhasználókra az átállás és a bejegyzés során.
 
-## <a name="impact-to-customers-who-dont-transition"></a>Hatással vannak az olyan vásárlvevőknek, akik nem átmennek
+## <a name="impact-to-customers-who-dont-transition"></a>Hatással van az ügyfelekre, akik nem váltanak át
 
-Az alábbi táblázat összefoglalja azokat a vevőket, akik nem a Microsoft 365 Business Preview előfizetését Microsoft 365 Business előfizetésre átírták.
+Az alábbi táblázat azokat az ügyfeleket foglalja össze, akik nem váltanak át Microsoft 365 Business Preview-előfizetésről Microsoft 365 Vállalati verziós előfizetésre.
 
-|       | T-0-T + 30     | T + 30-T + 60 | T + 60-T + 120 | Beyond T + 120  |
+|       | T-0-tól T+30-ig     | T+30 és T+60 között | T+60 és T+120 között | T+120-on túl  |
 |-------|-----------------|--------------|---------------|---------------|
-| **Állami** | Türelmi időszakban | Lejárt      | Tiltva      | Deprovisioned |
-| **A szolgáltatás hatásai**                                                        |
-| **Microsoft 365 üzleti adminisztrátori portál** | Nincs hatással a funkcionalitás | Nincs hatással a funkcionalitás | Felvehet/törölhet felhasználókat, vásárolhat előfizetéseket.</br> Nem lehet hozzárendelni/visszavonni a licenceket. | Az ügyfél előfizetése és minden adat törlődik. Admin tudja kezelni a többi fizetett előfizetések. |
-| **Office-alkalmazások**                         | Nincs végfelhasználói ütközés | Nincs végfelhasználói ütközés | Az Office csökkentett szolgáltatáskészletet nyújtó üzemmódba lép.</br> Használók tud kilátás fájlokat egyetlen. | Az Office csökkentett szolgáltatáskészletet nyújtó üzemmódba lép.</br> Használók tud kilátás fájlokat egyetlen. |
-| **Felhőalapú szolgáltatások (SharePoint Online, Exchange Online, Skype, csapatok és egyéb)** | Nincs végfelhasználói ütközés | Nincs végfelhasználói ütközés | A végfelhasználók és az adminisztrátorok nem férhetnek hozzá az adatokhoz a felhőben. | Az ügyfél előfizetése és minden adat törlésre kerül. |
-| **EM + S komponensek** | Nincs admin hatása</br> Nincs végfelhasználói ütközés | Nincs admin hatása</br> Nincs végfelhasználói ütközés | A képességek már nem érvényesíthetők.</br> Lát [mozgatható berendezés ütközés azon aláírás kipárolgás](#mobile-device-impacts-upon-subscription-expiration) és [Windows 10 PC ütközés azon aláírás lejárat](#windows-10-pc-impacts-upon-subscription-expiration) többért értesít. | A képességek már nem érvényesíthetők.</br> Lát [mozgatható berendezés ütközés azon aláírás kipárolgás](#mobile-device-impacts-upon-subscription-expiration) és [Windows 10 PC ütközés azon aláírás lejárat](#windows-10-pc-impacts-upon-subscription-expiration) többért értesít. |
-| **Windows 10 üzleti** | Nincs admin hatása</br> Nincs végfelhasználói ütközés | Nincs admin hatása</br> Nincs végfelhasználói ütközés | A képességek már nem érvényesíthetők.</br> Lát [mozgatható berendezés ütközés azon aláírás kipárolgás](#mobile-device-impacts-upon-subscription-expiration) és [Windows 10 PC ütközés azon aláírás lejárat](#windows-10-pc-impacts-upon-subscription-expiration) többért értesít. | A képességek már nem érvényesíthetők.</br> Lát [mozgatható berendezés ütközés azon aláírás kipárolgás](#mobile-device-impacts-upon-subscription-expiration) és [Windows 10 PC ütközés azon aláírás lejárat](#windows-10-pc-impacts-upon-subscription-expiration) többért értesít. |
-| **Azúrkék AD logika-hoz egy Windows 10 PC** | Nincs admin hatása</br> Nincs végfelhasználói ütközés | Nincs admin hatása</br> Nincs végfelhasználói ütközés | Nincs admin hatása</br> Nincs végfelhasználói ütközés | A bérlő törlését követően a felhasználó csak helyi hitelesítő adatokkal tud bejelentkezni. Ha nincsenek helyi hitelesítő adatok, az eszköz ismételt képe |
+| **Állami** | Türelmi időszakban | Lejárt      | Tiltva      | Megszüntetés |
+| **A szolgáltatásra gyakorolt hatások**                                                        |
+| **Microsoft 365 Vállalati verzió felügyeleti portálja** | Nincs hatással a funkcionalitásra | Nincs hatással a funkcionalitásra | Felhasználókat adhat hozzá/törölhet, előfizetéseket vásárolhat.</br> Nem lehet licenceket rendelni/visszavonni. | Az ügyfél előfizetése és minden adat törlődik. A rendszergazda más fizetős előfizetéseket is kezelhet. |
+| **Office-alkalmazások**                         | Nincs végfelhasználói hatás | Nincs végfelhasználói hatás | Az Office csökkentett üzemmódba lép.</br> A felhasználók csak fájlokat tekinthetnek meg. | Az Office csökkentett üzemmódba lép.</br> A felhasználók csak fájlokat tekinthetnek meg. |
+| **Felhőszolgáltatások (SharePoint Online, Exchange Online, Skype, Teams stb.)** | Nincs végfelhasználói hatás | Nincs végfelhasználói hatás | A végfelhasználók és a rendszergazdák nem férnek hozzá a felhőben lévő adatokhoz. | Az ügyfél előfizetése és minden adat törlődik. |
+| **EM+S alkatrészek** | Nincs rendszergazdai hatás</br> Nincs végfelhasználói hatás | Nincs rendszergazdai hatás</br> Nincs végfelhasználói hatás | A képesség már nem érvényesíthető.</br> További információ: [A mobileszközök relevancia az előfizetés lejáratakor](#mobile-device-impacts-upon-subscription-expiration) és a [Windows 10-es számítógépek relevancia az előfizetés lejáratakor.](#windows-10-pc-impacts-upon-subscription-expiration) | A képesség már nem érvényesíthető.</br> További információ: [A mobileszközök relevancia az előfizetés lejáratakor](#mobile-device-impacts-upon-subscription-expiration) és a [Windows 10-es számítógépek relevancia az előfizetés lejáratakor.](#windows-10-pc-impacts-upon-subscription-expiration) |
+| **Windows 10 Vállalati verzió** | Nincs rendszergazdai hatás</br> Nincs végfelhasználói hatás | Nincs rendszergazdai hatás</br> Nincs végfelhasználói hatás | A képesség már nem érvényesíthető.</br> További információ: [A mobileszközök relevancia az előfizetés lejáratakor](#mobile-device-impacts-upon-subscription-expiration) és a [Windows 10-es számítógépek relevancia az előfizetés lejáratakor.](#windows-10-pc-impacts-upon-subscription-expiration) | A képesség már nem érvényesíthető.</br> További információ: [A mobileszközök relevancia az előfizetés lejáratakor](#mobile-device-impacts-upon-subscription-expiration) és a [Windows 10-es számítógépek relevancia az előfizetés lejáratakor.](#windows-10-pc-impacts-upon-subscription-expiration) |
+| **Azure AD bejelentkezés Windows 10-es számítógépre** | Nincs rendszergazdai hatás</br> Nincs végfelhasználói hatás | Nincs rendszergazdai hatás</br> Nincs végfelhasználói hatás | Nincs rendszergazdai hatás</br> Nincs végfelhasználói hatás | A bérlő törlése után a felhasználó csak helyi hitelesítő adatokkal jelentkezhet be. Ha nincs enek helyi hitelesítő adatok, képezd át újra az eszközt. |
 
-## <a name="mobile-device-impacts-upon-subscription-expiration"></a>Mobileszköz-hatások az előfizetés lejártakor
+## <a name="mobile-device-impacts-upon-subscription-expiration"></a>A mobileszköz hatással van az előfizetés lejáratára
 
-Az alábbi táblázat összefoglalja, hogy az Alkalmazáskezelési házirendek milyen hatással vannak a mobileszközökre.
+Az alábbi táblázat összefoglalja az alkalmazáskezelési szabályzatokra gyakorolt hatást a mobileszközökön.
 
-|                            | Teljesen licenszelt tapasztalat                      | T + 60 nap utáni lejárati          |
+|                            | Teljes körű licenccel rendelkező élmény                      | T+60 nappal a lejárat után          |
 |----------------------------|------------------------------------------------|------------------------------------|
-| **Munkafájlok törlése egy inaktív eszközről** | A munkafájlok törlődnek a kijelölt napok után | A munkahelyi fájlok megmaradnak a felhasználó személyi eszközén |
-| **A felhasználók kényszerítése arra, hogy az összes munkahelyi fájljukat ide mentsék: OneDrive Vállalati verzió** | Munka fájlokat tud egyetlen lenni megtakarított-hoz OneDrive részére teendő | A munkahelyi fájlokat bárhol elmenthető |
-| **Munkahelyi fájlok titkosítása** | A munkafájlok titkosítva vannak | A munka fájljai már nem titkosítottak.</br> A biztonsági házirendek törlődnek, az alkalmazások Office-adatai pedig törlődnek. |
-| **A PIN-vagy ujjlenyomat-hozzáférés megkövetelése az Office-alkalmazásokhoz** | Az alkalmazásokhoz való hozzáférés korlátozása | Nincs app szintű hozzáférés-korlátozás |
-| **A PIN visszaállítása a bejelentkezés sikertelensége esetén** | Az alkalmazásokhoz való hozzáférés korlátozása | Nincs app szintű hozzáférés-korlátozás |
-| **A felhasználók bejelentkezése az Office alkalmazások üresjárata után** | Bejelentkezés szükséges | Nincs szükség bejelentkezelemre |
-| **Munkahelyi fájlokhoz való hozzáférés letiltása függetlenített vagy feltört eszközökön** | A munka fájlok nem érhetők el jailbroken/gyökeres eszközökön | Dolgozik fájlokat lehet kitört-ra jailbroken/begyökerezett berendezés |
-| **Az Office-alkalmazásokból származó tartalmak másolása a felhasználók személyes alkalmazásába** | Másol/tészta behatárolt-hoz apps elérhető részeként Mikroszkóp 365 teendő aláírás | Másolás/beillesztés az összes alkalmazás számára |
+| **Munkafájlok törlése inaktív eszközről** | A munkafájlok a kijelölt napok után törlődnek | A munkahelyi fájlok a felhasználó személyes eszközein maradnak |
+| **A felhasználók kényszerítése arra, hogy az összes munkahelyi fájljukat ide mentsék: OneDrive Vállalati verzió** | A munkahelyi fájlok csak a OneDrive Vállalati verzióba menthetők | A munkahelyi fájlok at bárhol menthetik |
+| **Munkahelyi fájlok titkosítása** | A munkahelyi fájlok titkosítva vannak | A munkahelyi fájlok már nincsenek titkosítva.</br> A rendszer eltávolítja a biztonsági házirendeket, és eltávolítja az alkalmazások Office-adatait. |
+| **PIN-kód vagy ujjlenyomat megkövetelése az Office-alkalmazások eléréséhez** | Korlátozott hozzáférés az alkalmazásokhoz | Nincs alkalmazásszintű hozzáférési korlátozás |
+| **PIN-kód alaphelyzetbe állítása, ha a bejelentkezés sikertelen** | Korlátozott hozzáférés az alkalmazásokhoz | Nincs alkalmazásszintű hozzáférési korlátozás |
+| **Az Office-alkalmazások tétlensége után a felhasználók tól újra be kell jelentkezniük** | Bejelentkezés szükséges | Nincs szükség bejelentkezésre |
+| **Munkahelyi fájlokhoz való hozzáférés letiltása függetlenített vagy feltört eszközökön** | A munkahelyi fájlok nem érhetők el feltört/gyökeres eszközökön | A munkahelyi fájlok jailbroken/gyökeres eszközökön érhetők el |
+| **Tartalom másolásának engedélyezése a felhasználóknak az Office-alkalmazásokból a személyes alkalmazásokba** | Másolás/beillesztés a Microsoft 365 Business-előfizetés részeként elérhető alkalmazásokra korlátozva | Az összes alkalmazás másolása/beillesztése |
 
-## <a name="windows-10-pc-impacts-upon-subscription-expiration"></a>Windows 10 PC hatása után előfizetés lejárata
+## <a name="windows-10-pc-impacts-upon-subscription-expiration"></a>A Windows 10 PC hatással van az előfizetés lejáratára
 
-Az alábbi táblázat összefoglalja a Windows 10 eszközkonfigurációs házirendjeit.
+Az alábbi táblázat összefoglalja a Windows 10-es eszközkonfigurációs házirendek hatását.
 
-|                            | Teljesen licenszelt tapasztalat                      | T + 60 nap utáni lejárati          |
+|                            | Teljes körű licenccel rendelkező élmény                      | T+60 nappal a lejárat után          |
 |----------------------------|------------------------------------------------|------------------------------------|
-| **Megvédheti a számítógépeket a fenyegetésektől a Windows Defender segítségével** | A be-/kikapcsolás nincs a felhasználó vezérlőn | A felhasználó be-/kikapcsolható a Windows Defender a Windows 10 PC |
-| **PC-k védelme a webes fenyegetésekkel szemben a Microsoft Edge böngészőben** | PC védelem a Microsoft Edge-ben | Felhasználó tud megereszt/távoli PC védelem-ban Mikroszkóp él |
-| **Az eszköz képernyőjének üresjáratban történő kikapcsolása** | A képernyő időtúllépési házirendjének adminisztrálja | A képernyő időtúllépését a végfelhasználó konfigurálhatja |
-| **A felhasználók letölthetnek appokat innen: Microsoft Áruház** | Az adminisztrátor meghatározza, hogy a felhasználó letölthet-e alkalmazásokat a Microsoft Store webhelyéről | Felhasználó tud letölt apps-ból Mikroszkóp készlet bármikor |
-| **A felhasználók igénybe vehetik Cortana segítségét** | Az admin a Cortana-hoz való felhasználói hozzáférés politikáját határozza meg | A Cortana ki-/bekapcsolható felhasználói eszközei |
-| **A Microsofttól származó tippek és hirdetések fogadásának engedélyezése a felhasználók számára** | Admin határozza meg a házirendet a felhasználó tippeket és hirdetéseket a Microsoft | Felhasználó tud fordít-ra/távoli porkoláb és hirdetés-ból Mikroszkóp |
-| **A felhasználók másolhatnak tartalmakat az Office-appokból személyes appokba** | Az admin meghatározza a Windows 10-eszközök naprakészen tartapolitikáját | A felhasználók eldönthetik, hogy mikor frissítsék a Windows rendszert |
+| **A Windows Defender segítségével megvédheti a számítógépeket a fenyegetésektől** | A be- és kikapcsolás kívül esik a felhasználói vezérlőn | A felhasználó be- és kikapcsolhatja a Windows Defender t a Windows 10-es pc-n |
+| **PC-k védelme a webes fenyegetésekkel szemben a Microsoft Edge böngészőben** | Számítógép-védelem a Microsoft Edge-ben | A felhasználó be- és kikapcsolhatja a számítógép védelmét a Microsoft Edge-ben |
+| **Az eszköz képernyőjének kikapcsolása tétlen állapotban** | A rendszergazda határozza meg a képernyő időintervallum-házirendjét | A képernyő időkorlátját a végfelhasználó konfigurálhatja |
+| **A felhasználók letölthetnek appokat innen: Microsoft Áruház** | A rendszergazda határozza meg, hogy a felhasználó le tudja-e tölteni az alkalmazásokat a Microsoft Store-ból | A felhasználó bármikor letölthet alkalmazásokat a Microsoft Store-ból |
+| **A felhasználók igénybe vehetik Cortana segítségét** | A rendszergazda határozza meg a Cortanához való felhasználói hozzáférésre vonatkozó szabályzatot | Cortana be- és kikapcsolásához használható felhasználói eszközök |
+| **Tippek és hirdetések fogadásának engedélyezése a felhasználóknak a Microsofttól** | A rendszergazda határozza meg a felhasználókra vonatkozó irányelveket, amelyek tippeket és hirdetéseket kapnak a Microsofttól | A felhasználó be- és kikapcsolhatja a Microsoft tippjeit és hirdetéseit |
+| **A felhasználók másolhatnak tartalmakat az Office-appokból személyes appokba** | A rendszergazda határozza meg a Windows 10-es eszközök naprakészen tartására vonatkozó házirendet | A felhasználók eldönthetik, hogy mikor frissítsék a Windows rendszert |

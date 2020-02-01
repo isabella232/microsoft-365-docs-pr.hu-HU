@@ -1,5 +1,7 @@
 ---
 title: A Microsoft 365 Business kezelése
+f1.keywords:
+- NOCSH
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
@@ -18,29 +20,29 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: 27ff1678-865a-4707-8145-e1155aa815d6
-description: Tanulja meg kezelni a Microsoft 365 Business kapcsolódó adminisztrációs feladatokat, mobil eszközöket, a Windows 10 PCs-t és sok ilyen feladatot.
-ms.openlocfilehash: 77b8757d9e6ab644b16e97ff20f50c0ce3123088
-ms.sourcegitcommit: 8ca97fa879ae4ea44468be629d6c32b429efeeec
+description: Ismerje meg a Microsoft 365 Vállalati verzióval kapcsolatos rendszergazdai feladatok, a mobileszközök, a Windows 10-es számítógépek és számos ilyen feladat kezelését.
+ms.openlocfilehash: 41b627b0bb7cbb009832d3e7c45e44ceb8a8fdcd
+ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 11/16/2019
-ms.locfileid: "38675968"
+ms.lasthandoff: 01/29/2020
+ms.locfileid: "41593781"
 ---
 # <a name="manage-microsoft-365-business"></a>A Microsoft 365 Business kezelése
 
 ## <a name="general-microsoft-365-business-admin-tasks"></a>A Microsoft 365 Vállalati verziós rendszergazdák általános feladatai
 
-A legtöbbje a [Admin elégedett](https://docs.microsoft.com/office365/admin/admin-home) részére Hivatal 365 részére teendő is alkalmazott-hoz Mikroszkóp 365 teendő.
+Az Office 365 vállalati verzió [rendszergazdai tartalmainak](https://docs.microsoft.com/office365/admin/admin-home) többsége a Microsoft 365 Vállalati verzióra is vonatkozik.
 
-- [Összead több használók-hoz Mikroszkóp 365 teendő](add-users-m365b.md)
+- [További felhasználók felvétele a Microsoft 365 Vállalati verzióba](add-users-m365b.md)
     
 - [Házirendek és eszközök megtekintése](view-policies-and-devices.md)
     
-- [Microsoft 365 üzleti biztonsági szolgáltatások](security-features.md)
+- [A Microsoft 365 Vállalati verzió biztonsági szolgáltatásai](security-features.md)
     
 - [A Microsoft 365 Vállalati verzió védelmi funkcióinak megfelelő Intune-beállítások](map-protection-features-to-intune-settings.md)
     
-Tekintse meg a Microsoft 365 Business használatáról szóló alábbi részeket, amelyek védik a szervezet adatait a számítógépeken és a mobileszközökön.
+Az alábbi szakaszokban arról, hogy miként használhatja a Microsoft 365 Business t a szervezet számítógépein és mobileszközökön lévő adatainak védelmére.
   
 ## <a name="manage-mobile-devices"></a>Mobileszközök kezelése
 
@@ -48,7 +50,7 @@ Tekintse meg a Microsoft 365 Business használatáról szóló alábbi részeket
     
 - [Appvédelmi beállítások megadása androidos vagy iOS-es eszközökhöz](app-protection-settings-for-android-and-ios.md)
     
-    Ennek ellenőrzéséhez olvassa el [az alkalmazásvédelmi beállítások érvényesítése Android vagy iOS rendszerű eszközön](validate-settings-on-android-or-ios.md)című témakört. 
+    A készülék ről az [Alkalmazásvédelmi beállítások ellenőrzése Android- vagy iOS-eszközön](validate-settings-on-android-or-ios.md)( Android vagy iOS rendszerű eszközök) területén található. 
     
 - [Céges adatok eltávolítása az eszközökről](remove-company-data.md)
     
@@ -60,11 +62,11 @@ Tekintse meg a Microsoft 365 Business használatáról szóló alábbi részeket
     
 - [Eszközvédelmi beállítások megadása Windows 10-es eszközökhöz](protection-settings-for-windows-10-pcs.md)
     
-    A mûködés ellenőrzéséhez olvassa el a [Windows 10 eszközökön található eszközvédelmi beállítások érvényesítése](validate-settings-on-windows-10-pcs.md)című témakört. 
+    A készülék ről a [Windows 10-es eszközök eszközvédelmi beállításainak ellenőrzése](validate-settings-on-windows-10-pcs.md)területen olvashat. 
     
 - [Alkalmazásvédelmi beállítások megadása Windows 10-es eszközökhöz](protection-settings-for-windows-10-devices.md)
     
-    A mûködés ellenőrzéséhez olvassa el az [Alkalmazásvédelem beállításainak érvényesítése Windows 10 számítógépeken](validate-protection-settings-on-windows-10-pcs.md)című témakört. 
+    A beállítás ról a [Windows 10-es számítógépek alkalmazásvédelmi beállításainak ellenőrzése ( alkalmazásvédelmi beállítások ellenőrzése Windows 10-es számítógépeken)](validate-protection-settings-on-windows-10-pcs.md)témakörben olvashat. 
     
 - [Céges adatok eltávolítása az eszközökről](remove-company-data.md)
     
@@ -86,9 +88,9 @@ Az alábbi cikkekből megtudhatja, hogy miként állíthatja be előre a Windows
     
 - [Az AutoPilot-profil beállításai](autopilot-profile-settings.md)
     
-## <a name="set-up-and-prerequisite-information"></a>Információk beállítása és előfeltételei
+## <a name="set-up-and-prerequisite-information"></a>Beállítás és előfeltétel adatai
 
-- [A Microsoft 365 Business és egy eszköz adatvédelmének előfeltételei](pre-requisites-for-data-protection.md)
+- [Az adatok védelmének előfeltételei az eszközökön a Microsoft 365 Business segítségével](pre-requisites-for-data-protection.md)
     
 - [A Microsoft 365 Vállalati verzió beállítása a beállítási varázslóval](set-up.md)
     

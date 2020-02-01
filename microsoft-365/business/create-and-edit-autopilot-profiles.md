@@ -1,5 +1,7 @@
 ---
 title: AutoPilot-profilok létrehozása és szerkesztése
+f1.keywords:
+- NOCSH
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
@@ -22,13 +24,13 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 5cf7139e-cfa1-4765-8aad-001af1c74faa
-description: Ismerkedjen meg a robotpilóta-profilok létrehozásával, szerkesztésével, törlésével vagy eltávolításával.
-ms.openlocfilehash: f7fdc2632e93c48e043fe158842f8395d6a89e14
-ms.sourcegitcommit: 8193b7da5b1a415835d02ca96883c351df7326ed
+description: Ismerje meg az AutoPilot-profilok létrehozását, szerkesztését, törlését vagy eltávolítását.
+ms.openlocfilehash: 35967cb1f6e2cdeea9d7c42a529526410fa8b586
+ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 11/14/2019
-ms.locfileid: "38320238"
+ms.lasthandoff: 01/29/2020
+ms.locfileid: "41593991"
 ---
 # <a name="create-and-edit-autopilot-profiles"></a>AutoPilot-profilok létrehozása és szerkesztése
 
@@ -36,21 +38,21 @@ ms.locfileid: "38320238"
 
 A profil egy eszközre vagy eszközök csoportjára vonatkozik.
   
-1. -Ban Mikroszkóp 365 teendő admin központ, választ **berendezés** \> **robotpilóta**.
+1. A Microsoft 365 Vállalati felügyeleti központban válassza az **Eszközök** \> **AutoPilot**lehetőséget.
   
-2. A **robotpilóta** oldalon válassza a profil lap **** \> **létrehozása profilt**.
+2. Az **AutoPilot** lapon válassza **** a \> Profilok lapot **Profil létrehozása**.
     
-3. A **profil létrehozása** lapon adjon nevet a profilnak, amely segít azonosítani, például marketing. Kapcsolja be a kívánt beállítást, majd kattintson a **Mentés**gombra. A robotpilóta profilbeállításaival kapcsolatos további tudnivalókért tanulmányozza az [robotpilóta-profil beállításai](autopilot-profile-settings.md)című témakört.
+3. A **Profil létrehozása** lapon adja meg a profil nevét, amely segít azonosítani azt, például a Marketing. Kapcsolja be a kívánt beállítást, majd kattintson a **Mentés gombra.** Az AutoPilot profilbeállításairól további információt [az AutoPilot-profil beállításairól című témakörben](autopilot-profile-settings.md)talál.
     
     ![Enter name and turn on settings in the Create profile panel.](media/63b5a00d-6a5d-48d0-9557-e7531e80702a.png)
   
 ### <a name="apply-profile-to-a-device"></a>Profil alkalmazása eszközre
 
-A profil létrehozása után alkalmazhatja azt egy eszközre vagy eszközcsoportra. A [Részletes útmutató](add-autopilot-devices-and-profile.md) segítségével egy meglévő profilt választhat ki, és alkalmazhatja azt az új eszközökre, vagy kicserélheti egy eszköz vagy eszközcsoport meglévő profilját. 
+Miután létrehozott egy profilt, alkalmazhatja azt egy eszközre vagy eszközcsoportra. A [részletes útmutatóban](add-autopilot-devices-and-profile.md) kiválaszthatja a meglévő profilt, és alkalmazhatja azt új eszközökre, vagy lecserélhet egy meglévő profilt egy eszközre vagy eszközcsoportra. 
   
 1. **A Windows előkészítése** lapon válassza az **Eszközök** fület. 
     
-2. Jelölje be az eszköznév melletti jelölőnégyzetet, majd az **eszközpanelen** válasszon egy profilt a **hozzárendelt profil** \> **legördülő listáról.**
+2. Jelölje be az eszköznév melletti jelölőnégyzetet, és az **Eszköz** panelen válasszon egy profilt a **Hozzárendelt profil** legördülő \> **listából Mentés**.
     
     ![In the Device panel, select an Assigned profile to apply it.](media/ed0ce33f-9241-4403-a5de-2dddffdc6fb9.png)
   
@@ -62,7 +64,7 @@ Miután hozzárendelt egy profilt egy eszközhöz, frissítheti azt még akkor i
 
 1. **A Windows előkészítése** lapon válassza a **Profilok** fület. 
     
-2. Jelölje be az eszköz neve melletti jelölőnégyzetet, és a **profil** panelen frissítse az elérhető beállítások \> **mentését**.
+2. Jelölje be az eszközneve melletti jelölőnégyzetet, és a **Profil** panelen frissítse a rendelkezésre álló beállítások \> bármelyikét **Mentés**.
     
     Ha ezt azelőtt végzi el, hogy a felhasználó csatlakoztatná az eszközt az internetre, akkor a profilt a rendszer alkalmazza a beállítási folyamatra.
     
@@ -70,7 +72,7 @@ Miután hozzárendelt egy profilt egy eszközhöz, frissítheti azt még akkor i
 
 1. **A Windows előkészítése** lapon válassza a **Profilok** fület. 
     
-2. Jelölje be az eszköznév melletti jelölőnégyzetet, majd a **profil** panelen jelölje be a **profilmentés** \> **** törlése négyzetet.
+2. Jelölje be az eszközneve melletti jelölőnégyzetet, majd a **Profil panelen** válassza a \> Profil **mentése** **törlése lehetőséget.**
     
     A törléssel a profilt eltávolítja arról az eszközről vagy abból az eszközcsoportból, amelyhez hozzá volt rendelve.
     
@@ -78,5 +80,5 @@ Miután hozzárendelt egy profilt egy eszközhöz, frissítheti azt még akkor i
 
 1. **A Windows előkészítése** lapon válassza az **Eszközök** fület. 
     
-2. Jelölje be az eszköznév melletti jelölőnégyzetet, az **eszközpanelen** pedig válassza a **nincs** beállítást a **hozzárendelt profil** legördülő \> **listából.**
+2. Jelölje be az eszköznév melletti jelölőnégyzetet, és az **Eszköz** panelen válassza a \> **Hozzárendelési profil** mentés i. listájának Nincs **elemét.** ****
     

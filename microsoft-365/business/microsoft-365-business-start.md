@@ -1,5 +1,7 @@
 ---
 title: A Microsoft 365 Business használatbavétele
+f1.keywords:
+- NOCSH
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
@@ -23,76 +25,76 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
-description: Ismerje meg, hogy hozzanak létre a Microsoft 365 Business.
-ms.openlocfilehash: 32bb30208083c4f62dd449290a7c9f5d8c725631
-ms.sourcegitcommit: c5ca71d6feb0f033b50ccd4de816fd59b0925007
+description: További információ a Microsoft 365 Vállalati verzió beállításához.
+ms.openlocfilehash: a353e39b824bae702fa015b0c7d3dd7e6416454c
+ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/04/2019
-ms.locfileid: "39831413"
+ms.lasthandoff: 01/29/2020
+ms.locfileid: "41593721"
 ---
 # <a name="get-started-with-microsoft-365-business"></a>A Microsoft 365 Business használatbavétele
 
 ## <a name="what-is-microsoft-365-business"></a>Mi a Microsoft 365 Vállalati verzió?
 
-A Microsoft 365 Business egy átfogó üzleti termelékenységi és együttműködési eszköz, például az Outlook, a Word, az Excel és más Office termékek, amelyek mindig naprakész. Tudod megvéd-a dolgozik fájlokat-ra minden-a iOS, Android, és Windows 10 berendezés-val vállalat-osztályoz biztonság ez minden egyszerű-hoz kezel.
+A Microsoft 365 Business az üzleti hatékonyság és az együttműködés olyan eszközeinek átfogó készlete, mint például az Outlook, a Word, az Excel és más Office-termékek, amelyek mindig naprakészek. A munkahelyi fájlokat minden iOS, Android és Windows 10 rendszerű eszközén megvédheti az egyszerű kezelhető nagyvállalati szintű biztonsággal.
 
-Tekintse meg ezt a videót a Microsoft 365 Business gyors áttekintéséhez.<br><br>
+Ebből a videóból gyorsan áttekintheti a Microsoft 365 Vállalati verziót.<br><br>
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2mhaA] 
   
-Mikroszkóp 365 teendő van tervezett részére valameddig 300 engedélyez. Ha további licencekre van szüksége, további információért olvassa el a [Microsoft 365 Enterprise](https://go.microsoft.com/fwlink/p/?linkid=860986) dokumentációjában található tudnivalókat. 
+A Microsoft 365 Business legfeljebb 300 licenchez szól. Ha további licencre van szüksége, további információt a [Microsoft 365 Enterprise](https://go.microsoft.com/fwlink/p/?linkid=860986) dokumentációjában talál. 
   
 ## <a name="get-microsoft-365-business"></a>A Microsoft 365 Vállalati verzió beszerzése
 
-- Ha önnek van egy társ, ők ' kap Mikroszkóp 365 teendő: [kap mikroszkóp 365 teendő-bólMikroszkóp társ központ](get-microsoft-365-business.md).
+- Ha van partnere, a Microsoft 365 Vállalati verzió: [A Microsoft 365 Vállalati verzió beszerezheti a Microsoft Partner Center programból.](get-microsoft-365-business.md)
     
 - Ha nincs partnere, és meg szeretné vásárolni a Microsoft 365 Businesst, [itt megteheti](https://www.microsoft.com/microsoft-365/business).
     
 ## <a name="set-up-microsoft-365-business"></a>A Microsoft 365 Vállalati verzió beállítása
 
- **A Microsoft 365 Business Suite programcsomag áttekintése**
+ **A Microsoft 365 Business Suite beállításának áttekintése**
   
-A következő ábra leírja, hogyan kell beállítani a Microsoft 365 Business az adminok. Ezenkívül a Windows rendszerű PC-k Microsoft 365 Business használatára való előkészítésének lépéseit is tartalmazza. Új eszközöket is hozzáadhat a Microsoft 365 Business admin Centerhez a [Windows robotpilóta](add-autopilot-devices-and-profile.md)segítségével. A robotpilóta segítségével beállíthat és konfigurálhat új eszközöket, hogy azok készen állnak a hatékony használatra, amint a felhasználó bejelentkezik a Microsoft 365 Business hitelesítő adataival.
+Az alábbi ábra azt ismerteti, hogy a rendszergazdák hogyan állították be a Microsoft 365 Business t. Ezenkívül a Windows rendszerű PC-k Microsoft 365 Business használatára való előkészítésének lépéseit is tartalmazza. Új eszközöket is hozzáadhat a Microsoft 365 Vállalati felügyeleti központban a [Windows AutoPilot](add-autopilot-devices-and-profile.md)segítségével. Az AutoPilot segítségével új eszközöket állíthat be és konfigurálhat előre, hogy azok készen álljanak a hatékony használatra, amint a felhasználó bejelentkezik a Microsoft 365 Vállalati hitelesítő adataikkal.
   
 ![A diagram that shows the setup and management flow for admins, and also for a user](media/249f81fc-7e79-44c7-8425-3a0b7b651c3b.png)
 
-Tekintse meg a Microsoft 365 Business beállítását ismertető videót.<br><br>
+Ebből a videóból megtudhatja, hogy mik a Microsoft 365 Vállalati verzió beállítása.<br><br>
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE1FYSM] 
 
-Ha Ön alapít ez video segíteni kész, kijelenti magát a [kiegészít képzés sor részére kicsi teendő és azok új-hoz mikroszkóp 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
+Ha hasznosnak találta ezt a videót, tekintse meg a [teljes tanfolyamok kisvállalatoknak és Microsoft 365-újoncoknak](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816) című témakört.
 
   
-### <a name="1-set-up-microsoft-365-business-admin"></a>1: állítsa be a Microsoft 365 Business (admin)
+### <a name="1-set-up-microsoft-365-business-admin"></a>1: A Microsoft 365 Vállalati verzió beállítása (rendszergazda)
 
-Jelentkezzen be a [microsoft 365 Business Admin Center](https://portal.office.com/adminportal/home) webhelyére a globális rendszergazdai hitelesítő adataival, majd a Microsoft 365 Business beállításához hajtsa végre az alábbi lépéseket. 
+Jelentkezzen be a [Microsoft 365 Vállalati felügyeleti központba](https://portal.office.com/adminportal/home) a globális rendszergazdai hitelesítő adatokkal, és hajtsa végre az alábbi lépéseket a Microsoft 365 Vállalati verzió beállításához. 
   
-1. [A Microsoft 365 Business és egy eszköz adatvédelmének előfeltételei](pre-requisites-for-data-protection.md)
+1. [Az adatok védelmének előfeltételei az eszközökön a Microsoft 365 Business segítségével](pre-requisites-for-data-protection.md)
     
-    Először olvassa el az előfeltételeket, hogy megbizonyosodjon arról, hogy az eszközök készen állnak a Microsoft 365 Business.
+    Először olvassa el az előfeltételeket, és győződjön meg arról, hogy eszközei készen állnak a Microsoft 365 Business szolgáltatásra.
     
-2. [A telepítővarázsló segítségével állítsa be a Microsoft 365 Business](set-up.md)
+2. [A Microsoft 365 Vállalati verzió beállítása a telepítővarázslóval](set-up.md)
     
-    Ha **véglegesen áthelyezi a helyi Active Directory címtárat a felhőbe**, látogasson el a Microsoft 365 Business Admin Center webhelyére, és használja a telepítővarázslót a felhasználók manuális hozzáadásához, vagy egy egyszeri szinkronizálást az Azure ad Connect segítségével. Ehhez két lehetőség közül választhat: 
+    Ha **véglegesen áthelyez egy helyi Active Directoryból a felhőbe,** lépjen a Microsoft 365 Vállalati felügyeleti központba, és a telepítővarázslóval manuálisan vegye fel a felhasználókat, vagy egyszeri szinkronizálást hajtson le az Azure AD Connectszolgáltatással. Ehhez két lehetőség közül választhat: 
     
-    - Ha rendelkezik Exchange 2010, Exchange 2013 vagy Exchange 2016 kiszolgálóval is, akkor [a minimális hibrid használatával gyorsan áttelepítheti az Exchange-postaládákat az Office 365](https://support.office.com/article/fdecceed-0702-4af3-85be-f2a0013937ef)kiszolgálóra. A minimális hibrid lépések közé tartozik egy egyszeri szinkronizálás a felhasználók Azure AD, és az e-mail migráció helyszíni a felhő. Az e-mailek áttelepítése után a címtár-szinkronizálás automatikusan kikapcsol, ha ezt a módszert használja.
+    - Ha Exchange 2010, Exchange 2013 vagy Exchange 2016 kiszolgálóis, a [Minimal Hybrid segítségével gyorsan áttelepítheti az Exchange-postaládákat az Office 365-be.](https://support.office.com/article/fdecceed-0702-4af3-85be-f2a0013937ef) A minimális hibrid lépések közé tartozik a felhasználók egyszeri szinkronizálása az Azure AD-vel, és az e-mailek áttelepítése a helyszíni felhőbe. Az e-mailek áttelepítése után a címtár-szinkronizálás automatikusan kikapcsol, amikor ezt a módszert használja.
     
-    - Az Office 365 címtár-szinkronizáló varázsló segítségével szinkronizálja a felhasználókat a felhővel. Ezt a [Set up directory synchronization for Office 365](https://support.office.com/article/1b3b5318-6977-42ed-b5c7-96fa74b08846) című cikk lépéseit követve végezheti el. Miután a felhasználókat szinkronizálja a felhővel, [ki kell kapcsolnia az Office 365 címtár-szinkronizálást](https://support.office.com/article/ee5f861e-bd48-4267-83d1-a4ead4b4a00d).
+    - Az Office 365 címtárszinkronizálási varázslójával szinkronizálhatja a felhasználókat a felhővel. Ezt a [Set up directory synchronization for Office 365](https://support.office.com/article/1b3b5318-6977-42ed-b5c7-96fa74b08846) című cikk lépéseit követve végezheti el. Miután szinkronizálta a felhasználókat a felhővel, ki kell [kapcsolnia az Office 365 címtár-szinkronizálását.](https://support.office.com/article/ee5f861e-bd48-4267-83d1-a4ead4b4a00d)
     
-    Youll ' is kell ad mindegyik felhasználó amit volt hozzáadott így egy engedély-hoz Mikroszkóp 365 teendő. Ezt megteheti a [telepítővarázslóban](set-up.md) , de az [Office 365 for Business felhasználói számára is rendelhet licenceket](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC).
+    A Microsoft 365 Business számára licencet kell adnia minden hozzáadott felhasználónak is. Ezt megteheti a [telepítővarázslóban,](set-up.md) vagy licenceket rendelhet a [felhasználókhoz az Office 365 vállalati verzióban.](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC)
     
-### <a name="2-prepare-mobile-devices"></a>2: mobileszközök előkészítése
+### <a name="2-prepare-mobile-devices"></a>2: Mobileszközök előkészítése
 
-Kövessük a [microsoft 365. üzleti felhasználók számára a mobil eszközök beállítása](set-up-mobile-devices.md) című témakört, és telepítsük az Office alkalmazásokat az eszközökre, és győződjünk meg arról, hogy a Microsoft 365 Business védi őket. 
+Kövesse a [Mobileszközök beállítása a Microsoft 365 Vállalati verzió felhasználói számára,](set-up-mobile-devices.md) hogy Office-alkalmazásokat telepítsen az eszközökre, és győződjön meg arról, hogy a Microsoft 365 Business védi őket. 
   
-### <a name="3-prepare-pcs"></a>3: készítsünk PC-k
+### <a name="3-prepare-pcs"></a>3: Pc-k előkészítése
 
-Admins tud előre kiválaszt elintézés részére új Windows 10 PCs mellett használ [Windows robotpilóta](add-autopilot-devices-and-profile.md). A felhasználók a jelen témakörben ismertetett lépések végrehajtásával beállhatják meglévő vagy új Windows 10 eszközeiket: a [Windows PC-k Microsoft 365 üzleti felhasználók számára történő beállításához](set-up-windows-devices.md). Részére létező berendezés, használók tud **tetszés szerint** [mozog fájlokat-hoz onedrive részére teendő](move-files-to-onedrive.md). Ők tud is használ harmadik-csapat szerszámok-hoz mozog fájlokat társult-val Windows arcél-hoz OneDrive.
+A rendszergazdák előre kiválaszthatják az új Windows 10-es számítógépek beállításait a [Windows AutoPilot](add-autopilot-devices-and-profile.md)használatával. A felhasználók a jelen témakör lépéseivel állíthatják be meglévő vagy új Windows 10-es eszközeiket: [Windows-számítógépek beállítása a Microsoft 365 Vállalati verzió felhasználói számára.](set-up-windows-devices.md) Meglévő eszközök esetén a felhasználók **tetszés szerint** [áthelyezhetnek fájlokat a OneDrive Vállalati verzióba.](move-files-to-onedrive.md) Külső gyártótól származó eszközökkel is áthelyezhetik a Windows-profilhoz társított fájlokat a OneDrive-ra.
   
-Ha a szervezet helyi Windows Server Active Directoryt használ, beállíthatja a Microsoft 365 Business rendszert, hogy védje a Windows 10 eszközeit, miközben továbbra is fenntartja az intézményi erőforrásokhoz való hozzáférést, amelyekhez szükség van lokális hitelesítésre. Hajtsa végre a [Microsoft 365 Business által felügyelt, tartományhoz csatlakoztatott Windows 10 eszközök engedélyezésére](manage-windows-devices.md) vonatkozó lépéseket. Ezt a módszert kell előnyben részesíteni, és az ilyen állapotú eszközöket **hibrid azúrkék hirdetési eszközöknek**is nevezzük. 
+Ha szervezete a helyszínen használja a Windows Server Active Directoryt, beállíthatja a Microsoft 365 Business alkalmazást a Windows 10-es eszközök védelmére, miközben továbbra is hozzáférhet a helyi hitelesítést igénylő helyszíni erőforrásokhoz. Kövesse a [Microsoft 365 Business által felügyelt tartományhoz csatlakozó Windows 10-eszközök engedélyezése](manage-windows-devices.md) című részt. Ez a módszer ajánlott, és az ebben az állapotban lévő eszközöket **hibrid Azure AD-csatlakozású eszközöknek**nevezzük. 
   
-Ha olyan helyi Active Directoryt tart fenn, amely az intézményi erőforrásokat (például a fájlmegosztásokat vagy a nyomtatókat) tartalmazza, az **azúrkék ad-illesztett eszközök** a következő lépések végrehajtásával férhetnek hozzá ezekhez az erőforrásokhoz: a [Microsoft 365 Business-ben található Azure Active Directory-eszköz intézményi erőforrásainak elérése](access-resources.md).
+Ha megtart egy helyi Active Directoryt, amely tartalmaz néhány helyszíni erőforrást (például fájlmegosztásokat és nyomtatókat), az **Azure AD-hez csatlakozott eszközeinek** hozzáférést biztosíthat ezekhez az erőforrásokhoz az alábbi lépéseket követve: [Helyszíni erőforrások elérése egy Azure AD-hez csatlakozó eszközről a Microsoft 365 Business](access-resources.md)programban.
   
   
 ## <a name="contact-support"></a>Lépjen kapcsolatba a támogatási szolgálattal.
@@ -101,12 +103,12 @@ Ha olyan helyi Active Directoryt tart fenn, amely az intézményi erőforrásoka
   
 - Forduljon a partneréhez.
     
-- Mint a Microsoft 365 Business admin, akkor hozzáférhet az ügyfélszolgálati Csoport: ** [Kapcsolatfelvétel üzleti termékek támogatása-admin Súgó](https://support.office.com/article/32a17ca7-6fa0-4870-8a8d-e25ba4ccfd4b)**
+- Microsoft 365 Vállalati verzió rendszergazdájaként hozzáférhet ügyfélszolgálati csapatunkhoz: Lépjen kapcsolatba az ** [üzleti termékek ügyfélszolgálatával – Rendszergazdai súgó](https://support.office.com/article/32a17ca7-6fa0-4870-8a8d-e25ba4ccfd4b)**
     
-## <a name="see-also"></a>See also
+## <a name="see-also"></a>Lásd még
 
 [A Microsoft 365 Vállalati verzióval kapcsolatos dokumentáció és források](https://go.microsoft.com/fwlink/p/?linkid=853701)
   
 [A Microsoft 365 Vállalati verzió kezelése](manage.md)[Áttelepítés a Microsoft 365 Vállalati verzióba](migrate-to-microsoft-365-business.md)
 
-[Microsoft 365 üzleti képzési videók](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816) 
+[Microsoft 365 Vállalati verziós oktatóvideók](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816) 

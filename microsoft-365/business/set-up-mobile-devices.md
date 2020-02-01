@@ -1,5 +1,7 @@
 ---
 title: Mobileszközök beállítása a Microsoft 365 Business felhasználóinak
+f1.keywords:
+- NOCSH
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
@@ -21,13 +23,13 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: d868561b-d340-4c04-a973-e2575d7f09bc
-description: Felszerel hivatal-ra egy iPhone vagy egy Android telefon, és-a dolgozik fájlokat hivatalban apps lesz megvéd mellett Mikroszkóp 365 teendő.
-ms.openlocfilehash: 6dc116f9c0822d33e8d742d065c8485a0cf82c37
-ms.sourcegitcommit: 178ecb21cacdeaf440f3df2fe6e539e9127fcf15
+description: Telepítse az Office-t iPhone-ra vagy Android-telefonra, és az Office-alkalmazásokban lévő munkahelyi fájljait a Microsoft 365 Business fogja védeni.
+ms.openlocfilehash: 097330c99fac2eb03eec0b9b1cba87b3e5b20350
+ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/23/2019
-ms.locfileid: "40850824"
+ms.lasthandoff: 01/29/2020
+ms.locfileid: "41594309"
 ---
 # <a name="set-up-mobile-devices-for-microsoft-365-business-users"></a>Mobileszközök beállítása a Microsoft 365 Business felhasználóinak
 
@@ -39,11 +41,11 @@ A példa az Outlookra vonatkozik, de minden más, telepíteni kívánt Office-ap
 
 ## <a name="iphonetabiphone"></a>[Iphone](#tab/iPhone)
   
-Nézzen meg egy rövid videót arról, hogyan állíthat be Office alkalmazásokat az iOS-eszközökön a Microsoft 365 Business rendszerben.<br><br>
+Rövid videó arról, hogyan állíthatja be az Office-alkalmazásokat iOS-eszközökön a Microsoft 365 Vállalati verzióval.<br><br>
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RWee2n] 
 
-Ha Ön alapít ez video segíteni kész, kijelenti magát a [kiegészít képzés sor részére kicsi teendő és azok új-hoz mikroszkóp 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
+Ha hasznosnak találta ezt a videót, tekintse meg a [teljes tanfolyamok kisvállalatoknak és Microsoft 365-újoncoknak](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816) című témakört.
 
 Nyissa meg az **App Store** áruházat, és írja be a Microsoft Outlook kifejezést a keresőmezőbe.
   
@@ -61,9 +63,9 @@ Enter your work email address on the **Add Email Account** screen \> **Add Accou
   
 ![Sign in to your work account](media/3cef1fb5-7bec-4d3d-8542-872b731ce19f.png)
   
-Ha a szervezete védi a fájlokat az alkalmazásokban, megjelenik egy párbeszédpanel, amely közli, hogy szervezete most védi az adatokat az alkalmazásban, és a folytatáshoz újra kell indítania az alkalmazást. Koppintson az **OK** gombra, és zárja be az Outlookot. 
+Ha a szervezet fájlokat véd az alkalmazásokban, megjelenik egy párbeszédablak, amely arról szól, hogy a szervezet most antól védi az alkalmazás adatait, és újra kell indítania az alkalmazást a használat folytatásához. Koppintson az **OK** gombra, és zárja be az Outlookot. 
   
-![Képernyőkép, amely azt mutatja, hogy szervezete most védi az Outlook alkalmazást](media/fb4c1c84-b1e9-42e1-8070-c13dcf79fb09.png)
+![Képernyőkép, amely en mutatja, hogy a szervezet most védi az Outlook alkalmazást](media/fb4c1c84-b1e9-42e1-8070-c13dcf79fb09.png)
   
 Keresse meg az Outlookot az iPhone-on, és indítsa újra. Amikor a rendszer kéri, adjon meg egy PIN-kódot, és ellenőrizze azt. Az iPhone-ján az Outlook most már készen áll a használatra.
   
@@ -71,21 +73,21 @@ Keresse meg az Outlookot az iPhone-on, és indítsa újra. Amikor a rendszer ké
   
 ## <a name="androidtabandroid"></a>[Android](#tab/Android)
   
-Nézzen meg egy videót az Outlook és az Office Android-eszközökön való telepítéséről.<br><br>
+Nézzen meg egy videót az Outlook és az Office Android-eszközökre történő telepítéséről.<br><br>
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/ecc2e9c0-bc7e-4f26-8b14-91d84dbcfef0] 
 
-Ha Ön alapít ez video segíteni kész, kijelenti magát a [kiegészít képzés sor részére kicsi teendő és azok új-hoz mikroszkóp 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
+Ha hasznosnak találta ezt a videót, tekintse meg a [teljes tanfolyamok kisvállalatoknak és Microsoft 365-újoncoknak](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816) című témakört.
 
-Megkezdéséhez Setup az Android telefon, menjen a Play Store.
+Az Android-telefonon való telepítés megkezdéséhez nyissa meg a Play Áruházat.
   
 ![On the Android home screen, tap Play Store](media/93df88e7-c778-40e1-b35e-868ca6e97f6c.png)
   
-Belép Mikroszkóp Kilátás-ban Google játék kutatás doboz és csap **felszerel**. Az Outlook telepítése után koppintson a **Megnyitás**parancsra.
+Írja be a Microsoft Outlook programot a Google Play keresőmezőjébe, és koppintson a **Telepítés**gombra. Ha az Outlook telepítése befejeződött, koppintson a **Megnyitás**gombra.
   
 ![Tap Open to open Outlook app](media/8b4c5937-8875-4b5a-a5b6-b8c6c9cd6240.png)
   
-Az Outlook alkalmazásban koppintson a **Bevezetés**, majd a Microsoft 365 Business \> **e-mail fiók hozzáadása elemre, és**jelentkezzen be a szervezet hitelesítő adataival.
+Az Outlook alkalmazásban koppintson az **Első lépések**elemre, majd \> adja hozzá a Microsoft 365 Vállalati verzió e-mail fiókját **,** és jelentkezzen be a szervezet hitelesítő adataival.
   
 ![Sign in to your organizational account in Outlook](media/18f67c66-4bab-4b99-94bd-080839312e29.png)
   
@@ -93,7 +95,7 @@ Az Intune Vállalati portál app telepítését kérő párbeszédpanelen, koppi
   
 ![Tap on Go to store to get Intune Company Portal app](media/a702d712-5622-45dd-a511-b1adaee63071.png)
   
-A Play Store-ban telepítse az Intune Company Portal webhelyet.
+A Play Áruházban telepítse az Intune Céges portált.
   
 ![Screenshot that shows the install button for Intune Company Portal in Google Play Store](media/5e0408f2-3f37-44dd-80ed-13ca2ac6df0c.png)
   
@@ -101,8 +103,8 @@ Nyissa meg ismét az Outlookot, és adja meg, majd erősítse meg a PIN-kódot. 
   
 ![Set  PIN for Outlook app in Android](media/edb91afb-f1ed-451a-bc6b-8ccba664e055.png)
 
-## <a name="see-also"></a>See also
+## <a name="see-also"></a>Lásd még
 
-[Microsoft 365 üzleti képzési videók](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
+[Microsoft 365 Vállalati verziós oktatóvideók](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
 
 ---

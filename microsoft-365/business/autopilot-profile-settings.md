@@ -1,5 +1,7 @@
 ---
 title: Az AutoPilot-profil beállításai
+f1.keywords:
+- NOCSH
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
@@ -26,27 +28,27 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 99bfbf81-e719-4630-9b0f-c187edfa1f8a
-description: A robotpilóta-profilok segítségével szabályozhatja, hogyan lesz telepítve a Windows a felhasználói eszközökre. A profilok olyan alapértelmezett és választható beállításokat tartalmaznak, mint a Cortana-telepítés kihagyása.
-ms.openlocfilehash: 912a24e3d458986a4bcf7dcf903f80211996aca2
-ms.sourcegitcommit: 8193b7da5b1a415835d02ca96883c351df7326ed
+description: Az AutoPilot-profilok segítségével szabályozhatja, hogy a Windows hogyan települjön be a felhasználói eszközökre. A profilok alapértelmezett és választható beállításokat tartalmaznak, például kihagyja a Cortana telepítését.
+ms.openlocfilehash: 1cc8a3171bbc4a1e5cb531b9364c7791586fc339
+ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 11/14/2019
-ms.locfileid: "38321785"
+ms.lasthandoff: 01/29/2020
+ms.locfileid: "41593333"
 ---
 # <a name="about-autopilot-profile-settings"></a>Az AutoPilot-profil beállításai
 
 ## <a name="autopilot-profile-settings"></a>Az AutoPilot-profil beállításai
 
-A robotpilóta-profilok segítségével szabályozhatja, hogyan legyen telepítve a Windows a felhasználói eszközökön. A profilok a következő beállításokat tartalmazzák.
+Az AutoPilot-profilok segítségével szabályozhatja, hogy a Windows hogyan települjön a felhasználói eszközökre. A profilok a következő beállításokat tartalmazzák.
   
  **Az AutoPilot alapértelmezett (kötelező) funkciói, amelyek beállítása automatikusan megtörténik:**
   
 |**Beállítás**|**Leírás**|
 |:-----|:-----|
-|Ugrál Cortana, OneDrive, és OEM beírás  <br/> |A telepítő nem telepíti a Cortanához és a személyes OneDrive-hoz hasonló fogyasztói appokat. Az eszköz felhasználója ezeket később is telepítheti, amíg a felhasználó helyi rendszergazdaként van az eszközön. Az eredeti gyártó regisztrálása azért marad ki, mert az eszközt a Microsoft 365 Business fogja kezelni.  <br/> |
-|Céges bejelentkezési felület  <br/> |Ha a vállalata a [vállalat márkajelzését hozzáadja az Office 365 bejelentkezés laphoz](https://support.office.com/article/a1229cdb-ce19-4da5-90c7-2b9b146aef0a), akkor az eszköz felhasználója ezt a tapasztalatot bejelentkezéskor fogja kapni.  <br/> |
-|Automatikus regisztrálás mobileszköz-kezelésre a konfigurált Azure Active Directory-fiókokkal  <br/> |A felhasználó azonosság lesz kezelt mellett Azure Aktivál Címtár, és használók akarat jel-ban-hoz Windows és Hivatal 365-val-uk Mikroszkóp 365 teendő megbízólevél.  <br/> |
+|Cortana, OneDrive és OEM regisztráció kihagyása  <br/> |A telepítő nem telepíti a Cortanához és a személyes OneDrive-hoz hasonló fogyasztói appokat. Az eszköz felhasználója később telepítheti ezeket, amennyiben a felhasználó helyi rendszergazda az eszközön. Az eredeti gyártó regisztrálása azért marad ki, mert az eszközt a Microsoft 365 Business fogja kezelni.  <br/> |
+|Céges bejelentkezési felület  <br/> |Ha a vállalat [rendelkezik a Cég márkajelzésének hozzáadása az Office 365 Bejelentkezési lapján,](https://support.office.com/article/a1229cdb-ce19-4da5-90c7-2b9b146aef0a)az eszköz felhasználója ezt a felhasználói élményt kapja a bejelentkezéskor.  <br/> |
+|Automatikus regisztrálás mobileszköz-kezelésre a konfigurált Azure Active Directory-fiókokkal  <br/> |A felhasználói identitást az Azure Active Directory kezeli, és a felhasználók a Microsoft 365 Vállalati verzió hitelesítő adataival jelentkeznek be a Windows és az Office 365 rendszerbe.  <br/> |
    
  **Nem kötelező beállítások:**
   

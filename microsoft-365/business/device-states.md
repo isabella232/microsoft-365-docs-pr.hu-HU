@@ -1,5 +1,7 @@
 ---
 title: Eszközállapotok
+f1.keywords:
+- NOCSH
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
@@ -21,13 +23,13 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: c3ac23c5-d4b4-4b1b-b7ce-ea759521bf8c
-description: Információ a Microsoft 365 Business eszköz eszközállapoiról.
-ms.openlocfilehash: b55e6a5d538ec28d195225e93797cea27afd2e8b
-ms.sourcegitcommit: 8193b7da5b1a415835d02ca96883c351df7326ed
+description: További információ a Microsoft 365 Vállalati verzió eszközállapotáról.
+ms.openlocfilehash: 02b4eebac62a48e3ddd53d362db2d60067ac05eb
+ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 11/14/2019
-ms.locfileid: "38320208"
+ms.lasthandoff: 01/29/2020
+ms.locfileid: "41593971"
 ---
 # <a name="device-states"></a>Eszközállapotok
 
@@ -41,12 +43,12 @@ Az **Eszközműveletek** listában (Rendszergazdai kezdőlap \> **Eszközművele
 |Kivezetés függőben  <br/> |A Microsoft 365 Business felkészülőben van a vállalati adatok eszközről való eltávolítására.  <br/> |
 |Kivezetés folyamatban  <br/> |A Microsoft 365 Business jelenleg a vállalati adatok eszközről való eltávolításán dolgozik.  <br/> |
 |Kivezetés sikertelen  <br/> | A vállalati adatok eltávolításának művelete nem sikerült.  <br/> |
-|Visszavonva  <br/> |Visszavonta a műveletet.  <br/> |
+|Visszavont megszüntetés  <br/> |A megszüntetési művelet meglett szakítva.  <br/> |
 |Törlés függőben  <br/> |Várakozás a gyári állapot visszaállításának megkezdésére.  <br/> |
 |Törlés folyamatban  <br/> |Megkezdődött a gyári állapot visszaállítása.  <br/> |
-|Törlés sikertelen  <br/> |Nem tudott ' csinál gyár orrgazdaság.  <br/> |
-|Kitakarás megszakítva  <br/> |Gyári törlés törölték.  <br/> |
-|Nem kifogástalan  <br/> |A művelet függőben (vagy folyamatban) van, de az eszköz 30 + napig nem ellenőrzött.  <br/> |
+|Törlés sikertelen  <br/> |Nem sikerült gyári beállítások visszaállítása.  <br/> |
+|Törlés megszakítva  <br/> |A gyári törlőkendő törölve lett.  <br/> |
+|Nem kifogástalan  <br/> |Egy művelet függőben van (vagy folyamatban van), de az eszköz több mint 30 napig nem jelentkezett be.  <br/> |
 |Törlés függőben  <br/> |Egy törlési művelet függőben van.  <br/> |
 |Észlelt  <br/> |A Microsoft 365 Business észlelte az eszközt.  <br/> |
    

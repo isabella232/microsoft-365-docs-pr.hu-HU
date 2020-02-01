@@ -1,5 +1,7 @@
 ---
 title: Windows 10-es eszközök konfigurálása
+f1.keywords:
+- NOCSH
 ms.author: sirkkuw
 author: sirkkuw
 manager: scotv
@@ -23,19 +25,19 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: da60e08e-2547-491a-9c97-94ac6d715623
-description: Ismerje meg a Windows 10 eszközházirendjeit, amelyek a szervezet minden felhasználóját alkalmazzák.
-ms.openlocfilehash: ad092d2b2760a55e16c44a66350626c90c9ac7c5
-ms.sourcegitcommit: 8193b7da5b1a415835d02ca96883c351df7326ed
+description: Információ a Windows 10-re vonatkozó eszközházirendekről, amelyek a szervezet összes felhasználójára vonatkoznak.
+ms.openlocfilehash: ef4d4cc64438c6cf3f1a2fec6e22ac679b4ffe10
+ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 11/14/2019
-ms.locfileid: "38321364"
+ms.lasthandoff: 01/29/2020
+ms.locfileid: "41593354"
 ---
 # <a name="configure-windows-10-devices"></a>Windows 10-es eszközök konfigurálása
 
-A telepítés során olyan eszközházirendet hoz létre a Windows 10 rendszerben, amely a szervezet minden felhasználóját érinti. Amikor a felhasználó bejelentkezik a Windows 10-eszközön lévő Office-alkalmazásra munka-vagy iskolai fiókkal, a rendszer automatikusan alkalmazza a megadott beállításokat annak érdekében, hogy a felhasználó biztonságos módon csatlakozjon.
+A telepítés során olyan eszközházirendet hoz létre a Windows 10-hez, amely a szervezet összes felhasználójára vonatkozik. Amikor egy felhasználó munkahelyi vagy iskolai fiókjával jelentkezik be egy Office-alkalmazásba a Windows 10-es eszközén, a rendszer automatikusan alkalmazza a konfigurált beállításokat annak érdekében, hogy a felhasználó biztonságos módon csatlakozzon.
   
-Azt javasoljuk, hogy a telepítés során az alapértelmezett beállításokat fogadja el. A beállítás után több házirendet hozhat létre, és azokat a felhasználók meghatározott csoportjaihoz célozhatja.
+Azt javasoljuk, hogy a telepítés során az alapértelmezett beállításokat fogadja el. A telepítés után további házirendeket hozhat létre, és megcélozhatja őket a felhasználók meghatározott csoportjaira.
   
 Ha Windows 10-es eszközkonfigurációhoz szeretne szabályzatot hozzáadni, az [Eszközkonfigurációk megadása Windows 10-es PC-ken](protection-settings-for-windows-10-pcs.md) című témakörben talál további információt.
   

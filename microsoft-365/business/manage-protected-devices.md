@@ -1,5 +1,7 @@
 ---
 title: Védett eszközök kezelése a Microsoft 365 Business használatával
+f1.keywords:
+- NOCSH
 ms.author: sirkkuw
 author: sirkkuw
 manager: scotv
@@ -23,19 +25,19 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 018a2a96-3811-4b5d-b751-3b6330b34256
-description: Ismerkedjen meg a védelmi házirendekkel kezelt eszköz alaphelyzetbe állítására vagy megtörlésével.
-ms.openlocfilehash: ef3b8ed0e3b3f8b9136d3929bce1b835309498c7
-ms.sourcegitcommit: 9a057e70637dcfe06d4f729a96c02be989cf9e25
+description: Ismerje meg a védelmi szabályzatok on keresztül kezelt eszközök alaphelyzetbe állítását vagy törlését.
+ms.openlocfilehash: b022d9076b60b0d29771b2ba8f7afc0435bda096
+ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 11/14/2019
-ms.locfileid: "38633329"
+ms.lasthandoff: 01/29/2020
+ms.locfileid: "41593841"
 ---
 # <a name="manage-protected-devices-with-microsoft-365-business"></a>Védett eszközök kezelése a Microsoft 365 Business használatával
 
-Miután egy felhasználó az eszközhöz vagy az eszközön található Office alkalmazásokhoz csatlakoztatja az eszközt a szervezethez, megvédheti az eszközt a beállított házirendekkel. A csatlakoztatott eszközök az **eszközök** oldalon vannak felsorolva. Az elveszett vagy ellopott eszközt ezen a lapon kezelheti, és törölhet róla minden céges adatot. Windows 10-es eszközökön a gyári állapotot is visszaállíthatja, így minden egyéni beállítás törlődik róluk. 
+Miután a felhasználó a munkahelyi fiókkal bejelentkezve csatlakozik a szervezethez az eszközhöz vagy az eszközön lévő Office-alkalmazásokhoz, megvédheti az eszközt a beállított szabályzatokkal. A csatlakoztatott eszközök az **Eszközök** lapon jelennek meg. Az elveszett vagy ellopott eszközt ezen a lapon kezelheti, és törölhet róla minden céges adatot. Windows 10-es eszközökön a gyári állapotot is visszaállíthatja, így minden egyéni beállítás törlődik róluk. 
 
-Az eszközök kezeléséhez használható feladatokkal kapcsolatos további tudnivalókért tanulmányozza az alábbi cikkeket: 
+Az eszközök kezeléséhez használható feladatokról az alábbi cikkekben talál további információt: 
   
 [Céges adatok eltávolítása az eszközökről](remove-company-data.md)
   

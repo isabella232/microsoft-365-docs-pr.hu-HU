@@ -1,5 +1,7 @@
 ---
 title: Az AutoPilottal kapcsolatos eszközhibák elhárítása
+f1.keywords:
+- NOCSH
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
@@ -23,25 +25,25 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 1f468690-530c-47ea-918f-fede24607c53
-description: Útmutató az eszköz-fájlhibák automatikus vezérléssel kapcsolatos hibaelhárításához.
-ms.openlocfilehash: 1b5358bd6686c2548e82ec5297ac0ad675835718
-ms.sourcegitcommit: 6a413a65b8c2e10cea08f0a15635b28a1362a582
+description: További információ az AutoPilot-eszközfájlhibáinak elhárításáról.
+ms.openlocfilehash: 8390f695a3e11386ae2617da4061bed1d8214375
+ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "38718699"
+ms.lasthandoff: 01/29/2020
+ms.locfileid: "41594208"
 ---
 # <a name="troubleshoot-autopilot-device-errors"></a>Az AutoPilottal kapcsolatos eszközhibák elhárítása
 
-## <a name="device-file-error-messages"></a>Eszközfájl hibaüzenetei
+## <a name="device-file-error-messages"></a>Eszközfájl-hibaüzenetek
 
-Eretnekségek ' értesít-ra néhány hiba ön erő lát rövid idő működő-val robotpilóta berendezés fájlokat-ban Mikroszkóp 365 teendő. 
+Az alábbiakban az AutoPilot eszközfájlokkal végzett munka során a Microsoft 365 Business ben előforduló hibákról olvashat. 
   
-|**Hibakód**|**Erősít-hoz megpróbál**|
+|**Hibakód**|**Javítás a kipróbáláshoz**|
 |:-----|:-----|
-|Érvénytelen kérelemtörzs  <br/> |Ez a hiba ritkán, ha látja ezt a hibát, próbálkozzon újra a művelettel.  <br/> |
-|Az eszköz hardverujjlenyomat-értéke nem megfelelő.  <br/> |Ha ezt a hibát látja, az azt jelenti, hogy az egyik eszköz hardveres kivonatának a CSV-fájlban megadott értéke nem megfelelő. Először ellenőrizze, hogy helyesen írta-e be az értéket. Ha úgy gondolja, hogy az érték helyes, de ez a hiba még mindig történik, kérje a hardver forgalmazójától a segítséget.  <br/> |
-|Másik bérlőre rendelt eszköz  <br/> |Ha ezt a hibát látja, az azt jelenti, hogy a CSV-fájlban a sorozatszám vagy egy vagy több eszköz termékkulcsa számára megadott érték nem megfelelő. Először ellenőrizze, hogy helyesen írta-e be az értéket. Ha úgy gondolja, hogy az érték helyes, de ez a hiba még mindig történik, kérje a hardver forgalmazójától a segítséget.  <br/> |
-|A CSV-fájl érvénytelen sorozatszámot vagy termékkulcsot tartalmaz.  <br/> |Ha ezt a hibát látja, az azt jelenti, hogy a regisztrálni próbált eszközt egy másik szervezet már regisztrálta. A hiba kijavításához kérjen segítséget a hardver forgalmazójától.  <br/> |
-|Az eszközt nem támogatja a telepítő a robotpilóta használatával  <br/> | Ez a hiba azt jelenti, hogy az eszköz nem felel meg a robotpilóta telepítési követelményeinek. Az eszközöknek meg kell felelniük az alábbi követelményeknek:  <br/>  A Windows 10 rendszer 1703-as vagy újabb verzióját kell futtatniuk.  <br/>  Új berendezés amit kikötő ' átmenő Windows ki--ból-doboz tapasztalat.  <br/> |
-|Az eszköz nem található  <br/> |Ez a hiba azt jelenti, hogy a CSV-fájlban lévő egy vagy több eszköz nem szerepel a szervezetben. A kijavításához kérjen segítséget a hardver forgalmazójától.  <br/> |
+|Érvénytelen kérelemtörzs  <br/> |Ez a hiba ritkán fordulhat elő, ha ez a hiba jelenik meg, próbálkozzon újra a művelettel.  <br/> |
+|Az eszköz hardverkivonat-értéke nem megfelelő.  <br/> |Ha ez a hiba jelenik meg, az azt jelenti, hogy a CSV-fájlban megadott érték az egyik eszköz hardverkivonatához nem megfelelő. Először ellenőrizze, hogy helyesen írta-e be az értéket. Ha úgy gondolja, hogy az érték helyes, de ez a hiba továbbra is fennáll, kérjen segítséget a hardver gyártójától.  <br/> |
+|Másik bérlőhöz rendelt eszköz  <br/> |Ha ez a hiba jelenik meg, az azt jelenti, hogy a CSV-fájlban megadott érték vagy a sorozatszám, vagy egy vagy több eszköz termékkulcsa nem megfelelő. Először ellenőrizze, hogy helyesen írta-e be az értéket. Ha úgy gondolja, hogy az érték helyes, de ez a hiba továbbra is fennáll, kérjen segítséget a hardver gyártójától.  <br/> |
+|A CSV-fájl érvénytelen sorozatszámot vagy termékkulcsot tartalmaz  <br/> |Ha ez a hiba jelenik meg, az azt jelenti, hogy a regisztrálni kívánt eszközt már regisztrálta egy másik szervezet. A hiba megoldásához kérjen segítséget a hardver gyártójától.  <br/> |
+|Ez az eszköz nem támogatott az AutoPilot használatával történő telepítéshez  <br/> | Ez a hiba azt jelenti, hogy az eszköz nem felel meg az AutoPilot telepítési követelményeinek. Az eszközöknek meg kell felelniük az alábbi követelményeknek:  <br/>  A Windows 10 rendszer 1703-as vagy újabb verzióját kell futtatniuk.  <br/>  Új eszközök, amelyek nem voltak a Windows beépített élményén.  <br/> |
+|Az eszköz nem található  <br/> |Ez a hiba azt jelenti, hogy a CSV-fájl egy vagy több eszköze nincs regisztrálva a szervezetben. A probléma megoldásához kérjen segítséget a hardver gyártójától.  <br/> |

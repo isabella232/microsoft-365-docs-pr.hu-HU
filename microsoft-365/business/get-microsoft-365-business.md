@@ -1,5 +1,7 @@
 ---
-title: Kap Mikroszkóp 365 teendő-ból társ központ
+title: A Microsoft 365 Business bekerülése a partnerközpontból
+f1.keywords:
+- NOCSH
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
@@ -20,13 +22,13 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: 5abfef7b-5957-484a-b06b-a7c55e013e44
-description: Útmutató a Microsoft 365 Business megvásárlását a Microsoft Partnerközpontból.
-ms.openlocfilehash: be38ba6869ed9419b2c34e6b4f86ce4aad6a6c52
-ms.sourcegitcommit: 8193b7da5b1a415835d02ca96883c351df7326ed
+description: Megtudhatja, hogy miként vásárolhatja meg a Microsoft 365 Business-t a Microsoft Partner Centertől.
+ms.openlocfilehash: 18af5b0aee378784199e91c8254b50fd1104172b
+ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 11/14/2019
-ms.locfileid: "38320168"
+ms.lasthandoff: 01/29/2020
+ms.locfileid: "41593951"
 ---
 # <a name="get-microsoft-365-business"></a>A Microsoft 365 Vállalati verzió beszerzése
 
@@ -34,25 +36,25 @@ ms.locfileid: "38320168"
 
 Ha nincs partnere, és meg szeretné vásárolni a Microsoft 365 Businesst, [itt megteheti](https://www.microsoft.com/en-US/microsoft-365/business).
 
-A részletes útmutatásért lásd: [Feliratkozás a Microsoft 365 Business-ra](sign-up.md) .
+A részletes útmutatásért olvassa el [a Microsoft 365 Business szolgáltatásra való feliratkozás](sign-up.md) című témakört.
 
-A Microsoft [Store](https://www.microsoft.com/en-us/store/locations/find-a-store?icid=en_US_Store_UH_FAS) -hoz is vásárolhat, ha meg szeretné vásárolni a Microsoftot és a Microsoft 365 Business programot.
+A Microsoft 365 Vállalati verzió megvásárlásához és a telepítősúgóhoz is átjuthat a [Microsoft Store-ba.](https://www.microsoft.com/en-us/store/locations/find-a-store?icid=en_US_Store_UH_FAS)
   
 ## <a name="get-microsoft-365-business-from-microsoft-partner-center"></a>A Microsoft 365 Business beszerzése a Microsoft Partnerközpontban
 
 1. Jelentkezzen be a [Microsoft Partnerközpontba](https://go.microsoft.com/fwlink/p/?linkid=849910) a felhőszolgáltatói (CSP) programhoz való csatlakozáskor létrehozott hitelesítő adatokkal. 
     
-2. A partner irányítópulton válassza a **vevők**, majd válassza ki az ügyfelet, vagy új vevőt szeretne felvenni, mielőtt a Microsoft 365 Business programot kapod.
+2. A Partner irányítópulton válassza az **Ügyfelek**lehetőséget, majd válassza ki az ügyfelet, vagy vegyen fel egy új ügyfelet, mielőtt bejutna a Microsoft 365 Business szolgáltatásba.
     
-    ![A Microsoft Partnerközpontban vegye fel a vevőt.](media/ec807d07-bbd2-411f-8fe1-c644cf9a3882.png)
+    ![A Microsoft Partner központban vegyen fel egy ügyfelet.](media/ec807d07-bbd2-411f-8fe1-c644cf9a3882.png)
   
-3. Az ügyfél **előfizetésének** lapján válassza az **előfizetés hozzáadása**lehetőséget, válassza ki a kisvállalati lehetőséget a katalógus területen, majd válassza a **Microsoft 365 Business**beállítást.
+3. Az ügyfél **Előfizetés lapján** válassza az **Előfizetés hozzáadása**lehetőséget, válassza a Kisvállalati beállítás lehetőséget a Katalógus csoportban, majd válassza a **Microsoft 365 Business**lehetőséget.
     
     Adja meg a szükséges licencek számát (legfeljebb 300 lehet). Ha több mint 300 felhasználója van, olvassa el a [Microsoft 365 Nagyvállalati verzió](https://go.microsoft.com/fwlink/p/?linkid=862316) ismertetését. 
     
-    ![Az új előfizetés lapon válasszon kisvállalkozást.](media/52d99e89-2175-4974-84bb-dd626048541b.png)
+    ![Az Új előfizetés lapon válassza a kisvállalkozás lehetőséget.](media/52d99e89-2175-4974-84bb-dd626048541b.png)
   
-    Töltse ki a további lépéseket egy új vevő hozzáadásához, beleértve a cégnevet is.
+    Végezze el az új vevő hozzáadásának további lépéseit, beleértve a vállalkozás nevét is.
     
 
 

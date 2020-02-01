@@ -1,5 +1,7 @@
 ---
 title: Házirendek és eszközök megtekintése
+f1.keywords:
+- NOCSH
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
@@ -19,13 +21,13 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: 6b70fa27-d171-4593-8ecf-f78bb4ed2e99
-description: Az eszközházirendek és-műveletek megtekintése a Microsoft 365-es vállalati szintű globális rendszergazdai hitelesítő adatokkal történő bejelentkezéssel.
-ms.openlocfilehash: 982c1f410802f9589d40073a11768b7dd68567c0
-ms.sourcegitcommit: 6a413a65b8c2e10cea08f0a15635b28a1362a582
+description: Eszközházirendek és -műveletek megtekintéséhez jelentkezzen be a Microsoft 365-ös verziójába globális rendszergazdai hitelesítő adatokkal.
+ms.openlocfilehash: 9664a72d85cf6eed9993937299d38a84b9a8f0d2
+ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "38718919"
+ms.lasthandoff: 01/29/2020
+ms.locfileid: "41595587"
 ---
 # <a name="view-and-manage-policies-and-devices"></a>Házirendek és eszközök megtekintése és kezelése
 
@@ -33,18 +35,18 @@ ms.locfileid: "38718919"
 
 ## <a name="view-and-edit-device-policies"></a>Eszközházirendek megtekintése és szerkesztése
 
-1.  Menj az admin központba <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>.
-2. A bal oldali NAV programban válassza az **eszközházirendek eszközt** \> ****.
+1.  Nyissa meg a <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>felügyeleti központot a .
+2. A bal oldali navigációs sávon válassza az **Eszközök** \> **házirendjei**lehetőséget.
 
-    Ezen a lapon létrehozhatja, szerkesztheti, módosíthatja a célcsoportot és törölheti a házirendet.
+    Ezen a lapon létrehozhat, szerkeszthet, módosíthat célcsoportot, illetve törölhet egy házirendet.
 
     ![Screenshot of the Policies page](media/devicepolicies.png)
   
 ## <a name="view-and-manage-devices"></a>Eszközök megtekintése és kezelése
 
-1. A bal oldali NAV programban válassza az **eszközök** \> **kezelése**-t. 
+1. A bal oldali navigációs sávon válassza az **Eszközök** \> **kezelése lehetőséget.** 
     
-    Ezen az oldalon egy vagy több eszközt választhat ki, és eltávolíthatja a vállalati adatokat. Olyan Windows 10-es eszköz esetében, amelyhez eszközvédelmi beállításokat adott meg, az eszköz gyári állapotát is visszaállíthatja itt.
+    Ezen az oldalon kijelölhet egy vagy több eszközt, és eltávolíthatja a vállalati adatokat. Olyan Windows 10-es eszköz esetében, amelyhez eszközvédelmi beállításokat adott meg, az eszköz gyári állapotát is visszaállíthatja itt.
   
    ![Eszközök kezelése lap](media/devicesmanage.png)
 
