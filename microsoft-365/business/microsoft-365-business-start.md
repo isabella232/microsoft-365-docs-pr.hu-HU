@@ -26,12 +26,12 @@ search.appverid:
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
 description: További információ a Microsoft 365 Vállalati verzió beállításához.
-ms.openlocfilehash: a353e39b824bae702fa015b0c7d3dd7e6416454c
-ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
+ms.openlocfilehash: 5491486c2bf8da1ee38fcd986d5ecd682d57c82e
+ms.sourcegitcommit: 3dd9944a6070a7f35c4bc2b57df397f844c3fe79
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 01/29/2020
-ms.locfileid: "41593721"
+ms.lasthandoff: 02/15/2020
+ms.locfileid: "42065611"
 ---
 # <a name="get-started-with-microsoft-365-business"></a>A Microsoft 365 Business használatbavétele
 
@@ -57,7 +57,7 @@ A Microsoft 365 Business legfeljebb 300 licenchez szól. Ha további licencre va
   
 Az alábbi ábra azt ismerteti, hogy a rendszergazdák hogyan állították be a Microsoft 365 Business t. Ezenkívül a Windows rendszerű PC-k Microsoft 365 Business használatára való előkészítésének lépéseit is tartalmazza. Új eszközöket is hozzáadhat a Microsoft 365 Vállalati felügyeleti központban a [Windows AutoPilot](add-autopilot-devices-and-profile.md)segítségével. Az AutoPilot segítségével új eszközöket állíthat be és konfigurálhat előre, hogy azok készen álljanak a hatékony használatra, amint a felhasználó bejelentkezik a Microsoft 365 Vállalati hitelesítő adataikkal.
   
-![A diagram that shows the setup and management flow for admins, and also for a user](media/249f81fc-7e79-44c7-8425-3a0b7b651c3b.png)
+![A diagram that shows the setup and management flow for admins, and also for a user](../media/249f81fc-7e79-44c7-8425-3a0b7b651c3b.png)
 
 Ebből a videóból megtudhatja, hogy mik a Microsoft 365 Vállalati verzió beállítása.<br><br>
 

@@ -23,12 +23,12 @@ search.appverid:
 - MET150
 - MOE150
 description: Megtudhatja, hogy miként állíthat be feltételes hozzáférési házirendeket a Microsoft 365-ös kampányokhoz.
-ms.openlocfilehash: 335fbd7e771b1595e1846529daed76e5ddd3a8f5
-ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
+ms.openlocfilehash: 1ef90bd77da43ded624d85cef9c7a33beec74345
+ms.sourcegitcommit: 3dd9944a6070a7f35c4bc2b57df397f844c3fe79
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 01/29/2020
-ms.locfileid: "41593385"
+ms.lasthandoff: 02/15/2020
+ms.locfileid: "42064610"
 ---
 # <a name="set-up-conditional-access-policies"></a>Feltételes hozzáférési házirendek beállítása
 
@@ -52,7 +52,7 @@ Ezekről a házirendekről további információt [a Mik az alapházirendek?](ht
 1. Nyissa meg az [Azure Portalot,](https://portal.azure.com)majd keresse meg az **Azure Active Directory** \> **feltételes hozzáférését.**
     
     Az alapházirendek az oldalon jelennek meg. <br/> <br/>
-    ![A feltételes hozzáférés alapházirendjeit tartalmazó lap.](media/baslinepolicies.png)
+    ![A feltételes hozzáférés alapházirendjeit tartalmazó lap.](../media/baslinepolicies.png)
 1. Az egyes házirendekhez tartozó alábbi utasításokat találja:
 
   - [Többoldalz megkövetelése rendszergazdáknak](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators)

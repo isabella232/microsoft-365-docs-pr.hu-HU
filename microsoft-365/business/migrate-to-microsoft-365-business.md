@@ -22,12 +22,12 @@ search.appverid:
 - MET150
 ms.assetid: 5b4ba843-24b8-4526-8e1f-f9b9eab89d06
 description: A vállalkozást az Office 365 Vállalati Prémium verzióról a Microsoft 365 Vállalati verzióra frissítő diár.
-ms.openlocfilehash: 0732f76e5bd8540e5954bd7ea7b88061326901b5
-ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
+ms.openlocfilehash: e17ac2658c7276ba4a77de371847343866815c42
+ms.sourcegitcommit: 3dd9944a6070a7f35c4bc2b57df397f844c3fe79
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 01/29/2020
-ms.locfileid: "41593679"
+ms.lasthandoff: 02/15/2020
+ms.locfileid: "42065279"
 ---
 # <a name="upgrade-to-microsoft-365-business-from-office-365-business-premium"></a>Frissítés a Microsoft 365 Vállalati verzióra az Office 365 Vállalati prémium verzióról
 
@@ -51,11 +51,11 @@ Vásárolja meg a licenceket az alábbi lépések végrehajtásával az [új fel
 1. Jelentkezzen be a <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>felügyeleti központba a .
 2. Nyissa meg a navigációs ablakot, és válassza a **Számlázási** \> **termékek & szolgáltatások**lehetőséget. Keresse meg Office 365-előfizetését, és válassza ki a részleteket. 
 
-    ![A képernyőkép bemutatja, hogyan keresheti meg és választhatja ki az előfizetést a felügyeleti központban.](media/FindYourSubscription.png)
+    ![A képernyőkép bemutatja, hogyan keresheti meg és választhatja ki az előfizetést a felügyeleti központban.](../media/FindYourSubscription.png)
 
 3. A következő lapon válassza a **Frissítés**lehetőséget. 
 
-      ![A képernyőkép azt mutatja, hogy hol válassza a Frissítés lehetőséget a felügyeleti központban.](media/SelectUpgrade.png)
+      ![A képernyőkép azt mutatja, hogy hol válassza a Frissítés lehetőséget a felügyeleti központban.](../media/SelectUpgrade.png)
 
   > [!NOTE]
   > Ha megjelenik egy üzenet, amely szerint az **előfizetés frissítése nem támogatott csoportalapú licenceléssel az Azure Active Directoryban,** nyugodtan figyelmen kívül hagyhatja ezt, ha csak egy nagyon nagy szervezet. Azok a szervezetek, amelyek ezt a beállítást választották, tudatában lesznek annak, hogy csoportalapú licencelést használnak.

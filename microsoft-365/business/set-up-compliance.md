@@ -20,12 +20,12 @@ search.appverid:
 - BCS160
 - MET150
 description: Megfelelőségi funkciók beállítása az adatvesztés és a címkeérzékeny adatok elkerülése érdekében.
-ms.openlocfilehash: 09619de03aafde37106fb3942890b457c488ad43
-ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
+ms.openlocfilehash: d569ff8d84faf82881035f0ed54e5d175605776f
+ms.sourcegitcommit: 3dd9944a6070a7f35c4bc2b57df397f844c3fe79
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 01/29/2020
-ms.locfileid: "41593405"
+ms.lasthandoff: 02/15/2020
+ms.locfileid: "42064705"
 ---
 # <a name="set-up-compliance-features"></a>Megfelelőségi funkciók beállítása
 
@@ -70,6 +70,6 @@ Az AIP-ügyfél manuális telepítése:
 1. Töltse le **AzinfoProtection_UL.exe letöltését** a [Microsoft letöltőközpontjából.](https://www.microsoft.com/download/details.aspx?id=53018)
  
 2. A Word-dokumentumok megtekintésével és annak biztosításával ellenőrizheti, hogy a telepítés működött-e, és meggyőződhet arról, hogy az **Érzékenység** beállítás elérhető a **Kezdőlap** lapon.
-<br/>![A Védelem lap legördülő menüje egy Word-dokumentumban](media/word-sensitivity.png)
+<br/>![A Védelem lap legördülő menüje egy Word-dokumentumban](../media/word-sensitivity.png)
 
 További információt az Ügyfél telepítése című témakörben [talál.](https://docs.microsoft.com/azure/information-protection/infoprotect-tutorial-step3)

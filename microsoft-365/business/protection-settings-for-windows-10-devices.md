@@ -27,12 +27,12 @@ search.appverid:
 - MOE150
 ms.assetid: 02e74022-44af-414b-9d74-0ebf5c2197f0
 description: Megtudhatja, hogy miként hozhat létre alkalmazáskezelési szabályzatot, és hogyan védheti meg a munkahelyi fájlokat Windows 10-es eszközökön.
-ms.openlocfilehash: 703f63fc1c90966eb8412886e82670af3e9d6f62
-ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
+ms.openlocfilehash: eb9c5465bf7376efa95162cd39be3f1c6840a3e4
+ms.sourcegitcommit: 3dd9944a6070a7f35c4bc2b57df397f844c3fe79
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 01/29/2020
-ms.locfileid: "41593536"
+ms.lasthandoff: 02/15/2020
+ms.locfileid: "42065014"
 ---
 # <a name="set-application-protection-settings-for-windows-10-devices"></a>Alkalmazásvédelmi beállítások megadása Windows 10-es eszközökhöz
 
@@ -60,11 +60,11 @@ Ha a felhasználók munkahelyi feladatokra is használják saját Windows 10-es 
     
     A munkahelyi fájlok alapértelmezés szerint egy az eszközön tárolt és a felhasználó profiljához társított titkos kulccsal vannak titkosítva. Csak a felhasználó tudja megnyitni és visszafejteni a fájlt. Így tehát, ha valaki elveszít egy eszközt, vagy törölnek egy felhasználót, egy szükséges fájl titkosított állapotban ragadhat. A rendszergazda az adat-helyreállítási megbízott (DRA) tanúsítványával visszafejtheti a fájlt.
     
-    ![Browse to Data Recovery Agent certificate.](media/7d7d664f-b72f-4293-a3e7-d0fa7371366c.png)
+    ![Browse to Data Recovery Agent certificate.](../media/7d7d664f-b72f-4293-a3e7-d0fa7371366c.png)
   
 10. Bontsa ki **a További hálózati és felhőhelyek védelme** csomópontot, ha további tartományokat vagy SharePoint Online-helyeket szeretne hozzáadni, hogy az összes felsorolt alkalmazásban védett fájlok legyenek. Ha bármelyik mezőben egynél több elemet kell megadnia, pontosvesszővel (;) válassza el őket egymástól.
     
-    ![Expand Protect additional network and cloud locations, and enter domains or SharePoint Online sites you own.](media/7afaa0c7-ba53-456d-8c61-312c45e09625.png)
+    ![Expand Protect additional network and cloud locations, and enter domains or SharePoint Online sites you own.](../media/7afaa0c7-ba53-456d-8c61-312c45e09625.png)
   
 11. Next decide **Who will get these settings?** If you don't want to use the default **All Users** security group, choose **Change**, choose the security groups who will get these settings \> **Select**.
     

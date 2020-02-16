@@ -24,16 +24,16 @@ search.appverid:
 - MET150
 ms.assetid: 6f2b80b4-81c3-4714-a7bc-ae69313e8a33
 description: Megtudhatja, hogy miként hozhat létre, szerkeszthet vagy törölhet alkalmazáskezelési szabályzatot, és hogyan védheti meg a munkahelyi fájlokat Android vagy iOS rendszerű eszközökön.
-ms.openlocfilehash: c0c8883fb120db90d81e57fbb80206d6ce4eccbf
-ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
+ms.openlocfilehash: f4366230805c50fe82183431e3bd2bdfa9fddd68
+ms.sourcegitcommit: 3dd9944a6070a7f35c4bc2b57df397f844c3fe79
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 01/29/2020
-ms.locfileid: "41593313"
+ms.lasthandoff: 02/15/2020
+ms.locfileid: "42068647"
 ---
 # <a name="set-app-protection-settings-for-android-or-ios-devices"></a>Appvédelmi beállítások megadása androidos vagy iOS-es eszközökhöz
 
-![Banner, hogy https://aka.ms/aboutM365previewpont .](media/m365admincenterchanging.png)
+![Banner, hogy https://aka.ms/aboutM365previewpont .](../media/m365admincenterchanging.png)
 
 ## <a name="create-an-app-management-policy"></a>Appkezelési házirend létrehozása
 
@@ -49,7 +49,7 @@ ms.locfileid: "41593313"
     
     Az **Alapértelmezett beállítások visszaállítása** hivatkozásra kattintva bármikor visszatérhet az alapértelmezett beállításokhoz. 
     
-    ![Screenshot of Create a policy with Application management for Android selected](media/eabbe06d-ac0a-4f3a-8630-68c808b1e662.png)
+    ![Screenshot of Create a policy with Application management for Android selected](../media/eabbe06d-ac0a-4f3a-8630-68c808b1e662.png)
   
 6. Next decide **Who will get these settings?** Ha nem szeretné használni az alapértelmezett **Minden felhasználó** biztonsági csoportot, válassza a **Módosítás**lehetőséget, válassza a beállításokat \> bekapó biztonsági csoportokat **Válassza.**
     

@@ -27,12 +27,12 @@ search.appverid:
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
 description: További információ a Microsoft 365 Vállalati verzióról.
-ms.openlocfilehash: 0a7aafdda384624767e06c0b39c5a58784ac0a0a
-ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
+ms.openlocfilehash: bfda6801bee526084ad11ead819fcd04787d17ce
+ms.sourcegitcommit: 3dd9944a6070a7f35c4bc2b57df397f844c3fe79
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 01/29/2020
-ms.locfileid: "41593741"
+ms.lasthandoff: 02/15/2020
+ms.locfileid: "42065651"
 ---
 # <a name="overview-of-microsoft-365-business"></a>A Microsoft 365 Vállalati verzió áttekintése
 
@@ -63,7 +63,7 @@ Az üzleti adatok sokféleképpen sérülhetnek. Ön és a felhasználók veszé
 
 A Microsoft 365 Business minden ilyen esetben segít megvédeni az adatokat. Az üzleti adatokat védő biztonsági funkciókat az alábbi ábrán részletezheti.
 
-![Egy ábra, amely bemutatja, hogyan védi az M365B vállalkozását.](media/m365businessvalueadd.png)
+![Egy ábra, amely bemutatja, hogyan védi az M365B vállalkozását.](../media/m365businessvalueadd.png)
 
 ## <a name="how-your-data-and-devices-are-protected"></a>Az adatok és eszközök védelme
 

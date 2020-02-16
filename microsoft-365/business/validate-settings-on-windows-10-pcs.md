@@ -24,12 +24,12 @@ search.appverid:
 - MET150
 ms.assetid: fae8819d-7235-495f-9f07-d016f545887f
 description: Megtudhatja, hogy miként ellenőrizheti a Microsoft 365 Vállalati alkalmazásvédelmi beállításait Windows 10-es eszközökön.
-ms.openlocfilehash: e3cd0a1927e0b81c9a97d26196603086b9ea2293
-ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
+ms.openlocfilehash: 1762382aec00a80e006cf38b66c28d02c0c25989
+ms.sourcegitcommit: 3dd9944a6070a7f35c4bc2b57df397f844c3fe79
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 01/29/2020
-ms.locfileid: "41594955"
+ms.lasthandoff: 02/15/2020
+ms.locfileid: "42056667"
 ---
 # <a name="validate-device-protection-settings-on-windows-10-pcs"></a>Eszközvédelmi beállítások érvényességének ellenőrzése Windows 10-es PC-ken
 
@@ -39,23 +39,23 @@ Miután [beállította az eszközházirendeket](protection-settings-for-windows-
   
 1. Nyissa meg a **Beállítások** \> **frissítése &amp; biztonsági** \> **Windows Update** \> Újraindítás **beállításait,** és ellenőrizze, hogy az összes beállítás szürkén jelenik-e meg. 
     
-    ![Az összes Újraindítás beállítás szürkén jelenik meg.](media/31308da9-18b0-47c5-bbf6-d5fa6747c376.png)
+    ![Az összes Újraindítás beállítás szürkén jelenik meg.](../media/31308da9-18b0-47c5-bbf6-d5fa6747c376.png)
   
 2. Nyissa meg a **Beállítások** \> **frissítése &amp; biztonsági** \> **Windows Update** \> Speciális **beállításokat,** és ellenőrizze, hogy az összes beállítás szürkén jelenik-e meg. 
     
-    ![A Windows speciális frissítési beállításai mind szürkén jelennek meg.](media/049cf281-d503-4be9-898b-c0a3286c7fc2.png)
+    ![A Windows speciális frissítési beállításai mind szürkén jelennek meg.](../media/049cf281-d503-4be9-898b-c0a3286c7fc2.png)
   
 3. Go to **Settings** \> **Update &amp; security** \> **Windows Update** \> **Advanced options** \> **Choose how updates are delivered**.
     
     Ellenőrizze, hogy látható-e az üzenet (pirossal) arról, hogy egyes beállítások rejtve vannak vagy a szervezet által kezeltek, és az összes beállítás szürkén jelenik meg.
     
-    ![Choose how updates are delivered page indicates settings are hidden or managed by your organization.](media/6b3e37c5-da41-4afd-9983-b4f406216b59.png)
+    ![Choose how updates are delivered page indicates settings are hidden or managed by your organization.](../media/6b3e37c5-da41-4afd-9983-b4f406216b59.png)
   
 4. To open the Windows Defender Security Center, go to **Settings** \> **Update &amp; security** \> **Windows Defender** \> click **Open Windows Defender Security Center** \> **Virus &amp; thread protection** \> **Virus &amp; threat protection settings**. 
     
 5. Ellenőrizze, hogy minden beállítás szürkén jelenik-e meg. 
     
-    ![A vírus- és veszélyforrások elleni védelem beállításai szürkén jelennek meg.](media/9ca68d40-a5d9-49d7-92a4-c581688b5926.png)
+    ![A vírus- és veszélyforrások elleni védelem beállításai szürkén jelennek meg.](../media/9ca68d40-a5d9-49d7-92a4-c581688b5926.png)
   
 ## <a name="related-topics"></a>Kapcsolódó témakörök
 

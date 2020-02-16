@@ -21,12 +21,12 @@ search.appverid:
 - MET150
 ms.assetid: ed34fff3-2881-4ed4-9906-1ba6bb8dd804
 description: Megtudhatja, hogy miként telepítheti automatikusan a 32 bites Office-alkalmazásokat Windows 10-es számítógépekre, és hogyan tarthatja őket naprakészen.
-ms.openlocfilehash: fa5b2ce1852ebdb1e76c1fa844793fee56af3d68
-ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
+ms.openlocfilehash: 0f8cd7df49ad627b190fad6737ec95a6d64d99d0
+ms.sourcegitcommit: 3dd9944a6070a7f35c4bc2b57df397f844c3fe79
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 01/29/2020
-ms.locfileid: "41593619"
+ms.lasthandoff: 02/15/2020
+ms.locfileid: "42065106"
 ---
 # <a name="prepare-for-office-client-deployment-by-microsoft-365-business"></a>Felkészülés Office-ügyfél központi telepítésére a Microsoft 365 Business segítségével
 
@@ -44,7 +44,7 @@ Az automatikus telepítés akkor működik a legjobban, ha a végfelhasználó s
     
 Ha ki szeretné deríteni, hogy az Office Office Kattintásra verziójával rendelkezik-e, egy tetszőleges Office-appban válassza a **Fájl** \> **Fiók** (az Outlookban **Office-fiók**) lehetőséget). Ha az **Office-frissítések** az alábbi ábrán látható módon jelenik meg, akkor a telepítés a Kattintásra szolgáltatás sal történt. 
   
-![Screenshot of Office updates in Office app Account](media/e3439380-fa43-4ed6-ae5d-64851c297df5.png)
+![Screenshot of Office updates in Office app Account](../media/e3439380-fa43-4ed6-ae5d-64851c297df5.png)
   
  **Kinek származik előnye ennek a funkciónak a birtoklásából?**
   

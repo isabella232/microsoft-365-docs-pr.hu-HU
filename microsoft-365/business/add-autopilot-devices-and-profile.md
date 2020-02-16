@@ -23,12 +23,12 @@ search.appverid:
 - MOE150
 ms.assetid: be5b6d90-3344-4c5e-bf40-5733eb845beb
 description: Megtudhatja, hogy a Windows AutoPilot segítségével hogyan állíthatja be az új Windows 10-es eszközöket a vállalkozása számára.
-ms.openlocfilehash: 1fd0abb76d16b79dd11ef27b6b27a87894d89ef9
-ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
+ms.openlocfilehash: e5774b1e2079a5249e0f6e9e7142de19268253b5
+ms.sourcegitcommit: 3dd9944a6070a7f35c4bc2b57df397f844c3fe79
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 01/29/2020
-ms.locfileid: "41593273"
+ms.lasthandoff: 02/15/2020
+ms.locfileid: "42068537"
 ---
 # <a name="use-the-step-by-step-guide-to-add-autopilot-devices-and-profile"></a>Autopilot-eszközök és -profilok hozzáadása a lépésenkénti útmutatóval
 
@@ -44,7 +44,7 @@ Az eszközöknek meg kell felelniük ezeknek a követelményeknek:
     
 ## <a name="use-the-setup-guide-to-create-devices-and-profiles"></a>Eszközök és profilok létrehozása a beállítási útmutató használatával
 
-[![A megjelenő címke figyelmeztet a felügyeleti központ változásaira, további részleteket itt talál: aka.ms/aboutM365preview.](media/m365admincenterchanging.png)](https://docs.microsoft.com/office365/admin/microsoft-365-admin-center-preview)
+[![A megjelenő címke figyelmeztet a felügyeleti központ változásaira, további részleteket itt talál: aka.ms/aboutM365preview.](../media/m365admincenterchanging.png)](https://docs.microsoft.com/office365/admin/microsoft-365-admin-center-preview)
 
 Ha még nem hozott létre eszközcsoportokat vagy profilokat, a legjobb módja az első lépéseknek a részletes útmutató használatával. Eszközöket is [hozzáadhat,](create-and-edit-autopilot-devices.md) és [profilokat rendelhet](create-and-edit-autopilot-profiles.md) hozzájuk az útmutató használata nélkül. 
   
@@ -52,11 +52,11 @@ Ha még nem hozott létre eszközcsoportokat vagy profilokat, a legjobb módja a
 
 2. A bal oldali navigációs ablakban válassza az **Eszközök** \> **AutoPilot**lehetőséget.
 
-    ![A felügyeleti központban válassza az eszközök, majd az AutoPilot lehetőséget.](media/AutoPilot.png)
+    ![A felügyeleti központban válassza az eszközök, majd az AutoPilot lehetőséget.](../media/AutoPilot.png)
   
 2. Az **AutoPilot** lapon kattintson vagy koppintson az **Útmutató indítása**elemre.
     
-    ![Click Start guide for step-by-step instructions for Autopilot.](media/31662655-d1e6-437d-87ea-c0dec5da56f7.png)
+    ![Click Start guide for step-by-step instructions for Autopilot.](../media/31662655-d1e6-437d-87ea-c0dec5da56f7.png)
   
 3. A **Feltöltés .csv fájl eszközök listájával** lapon keresse meg azt a helyet, ahol előkészítette a fájlt. CSV fájlt, majd **nyissa meg** \> **a Tovább**. A fájlnak három fejlécből kell rendelkeznie:
     
