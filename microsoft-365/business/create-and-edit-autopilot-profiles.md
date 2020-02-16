@@ -25,60 +25,60 @@ search.appverid:
 - MOE150
 ms.assetid: 5cf7139e-cfa1-4765-8aad-001af1c74faa
 description: Ismerje meg az AutoPilot-profilok létrehozását, szerkesztését, törlését vagy eltávolítását.
-ms.openlocfilehash: 35967cb1f6e2cdeea9d7c42a529526410fa8b586
-ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
+ms.openlocfilehash: 28f5b679d58711d11d9af26dffb7022024b72c79
+ms.sourcegitcommit: 3dd9944a6070a7f35c4bc2b57df397f844c3fe79
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 01/29/2020
-ms.locfileid: "41593991"
+ms.lasthandoff: 02/15/2020
+ms.locfileid: "42065895"
 ---
-# <a name="create-and-edit-autopilot-profiles"></a><span data-ttu-id="87b53-103">AutoPilot-profilok létrehozása és szerkesztése</span><span class="sxs-lookup"><span data-stu-id="87b53-103">Create and edit AutoPilot profiles</span></span>
+# <a name="create-and-edit-autopilot-profiles"></a><span data-ttu-id="3359a-103">AutoPilot-profilok létrehozása és szerkesztése</span><span class="sxs-lookup"><span data-stu-id="3359a-103">Create and edit AutoPilot profiles</span></span>
 
-## <a name="create-a-profile"></a><span data-ttu-id="87b53-104">Profil létrehozása</span><span class="sxs-lookup"><span data-stu-id="87b53-104">Create a profile</span></span>
+## <a name="create-a-profile"></a><span data-ttu-id="3359a-104">Profil létrehozása</span><span class="sxs-lookup"><span data-stu-id="3359a-104">Create a profile</span></span>
 
-<span data-ttu-id="87b53-105">A profil egy eszközre vagy eszközök csoportjára vonatkozik.</span><span class="sxs-lookup"><span data-stu-id="87b53-105">A profile applies to a device, or a group of devices,</span></span>
+<span data-ttu-id="3359a-105">A profil egy eszközre vagy eszközök csoportjára vonatkozik.</span><span class="sxs-lookup"><span data-stu-id="3359a-105">A profile applies to a device, or a group of devices,</span></span>
   
-1. <span data-ttu-id="87b53-106">A Microsoft 365 Vállalati felügyeleti központban válassza az **Eszközök** \> **AutoPilot**lehetőséget.</span><span class="sxs-lookup"><span data-stu-id="87b53-106">In the Microsoft 365 Business Admin center, choose **Devices** \> **AutoPilot**.</span></span>
+1. <span data-ttu-id="3359a-106">A Microsoft 365 Vállalati felügyeleti központban válassza az **Eszközök** \> **AutoPilot**lehetőséget.</span><span class="sxs-lookup"><span data-stu-id="3359a-106">In the Microsoft 365 Business Admin center, choose **Devices** \> **AutoPilot**.</span></span>
   
-2. <span data-ttu-id="87b53-107">Az **AutoPilot** lapon válassza \*\*\*\* a \> Profilok lapot **Profil létrehozása**.</span><span class="sxs-lookup"><span data-stu-id="87b53-107">On the **AutoPilot** page, choose the **Profiles** tab \> **Create profile**.</span></span>
+2. <span data-ttu-id="3359a-107">Az **AutoPilot** lapon válassza \*\*\*\* a \> Profilok lapot **Profil létrehozása**.</span><span class="sxs-lookup"><span data-stu-id="3359a-107">On the **AutoPilot** page, choose the **Profiles** tab \> **Create profile**.</span></span>
     
-3. <span data-ttu-id="87b53-108">A **Profil létrehozása** lapon adja meg a profil nevét, amely segít azonosítani azt, például a Marketing.</span><span class="sxs-lookup"><span data-stu-id="87b53-108">On the **Create profile** page, enter a name for the profile that helps you identify it, for example Marketing.</span></span> <span data-ttu-id="87b53-109">Kapcsolja be a kívánt beállítást, majd kattintson a **Mentés gombra.**</span><span class="sxs-lookup"><span data-stu-id="87b53-109">Turn on the setting you want, and then choose **Save**.</span></span> <span data-ttu-id="87b53-110">Az AutoPilot profilbeállításairól további információt [az AutoPilot-profil beállításairól című témakörben](autopilot-profile-settings.md)talál.</span><span class="sxs-lookup"><span data-stu-id="87b53-110">For more information about AutoPilot profile settings, see [About AutoPilot Profile settings](autopilot-profile-settings.md).</span></span>
+3. <span data-ttu-id="3359a-108">A **Profil létrehozása** lapon adja meg a profil nevét, amely segít azonosítani azt, például a Marketing.</span><span class="sxs-lookup"><span data-stu-id="3359a-108">On the **Create profile** page, enter a name for the profile that helps you identify it, for example Marketing.</span></span> <span data-ttu-id="3359a-109">Kapcsolja be a kívánt beállítást, majd kattintson a **Mentés gombra.**</span><span class="sxs-lookup"><span data-stu-id="3359a-109">Turn on the setting you want, and then choose **Save**.</span></span> <span data-ttu-id="3359a-110">Az AutoPilot profilbeállításairól további információt [az AutoPilot-profil beállításairól című témakörben](autopilot-profile-settings.md)talál.</span><span class="sxs-lookup"><span data-stu-id="3359a-110">For more information about AutoPilot profile settings, see [About AutoPilot Profile settings](autopilot-profile-settings.md).</span></span>
     
-    ![Enter name and turn on settings in the Create profile panel.](media/63b5a00d-6a5d-48d0-9557-e7531e80702a.png)
+    ![Enter name and turn on settings in the Create profile panel.](../media/63b5a00d-6a5d-48d0-9557-e7531e80702a.png)
   
-### <a name="apply-profile-to-a-device"></a><span data-ttu-id="87b53-112">Profil alkalmazása eszközre</span><span class="sxs-lookup"><span data-stu-id="87b53-112">Apply profile to a device</span></span>
+### <a name="apply-profile-to-a-device"></a><span data-ttu-id="3359a-112">Profil alkalmazása eszközre</span><span class="sxs-lookup"><span data-stu-id="3359a-112">Apply profile to a device</span></span>
 
-<span data-ttu-id="87b53-113">Miután létrehozott egy profilt, alkalmazhatja azt egy eszközre vagy eszközcsoportra.</span><span class="sxs-lookup"><span data-stu-id="87b53-113">After you create a profile, you can apply it to a device or a group of devices.</span></span> <span data-ttu-id="87b53-114">A [részletes útmutatóban](add-autopilot-devices-and-profile.md) kiválaszthatja a meglévő profilt, és alkalmazhatja azt új eszközökre, vagy lecserélhet egy meglévő profilt egy eszközre vagy eszközcsoportra.</span><span class="sxs-lookup"><span data-stu-id="87b53-114">You can pick an existing profile in the [step-by-step guide](add-autopilot-devices-and-profile.md) and apply it to new devices, or replace an existing profile for a device or group of devices.</span></span> 
+<span data-ttu-id="3359a-113">Miután létrehozott egy profilt, alkalmazhatja azt egy eszközre vagy eszközcsoportra.</span><span class="sxs-lookup"><span data-stu-id="3359a-113">After you create a profile, you can apply it to a device or a group of devices.</span></span> <span data-ttu-id="3359a-114">A [részletes útmutatóban](add-autopilot-devices-and-profile.md) kiválaszthatja a meglévő profilt, és alkalmazhatja azt új eszközökre, vagy lecserélhet egy meglévő profilt egy eszközre vagy eszközcsoportra.</span><span class="sxs-lookup"><span data-stu-id="3359a-114">You can pick an existing profile in the [step-by-step guide](add-autopilot-devices-and-profile.md) and apply it to new devices, or replace an existing profile for a device or group of devices.</span></span> 
   
-1. <span data-ttu-id="87b53-115">**A Windows előkészítése** lapon válassza az **Eszközök** fület.</span><span class="sxs-lookup"><span data-stu-id="87b53-115">On the **Prepare Windows** page, choose the **Devices** tab.</span></span> 
+1. <span data-ttu-id="3359a-115">**A Windows előkészítése** lapon válassza az **Eszközök** fület.</span><span class="sxs-lookup"><span data-stu-id="3359a-115">On the **Prepare Windows** page, choose the **Devices** tab.</span></span> 
     
-2. <span data-ttu-id="87b53-116">Jelölje be az eszköznév melletti jelölőnégyzetet, és az **Eszköz** panelen válasszon egy profilt a **Hozzárendelt profil** legördülő \> **listából Mentés**.</span><span class="sxs-lookup"><span data-stu-id="87b53-116">Select the check box next to a device name, and in the **Device** panel, choose a profile from the **Assigned profile** drop-down list \> **Save**.</span></span>
+2. <span data-ttu-id="3359a-116">Jelölje be az eszköznév melletti jelölőnégyzetet, és az **Eszköz** panelen válasszon egy profilt a **Hozzárendelt profil** legördülő \> **listából Mentés**.</span><span class="sxs-lookup"><span data-stu-id="3359a-116">Select the check box next to a device name, and in the **Device** panel, choose a profile from the **Assigned profile** drop-down list \> **Save**.</span></span>
     
-    ![In the Device panel, select an Assigned profile to apply it.](media/ed0ce33f-9241-4403-a5de-2dddffdc6fb9.png)
+    ![In the Device panel, select an Assigned profile to apply it.](../media/ed0ce33f-9241-4403-a5de-2dddffdc6fb9.png)
   
-## <a name="edit-delete-or-remove-a-profile"></a><span data-ttu-id="87b53-118">Profil szerkesztése, törlése vagy eltávolítása</span><span class="sxs-lookup"><span data-stu-id="87b53-118">Edit, delete, or remove a profile</span></span>
+## <a name="edit-delete-or-remove-a-profile"></a><span data-ttu-id="3359a-118">Profil szerkesztése, törlése vagy eltávolítása</span><span class="sxs-lookup"><span data-stu-id="3359a-118">Edit, delete, or remove a profile</span></span>
 
-<span data-ttu-id="87b53-p103">Miután hozzárendelt egy profilt egy eszközhöz, frissítheti azt még akkor is, ha már odaadta az eszközt egy felhasználónak. Amikor az eszköz csatlakozik az internethez, a beállítási folyamat során letölti a profil legújabb verzióját. Ha a felhasználó visszaállítja az eszköz gyári alapértelmezett beállításait, az eszköz ismét le fogja tölteni a profil legújabb frissítéseit.</span><span class="sxs-lookup"><span data-stu-id="87b53-p103">Once you've assigned a profile to a device, you can update it, even if you've already given the device to a user. When the device connects to the internet, it downloads the latest version of your profile during the setup process. If the user restores their device to its factory default settings, the device will again download the latest updates to your profile.</span></span> 
+<span data-ttu-id="3359a-p103">Miután hozzárendelt egy profilt egy eszközhöz, frissítheti azt még akkor is, ha már odaadta az eszközt egy felhasználónak. Amikor az eszköz csatlakozik az internethez, a beállítási folyamat során letölti a profil legújabb verzióját. Ha a felhasználó visszaállítja az eszköz gyári alapértelmezett beállításait, az eszköz ismét le fogja tölteni a profil legújabb frissítéseit.</span><span class="sxs-lookup"><span data-stu-id="3359a-p103">Once you've assigned a profile to a device, you can update it, even if you've already given the device to a user. When the device connects to the internet, it downloads the latest version of your profile during the setup process. If the user restores their device to its factory default settings, the device will again download the latest updates to your profile.</span></span> 
   
-### <a name="edit-a-profile"></a><span data-ttu-id="87b53-122">Profil szerkesztése</span><span class="sxs-lookup"><span data-stu-id="87b53-122">Edit a profile</span></span>
+### <a name="edit-a-profile"></a><span data-ttu-id="3359a-122">Profil szerkesztése</span><span class="sxs-lookup"><span data-stu-id="3359a-122">Edit a profile</span></span>
 
-1. <span data-ttu-id="87b53-123">**A Windows előkészítése** lapon válassza a **Profilok** fület.</span><span class="sxs-lookup"><span data-stu-id="87b53-123">On the **Prepare Windows** page, choose the **Profiles** tab.</span></span> 
+1. <span data-ttu-id="3359a-123">**A Windows előkészítése** lapon válassza a **Profilok** fület.</span><span class="sxs-lookup"><span data-stu-id="3359a-123">On the **Prepare Windows** page, choose the **Profiles** tab.</span></span> 
     
-2. <span data-ttu-id="87b53-124">Jelölje be az eszközneve melletti jelölőnégyzetet, és a **Profil** panelen frissítse a rendelkezésre álló beállítások \> bármelyikét **Mentés**.</span><span class="sxs-lookup"><span data-stu-id="87b53-124">Select the check box next to a device name, and in the **Profile** panel, update any of the available settings \> **Save**.</span></span>
+2. <span data-ttu-id="3359a-124">Jelölje be az eszközneve melletti jelölőnégyzetet, és a **Profil** panelen frissítse a rendelkezésre álló beállítások \> bármelyikét **Mentés**.</span><span class="sxs-lookup"><span data-stu-id="3359a-124">Select the check box next to a device name, and in the **Profile** panel, update any of the available settings \> **Save**.</span></span>
     
-    <span data-ttu-id="87b53-125">Ha ezt azelőtt végzi el, hogy a felhasználó csatlakoztatná az eszközt az internetre, akkor a profilt a rendszer alkalmazza a beállítási folyamatra.</span><span class="sxs-lookup"><span data-stu-id="87b53-125">If you do this before a user connects the device to the internet, then the profile gets applied to the setup process.</span></span>
+    <span data-ttu-id="3359a-125">Ha ezt azelőtt végzi el, hogy a felhasználó csatlakoztatná az eszközt az internetre, akkor a profilt a rendszer alkalmazza a beállítási folyamatra.</span><span class="sxs-lookup"><span data-stu-id="3359a-125">If you do this before a user connects the device to the internet, then the profile gets applied to the setup process.</span></span>
     
-### <a name="delete-a-profile"></a><span data-ttu-id="87b53-126">Profil törlése</span><span class="sxs-lookup"><span data-stu-id="87b53-126">Delete a profile</span></span>
+### <a name="delete-a-profile"></a><span data-ttu-id="3359a-126">Profil törlése</span><span class="sxs-lookup"><span data-stu-id="3359a-126">Delete a profile</span></span>
 
-1. <span data-ttu-id="87b53-127">**A Windows előkészítése** lapon válassza a **Profilok** fület.</span><span class="sxs-lookup"><span data-stu-id="87b53-127">On the **Prepare Windows** page, choose the **Profiles** tab.</span></span> 
+1. <span data-ttu-id="3359a-127">**A Windows előkészítése** lapon válassza a **Profilok** fület.</span><span class="sxs-lookup"><span data-stu-id="3359a-127">On the **Prepare Windows** page, choose the **Profiles** tab.</span></span> 
     
-2. <span data-ttu-id="87b53-128">Jelölje be az eszközneve melletti jelölőnégyzetet, majd a **Profil panelen** válassza a \> Profil **mentése** **törlése lehetőséget.**</span><span class="sxs-lookup"><span data-stu-id="87b53-128">Select the check box next to a device name, and in the **Profile** panel, select **Delete profile** \> **Save**.</span></span>
+2. <span data-ttu-id="3359a-128">Jelölje be az eszközneve melletti jelölőnégyzetet, majd a **Profil panelen** válassza a \> Profil **mentése** **törlése lehetőséget.**</span><span class="sxs-lookup"><span data-stu-id="3359a-128">Select the check box next to a device name, and in the **Profile** panel, select **Delete profile** \> **Save**.</span></span>
     
-    <span data-ttu-id="87b53-129">A törléssel a profilt eltávolítja arról az eszközről vagy abból az eszközcsoportból, amelyhez hozzá volt rendelve.</span><span class="sxs-lookup"><span data-stu-id="87b53-129">When you delete a profile, it gets removed from a device or a group of devices it was assigned to.</span></span>
+    <span data-ttu-id="3359a-129">A törléssel a profilt eltávolítja arról az eszközről vagy abból az eszközcsoportból, amelyhez hozzá volt rendelve.</span><span class="sxs-lookup"><span data-stu-id="3359a-129">When you delete a profile, it gets removed from a device or a group of devices it was assigned to.</span></span>
     
-### <a name="remove-a-profile"></a><span data-ttu-id="87b53-130">Profil eltávolítása</span><span class="sxs-lookup"><span data-stu-id="87b53-130">Remove a profile</span></span>
+### <a name="remove-a-profile"></a><span data-ttu-id="3359a-130">Profil eltávolítása</span><span class="sxs-lookup"><span data-stu-id="3359a-130">Remove a profile</span></span>
 
-1. <span data-ttu-id="87b53-131">**A Windows előkészítése** lapon válassza az **Eszközök** fület.</span><span class="sxs-lookup"><span data-stu-id="87b53-131">On the **Prepare Windows** page, choose the **Devices** tab.</span></span> 
+1. <span data-ttu-id="3359a-131">**A Windows előkészítése** lapon válassza az **Eszközök** fület.</span><span class="sxs-lookup"><span data-stu-id="3359a-131">On the **Prepare Windows** page, choose the **Devices** tab.</span></span> 
     
-2. <span data-ttu-id="87b53-132">Jelölje be az eszköznév melletti jelölőnégyzetet, és az **Eszköz** panelen válassza a \> **Hozzárendelési profil** mentés i. listájának Nincs **elemét.** \*\*\*\*</span><span class="sxs-lookup"><span data-stu-id="87b53-132">Select the check box next to a device name, and in the **Device** panel, choose **None** from the **Assigned profile** drop-down list \> **Save**.</span></span>
+2. <span data-ttu-id="3359a-132">Jelölje be az eszköznév melletti jelölőnégyzetet, és az **Eszköz** panelen válassza a \> **Hozzárendelési profil** mentés i. listájának Nincs **elemét.** \*\*\*\*</span><span class="sxs-lookup"><span data-stu-id="3359a-132">Select the check box next to a device name, and in the **Device** panel, choose **None** from the **Assigned profile** drop-down list \> **Save**.</span></span>
     
