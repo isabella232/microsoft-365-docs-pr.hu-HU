@@ -11,12 +11,12 @@ localization_priority: Normal
 audience: microsoft-business 
 keywords: Microsoft 365 Vállalati verzió, Microsoft 365, SMB, átmeneti CSP-előfizetés
 ms.date: 11/01/2017
-ms.openlocfilehash: 4aadfa24bec8728c7e011ac6da48a8e30516e145
-ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
+ms.openlocfilehash: 7d8e04a0136f86d3c4bb51208081fd1dcbecf59d
+ms.sourcegitcommit: 3dd9944a6070a7f35c4bc2b57df397f844c3fe79
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 01/29/2020
-ms.locfileid: "41595045"
+ms.lasthandoff: 02/15/2020
+ms.locfileid: "42057250"
 ---
 # <a name="transition-a-microsoft-365-business-csp-subscription"></a>Microsoft 365 Vállalati csp-előfizetés váltása
 
@@ -29,33 +29,33 @@ Ha Microsoft 365 Vállalati előzetes verziós kripta-előfizetéssel rendelkezi
 
     A vállalat előfizetései fel lesznek sorolva.
 
-    ![Az ügyfél előfizetései a Partnerközpontban](images/pc_customer_subscriptions_1.png)
+    ![Az ügyfél előfizetései a Partnerközpontban](../../media/pc_customer_subscriptions_1.png)
     
 3. A vállalat **Előfizetések** lapján válassza az **Előfizetés hozzáadása**lehetőséget.
 4. Az **Új előfizetés** lapon válassza a **Kisvállalkozás** lehetőséget, majd a Listából válassza a **Microsoft 365 Business** lehetőséget.
 5. Adja meg a licencek számát, majd válassza a **Tovább: Véleményezés lehetőséget** az előfizetés áttekintéséhez, majd válassza a **Küldés**lehetőséget.
 
-    ![Tekintse át a Microsoft 365 Business új előfizetését](images/pc_customer_reviewnewsubscription.png)
+    ![Tekintse át a Microsoft 365 Business új előfizetését](../../media/pc_customer_reviewnewsubscription.png)
 
     A **licencalapú előfizetések** a **Microsoft 365 Business Preview** és a Microsoft **365 Business**előzetes verziót jelenítik meg. Ezután felfüggeszti az előzetes verziós előfizetést.
 
 6. Válassza a **Microsoft 365 Üzleti előzetes verzió**lehetőséget.
 7. A **Microsoft 365 Üzleti előzetes verzió** lapján válassza a **Felfüggesztett** lehetőséget az előzetes verziós előfizetés felfüggesztéséhez.
 
-    ![A Microsoft 365 Business Preview előfizetés felfüggesztése](images/pc_customer_m365bpreview_suspend.png)
+    ![A Microsoft 365 Business Preview előfizetés felfüggesztése](../../media/pc_customer_m365bpreview_suspend.png)
 
 8. Válassza a **Megerősítés beküldése** lehetőséget.
 
     Az **Előfizetések** lapon ellenőrizze, hogy a **Microsoft 365 Vállalati előzetes verzió** állapota **felfüggesztés.**
 
-    ![Az előzetes verzióelőfizetés állapotának felfüggesztése](images/pc_customer_m365bpreview_suspend_confirm.png)
+    ![Az előzetes verzióelőfizetés állapotának felfüggesztése](../../media/pc_customer_m365bpreview_suspend_confirm.png)
 
 9. Szükség esetén érvényesítheti a licencszerződést is. Ehhez kövesse az alábbi lépéseket:
     1. Válassza a **Felhasználók és licencek** lehetőséget a vállalat **Előfizetések** lapján.
     2. A **Felhasználók és licencek** lapon jelöljön ki egy felhasználót.
     3. A felhasználó oldalán ellenőrizze a **Licencek hozzárendelése** szakaszt, és ellenőrizze, hogy a **Microsoft 365 Vállalati verzió látható-e.**
 
-        ![Annak ellenőrzése, hogy a Microsoft 365 Vállalati verzió licenc hozzá van rendelve a felhasználóhoz](images/pc_customer_userslicenses_m365b_validate.png)
+        ![Annak ellenőrzése, hogy a Microsoft 365 Vállalati verzió licenc hozzá van rendelve a felhasználóhoz](../../media/pc_customer_userslicenses_m365b_validate.png)
 
 ## <a name="impact-to-customers-and-users-during-and-after-transition"></a>Az ügyfelekre és a felhasználókra gyakorolt hatás az átmenet alatt és után
 
