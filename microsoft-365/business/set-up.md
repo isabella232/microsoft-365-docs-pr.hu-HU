@@ -28,12 +28,12 @@ search.appverid:
 - MET150
 ms.assetid: 6e7a2dfd-8ec4-4eb7-8390-3ee103e5fece
 description: További információ a Microsoft 365 Vállalati verzió beállításáról.
-ms.openlocfilehash: c370a5b3fd735e704eea56ac1079bb2e5dad4c4b
-ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
+ms.openlocfilehash: a41d03c4f9e250cf3b16d11bf23897e31adaf866
+ms.sourcegitcommit: 3dd9944a6070a7f35c4bc2b57df397f844c3fe79
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 01/29/2020
-ms.locfileid: "41594269"
+ms.lasthandoff: 02/15/2020
+ms.locfileid: "42090876"
 ---
 # <a name="set-up-microsoft-365-business-in-the-setup-wizard"></a>A Microsoft 365 Business beállítása a telepítővarázslóban
 
@@ -45,7 +45,7 @@ Ha hasznosnak találta ezt a videót, tekintse meg a [teljes tanfolyamok kisvál
 
 ## <a name="add-your-domain-users-and-set-up-policies"></a>Tartomány, felhasználók hozzáadása és házirendek beállítása
 
-[![A megjelenő címke figyelmeztet a felügyeleti központ változásaira, további részleteket itt talál: aka.ms/aboutM365preview.](media/m365admincenterchanging.png)](https://docs.microsoft.com/office365/admin/microsoft-365-admin-center-preview)
+[![A megjelenő címke figyelmeztet a felügyeleti központ változásaira, további részleteket itt talál: aka.ms/aboutM365preview.](../media/m365admincenterchanging.png)](https://docs.microsoft.com/office365/admin/microsoft-365-admin-center-preview)
 
 A Microsoft 365 Business megvásárlásakor lehetősége van arra, hogy a saját tartományát használja, vagy a [regisztráció](sign-up.md)során vásároljon egyet.
 
@@ -57,7 +57,7 @@ A Microsoft 365 Business megvásárlásakor lehetősége van arra, hogy a saját
 
 2. A varázsló elindításához válassza az **Ugrás a beállításhoz** lehetőséget.
 
-    ![Válassza az Ugrás a beállításhoz lehetőséget.](media/gotosetupinadmincenter.png)
+    ![Válassza az Ugrás a beállításhoz lehetőséget.](../media/gotosetupinadmincenter.png)
 
 3. Az **Office-alkalmazások telepítése** lapon igény szerint telepítheti az alkalmazásokat a saját számítógépére.
     
@@ -66,14 +66,14 @@ A Microsoft 365 Business megvásárlásakor lehetősége van arra, hogy a saját
     > [!IMPORTANT]
     > Ha a regisztráció során vásárolt tartományt, itt nem jelenik meg a **Tartomány hozzáadása** lépés. Nyissa meg inkább a [Felhasználók hozzáadása](#add-users-and-assign-licenses) lehetőséget.
 
-    ![Képernyőkép a Bejelentkezési oldal személyre szabása lapról.](media/adddomain.png)
+    ![Képernyőkép a Bejelentkezési oldal személyre szabása lapról.](../media/adddomain.png)
 
     
 4. A varázsló lépéseit [követve dns-rekordokat hozhat létre bármely Olyan OFFICE 365-ös DNS-szolgáltatónál,](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) amely ellenőrzi, hogy Ön a tartomány tulajdonosa.Follow the steps in the wizard to Create DNS records at any DNS hosting provider for Office 365 that verifies you own the domain. Ha ismeri a tartományi állomást, olvassa el a [gazdagép specifikus utasításait.](https://docs.microsoft.com/office365/admin/get-help-with-domains/set-up-your-domain-host-specific-instructions)
 
     Ha a tárhelyszolgáltató godaddy vagy más, [tartományi kapcsolattal](https://docs.microsoft.com/office365/admin/get-help-with-domains/domain-connect)rendelkező gazdagép, a folyamat egyszerű, és a rendszer automatikusan megkéri, hogy jelentkezzen be, és hagyja, hogy a Microsoft hitelesítse magát az Ön nevében.
 
-    ![A GoDaddy Access megerősítése lapon válassza az Engedélyezés lehetőséget.](media/godaddyauth.png)
+    ![A GoDaddy Access megerősítése lapon válassza az Engedélyezés lehetőséget.](../media/godaddyauth.png)
 
 ### <a name="add-users-and-assign-licenses"></a>Felhasználók felvétele és licencek hozzárendelése
 
@@ -83,7 +83,7 @@ A varázslóban felhasználókat is felvehet, de később is [felvehet felhaszn�
 
 A varázslóban hozzáadott felhasználók automatikusan Microsoft 365 Vállalati licencet kapnak.
 
-![Képernyőkép az Új felhasználók hozzáadása lapról a varázslóban](media/addnewuserspage.png)
+![Képernyőkép az Új felhasználók hozzáadása lapról a varázslóban](../media/addnewuserspage.png)
 
 1. Ha a Microsoft 365 Business-előfizetése meglévő felhasználókkal rendelkezik (például ha az Azure AD Connectet használta), most lehetősége van licencek hozzárendelésére. Nyugodtan felvehet licenceket hozzájuk is.
 
@@ -101,7 +101,7 @@ A szolgáltatások beállításához frissítenie kell bizonyos rekordokat a DNS
     - Ha meglévő DNS-rekordokkal rendelkezik, például egy meglévő webhely, de a DNS-szolgáltató engedélyezve van a [tartománycsatlakozáshoz,](https://docs.microsoft.com/office365/admin/get-help-with-domains/domain-connect)válassza **a Rekordok hozzáadása számomra**lehetőséget. Az **Online szolgáltatások kiválasztása** lapon fogadja el az összes alapértelmezést, és válassza a **Tovább**gombot, és válassza a DNS-szolgáltató lapján az **Engedélyezés** lehetőséget.
     - Ha már rendelkezik DNS-rekordokkal más DNS-állomásokkal (nincs engedélyezve a tartománycsatlakozáshoz), akkor a meglévő szolgáltatások kapcsolatának biztosítása érdekében kezelje a saját DNS-rekordjait. További információ a [tartomány alapjaiban.](https://docs.microsoft.com/office365/admin/get-help-with-domains/dns-basics)
 
-        ![Rekordok aktiválása lap.](media/activaterecords.png)
+        ![Rekordok aktiválása lap.](../media/activaterecords.png)
 
 2. Kövesse a varázsló lépéseit, és az e-mailek és egyéb szolgáltatások beállítva lesznek.
 
@@ -111,14 +111,14 @@ A varázslóban beállított házirendek automatikusan érvénybe lépnek a *Min
 
 1. A **Fokozott védelem a fejlett kiberfenyegetésekkel kapcsolatban**ajánlott elfogadni az alapértelmezett beállításokat, hogy az [Office 365 Advance Threat Protection](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp) beszana fájlokat és hivatkozásokat az Office-alkalmazásokban.
 
-    ![Képernyőkép: Védelem növelése lap.](media/increasetreatprotection.png)
+    ![Képernyőkép: Védelem növelése lap.](../media/increasetreatprotection.png)
 
 
 2. A **Bizalmas adatok szivárgásának megakadályozása** lapon fogadja el az Office 365 adatveszteség-megelőzési (DLP) beállításának alapértelmezett beállításait a bizalmas adatok nyomon követéséhez az Office-alkalmazásokban, és megakadályozza ezek véletlen megosztását a szervezeten kívül.
 
 3. Az **Adatok védelme mobiloffice-ban** lapon hagyja bekapcsolva a mobilalkalmazás-felügyeletet, bontsa ki a beállításokat és tekintse át őket, majd válassza a **Mobilalkalmazás-kezelési szabályzat létrehozása**lehetőséget.
 
-    ![Képernyőkép: Adatok védelme a mobiloffice-ban lapon.](media/protectdatainmobile.png)
+    ![Képernyőkép: Adatok védelme a mobiloffice-ban lapon.](../media/protectdatainmobile.png)
 
 
 ## <a name="secure-windows-10-pcs"></a>Windows 10-es számítógépek biztonságossá tétele
