@@ -24,13 +24,13 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: 6e7a2dfd-8ec4-4eb7-8390-3ee103e5fece
-description: A Microsoft 365 Business beállítási lépéseinek áttekintése.
-ms.openlocfilehash: 07cbd4fd187f78474783db848ac9b69068d2b44a
-ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
+description: Ismerje meg a Microsoft 365 Business beállítási lépéseit, az előfizetéstől kezdve a tartomány és a felhasználók hozzáadásán át a biztonsági házirendek beállításáig stb.
+ms.openlocfilehash: 4c9c3ee4c45625cebe5d19eb03fcb6d90eb9243e
+ms.sourcegitcommit: ab916c216053999c9c4ef4838217e82cd861f23f
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 01/29/2020
-ms.locfileid: "41595065"
+ms.lasthandoff: 03/04/2020
+ms.locfileid: "42415565"
 ---
 # <a name="overview-of-setup"></a>A beállítás áttekintése
 

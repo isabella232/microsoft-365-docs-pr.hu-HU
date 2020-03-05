@@ -25,13 +25,13 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: da60e08e-2547-491a-9c97-94ac6d715623
-description: Információ a Windows 10-re vonatkozó eszközházirendekről, amelyek a szervezet összes felhasználójára vonatkoznak.
-ms.openlocfilehash: ef4d4cc64438c6cf3f1a2fec6e22ac679b4ffe10
-ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
+description: Ismerje meg, hogyan konfigurálja a Szervezet összes felhasználójára vonatkozó Windows 10-es eszközházirendeket, és biztosítsa, hogy biztonságos módon csatlakozzanak.
+ms.openlocfilehash: c6fd2aa76dd7af570bd5d78c6c457041e6a8d605
+ms.sourcegitcommit: ab916c216053999c9c4ef4838217e82cd861f23f
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 01/29/2020
-ms.locfileid: "41593354"
+ms.lasthandoff: 03/04/2020
+ms.locfileid: "42415585"
 ---
 # <a name="configure-windows-10-devices"></a>Windows 10-es eszközök konfigurálása
 

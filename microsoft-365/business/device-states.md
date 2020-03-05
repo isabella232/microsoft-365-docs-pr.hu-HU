@@ -23,13 +23,13 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: c3ac23c5-d4b4-4b1b-b7ce-ea759521bf8c
-description: További információ a Microsoft 365 Vállalati verzió eszközállapotáról.
-ms.openlocfilehash: 26b218cb7b6a14f17e33d34a2e712b06ac814c0c
-ms.sourcegitcommit: 3dd9944a6070a7f35c4bc2b57df397f844c3fe79
+description: Ismerje meg a Microsoft 365 Vállalati verzió Rendszergazdai kezdőlapjának Eszközműveletek listájában található különböző eszközállapotokat.
+ms.openlocfilehash: 878050fbe11acca1d5d434a5d2ab0b5b48510e45
+ms.sourcegitcommit: ab916c216053999c9c4ef4838217e82cd861f23f
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 02/15/2020
-ms.locfileid: "42065766"
+ms.lasthandoff: 03/04/2020
+ms.locfileid: "42415665"
 ---
 # <a name="device-states"></a>Eszközállapotok
 
