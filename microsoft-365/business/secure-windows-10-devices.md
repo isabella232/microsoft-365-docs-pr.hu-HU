@@ -19,18 +19,19 @@ ms.custom:
 - MiniMaven
 - MSB365
 - OKR_SMB_M365
+- MARVEL_SEO_MAR
 search.appverid:
 - BCS160
 - MET150
 - MOE150
 ms.assetid: 21e5551f-fa35-4f13-9418-f80d668b6a2b
 description: További információ a Windows 10-es eszközök által a munkahelyi vagy iskolai fiókba való bejelentkezéskor kapott alapértelmezett eszközházirend beállításainak konfigurálásáról.
-ms.openlocfilehash: fa780aa24dadab39b97dcbb298eee709f81ca42f
-ms.sourcegitcommit: ab916c216053999c9c4ef4838217e82cd861f23f
+ms.openlocfilehash: 6c9dcd308db2fa41bad5f907b3c5a35577ac61f1
+ms.sourcegitcommit: d6c871bf3f94d9299d22695f5dbaf25dc1bd6ff9
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/04/2020
-ms.locfileid: "42415635"
+ms.lasthandoff: 03/05/2020
+ms.locfileid: "42417246"
 ---
 # <a name="secure-windows-10-devices"></a>Windows 10-es eszközök védelme
 
