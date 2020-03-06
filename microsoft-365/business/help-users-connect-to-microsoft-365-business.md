@@ -20,18 +20,19 @@ ms.custom:
 - MiniMaven
 - MSB365
 - OKR_SMB_M365
+- MARVEL_SEO_MAR
 search.appverid:
 - BCS160
 - MET150
 - MOE150
 ms.assetid: f338e660-6483-4eef-acb9-53dee5bd4408
-description: Olvassa el, mire számíthat a Business Cloud Suite beállítása után.
-ms.openlocfilehash: 41055b02f0ca62aad27c2fd1838abac5f58832f4
-ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
+description: Olvassa el, mire számíthat a Business Cloud Suite beállítása után, és az alapértelmezett eszközszabályzatok készen állnak az alkalmazásra.
+ms.openlocfilehash: 7ec5a5e7e1f3fadbcdb8422ae041544436c185ed
+ms.sourcegitcommit: 41c0bc5cf50f4ca63b4286d1ea0f58ab82984b7a
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 01/29/2020
-ms.locfileid: "41593931"
+ms.lasthandoff: 03/05/2020
+ms.locfileid: "42547691"
 ---
 # <a name="help-users-connect-to-microsoft-365-business"></a>A felhasználók könnyebben kapcsolódhatnak a Microsoft 365 Businesshez
 

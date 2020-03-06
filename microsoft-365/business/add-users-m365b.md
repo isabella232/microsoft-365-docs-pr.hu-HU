@@ -20,17 +20,18 @@ ms.custom:
 - OKR_SMB_M365
 - TRN_M365B
 - OKR_SMB_Videos
+- MARVEL_SEO_MAR
 search.appverid:
 - BCS160
 - MET150
 ms.assetid: 96153102-1db1-4df8-bca5-38cea80b65ce
-description: Megtudhatja, hogy miként vehet fel új felhasználókat, hogyan biztosíthatja eszközeiket, és hogyan rendelhet szerepköröket a Microsoft 365 Vállalati verzióban.
-ms.openlocfilehash: a7893a8b070b37b7643a4d4e7de3e8ef2ec704f2
-ms.sourcegitcommit: 3dd9944a6070a7f35c4bc2b57df397f844c3fe79
+description: Ismerje meg az új felhasználók egyszerű hozzáadásának, eszközeik védelmének és a Microsoft 365 Vállalati verzióban betöltött szerepkörök hozzárendelésének lépéseit.
+ms.openlocfilehash: 574adbc6ae936d611c185681e99a3e9a516962aa
+ms.sourcegitcommit: 41c0bc5cf50f4ca63b4286d1ea0f58ab82984b7a
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 02/15/2020
-ms.locfileid: "42068595"
+ms.lasthandoff: 03/05/2020
+ms.locfileid: "42547771"
 ---
 # <a name="add-more-users-to-microsoft-365-business"></a>További felhasználók felvétele a Microsoft 365 Vállalati verzióba
 

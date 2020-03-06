@@ -19,17 +19,18 @@ ms.custom:
 - OKR_SMB_M365
 - TRN_M365B
 - OKR_SMB_Videos
+- MARVEL_SEO_MAR
 search.appverid:
 - MET150
 - MOE150
 ms.assetid: ffc4d886-9e1d-453d-a0d0-2f62f18635e2
-description: 'Megtudhatja, hogy miként frissítheti a Windows-eszközöket Windows 10 Pro rendszerre. '
-ms.openlocfilehash: 60ffb507e2a572d0ca52d7adf2db70ea6cb446f2
-ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
+description: Fedezze fel a Windows-eszközök Windows 10 Pro rendszerre való frissítésének számos módját, hogy fejlettebb biztonsági és üzleti hálózati funkciókat élvezhessen.
+ms.openlocfilehash: 0668945d107be7abc0698035fa458e1c805c7201
+ms.sourcegitcommit: 41c0bc5cf50f4ca63b4286d1ea0f58ab82984b7a
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 01/29/2020
-ms.locfileid: "41594188"
+ms.lasthandoff: 03/05/2020
+ms.locfileid: "42547491"
 ---
 # <a name="upgrade-windows-devices-to-windows-10-pro"></a>Windows-eszközök frissítése Windows 10 Pro rendszerre
 

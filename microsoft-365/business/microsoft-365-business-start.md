@@ -21,17 +21,18 @@ ms.custom:
 - OKR_SMB_M365
 - TRN_M365B
 - OKR_SMB_Videos
+- MARVEL_SEO_MAR
 search.appverid:
 - BCS160
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
-description: További információ a Microsoft 365 Vállalati verzió beállításához.
-ms.openlocfilehash: 5491486c2bf8da1ee38fcd986d5ecd682d57c82e
-ms.sourcegitcommit: 3dd9944a6070a7f35c4bc2b57df397f844c3fe79
+description: Ismerje meg a Microsoft 365 Vállalati verziót, a beállításmódját, valamint a felhasználói eszközök és számítógépek előkészítését annak érdekében, hogy a Microsoft 365 Business védje őket.
+ms.openlocfilehash: f6fd73762c0b57777c19d32886f758875e2e7e6a
+ms.sourcegitcommit: 41c0bc5cf50f4ca63b4286d1ea0f58ab82984b7a
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 02/15/2020
-ms.locfileid: "42065611"
+ms.lasthandoff: 03/05/2020
+ms.locfileid: "42547731"
 ---
 # <a name="get-started-with-microsoft-365-business"></a>A Microsoft 365 Business használatbavétele
 
@@ -97,7 +98,7 @@ Ha szervezete a helyszínen használja a Windows Server Active Directoryt, beál
 Ha megtart egy helyi Active Directoryt, amely tartalmaz néhány helyszíni erőforrást (például fájlmegosztásokat és nyomtatókat), az **Azure AD-hez csatlakozott eszközeinek** hozzáférést biztosíthat ezekhez az erőforrásokhoz az alábbi lépéseket követve: [Helyszíni erőforrások elérése egy Azure AD-hez csatlakozó eszközről a Microsoft 365 Business](access-resources.md)programban.
   
   
-## <a name="contact-support"></a>Lépjen kapcsolatba a támogatási szolgálattal.
+## <a name="contact-support"></a>Ügyfélszolgálat
 
  **Ha kapcsolatba szeretne lépni az ügyfélszolgálattal:**
   

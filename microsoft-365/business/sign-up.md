@@ -20,16 +20,17 @@ ms.custom:
 - OKR_SMB_M365
 - TRN_M365B
 - OKR_SMB_Videos
+- MARVEL_SEO_MAR
 search.appverid:
 - BCS160
 - MET150
-description: További információ a Microsoft 365 Vállalati verzió megvásárlásáról és regisztrációról.
-ms.openlocfilehash: 63bff3d34df017d1c7cc437ef050d53623e76aa9
-ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
+description: Ismerje meg, hogy mit tartalmaz a Microsoft 365 Business, és részletes útmutatást kaphat a Microsoft 365 Business szolgáltatásra való feliratkozáshoz.
+ms.openlocfilehash: 003bf332a9183a5e062a294297a30c9b7d19fdb9
+ms.sourcegitcommit: 41c0bc5cf50f4ca63b4286d1ea0f58ab82984b7a
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 01/29/2020
-ms.locfileid: "41594248"
+ms.lasthandoff: 03/05/2020
+ms.locfileid: "42547831"
 ---
 # <a name="sign-up-for-microsoft-365-business"></a>Regisztráció a Microsoft 365 Vállalati verzióra
 
