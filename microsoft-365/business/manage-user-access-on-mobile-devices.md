@@ -19,18 +19,19 @@ ms.custom:
 - Core_O365Admin_Migration
 - MiniMaven
 - MSB365
+- MARVEL_SEO_MAR
 search.appverid:
 - BCS160
 - MET150
 - MOE150
 ms.assetid: aa31319c-9196-48c9-a90b-4057e0494c7a
-description: Ismerje meg a védelmi szabályzatokat, amelyek segítségével biztonságos hozzáférést biztosíthat nak az Office-alkalmazásokhoz mobileszközökről.
-ms.openlocfilehash: 39d28a3a78fb06d0020c484b1782b544f6a8c656
-ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
+description: Információ a védelmi szabályzatokról, amelyek lehetővé teszik annak kezelését, hogy a felhasználók hogyan férnek hozzá az Office-alkalmazásokhoz és a munkahelyi fájlokhoz mobileszközökről.
+ms.openlocfilehash: 21e83114664d06aaeb27b08d9f4e2153eea02030
+ms.sourcegitcommit: 26e4d5091583765257b7533b5156daa373cd19fe
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 01/29/2020
-ms.locfileid: "41593821"
+ms.lasthandoff: 03/06/2020
+ms.locfileid: "42550317"
 ---
 # <a name="manage-how-users-access-office-documents-on-mobile-devices"></a>Office-dokumentumok felhasználói mobileszközökön történő elérésének felügyelete
 

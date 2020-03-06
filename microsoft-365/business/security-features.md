@@ -17,17 +17,18 @@ ms.custom:
 - MiniMaven
 - MSB365
 - OKR_SMB_M365
+- MARVEL_SEO_MAR
 search.appverid:
 - BCS160
 - MET150
 ms.assetid: c123694a-1efb-459e-a8d5-2187975373dc
-description: Ismerje meg a Microsoft 365 Business biztonsági szolgáltatásait.
-ms.openlocfilehash: e5f67d70c5a8f22e95b60a229d68ae12574d0036
-ms.sourcegitcommit: 3dd9944a6070a7f35c4bc2b57df397f844c3fe79
+description: Ismerje meg a Microsoft 365 Business biztonsági szolgáltatásait, amelyek segítenek megvédeni az adatokat pc-ken, telefonokon és táblagépeken.
+ms.openlocfilehash: eb92131cc937875615342b2b0d39c78d51a8a99f
+ms.sourcegitcommit: 26e4d5091583765257b7533b5156daa373cd19fe
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 02/15/2020
-ms.locfileid: "42064802"
+ms.lasthandoff: 03/06/2020
+ms.locfileid: "42550037"
 ---
 # <a name="microsoft-365-business-security-and-compliance-features"></a>A Microsoft 365 vállalati biztonsági és megfelelőségi szolgáltatásai
 

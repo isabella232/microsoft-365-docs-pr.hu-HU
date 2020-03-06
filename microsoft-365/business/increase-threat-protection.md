@@ -16,16 +16,17 @@ ms.custom:
 - MiniMaven
 - MSB365
 - OKR_SMB_M365
+- MARVEL_SEO_MAR
 search.appverid:
 - BCS160
 - MET150
-description: Állítsa be az Office 365 komplex veszélyforrások elleni védelmet, és védje a bizalmas adatokat.
-ms.openlocfilehash: 191e1ad301e12ae45fe3a5d6d990d2357c5d0bab
-ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
+description: Állítsa be az Office 365 komplex veszélyforrások elleni védelmet, és védje a bizalmas adatokat az adathalászattól, a rosszindulatú programoktól és más fenyegetésektől.
+ms.openlocfilehash: 9d7bae60091c87fa0246a697f2a49e1cbc6e2f06
+ms.sourcegitcommit: 26e4d5091583765257b7533b5156daa373cd19fe
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 01/29/2020
-ms.locfileid: "41593881"
+ms.lasthandoff: 03/06/2020
+ms.locfileid: "42550357"
 ---
 # <a name="increase-threat-protection"></a>A fenyegetésvédelem növelése
 
@@ -76,7 +77,7 @@ Levélátviteli szabály létrehozása:
     
 5. Alkalmazza a következő táblázatban szereplő beállításokat a szabályhoz. A többi beállítás alapértelmezett értékeit használja, hacsak nem szeretné módosítani őket.
     
-6. Válassza a **Mentés** lehetőséget.
+6. Válassza a **Mentés** gombot.
     
 |**Beállítás**|**A felhasználók figyelmeztetése az Office-fájlok mellékleteinek megnyitása előtt**||
 |:-----|:-----|:-----|
@@ -108,7 +109,7 @@ Levélátviteli szabály létrehozásához tekintse meg [ezt a rövid videót,](
     
 5. Alkalmazza a beállításokat az alábbi táblázatban. A többi beállítás alapértelmezett értékeit használja, hacsak nem szeretné módosítani őket.
     
-6. Válassza a **Mentés** lehetőséget.
+6. Válassza a **Mentés** gombot.
     
 |**Beállítás**|**A felhasználók figyelmeztetése az Office-fájlok mellékleteinek megnyitása előtt**|
 |:-----|:-----|
@@ -208,7 +209,7 @@ Az alapértelmezett házirend módosítása:
     
 2. A **levelezésen kívül álló tartalmakra vonatkozó beállítások**csoportban válassza az Office **365 ProPlus,** az iOS és az Android Office lehetőséget.
     
-3. Válassza a **Mentés** lehetőséget. 
+3. Válassza a **Mentés** gombot. 
     
 Új házirend létrehozása, amely a tartomány összes címzettjét célozza meg:
   
@@ -216,7 +217,7 @@ Az alapértelmezett házirend módosítása:
     
 2. Alkalmazza az alábbi táblázatban felsorolt beállításokat.
     
-3. Válassza a **Mentés** lehetőséget. 
+3. Válassza a **Mentés** gombot. 
 
 |**Beállítás vagy beállítás**|**Ajánlott beállítás** <br/>|
 |:-----|:-----|

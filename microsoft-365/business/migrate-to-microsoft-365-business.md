@@ -17,17 +17,18 @@ ms.custom:
 - MiniMaven
 - MSB365
 - OKR_SMB_M365
+- MARVEL_SEO_MAR
 search.appverid:
 - BCS160
 - MET150
 ms.assetid: 5b4ba843-24b8-4526-8e1f-f9b9eab89d06
-description: A vállalkozást az Office 365 Vállalati Prémium verzióról a Microsoft 365 Vállalati verzióra frissítő diár.
-ms.openlocfilehash: e17ac2658c7276ba4a77de371847343866815c42
-ms.sourcegitcommit: 3dd9944a6070a7f35c4bc2b57df397f844c3fe79
+description: Ismerje meg, mi a különbség az Office 365 Vállalati prémium verzió és a Microsoft 365 Vállalati verzió között, és hogyan frissíthet a Microsoft 365 Vállalati verzióra.
+ms.openlocfilehash: aef2dfbc76716ca0d2cbaf7d218e5b5736081344
+ms.sourcegitcommit: 26e4d5091583765257b7533b5156daa373cd19fe
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 02/15/2020
-ms.locfileid: "42065279"
+ms.lasthandoff: 03/06/2020
+ms.locfileid: "42550287"
 ---
 # <a name="upgrade-to-microsoft-365-business-from-office-365-business-premium"></a>Frissítés a Microsoft 365 Vállalati verzióra az Office 365 Vállalati prémium verzióról
 

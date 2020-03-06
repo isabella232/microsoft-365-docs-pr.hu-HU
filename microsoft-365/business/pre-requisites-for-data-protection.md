@@ -15,23 +15,24 @@ ms.custom:
 - MiniMaven
 - MSB365
 - OKR_SMB_M365
+- MARVEL_SEO_MAR
 search.appverid:
 - BCS160
 - MET150
 ms.assetid: 7770e280-3a6c-436f-a157-b008a2744f51
-description: Ismerje meg a szervezet microsoft 365 Vállalati verzióval való beállításának előfeltételeit.
-ms.openlocfilehash: 3ca0433faaaeacbe6e0d2c88c820ebad19afec51
-ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
+description: Ismerje meg a szervezet Microsoft 365 Business szolgáltatással való beállításának követelményeit, valamint a munkahelyi adatok védelmét a felhasználók eszközein.
+ms.openlocfilehash: 9e35e3b1cd4f0df1c5852b0fec407a99c9bcf4f4
+ms.sourcegitcommit: 26e4d5091583765257b7533b5156daa373cd19fe
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 01/29/2020
-ms.locfileid: "41593639"
+ms.lasthandoff: 03/06/2020
+ms.locfileid: "42550187"
 ---
 # <a name="prerequisites-for-protecting-data-on-devices-with-microsoft-365-business"></a>Az adatok védelmének előfeltételei az eszközökön a Microsoft 365 Business segítségével
 
 A szervezet Microsoft 365 Business szolgáltatással való beállításának első lépése, hogy megbizonyosodjon arról, hogy megfelel az előfeltételeknek.
   
-## <a name="prerequisites"></a>Előfeltételek
+## <a name="requirements-for-setting-up-your-organization-with-microsoft-365-business"></a>A szervezet microsoft 365 Vállalati verzióval való beállításának követelményei
 
 - A windowsos eszközöknek Windows 7 Professional, Windows 8 Pro vagy Windows 8.1 Pro operációs rendszert kell futtatniuk.
     

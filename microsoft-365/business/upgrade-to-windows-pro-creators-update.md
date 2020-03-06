@@ -24,13 +24,13 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: ffc4d886-9e1d-453d-a0d0-2f62f18635e2
-description: Fedezze fel a Windows-eszközök Windows 10 Pro rendszerre való frissítésének számos módját, hogy fejlettebb biztonsági és üzleti hálózati funkciókat élvezhessen.
-ms.openlocfilehash: 0668945d107be7abc0698035fa458e1c805c7201
-ms.sourcegitcommit: 41c0bc5cf50f4ca63b4286d1ea0f58ab82984b7a
+description: Fedezze fel, hogyan frissítheti Windows-eszközeit Windows 10 Pro rendszerre, hogy fejlettebb biztonsági és üzleti hálózati funkciókat használhasson.
+ms.openlocfilehash: 541169571fb9f58c7f75f610546ec250ffd40afb
+ms.sourcegitcommit: 26e4d5091583765257b7533b5156daa373cd19fe
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "42547491"
+ms.lasthandoff: 03/06/2020
+ms.locfileid: "42549937"
 ---
 # <a name="upgrade-windows-devices-to-windows-10-pro"></a>Windows-eszközök frissítése Windows 10 Pro rendszerre
 
@@ -59,6 +59,6 @@ Lásd: [Windows-eszközök beállítása a Microsoft 365 Vállalati verzió felh
   
 Lásd: [Mobileszközök beállítása a Microsoft 365 Vállalati verzió felhasználói számára](set-up-mobile-devices.md) az Android- és iOS-eszközök beállításának befejezéséhez. 
   
-## <a name="see-also"></a>Lásd még
+## <a name="for-more-on-setting-up-and-using-microsoft-365-business"></a>További információk a Microsoft 365 Business beállításával és használatával kapcsolatos
 
 [Microsoft 365 Vállalati verziós oktatóvideók](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)

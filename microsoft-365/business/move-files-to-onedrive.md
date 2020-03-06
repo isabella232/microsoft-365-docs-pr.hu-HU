@@ -23,12 +23,12 @@ search.appverid:
 - MET150
 ms.assetid: eb8244aa-a302-481a-b2b5-d34e88b18ec7
 description: Megtudhatja, hogy miként helyezheti át személyes munkahelyi fájljait és bizalmas vállalati fájljait a OneDrive Vállalati verzióba néhány egyszerű lépésben.
-ms.openlocfilehash: 2f4e21096570e1b830a7a8ceee87d652abb9448f
-ms.sourcegitcommit: 41c0bc5cf50f4ca63b4286d1ea0f58ab82984b7a
+ms.openlocfilehash: 837ec8bb01ed78e7a13ee802afaf845c80544f5d
+ms.sourcegitcommit: 26e4d5091583765257b7533b5156daa373cd19fe
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "42547751"
+ms.lasthandoff: 03/06/2020
+ms.locfileid: "42550267"
 ---
 # <a name="move-files-to-onedrive-for-business"></a>Fájlok áthelyezése a OneDrive Vállalati verzióba
 
@@ -51,6 +51,6 @@ Ha egy felhasználó számítógépén sok személyes fájl található, elősz�
     
 A felhasználói profil és a fontos fájlok átviteléhez külső eszközt is használhat (például ForensiT). Az eredményül kapott fájlokat is célszerű feltölteni a OneDrive Vállalati verzióba.
   
-## <a name="see-also"></a>Lásd még
+## <a name="for-more-on-setting-up-and-using-microsoft-365-business"></a>További információk a Microsoft 365 Business beállításával és használatával kapcsolatos
 
 [Microsoft 365 Vállalati verziós oktatóvideók](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
