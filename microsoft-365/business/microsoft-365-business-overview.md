@@ -22,18 +22,18 @@ ms.custom:
 - OKR_SMB_M365
 - TRN_M365B
 - OKR_SMB_Videos
-- MARVEL_SEO_MAR
+- seo-marvel-mar
 search.appverid:
 - BCS160
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
 description: Ismerje meg a Microsoft 365 Vállalati verziót, amely az Office 365-öt, valamint a vállalati kiberfenyegetésekkel szembeni speciális védelmet is tartalmazza.
-ms.openlocfilehash: 508262daa9367ebd3b973a7a519fbb953d719fb1
-ms.sourcegitcommit: 41c0bc5cf50f4ca63b4286d1ea0f58ab82984b7a
+ms.openlocfilehash: 7b939a9037edbe074a5ef9aa24451fe462016ccb
+ms.sourcegitcommit: 217de0fc54cbeaea32d253f175eaf338cd85f5af
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "42547851"
+ms.lasthandoff: 03/07/2020
+ms.locfileid: "42561480"
 ---
 # <a name="overview-of-microsoft-365-business"></a>A Microsoft 365 Vállalati verzió áttekintése
 

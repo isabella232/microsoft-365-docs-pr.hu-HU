@@ -16,17 +16,17 @@ ms.custom:
 - MiniMaven
 - MSB365
 - OKR_SMB_M365
-- MARVEL_SEO_MAR
+- seo-marvel-mar
 search.appverid:
 - BCS160
 - MET150
 description: Állítsa be az Office 365 komplex veszélyforrások elleni védelmet, és védje a bizalmas adatokat az adathalászattól, a rosszindulatú programoktól és más fenyegetésektől.
-ms.openlocfilehash: 9d7bae60091c87fa0246a697f2a49e1cbc6e2f06
-ms.sourcegitcommit: 26e4d5091583765257b7533b5156daa373cd19fe
+ms.openlocfilehash: 17425de3f6e0022945899a559cf88575b6315a56
+ms.sourcegitcommit: 217de0fc54cbeaea32d253f175eaf338cd85f5af
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/06/2020
-ms.locfileid: "42550357"
+ms.lasthandoff: 03/07/2020
+ms.locfileid: "42561610"
 ---
 # <a name="increase-threat-protection"></a>A fenyegetésvédelem növelése
 
