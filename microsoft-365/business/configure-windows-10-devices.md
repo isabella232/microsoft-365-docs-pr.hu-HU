@@ -20,26 +20,26 @@ ms.custom:
 - MiniMaven
 - MSB365
 - OKR_SMB_M365
-- MARVEL_SEO_MAR
+- seo-marvel-mar
 search.appverid:
 - BCS160
 - MET150
 - MOE150
 ms.assetid: da60e08e-2547-491a-9c97-94ac6d715623
 description: Ismerje meg, hogyan konfigurálja a Szervezet összes felhasználójára vonatkozó Windows 10-es eszközházirendeket, és biztosítsa, hogy biztonságos módon csatlakozzanak.
-ms.openlocfilehash: 9b690d34df6270731ea08bca1e59483d697b04d5
-ms.sourcegitcommit: d6c871bf3f94d9299d22695f5dbaf25dc1bd6ff9
+ms.openlocfilehash: 1d25e51b1f61f67ca2ebe6180d6c280c23facaa5
+ms.sourcegitcommit: 217de0fc54cbeaea32d253f175eaf338cd85f5af
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "42417266"
+ms.lasthandoff: 03/07/2020
+ms.locfileid: "42560640"
 ---
-# <a name="configure-windows-10-devices"></a><span data-ttu-id="cc368-103">Windows 10-es eszközök konfigurálása</span><span class="sxs-lookup"><span data-stu-id="cc368-103">Configure Windows 10 devices</span></span>
+# <a name="configure-windows-10-devices"></a><span data-ttu-id="fb4b0-103">Windows 10-es eszközök konfigurálása</span><span class="sxs-lookup"><span data-stu-id="fb4b0-103">Configure Windows 10 devices</span></span>
 
-<span data-ttu-id="cc368-104">A telepítés során olyan eszközházirendet hoz létre a Windows 10-hez, amely a szervezet összes felhasználójára vonatkozik.</span><span class="sxs-lookup"><span data-stu-id="cc368-104">During setup, you create a device policy for Windows 10 that applies to all users in your organization.</span></span> <span data-ttu-id="cc368-105">Amikor egy felhasználó munkahelyi vagy iskolai fiókjával jelentkezik be egy Office-alkalmazásba a Windows 10-es eszközén, a rendszer automatikusan alkalmazza a konfigurált beállításokat annak érdekében, hogy a felhasználó biztonságos módon csatlakozzon.</span><span class="sxs-lookup"><span data-stu-id="cc368-105">When a user signs in to an Office app on their Windows 10 device with their work or school account, the settings you configure are automatically applied to make sure that the user is connecting in a secure way.</span></span>
+<span data-ttu-id="fb4b0-104">A telepítés során olyan eszközházirendet hoz létre a Windows 10-hez, amely a szervezet összes felhasználójára vonatkozik.</span><span class="sxs-lookup"><span data-stu-id="fb4b0-104">During setup, you create a device policy for Windows 10 that applies to all users in your organization.</span></span> <span data-ttu-id="fb4b0-105">Amikor egy felhasználó munkahelyi vagy iskolai fiókjával jelentkezik be egy Office-alkalmazásba a Windows 10-es eszközén, a rendszer automatikusan alkalmazza a konfigurált beállításokat annak érdekében, hogy a felhasználó biztonságos módon csatlakozzon.</span><span class="sxs-lookup"><span data-stu-id="fb4b0-105">When a user signs in to an Office app on their Windows 10 device with their work or school account, the settings you configure are automatically applied to make sure that the user is connecting in a secure way.</span></span>
   
-<span data-ttu-id="cc368-106">Azt javasoljuk, hogy a telepítés során az alapértelmezett beállításokat fogadja el.</span><span class="sxs-lookup"><span data-stu-id="cc368-106">We recommend that you accept the default configuration during setup.</span></span> <span data-ttu-id="cc368-107">A telepítés után további házirendeket hozhat létre, és megcélozhatja őket a felhasználók meghatározott csoportjaira.</span><span class="sxs-lookup"><span data-stu-id="cc368-107">After setup, you can create more policies and target them to specific groups of users.</span></span>
+<span data-ttu-id="fb4b0-106">Azt javasoljuk, hogy a telepítés során az alapértelmezett beállításokat fogadja el.</span><span class="sxs-lookup"><span data-stu-id="fb4b0-106">We recommend that you accept the default configuration during setup.</span></span> <span data-ttu-id="fb4b0-107">A telepítés után további házirendeket hozhat létre, és megcélozhatja őket a felhasználók meghatározott csoportjaira.</span><span class="sxs-lookup"><span data-stu-id="fb4b0-107">After setup, you can create more policies and target them to specific groups of users.</span></span>
   
-<span data-ttu-id="cc368-108">Ha Windows 10-es eszközkonfigurációhoz szeretne szabályzatot hozzáadni, az [Eszközkonfigurációk megadása Windows 10-es PC-ken](protection-settings-for-windows-10-pcs.md) című témakörben talál további információt.</span><span class="sxs-lookup"><span data-stu-id="cc368-108">To add a policy to manage Windows 10 device configurations, see [Set device configurations for Windows 10 PCs](protection-settings-for-windows-10-pcs.md).</span></span>
+<span data-ttu-id="fb4b0-108">Ha Windows 10-es eszközkonfigurációhoz szeretne szabályzatot hozzáadni, az [Eszközkonfigurációk megadása Windows 10-es PC-ken](protection-settings-for-windows-10-pcs.md) című témakörben talál további információt.</span><span class="sxs-lookup"><span data-stu-id="fb4b0-108">To add a policy to manage Windows 10 device configurations, see [Set device configurations for Windows 10 PCs](protection-settings-for-windows-10-pcs.md).</span></span>
   
 
