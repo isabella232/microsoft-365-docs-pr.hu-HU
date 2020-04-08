@@ -1,5 +1,5 @@
 ---
-title: Alkalmazásvédelmi beállítások ellenőrzése Android vagy iOS rendszerű eszközökön
+title: Alkalmazásvédelmi beállítások ellenőrzése Android- vagy iOS-eszközökön
 f1.keywords:
 - NOCSH
 ms.author: sirkkuw
@@ -23,15 +23,15 @@ search.appverid:
 ms.assetid: f3433b6b-02f7-447f-9d62-306bf03638b0
 description: Learn how to validate the Microsoft 365 Business app protection settings in your Android or iOS devices.
 ms.openlocfilehash: f37bc262b3a80f4acb7113829e3d809ee16d41d1
-ms.sourcegitcommit: 3dd9944a6070a7f35c4bc2b57df397f844c3fe79
+ms.sourcegitcommit: 053d42480d8aa3792ecb0027ddd53d383a029474
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 02/15/2020
+ms.lasthandoff: 04/07/2020
 ms.locfileid: "42091093"
 ---
-# <a name="validate-app-protection-settings-on-android-or-ios-devices"></a>Alkalmazásvédelmi beállítások ellenőrzése Android vagy iOS rendszerű eszközökön
+# <a name="validate-app-protection-settings-on-android-or-ios-devices"></a>Alkalmazásvédelmi beállítások ellenőrzése Android- vagy iOS-eszközökön
 
-Az alkalmazásvédelmi beállítások androidos vagy iOS-eszközökön az alábbi szakaszokban található utasításokat követve ellenőrizheti az alkalmazásvédelmi beállításokat.
+Kövesse az alábbi szakaszokban található utasításokat az alkalmazásvédelmi beállítások érvényesítéséhez Android vagy iOS rendszerű eszközökön.
   
 ## <a name="android"></a>Android
   
@@ -39,11 +39,11 @@ Az alkalmazásvédelmi beállítások androidos vagy iOS-eszközökön az alább
 
 Miután [konfigurálta az Android-eszközök beállításait](app-protection-settings-for-android-and-ios.md) az appok védelmére, az alábbi lépésekkel ellenőrizheti, hogy működnek-e a kiválasztott beállítások. 
   
-Először győződjön meg arról, hogy a szabályzat vonatkozik az alkalmazás, amelyben meg fogja érvényesíteni.
+Először győződjön meg arról, hogy a szabályzat vonatkozik arra az alkalmazásra, amelyben ellenőrizni fogja.
   
 1. A Microsoft 365 Business [felügyeleti központjában](https://portal.office.com) válassza a **Házirendek** \> **Házirend szerkesztése** lehetőséget.
     
-2. Válassza az **Android alkalmazásházirendjét** a beállításkor létrehozott beállításokhoz, vagy egy másik létrehozott házirendet, és ellenőrizze, hogy az érvényben van-e például az Outlook programban. 
+2. Válassza **az Android alkalmazásházirendjét** a beállításkor létrehozott beállításokhoz, vagy egy másik, ön által létrehozott házirendet, és ellenőrizze, hogy az outlookban van-e érvényben. 
     
     ![Shows all the apps for which this policy protects files.](../media/b3be3ddd-f683-4073-8d7a-9c639a636a2c.png)
   
@@ -51,21 +51,21 @@ Először győződjön meg arról, hogy a szabályzat vonatkozik az alkalmazás,
 
 A **Házirend szerkesztése** ablaktáblában válassza a **Szerkesztés** elemet az **Office-dokumentumok elérésének szabályozása** elem mellett, bontsa ki az **Office-fájlok felhasználói mobileszközökön történő elérésének felügyelete** csomópontot, és győződjön meg arról, hogy a **PIN-kód vagy ujjlenyomat megkövetelése az Office-appok eléréséhez** beállítás értéke **Be**.
   
-![Győződjön meg arról, hogy a PIN-kód vagy ujjlenyomat megkövetelése az Office-alkalmazások eléréséhez Be beállításra van állítva.](../media/f37eb5b2-7e26-49fb-9bd6-d955d196bacf.png)
+![Győződjön meg arról, hogy az Office-alkalmazások eléréséhez PIN- vagy ujjlenyomat megkövetelése beállítás be van kapcsolva.](../media/f37eb5b2-7e26-49fb-9bd6-d955d196bacf.png)
   
 1. A felhasználó Android-eszközén nyissa meg az Outlookot, és jelentkezzen be a felhasználó Microsoft 365 Businesshez használt hitelesítő adataival.
     
-2. A rendszer pin-kód megadását vagy ujjlenyomat használatát is kéri.
+2. A rendszer pin-kódot is kérni fog, vagy ujjlenyomatot kell használnia.
     
     ![Enter a PIN on your Android device to access Office apps.](../media/9e8ecfee-8122-4a3a-8918-eece80344310.png)
   
 ### <a name="validate-reset-pin-after-number-of-failed-attempts"></a>A „PIN-kód alaphelyzetbe állítása ennyi sikertelen kísérlet után" beállítás ellenőrzése
 
-A **Házirend szerkesztése** ablaktáblában válassza az **Office-dokumentumok hozzáférés-vezérlése**melletti **Szerkesztés** lehetőséget, és bontsa ki a Felhasználók Hozzáférésének **módjában mobileszközökön**lehetőséget, és győződjön meg arról, hogy a SIKERTELEN kísérletek száma után a **PIN visszaállítása** bizonyos számra van állítva. Ez alapértelmezés szerint 5. 
+A **Házirend szerkesztése** ablaktáblán válassza a **Szerkesztés lehetőséget** az **Office-dokumentumok hozzáférés-vezérlése**mellett, válassza **a Felhasználók hozzáférésének kezelése mobileszközökön**lehetőséget, és győződjön meg arról, hogy **a PIN-kód visszaállítása a sikertelen kísérletek száma után** bizonyos számra van állítva. Ez alapértelmezés szerint 5. 
   
 1. A felhasználó Android-eszközén nyissa meg az Outlookot, és jelentkezzen be a felhasználó Microsoft 365 Businesshez használt hitelesítő adataival.
     
-2. Írjon be egy helytelen PIN-kódot a házirendben megadott alkalommal. Megjelenik egy üzenet, amely a PIN-kód visszaállításához elérve a **PIN-kód pin-kódjának korlátját** mondja. 
+2. Írjon be egy helytelen PIN-kódot a házirendben megadott alkalommal. Megjelenik egy kérdés, amely kimondja, hogy a **PIN-kód ra vonatkozóan elérte** a PIN-kód visszaállításához elért PIN-kódkorlátot. 
     
     ![After too many incorrect PIN attempts, you need to reset your PIN.](../media/fca6fcb4-bb5c-477f-af5e-5dc937e8b835.png)
   
@@ -83,7 +83,7 @@ A **Házirend szerkesztése** ablaktáblában válassza a **Szerkesztés** eleme
     
     ![Tap the down arrow next to an attachment to try to save it.](../media/b22573bb-91ce-455f-84fa-8feb2846b117.png)
   
-    A képernyő alján a **Nem menthető** eszköz re. 
+    A nem **menthető eszközre** a képernyő alján látható. 
     
     ![Warning text that indicates cannot save a file locally to an Android.](../media/52ca3f3d-7ed0-4a52-9621-4872da6ea9c5.png)
   
@@ -92,15 +92,15 @@ A **Házirend szerkesztése** ablaktáblában válassza a **Szerkesztés** eleme
   
 ### <a name="validate-require-user-to-sign-in-again-if-office-apps-have-been-idle-for-a-specified-time"></a>„A felhasználónak ismét be kell jelentkeznie az Office-appok ennyi ideig tartó üresjárata után" beállítás ellenőrzése
 
-A **Házirend szerkesztése** ablaktáblában válassza az **Office-dokumentumok hozzáférés-vezérlése**melletti **Szerkesztés** lehetőséget, és bontsa **ki a Felhasználók Hozzáférésének módját mobileszközökön**, és győződjön meg arról, hogy a felhasználók nak újra be kell jelentkezniük, ha az **Office-alkalmazások tétlensége** miatt néhány percig van beállítva. Ez alapértelmezés szerint 30 perc. 
+A **Házirend szerkesztése** ablaktáblán válassza a **Szerkesztés lehetőséget** az **Office-dokumentumok hozzáférés-vezérlése**mellett, válassza **a Felhasználók hozzáférésének kezelése mobileszközökön**lehetőséget, és győződjön meg arról, hogy **A felhasználók bejelentkezésének megkövetelése az Office-alkalmazások tétlensége után** bizonyos számú percre van beállítva. Ez alapértelmezés szerint 30 perc. 
   
 1. A felhasználó Android-eszközén nyissa meg az Outlookot, jelentkezzen be a felhasználó Microsoft 365 Businesshez használt hitelesítő adataival, és szükség esetén adja meg a PIN-kódot.
     
 2. Ekkor megjelenik az Outlook Beérkezett üzenetek mappája. Hagyja az Android-eszközt üresjáratban legalább 30 percig (vagy más időtartamig, az a lényeg, hogy hosszabb legyen a házirendben meghatározottnál). Az eszköz valószínűleg elsötétül.
     
-3. Ismét elérheti az Outlookot az Android-eszközön.
+3. Az Outlook ismételt elérése Android-eszközön.
     
-4. A rendszer kérni fogja a PIN-kód megadását, mielőtt ismét elérhesse az Outlookot.
+4. Az Outlook ismételt elérése előtt meg kell adnia a PIN-kódját.
     
 ### <a name="validate-protect-work-files-with-encryption"></a>A „Munkahelyi fájlok védelme titkosítással" beállítás ellenőrzése
 
@@ -108,7 +108,7 @@ A **Házirend szerkesztése** ablaktáblában válassza a **Szerkesztés** eleme
   
 1. A felhasználó Android-eszközén nyissa meg az Outlookot, jelentkezzen be a felhasználó Microsoft 365 Businesshez használt hitelesítő adataival, és szükség esetén adja meg a PIN-kódot.
     
-2. Nyisson meg egy olyan e-mailt, amely néhány képfájlmellékletet tartalmaz.
+2. Nyisson meg egy e-mailt, amely néhány képfájl-mellékletet tartalmaz.
     
 3. Koppintson a lefelé mutató nyílra a melléklet adatai mellett a mentéséhez.
     
@@ -128,11 +128,11 @@ A **Házirend szerkesztése** ablaktáblában válassza a **Szerkesztés** eleme
 
 Miután [konfigurálta az iOS-eszközök beállításait](app-protection-settings-for-android-and-ios.md) az appok védelmére, az alábbi lépésekkel ellenőrizheti, hogy működnek-e a kiválasztott beállítások. 
   
-Először győződjön meg arról, hogy a szabályzat vonatkozik az alkalmazás, amelyben meg fogja érvényesíteni.
+Először győződjön meg arról, hogy a szabályzat vonatkozik arra az alkalmazásra, amelyben ellenőrizni fogja.
   
 1. A Microsoft 365 Business [felügyeleti központjában](https://portal.office.com) válassza a **Házirendek** \> **Házirend szerkesztése** lehetőséget.
     
-2. Válassza az **iOS alkalmazásházirendjét** a telepítőn létrehozott beállításokhoz, vagy egy másik létrehozott házirendet, és ellenőrizze, hogy az érvényben van-e például az Outlook programban. 
+2. Válassza **az iOS alkalmazásházirendet** a telepítéskor létrehozott beállításokhoz, vagy egy másik, ön által létrehozott házirendet, és ellenőrizze, hogy az outlookhoz van-e kényszerítve. 
     
     ![Shows all the apps for which this policy protects files.](../media/842441b8-e7b1-4b86-9edd-d94d1f77b6f4.png)
   
@@ -140,21 +140,21 @@ Először győződjön meg arról, hogy a szabályzat vonatkozik az alkalmazás,
 
 A **Házirend szerkesztése** ablaktáblában válassza a **Szerkesztés** elemet az **Office-dokumentumok elérésének szabályozása** elem mellett, bontsa ki az **Office-fájlok felhasználói mobileszközökön történő elérésének felügyelete** csomópontot, és győződjön meg arról, hogy a **PIN-kód vagy ujjlenyomat megkövetelése az Office-appok eléréséhez** beállítás értéke **Be**.
   
-![Győződjön meg arról, hogy a PIN-kód vagy ujjlenyomat megkövetelése az Office-alkalmazások eléréséhez Be beállításra van állítva.](../media/f37eb5b2-7e26-49fb-9bd6-d955d196bacf.png)
+![Győződjön meg arról, hogy az Office-alkalmazások eléréséhez PIN- vagy ujjlenyomat megkövetelése beállítás be van kapcsolva.](../media/f37eb5b2-7e26-49fb-9bd6-d955d196bacf.png)
   
 1. A felhasználó iOS-eszközén nyissa meg az Outlookot, és jelentkezzen be a felhasználó Microsoft 365 Businesshez használt hitelesítő adataival.
     
-2. A rendszer pin-kód megadását vagy ujjlenyomat használatát is kéri.
+2. A rendszer pin-kódot is kérni fog, vagy ujjlenyomatot kell használnia.
     
     ![Enter a PIN on your IOS device to access Office apps.](../media/06fc5cf3-9f19-4090-b23c-14bb59805b7a.png)
   
 ### <a name="validate-reset-pin-after-number-of-failed-attempts"></a>A „PIN-kód alaphelyzetbe állítása ennyi sikertelen kísérlet után" beállítás ellenőrzése
 
-A **Házirend szerkesztése** ablaktáblában válassza az **Office-dokumentumok hozzáférés-vezérlése**melletti **Szerkesztés** lehetőséget, és bontsa ki a Felhasználók Hozzáférésének **módjában mobileszközökön**lehetőséget, és győződjön meg arról, hogy a SIKERTELEN kísérletek száma után a **PIN visszaállítása** bizonyos számra van állítva. Ez alapértelmezés szerint 5. 
+A **Házirend szerkesztése** ablaktáblán válassza a **Szerkesztés lehetőséget** az **Office-dokumentumok hozzáférés-vezérlése**mellett, válassza **a Felhasználók hozzáférésének kezelése mobileszközökön**lehetőséget, és győződjön meg arról, hogy **a PIN-kód visszaállítása a sikertelen kísérletek száma után** bizonyos számra van állítva. Ez alapértelmezés szerint 5. 
   
 1. A felhasználó iOS-eszközén nyissa meg az Outlookot, és jelentkezzen be a felhasználó Microsoft 365 Businesshez használt hitelesítő adataival.
     
-2. Írjon be egy helytelen PIN-kódot a házirendben megadott alkalommal. Megjelenik egy üzenet, amely a PIN-kód visszaállításához elérve a **PIN-kód pin-kódjának korlátját** mondja. 
+2. Írjon be egy helytelen PIN-kódot a házirendben megadott alkalommal. Megjelenik egy kérdés, amely kimondja, hogy a **PIN-kód ra vonatkozóan elérte** a PIN-kód visszaállításához elért PIN-kódkorlátot. 
     
     ![After too many incorrect PIN attempts, you need to reset your PIN.](../media/fab5c089-a4a5-4e8d-8c95-b8eed1dfa262.png)
   
@@ -172,13 +172,13 @@ A **Házirend szerkesztése** ablaktáblában válassza a **Szerkesztés** eleme
     
     ![Tap the Save option after you open an attachment to try to save it.](../media/b419b070-1530-4f14-86a8-8d89933a2b25.png)
   
-3. Elvileg csak a OneDrive Vállalati verzió beállítás látható. Ha nem, koppintson **a Fiók hozzáadása** elemre, és válassza a **Tárfiók hozzáadása** képernyőn a **OneDrive Vállalati** verzió lehetőséget. Amikor szükséges, adja meg a végfelhasználó Microsoft 365 Businesshez használt adatait a bejelentkezéshez. 
+3. Elvileg csak a OneDrive Vállalati verzió beállítás látható. Ha nem, koppintson a **Fiók hozzáadása** elemre, és válassza a **OneDrive Vállalati** verzió lehetőséget a **Tárfiók hozzáadása** képernyőn. Amikor szükséges, adja meg a végfelhasználó Microsoft 365 Businesshez használt adatait a bejelentkezéshez. 
     
     Koppintson a **Mentés** elemre, és válassza a **OneDrive Vállalati verzió** lehetőséget.
     
 ### <a name="validate-require-user-to-sign-in-again-if-office-apps-have-been-idle-for-a-specified-time"></a>„A felhasználónak ismét be kell jelentkeznie az Office-appok ennyi ideig tartó üresjárata után" beállítás ellenőrzése
 
-A **Házirend szerkesztése** ablaktáblában válassza az **Office-dokumentumok hozzáférés-vezérlése**melletti **Szerkesztés** lehetőséget, és bontsa **ki a Felhasználók Hozzáférésének módját mobileszközökön**, és győződjön meg arról, hogy a felhasználók nak újra be kell jelentkezniük, ha az **Office-alkalmazások tétlensége** miatt néhány percig van beállítva. Ez alapértelmezés szerint 30 perc. 
+A **Házirend szerkesztése** ablaktáblán válassza a **Szerkesztés lehetőséget** az **Office-dokumentumok hozzáférés-vezérlése**mellett, válassza **a Felhasználók hozzáférésének kezelése mobileszközökön**lehetőséget, és győződjön meg arról, hogy **A felhasználók bejelentkezésének megkövetelése az Office-alkalmazások tétlensége után** bizonyos számú percre van beállítva. Ez alapértelmezés szerint 30 perc. 
   
 1. A felhasználó iOS-eszközén nyissa meg az Outlookot, jelentkezzen be a felhasználó Microsoft 365 Businesshez használt hitelesítő adataival, és szükség esetén adja meg a PIN-kódot.
     
@@ -186,7 +186,7 @@ A **Házirend szerkesztése** ablaktáblában válassza az **Office-dokumentumok
     
 3. Ismét elérheti az Outlookot az iOS-eszközön.
     
-4. A rendszer kérni fogja a PIN-kód megadását, mielőtt ismét elérhesse az Outlookot.
+4. Az Outlook ismételt elérése előtt meg kell adnia a PIN-kódját.
     
 ### <a name="validate-protect-work-files-with-encryption"></a>A „Munkahelyi fájlok védelme titkosítással" beállítás ellenőrzése
 
@@ -194,7 +194,7 @@ A **Házirend szerkesztése** ablaktáblában válassza a **Szerkesztés** eleme
   
 1. A felhasználó iOS-eszközén nyissa meg az Outlookot, jelentkezzen be a felhasználó Microsoft 365 Businesshez használt hitelesítő adataival, és szükség esetén adja meg a PIN-kódot.
     
-2. Nyisson meg egy olyan e-mailt, amely néhány képfájlmellékletet tartalmaz.
+2. Nyisson meg egy e-mailt, amely néhány képfájl-mellékletet tartalmaz.
     
 3. Koppintson a mellékletre, majd alatta a **Mentés** elemre. 
     
