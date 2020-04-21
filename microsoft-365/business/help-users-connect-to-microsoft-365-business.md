@@ -1,5 +1,5 @@
 ---
-title: A felhasználók könnyebben kapcsolódhatnak a Microsoft 365 Businesshez
+title: Segítség a felhasználóknak a Microsoft 365 Business Premium szolgáltatáshoz való csatlakozásban
 f1.keywords:
 - NOCSH
 ms.author: sirkkuw
@@ -26,22 +26,22 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: f338e660-6483-4eef-acb9-53dee5bd4408
-description: Olvassa el, mire számíthat a Business Cloud Suite beállítása után, és az alapértelmezett eszközszabályzatok készen állnak az alkalmazásra.
-ms.openlocfilehash: 450d91686420c11bf696e70a993354c57f0602a3
-ms.sourcegitcommit: 217de0fc54cbeaea32d253f175eaf338cd85f5af
+description: Ismerje meg, hogy mire számíthat a Business Cloud Suite telepítése után, és az alapértelmezett eszközszabályzatok érvényben vannak, és készen állnak az alkalmazásra.
+ms.openlocfilehash: 375a46fd946b42dc391ff6e4dabe98a435074377
+ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/07/2020
-ms.locfileid: "42560420"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43627214"
 ---
-# <a name="help-users-connect-to-microsoft-365-business"></a>A felhasználók könnyebben kapcsolódhatnak a Microsoft 365 Businesshez
+# <a name="help-users-connect-to-microsoft-365-business-premium"></a>Segítség a felhasználóknak a Microsoft 365 Business Premium szolgáltatáshoz való csatlakozásban
 
-A telepítés befejezése után az alapértelmezett eszközházirendek érvényben vannak, és készen állnak az alkalmazásra. Mobileszközökön a felhasználók letöltik az Office-alkalmazásokat. A rendszer ezután alkalmazza a házirendeket, amikor a felhasználó bejelentkezik a munkahelyi vagy iskolai fiókjával. Windowsos PC-k esetében még néhány további lépés, például egy helyi frissítés is elvégzendő, mielőtt a házirendek alkalmazhatók lennének. Tekintse meg és ossza meg az alábbi témaköröket, amelyek segítenek a felhasználóknak a beállításhoz és a csatlakozáshoz:
+A telepítés befejezése után az alapértelmezett eszközházirendek érvényben vannak, és készen állnak az alkalmazásra. Mobileszközökön a felhasználók letöltik az Office-alkalmazásokat. A házirendek ezután érvénybe lépnek, amikor a felhasználó bejelentkezik a munkahelyi vagy iskolai fiókjával. Windowsos PC-k esetében még néhány további lépés, például egy helyi frissítés is elvégzendő, mielőtt a házirendek alkalmazhatók lennének. Az alábbi témakörökben olvashat a felhasználók beállításához és összekapcsolódásához:
   
-[Windows rendszerű eszközök beállítása a Microsoft 365 Vállalati verzió felhasználóinak](set-up-windows-devices.md)
+[Windows-eszközök beállítása Microsoft 365 Business Premium-felhasználók számára](set-up-windows-devices.md)
   
 [Autopilot-eszközök és -profilok hozzáadása a lépésenkénti útmutatóval](add-autopilot-devices-and-profile.md)
   
-[Mobileszközök beállítása a Microsoft 365 Business felhasználóinak](set-up-mobile-devices.md)
+[Mobileszközök beállítása Microsoft 365 Business Premium-felhasználók számára](set-up-mobile-devices.md)
   
 

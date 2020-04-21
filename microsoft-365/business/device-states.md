@@ -24,13 +24,13 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: c3ac23c5-d4b4-4b1b-b7ce-ea759521bf8c
-description: Ismerje meg a Microsoft 365 Vállalati verzió Rendszergazdai kezdőlapjának Eszközműveletek listájában található különböző eszközállapotokat.
-ms.openlocfilehash: bed1610814ca0d60adb4b4b3d0018e3e7e6d763f
-ms.sourcegitcommit: 217de0fc54cbeaea32d253f175eaf338cd85f5af
+description: Ismerje meg a különböző eszközállapotokat a Microsoft 365 vállalati verzió Felügyeleti otthonának eszközműveletek listájában.
+ms.openlocfilehash: 1a66e76dd3a74428923292427b01551db2449e48
+ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/07/2020
-ms.locfileid: "42560820"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43627246"
 ---
 # <a name="device-states"></a>Eszközállapotok
 
@@ -40,16 +40,16 @@ Az **Eszközműveletek** listában (Rendszergazdai kezdőlap \> **Eszközművele
   
 |**Állapot**|**Leírás**|
 |:-----|:-----|
-|Kezeli az Intune  <br/> |Az eszköz a Microsoft 365 Business felügyelete alatt áll.  <br/> |
-|Kivezetés függőben  <br/> |A Microsoft 365 Business felkészülőben van a vállalati adatok eszközről való eltávolítására.  <br/> |
-|Kivezetés folyamatban  <br/> |A Microsoft 365 Business jelenleg a vállalati adatok eszközről való eltávolításán dolgozik.  <br/> |
+|Kezeli az Intune  <br/> |A Microsoft 365 Business Premium kezeli.  <br/> |
+|Kivezetés függőben  <br/> |A Microsoft 365 Business Premium készen áll a vállalati adatok eltávolítására az eszközről.  <br/> |
+|Kivezetés folyamatban  <br/> |A Microsoft 365 Business Premium jelenleg eltávolítja a vállalati adatokat az eszközről.  <br/> |
 |Kivezetés sikertelen  <br/> | A vállalati adatok eltávolításának művelete nem sikerült.  <br/> |
-|Visszavont megszüntetés  <br/> |A megszüntetési művelet meglett szakítva.  <br/> |
+|Visszavonás megszakítva  <br/> |A visszavonási művelet megszakadt.  <br/> |
 |Törlés függőben  <br/> |Várakozás a gyári állapot visszaállításának megkezdésére.  <br/> |
 |Törlés folyamatban  <br/> |Megkezdődött a gyári állapot visszaállítása.  <br/> |
-|Törlés sikertelen  <br/> |Nem sikerült gyári beállítások visszaállítása.  <br/> |
-|Törlés megszakítva  <br/> |A gyári törlőkendő törölve lett.  <br/> |
-|Nem kifogástalan  <br/> |Egy művelet függőben van (vagy folyamatban van), de az eszköz több mint 30 napig nem jelentkezett be.  <br/> |
+|Törlés sikertelen  <br/> |Nem sikerült a gyári beállítások visszaállítása.  <br/> |
+|Törlés megszakítva  <br/> |A gyári törlés megszakadt.  <br/> |
+|Nem kifogástalan  <br/> |Egy művelet függőben van (vagy folyamatban van), de az eszköz több mint 30 napja nem jelentkezett be.  <br/> |
 |Törlés függőben  <br/> |Egy törlési művelet függőben van.  <br/> |
-|Észlelt  <br/> |A Microsoft 365 Business észlelte az eszközt.  <br/> |
+|Észlelt  <br/> |A Microsoft 365 Business Premium észlelte az eszközt.  <br/> |
    

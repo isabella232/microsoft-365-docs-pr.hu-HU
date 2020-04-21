@@ -24,12 +24,12 @@ search.appverid:
 - MET150
 ms.assetid: 6f2b80b4-81c3-4714-a7bc-ae69313e8a33
 description: Megtudhatja, hogy miként hozhat létre, szerkeszthet vagy törölhet alkalmazáskezelési szabályzatot, és hogyan védheti meg a munkahelyi fájlokat Android- vagy iOS-eszközökön.
-ms.openlocfilehash: 0adb103ac3bef72e340c1f5daf54a6b8a184d85c
-ms.sourcegitcommit: fce0d5cad32ea60a08ff001b228223284710e2ed
+ms.openlocfilehash: 0d9e901cac94fe7692ffe705c6b0a51df2bc542f
+ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/21/2020
-ms.locfileid: "42894280"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43627434"
 ---
 # <a name="set-app-protection-settings-for-android-or-ios-devices"></a>Appvédelmi beállítások megadása androidos vagy iOS-es eszközökhöz
 
@@ -75,7 +75,7 @@ ms.locfileid: "42894280"
 
 Az alábbi táblázatok részletes tájékoztatást nyújtanak az eszközökön található munkahelyi fájlok védelmére rendelkezésre álló beállításokról, valamint azokról a beállításokról, amelyek azt szabályozzák, hogy a felhasználók hogyan férnek hozzá az Office-fájlokhoz a mobileszközeikről.
   
- További információt [A Microsoft 365 Vállalati verzió védelmi funkcióinak megfelelő Intune-beállítások](map-protection-features-to-intune-settings.md) című témakörben talál. 
+ További információt a [Microsoft 365 Vállalati prémium verzió biztonsági szolgáltatásai nak az Intune beállításaihoz való leképezése című témakörben talál.](map-protection-features-to-intune-settings.md) 
   
 ### <a name="settings-that-protect-work-files"></a>Munkahelyi fájlok védelmére szolgáló beállítások
 

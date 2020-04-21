@@ -20,16 +20,16 @@ search.appverid:
 - MET150
 ms.assetid: b0f4d010-9fd1-44d0-9d20-fabad2cdbab5
 description: Megtudhatja, hogy miként férhet hozzá a helyszíni erőforrásokhoz, például az üzleti alkalmazásokhoz, a fájlmegosztásokhoz és a nyomtatókhoz egy Azure Active Directoryhoz csatlakozó Windows 10-eszközről.
-ms.openlocfilehash: 653b53d29e84bbdc91273cb78b9b8407c0f6a209
-ms.sourcegitcommit: 053d42480d8aa3792ecb0027ddd53d383a029474
+ms.openlocfilehash: c1e04e5ca0d36c32a55a9819140356db5093e3a1
+ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/07/2020
-ms.locfileid: "41593233"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43627454"
 ---
-# <a name="access-on-premises-resources-from-an-azure-ad-joined-device-in-microsoft-365-business"></a>Helyszíni erőforrások elérése Azure AD-hez csatlakozott eszközről a Microsoft 365 Vállalati verzióban
+# <a name="access-on-premises-resources-from-an-azure-ad-joined-device-in-microsoft-365-business-premium"></a>Helyszíni erőforrások elérése Azure AD-hez csatlakozott eszközről a Microsoft 365 Business Premium szolgáltatásban
 
-Minden Olyan Windows 10-eszköz, amelyhez az Azure Active Directory csatlakozott, hozzáfér az összes felhőalapú erőforráshoz, például az Office 365-alkalmazásokhoz, és a Microsoft 365 Vállalati verzió védelme alatt áll. A helyszíni erőforrásokhoz, például üzletági (LOB)-alkalmazásokhoz, fájlmegosztásokhoz és nyomtatókhoz való hozzáférést is engedélyezheti. A hozzáférés engedélyezéséhez az [Azure AD Connect](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect) segítségével szinkronizálja a helyszíni Active Directoryt az Azure Active Directoryval. 
+Minden Olyan Windows 10-eszköz, amelyhez az Azure Active Directory csatlakozott, hozzáfér az összes felhőalapú erőforráshoz, például a Microsoft 365-alkalmazásokhoz, és a Microsoft 365 Business Premium által védett. A helyszíni erőforrásokhoz, például üzletági (LOB)-alkalmazásokhoz, fájlmegosztásokhoz és nyomtatókhoz való hozzáférést is engedélyezheti. A hozzáférés engedélyezéséhez az [Azure AD Connect](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect) segítségével szinkronizálja a helyszíni Active Directoryt az Azure Active Directoryval. 
 
 További információ: [Bevezetés az eszközkezelésbe az Azure Active Directoryban című témakörben.](https://docs.microsoft.com/azure/active-directory/device-management-introduction)
 A lépéseket a következő szakaszok is összefoglalják.
@@ -43,9 +43,9 @@ Hajtsa végre az alábbi lépéseket, hogy a szervezet Azure AD-hez csatlakozott
   
 1. Ha a felhasználókat, csoportokat és névjegyeket a helyi Active Directoryból az Azure Active Directoryba szeretné szinkronizálni, futtassa a Címtár-szinkronizálás varázslót és az Azure AD Connectet az [Office 365 címtár-szinkronizálásának beállítása](https://support.office.com/article/1b3b5318-6977-42ed-b5c7-96fa74b08846)című részében leírtak szerint.
     
-2. A címtár-szinkronizálás befejezése után győződjön meg arról, hogy a szervezet Windows 10-es eszközei azure AD-hez csatlakoznak. Ez a lépés minden Windows 10-es eszközön külön-külön történik. A részleteket a [Windows-eszközök beállítása a Microsoft 365 Vállalati verzió felhasználói számára.](set-up-windows-devices.md) 
+2. A címtár-szinkronizálás befejezése után győződjön meg arról, hogy a szervezet Windows 10-es eszközei azure AD-hez csatlakoznak. Ez a lépés minden Windows 10-es eszközön külön-külön történik. A részleteket a [Windows-eszközök beállítása Microsoft 365 Business Premium-felhasználók számára.](set-up-windows-devices.md) 
     
-3. Miután a Windows 10-eszközök az Azure AD-hez csatlakoztak, minden felhasználónak újra kell indítania az eszközeit, és be kell jelentkeznie a Microsoft 365 Business hitelesítő adataival. Mostantól minden eszköz hozzáférhet a helyszíni erőforrásokhoz is.
+3. Miután a Windows 10-es eszközök csatlakozott az Azure AD-hez, minden felhasználónak újra kell indítania az eszközeit, és be kell jelentkeznie a Microsoft 365 Business Premium hitelesítő adataival. Mostantól minden eszköz hozzáférhet a helyszíni erőforrásokhoz is.
     
 Nincs szükség további lépésekre az Azure AD-hez csatlakozó eszközök helyszíni erőforrásaihoz való hozzáféréshez. Ez a funkció be van építve a Windows 10-be. 
 

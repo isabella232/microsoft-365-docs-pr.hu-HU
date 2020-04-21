@@ -28,13 +28,13 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 99bfbf81-e719-4630-9b0f-c187edfa1f8a
-description: Az AutoPilot-profilok segítségével szabályozhatja, hogy a Windows hogyan települjön be a felhasználói eszközökre. A profilok alapértelmezett és választható beállításokat tartalmaznak, például kihagyja a Cortana telepítését.
-ms.openlocfilehash: 1cc8a3171bbc4a1e5cb531b9364c7791586fc339
-ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
+description: Az AutoPilot-profilok segítségével szabályozhatja, hogy a Windows hogyan települjön a felhasználói eszközökre. A profilok tartalmazzák az alapértelmezett és választható beállításokat, például a Cortana telepítésének kihagyását.
+ms.openlocfilehash: 5c2ec3f4c3e0ebc4ea545d11f819c897f414ad52
+ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 01/29/2020
-ms.locfileid: "41593333"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43627414"
 ---
 # <a name="about-autopilot-profile-settings"></a>Az AutoPilot-profil beállításai
 
@@ -46,9 +46,9 @@ Az AutoPilot-profilok segítségével szabályozhatja, hogy a Windows hogyan tel
   
 |**Beállítás**|**Leírás**|
 |:-----|:-----|
-|Cortana, OneDrive és OEM regisztráció kihagyása  <br/> |A telepítő nem telepíti a Cortanához és a személyes OneDrive-hoz hasonló fogyasztói appokat. Az eszköz felhasználója később telepítheti ezeket, amennyiben a felhasználó helyi rendszergazda az eszközön. Az eredeti gyártó regisztrálása azért marad ki, mert az eszközt a Microsoft 365 Business fogja kezelni.  <br/> |
-|Céges bejelentkezési felület  <br/> |Ha a vállalat [rendelkezik a Cég márkajelzésének hozzáadása az Office 365 Bejelentkezési lapján,](https://support.office.com/article/a1229cdb-ce19-4da5-90c7-2b9b146aef0a)az eszköz felhasználója ezt a felhasználói élményt kapja a bejelentkezéskor.  <br/> |
-|Automatikus regisztrálás mobileszköz-kezelésre a konfigurált Azure Active Directory-fiókokkal  <br/> |A felhasználói identitást az Azure Active Directory kezeli, és a felhasználók a Microsoft 365 Vállalati verzió hitelesítő adataival jelentkeznek be a Windows és az Office 365 rendszerbe.  <br/> |
+|A Cortana, a OneDrive és az OEM-regisztráció kihagyása  <br/> |A telepítő nem telepíti a Cortanához és a személyes OneDrive-hoz hasonló fogyasztói appokat. Az eszköz felhasználó telepítheti ezeket később, amíg a felhasználó egy helyi rendszergazda az eszközön. Az eredeti gyártóregisztráció kimarad, mert az eszközt a Microsoft 365 Business Premium fogja kezelni.  <br/> |
+|Céges bejelentkezési felület  <br/> |Ha a vállalat rendelkezik [a Vállalati márkajelzés hozzáadása a Microsoft 365 bejelentkezési lapjára,](https://support.office.com/article/a1229cdb-ce19-4da5-90c7-2b9b146aef0a)az eszköz felhasználója ezt az élményt kapja a bejelentkezéskor.  <br/> |
+|Automatikus regisztrálás mobileszköz-kezelésre a konfigurált Azure Active Directory-fiókokkal  <br/> |A felhasználói identitást az Azure Active Directory kezeli, és a felhasználók a Microsoft 365 Üzleti prémium szintű hitelesítő adataikkal jelentkeznek be a Windows ba és a Microsoft 365-be.  <br/> |
    
  **Nem kötelező beállítások:**
   

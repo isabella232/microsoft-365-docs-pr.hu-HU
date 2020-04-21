@@ -1,5 +1,5 @@
 ---
-title: Hogyan védik a házirendek a céges adatokat a Microsoft 365 Businessben
+title: A Microsoft 365 vállalati adatok védelmére vonatkozó irányelvek
 f1.keywords:
 - NOCSH
 ms.author: sirkkuw
@@ -26,14 +26,14 @@ search.appverid:
 - MOE150
 ms.assetid: 665485be-2389-4f1d-9ef8-dbef19c6acdf
 description: A felhasználók személyes eszközeinek vállalati adatainak védelme érdekében használjon adott eszközöket és biztonsági csoportokat célzó házirendeket.
-ms.openlocfilehash: c33d228fef5e138f94810faf1174ea3243277f4d
-ms.sourcegitcommit: 053d42480d8aa3792ecb0027ddd53d383a029474
+ms.openlocfilehash: aa7447ae4547ba3180d5d5ebbe18e2840947a1d5
+ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/07/2020
-ms.locfileid: "41593901"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43627146"
 ---
-# <a name="how-policies-in-microsoft-365-business-protect-company-data"></a>Hogyan védik a házirendek a céges adatokat a Microsoft 365 Businessben
+# <a name="how-policies-in-microsoft-365-for-business-protect-company-data"></a>A Microsoft 365 vállalati adatok védelmére vonatkozó irányelvek
 
 Házirendek meghatározott eszköztípusokhoz hozhatók létre, és meghatározott felhasználói csoportokra alkalmazhatók. Azaz létrehozhat például olyan házirendeket, amelyek csak a vezetőkre vonatkoznak, és olyanokat is, amelyek mindenki másra érvényesek.
   
