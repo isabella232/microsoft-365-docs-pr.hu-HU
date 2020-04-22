@@ -24,48 +24,48 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: fae8819d-7235-495f-9f07-d016f545887f
-description: Megtudhatja, hogy miként ellenőrizheti, hogy a Microsoft 365 Vállalati verzió alkalmazásvédelmi beállításai érvénybe léptek-e a felhasználók Windows 10-es eszközein.
-ms.openlocfilehash: 47977f8d79eb6dbb2f4d087af8f8ad7da4313c61
-ms.sourcegitcommit: 217de0fc54cbeaea32d253f175eaf338cd85f5af
+description: Megtudhatja, hogy miként ellenőrizheti, hogy a Microsoft 365 vállalati verziós alkalmazások védelmére vonatkozó beállítások érvénybe léptek-e a felhasználók Windows 10-es eszközein.
+ms.openlocfilehash: b63681f040b0fe49127693e9cb7aac7ba6c41af6
+ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/07/2020
-ms.locfileid: "42560680"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43635704"
 ---
-# <a name="validate-device-protection-settings-on-windows-10-pcs"></a><span data-ttu-id="61a6b-103">Eszközvédelmi beállítások érvényességének ellenőrzése Windows 10-es PC-ken</span><span class="sxs-lookup"><span data-stu-id="61a6b-103">Validate device protection settings on Windows 10 PCs</span></span>
+# <a name="validate-device-protection-settings-on-windows-10-pcs"></a><span data-ttu-id="5b447-103">Eszközvédelmi beállítások érvényességének ellenőrzése Windows 10-es PC-ken</span><span class="sxs-lookup"><span data-stu-id="5b447-103">Validate device protection settings on Windows 10 PCs</span></span>
 
-## <a name="verify-that-windows-10-device-policies-are-set"></a><span data-ttu-id="61a6b-104">Windows 10-eszközházirendek érvénybe lépésének ellenőrzése</span><span class="sxs-lookup"><span data-stu-id="61a6b-104">Verify that Windows 10 device policies are set</span></span>
+## <a name="verify-that-windows-10-device-policies-are-set"></a><span data-ttu-id="5b447-104">Windows 10-eszközházirendek érvénybe lépésének ellenőrzése</span><span class="sxs-lookup"><span data-stu-id="5b447-104">Verify that Windows 10 device policies are set</span></span>
 
-<span data-ttu-id="61a6b-105">Miután [beállította az eszközházirendeket](protection-settings-for-windows-10-pcs.md), néhány óra is eltelhet, amíg a házirendek érvénybe lépnek a felhasználók eszközein.</span><span class="sxs-lookup"><span data-stu-id="61a6b-105">After you [set up devices policies](protection-settings-for-windows-10-pcs.md), it may take up to a few hours for the policy to take effect on users' devices.</span></span> <span data-ttu-id="61a6b-106">A házirendek érvénybe lépéséről úgy bizonyosodhat meg, ha ellenőrzi a felhasználók eszközein a Windows Gépház bizonyos beállításlapjait.</span><span class="sxs-lookup"><span data-stu-id="61a6b-106">You can confirm that the policies took effect by looking at various Windows Settings screens on the users' devices.</span></span> <span data-ttu-id="61a6b-107">Mivel a felhasználók nem tudják módosítani a Windows Update és a Windows Defender víruskereső beállításait a Windows 10-es eszközeiken, számos lehetőség szürkén jelenik meg.</span><span class="sxs-lookup"><span data-stu-id="61a6b-107">Because the users won't be able to modify the Windows Update and Windows Defender Antivirus settings on their Windows 10 devices, many options will be grayed out.</span></span>
+<span data-ttu-id="5b447-105">Miután [beállította az eszközházirendeket](protection-settings-for-windows-10-pcs.md), néhány óra is eltelhet, amíg a házirendek érvénybe lépnek a felhasználók eszközein.</span><span class="sxs-lookup"><span data-stu-id="5b447-105">After you [set up devices policies](protection-settings-for-windows-10-pcs.md), it may take up to a few hours for the policy to take effect on users' devices.</span></span> <span data-ttu-id="5b447-106">A házirendek érvénybe lépéséről úgy bizonyosodhat meg, ha ellenőrzi a felhasználók eszközein a Windows Gépház bizonyos beállításlapjait.</span><span class="sxs-lookup"><span data-stu-id="5b447-106">You can confirm that the policies took effect by looking at various Windows Settings screens on the users' devices.</span></span> <span data-ttu-id="5b447-107">Mivel a felhasználók nem tudják módosítani a Windows Update és a Windows Defender víruskereső beállításait a Windows 10-es eszközeiken, számos lehetőség szürkén jelenik meg.</span><span class="sxs-lookup"><span data-stu-id="5b447-107">Because the users won't be able to modify the Windows Update and Windows Defender Antivirus settings on their Windows 10 devices, many options will be grayed out.</span></span>
   
-1. <span data-ttu-id="61a6b-108">Nyissa meg a **Beállítások** \> **frissítése &amp; biztonsági** \> **Windows Update** \> Újraindítás **beállításait,** és ellenőrizze, hogy az összes beállítás szürkén jelenik-e meg.</span><span class="sxs-lookup"><span data-stu-id="61a6b-108">Go to **Settings** \> **Update &amp; security** \> **Windows Update** \> **Restart options** and confirm that all settings are grayed out.</span></span> 
+1. <span data-ttu-id="5b447-108">Nyissa meg a **Beállítások** \> **frissítése &amp; biztonsági** \> **ablakok at A Windows Update** \> **Újraindítás beállításait,** és ellenőrizze, hogy minden beállítás szürkén jelenik-e meg.</span><span class="sxs-lookup"><span data-stu-id="5b447-108">Go to **Settings** \> **Update &amp; security** \> **Windows Update** \> **Restart options** and confirm that all settings are grayed out.</span></span> 
     
-    ![Az összes Újraindítás beállítás szürkén jelenik meg.](../media/31308da9-18b0-47c5-bbf6-d5fa6747c376.png)
+    ![Az újraindítás imbusza szürkén jelenik meg.](../media/31308da9-18b0-47c5-bbf6-d5fa6747c376.png)
   
-2. <span data-ttu-id="61a6b-110">Nyissa meg a **Beállítások** \> **frissítése &amp; biztonsági** \> **Windows Update** \> Speciális **beállításokat,** és ellenőrizze, hogy az összes beállítás szürkén jelenik-e meg.</span><span class="sxs-lookup"><span data-stu-id="61a6b-110">Go to **Settings** \> **Update &amp; security** \> **Windows Update** \> **Advanced options** and confirm that all settings are grayed out.</span></span> 
+2. <span data-ttu-id="5b447-110">Nyissa meg a **Beállítások** \> **frissítése &amp; biztonsági** \> **ablakOt A Windows Update** \> Speciális **beállításait,** és ellenőrizze, hogy minden beállítás szürkén jelenik-e meg.</span><span class="sxs-lookup"><span data-stu-id="5b447-110">Go to **Settings** \> **Update &amp; security** \> **Windows Update** \> **Advanced options** and confirm that all settings are grayed out.</span></span> 
     
-    ![A Windows speciális frissítési beállításai mind szürkén jelennek meg.](../media/049cf281-d503-4be9-898b-c0a3286c7fc2.png)
+    ![A Windows Speciális frissítések beállításai szürkén jelennek meg.](../media/049cf281-d503-4be9-898b-c0a3286c7fc2.png)
   
-3. <span data-ttu-id="61a6b-112">Go to **Settings** \> **Update &amp; security** \> **Windows Update** \> **Advanced options** \> **Choose how updates are delivered**.</span><span class="sxs-lookup"><span data-stu-id="61a6b-112">Go to **Settings** \> **Update &amp; security** \> **Windows Update** \> **Advanced options** \> **Choose how updates are delivered**.</span></span>
+3. <span data-ttu-id="5b447-112">Go to **Settings** \> **Update &amp; security** \> **Windows Update** \> **Advanced options** \> **Choose how updates are delivered**.</span><span class="sxs-lookup"><span data-stu-id="5b447-112">Go to **Settings** \> **Update &amp; security** \> **Windows Update** \> **Advanced options** \> **Choose how updates are delivered**.</span></span>
     
-    <span data-ttu-id="61a6b-113">Ellenőrizze, hogy látható-e az üzenet (pirossal) arról, hogy egyes beállítások rejtve vannak vagy a szervezet által kezeltek, és az összes beállítás szürkén jelenik meg.</span><span class="sxs-lookup"><span data-stu-id="61a6b-113">Confirm that you can see the message (in red) that some settings are hidden or managed by your organization, and all the options are grayed out.</span></span>
+    <span data-ttu-id="5b447-113">Ellenőrizze, hogy láthatja-e az üzenetet (pirossal), hogy egyes beállítások at a szervezet rejtett vagy kezelt, és az összes beállítás szürkén jelenik meg.</span><span class="sxs-lookup"><span data-stu-id="5b447-113">Confirm that you can see the message (in red) that some settings are hidden or managed by your organization, and all the options are grayed out.</span></span>
     
     ![Choose how updates are delivered page indicates settings are hidden or managed by your organization.](../media/6b3e37c5-da41-4afd-9983-b4f406216b59.png)
   
-4. <span data-ttu-id="61a6b-115">To open the Windows Defender Security Center, go to **Settings** \> **Update &amp; security** \> **Windows Defender** \> click **Open Windows Defender Security Center** \> **Virus &amp; thread protection** \> **Virus &amp; threat protection settings**.</span><span class="sxs-lookup"><span data-stu-id="61a6b-115">To open the Windows Defender Security Center, go to **Settings** \> **Update &amp; security** \> **Windows Defender** \> click **Open Windows Defender Security Center** \> **Virus &amp; thread protection** \> **Virus &amp; threat protection settings**.</span></span> 
+4. <span data-ttu-id="5b447-115">To open the Windows Defender Security Center, go to **Settings** \> **Update &amp; security** \> **Windows Defender** \> click **Open Windows Defender Security Center** \> **Virus &amp; thread protection** \> **Virus &amp; threat protection settings**.</span><span class="sxs-lookup"><span data-stu-id="5b447-115">To open the Windows Defender Security Center, go to **Settings** \> **Update &amp; security** \> **Windows Defender** \> click **Open Windows Defender Security Center** \> **Virus &amp; thread protection** \> **Virus &amp; threat protection settings**.</span></span> 
     
-5. <span data-ttu-id="61a6b-116">Ellenőrizze, hogy minden beállítás szürkén jelenik-e meg.</span><span class="sxs-lookup"><span data-stu-id="61a6b-116">Verify that all options are grayed out.</span></span> 
+5. <span data-ttu-id="5b447-116">Ellenőrizze, hogy minden beállítás szürkén jelenik-e meg.</span><span class="sxs-lookup"><span data-stu-id="5b447-116">Verify that all options are grayed out.</span></span> 
     
     ![A vírus- és veszélyforrások elleni védelem beállításai szürkén jelennek meg.](../media/9ca68d40-a5d9-49d7-92a4-c581688b5926.png)
   
-## <a name="related-topics"></a><span data-ttu-id="61a6b-118">Kapcsolódó témakörök</span><span class="sxs-lookup"><span data-stu-id="61a6b-118">Related Topics</span></span>
+## <a name="related-topics"></a><span data-ttu-id="5b447-118">Kapcsolódó témakörök</span><span class="sxs-lookup"><span data-stu-id="5b447-118">Related Topics</span></span>
 
-[<span data-ttu-id="61a6b-119">A Microsoft 365 Business dokumentációja és forrásai</span><span class="sxs-lookup"><span data-stu-id="61a6b-119">Microsoft 365 Business documentation and resources</span></span>](https://go.microsoft.com/fwlink/p/?linkid=853701)
+[<span data-ttu-id="5b447-119">Microsoft 365 üzleti dokumentációés források</span><span class="sxs-lookup"><span data-stu-id="5b447-119">Microsoft 365 for business documentation and resources</span></span>](https://go.microsoft.com/fwlink/p/?linkid=853701)
   
-[<span data-ttu-id="61a6b-120">A Microsoft 365 Business használatbavétele</span><span class="sxs-lookup"><span data-stu-id="61a6b-120">Get started with Microsoft 365 Business</span></span>](microsoft-365-business-overview.md)
+[<span data-ttu-id="5b447-120">Ismerkedés a Microsoft 365 vállalati verzióval</span><span class="sxs-lookup"><span data-stu-id="5b447-120">Get started with Microsoft 365 for business</span></span>](microsoft-365-business-overview.md)
   
-[<span data-ttu-id="61a6b-121">A Microsoft 365 Business kezelése</span><span class="sxs-lookup"><span data-stu-id="61a6b-121">Manage Microsoft 365 Business</span></span>](manage.md)
+[<span data-ttu-id="5b447-121">A Microsoft 365 vállalati verzió kezelése</span><span class="sxs-lookup"><span data-stu-id="5b447-121">Manage Microsoft 365 for business</span></span>](manage.md)
   
-[<span data-ttu-id="61a6b-122">Eszközkonfigurációk megadása Windows 10-es PC-ken</span><span class="sxs-lookup"><span data-stu-id="61a6b-122">Set device configurations for Windows 10 PCs</span></span>](protection-settings-for-windows-10-pcs.md)
+[<span data-ttu-id="5b447-122">Eszközkonfigurációk megadása Windows 10-es PC-ken</span><span class="sxs-lookup"><span data-stu-id="5b447-122">Set device configurations for Windows 10 PCs</span></span>](protection-settings-for-windows-10-pcs.md)
   
 
