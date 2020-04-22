@@ -1,5 +1,5 @@
 ---
-title: Az adatok védelmének előfeltételei az eszközökön a Microsoft 365 Business segítségével
+title: Az eszközökön lévő adatok védelmének előfeltételei a Microsoft 365 vállalati verzióval
 f1.keywords:
 - NOCSH
 ms.author: sirkkuw
@@ -20,30 +20,30 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: 7770e280-3a6c-436f-a157-b008a2744f51
-description: Ismerje meg a szervezet Microsoft 365 Business szolgáltatással való beállításának követelményeit, valamint a munkahelyi adatok védelmét a felhasználók eszközein.
-ms.openlocfilehash: 9c96b8fa444b1525e82da5a148483feeac59a25d
-ms.sourcegitcommit: 217de0fc54cbeaea32d253f175eaf338cd85f5af
+description: Ismerje meg a szervezet microsoft 365 vállalati verzióval történő beállításának és a munkahelyi adatok védelmének követelményeit a felhasználók eszközein.
+ms.openlocfilehash: 02f7d32f0cd6ddcedcf21ea62bac7898e4c0f15a
+ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/07/2020
-ms.locfileid: "42561380"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43633119"
 ---
-# <a name="prerequisites-for-protecting-data-on-devices-with-microsoft-365-business"></a>Az adatok védelmének előfeltételei az eszközökön a Microsoft 365 Business segítségével
+# <a name="prerequisites-for-protecting-data-on-devices-with-microsoft-365-for-business"></a>Az eszközökön lévő adatok védelmének előfeltételei a Microsoft 365 vállalati verzióval
 
-A szervezet Microsoft 365 Business szolgáltatással való beállításának első lépése, hogy megbizonyosodjon arról, hogy megfelel az előfeltételeknek.
+A szervezet Microsoft 365 vállalati verzióval való beállításának első lépése annak biztosítása, hogy megfeleljen az előfeltételeknek.
   
-## <a name="requirements-for-setting-up-your-organization-with-microsoft-365-business"></a>A szervezet microsoft 365 Vállalati verzióval való beállításának követelményei
+## <a name="requirements-for-setting-up-your-organization-with-microsoft-365-for-business"></a>A szervezet microsoft 365 vállalati verzióval való beállításának követelményei
 
 - A windowsos eszközöknek Windows 7 Professional, Windows 8 Pro vagy Windows 8.1 Pro operációs rendszert kell futtatniuk.
     
     [Windows-eszközök frissítése a Windows Pro alkotói frissítésére](upgrade-to-windows-pro-creators-update.md)
     
-    Ha Windows 10 Home rendszert futtat, akkor meg kell **vásárolnia** a Windows 10 Pro rendszert. További információt [a Windows 10 Home frissítése Windows 10 Pro rendszerre.](https://support.office.com/article/0aee10c1-4d34-43ee-a325-579c6c2df90e?ui=en-US&rs=en-US&ad=US) 
+    Ha A Windows 10 Home, akkor meg kell **vásárolnia a** Windows 10 Pro. További útmutatásért lásd [a Windows 10 Home frissítése Windows 10 Pro rendszerre.](https://support.office.com/article/0aee10c1-4d34-43ee-a325-579c6c2df90e?ui=en-US&rs=en-US&ad=US) 
     
-- Távolítsa el az eszközöket a mobilfelügyeleti megoldásokból (Mobile Iron, AirWatch és így tovább). A Microsoft 365 Vállalati mobilkezelésben a szervezet összes tagja regisztrálhatja azokat.
+- Távolítsa el az eszközöket a mobil felügyeleti megoldásokból (Mobile Iron, AirWatch és így tovább). A microsoft 365 vállalati verziómobilkezeléséhez regisztrálhatja a szervezet összes tagja számára.
     
 - Apple iOS 8.0 vagy újabb verzió
     
-    Google Android 4.0 vagy újabb verzió (beleértve a Samsung KNOX Standard 4.0-t, illetve az újabb verziókat). További információt az [Intune által támogatott eszközök](https://go.microsoft.com/fwlink/p/?linkid=852307)című témakörben talál.
+    Google Android 4.0 vagy újabb verzió (beleértve a Samsung KNOX Standard 4.0-t, illetve az újabb verziókat). További információt az Intune által támogatott eszközök című [témakörben talál.](https://go.microsoft.com/fwlink/p/?linkid=852307)
     
-- Ha már rendelkezik Office-alkalmazásokkal a felhasználói számítógépeken, olvassa el az [Office-ügyféltelepítésének előkészítése](prepare-for-office-client-deployment.md) című témakört, amelyekkel meg kell tennie a szükséges lépéseket ahhoz, hogy a Microsoft 365 Vállalati verziót felhasználói számítógépekre telepíthesse. 
+- Ha már rendelkezik meglévő Office-alkalmazásokkal a felhasználói számítógépeken, olvassa el [az Office-ügyféltelepítésre való felkészülést,](prepare-for-office-client-deployment.md) hogy megértse azokat a lépéseket, amelyeket meg kell tennie ahhoz, hogy beállíthassa a Microsoft 365 vállalati verziót az Office 2016 felhasználói számítógépekre történő telepítéséhez. 

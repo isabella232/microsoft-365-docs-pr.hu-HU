@@ -13,12 +13,12 @@ localization_priority: Normal
 audience: microsoft-business 
 keywords: Microsoft 365 Business, Microsoft 365, SMB, átmeneti CSP-előfizetés
 ms.date: 11/01/2017
-ms.openlocfilehash: 0a30d80ad5217868fec81866ab1dc41013917e99
-ms.sourcegitcommit: dbbdeca5a6cd048e1bde9e820a8b8a0d6022c7a2
+ms.openlocfilehash: da56ce5bc70dfed5a3e86c739ef3c940b4ac1511
+ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/14/2020
-ms.locfileid: "43504107"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43635064"
 ---
 # <a name="transition-a-microsoft-365-business-csp-subscription"></a>Áttérés Microsoft 365 vállalati CSP-előfizetésre
 
@@ -91,7 +91,7 @@ Az alábbi táblázat összefoglalja a mobileszközökön az alkalmazáskezelés
 | **Pin-kód alaphelyzetbe állítása bejelentkezés sikertelenállapotesetén** | Korlátozott hozzáférés az alkalmazásokhoz | Nincs alkalmazásszintű hozzáférési korlátozás |
 | **A felhasználók bejelentkezése az Office-alkalmazások tétlensége után** | Bejelentkezés szükséges | Nincs szükség bejelentkezésre |
 | **Munkahelyi fájlokhoz való hozzáférés letiltása függetlenített vagy feltört eszközökön** | A munkahelyi fájlok nem érhetők el jailbroken/rooted eszközökön | A munkafájlok jailbroken/rooted eszközökön érhetők el |
-| **Tartalom másolásának engedélyezése az Office-alkalmazásokból a Személyes alkalmazásokba** | Másolás/beillesztés a Microsoft 365 Vállalati verziós előfizetés részeként elérhető alkalmazásokra korlátozva | Másolás/beillesztés az összes alkalmazás számára elérhető |
+| **Tartalom másolásának engedélyezése az Office-alkalmazásokból a Személyes alkalmazásokba** | Másolás/beillesztés a Microsoft 365-előfizetés részeként elérhető alkalmazásokra korlátozva | Másolás/beillesztés az összes alkalmazás számára elérhető |
 
 ## <a name="windows-10-pc-impacts-upon-subscription-expiration"></a>A Windows 10-es rendszerű számítógép hatással van az előfizetés lejáratára
 

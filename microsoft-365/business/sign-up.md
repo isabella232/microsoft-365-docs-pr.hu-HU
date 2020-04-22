@@ -1,5 +1,5 @@
 ---
-title: Regisztráció a Microsoft 365 Vállalati verzióra
+title: Regisztráció a Microsoft 365 Vállalati Prémium verzióra
 f1.keywords:
 - NOCSH
 ms.author: sirkkuw
@@ -24,28 +24,28 @@ ms.custom:
 search.appverid:
 - BCS160
 - MET150
-description: Ismerje meg, hogy mit tartalmaz a Microsoft 365 Business, és részletes útmutatást kaphat a Microsoft 365 Business szolgáltatásra való feliratkozáshoz.
-ms.openlocfilehash: 85e9ff3585e1e4bbadc6c34699f75d77486f58ea
-ms.sourcegitcommit: 217de0fc54cbeaea32d253f175eaf338cd85f5af
+description: Ismerje meg, hogy mit tartalmaz a Microsoft 365 Business Premium, és részletes útmutatást kaphat a Microsoft 365 Business Premium szolgáltatásra való regisztrációhoz.
+ms.openlocfilehash: 443363fa673a112ae13eb5b63308115724d9bd00
+ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/07/2020
-ms.locfileid: "42560746"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43635104"
 ---
-# <a name="sign-up-for-microsoft-365-business"></a>Regisztráció a Microsoft 365 Vállalati verzióra
+# <a name="sign-up-for-microsoft-365-business-premium"></a>Regisztráció a Microsoft 365 Vállalati Prémium verzióra
 
-Ha meg szeretné tudni, hogy mit tartalmaz a Microsoft 365 Business, nézzen meg egy [rövid videót,](https://go.microsoft.com/fwlink/?linkid=2109651) és tekintse meg az Áttekintés című [témakört.](microsoft-365-business-overview.md)
+Ha meg szeretné tudni, hogy mit tartalmaz a Microsoft 365 Business Premium, tekintse meg egy [rövid videót,](https://go.microsoft.com/fwlink/?linkid=2109651) és tekintse meg az [Áttekintés című témakört.](microsoft-365-business-overview.md)
 
-A Microsoft 365 Vállalati verzió tamás a háromféleképpen szerezhető be:
-- **Vásárolja meg a Microsoft 365 Business-t, és végezze el saját beállítását:** A Microsoft 365 Business online megvásárlásához [kövesse az alábbi lépéseket.](#sign-up-steps)
-- **Microsoft-partnerek esetén**: Ha Ön partner, olvassa el [a Microsoft 365 Vállalati verzió beszerezése a Microsoft Partner Centerprogramból](get-microsoft-365-business.md#get-microsoft-365-business-from-microsoft-partner-center).
-- **Segítség a Microsoft Store-ban**: Irány a [Microsoft Store](https://go.microsoft.com/fwlink/?linkid=2109652). A Microsoft áruházak segítséget nyújtanak a csomagokkal kapcsolatos kérdésekben, segítenek az üzleti igényeinek megfelelő csomag megvásárlásában, valamint a beállítás befejezésében.
+A Microsoft 365 Business Premium háromféleképpen szerezhető be:
+- **A Microsoft 365 Business Premium megvásárlása és a saját beállítás befejezése**: A Microsoft 365 Business Premium online megvásárlásához kövesse az alábbi [lépéseket.](#sign-up-steps)
+- **Microsoft-partnerek**: Ha Ön partner, olvassa [el a Microsoft 365 Vállalati prémium szolgáltatás beszedése a Microsoft Partner Centertől](get-microsoft-365-business.md).
+- **Segítség a Microsoft áruházban**: Látogasson el egy [Microsoft Store-ba](https://go.microsoft.com/fwlink/?linkid=2109652). A Microsoft áruházai segítséget nyújtanak a tervekkel kapcsolatos kérdésekben, segítenek az üzleti igényeinek megfelelő csomagok megvásárlásában, valamint a telepítés befejezésében.
 
-**Valami másra van szüksége?** képes vagy:
-- [Frissítse Office 365-csomagját a Microsoft 365 Vállalati verzióra.](migrate-to-microsoft-365-business.md)
-- A Microsoft 365 Business [ingyenes próbaidőszaka](https://go.microsoft.com/fwlink/p/?linkid=2102309) egy hónapra.
-- [Regisztráljon az Office 365 Vállalati prémium verzióra,](https://go.microsoft.com/fwlink/p/?LinkID=510935) ha kevesebb funkcióval rendelkező csomagra van szüksége. Tudja meg, mit tartalmaznak az egyes üzleti tervek [a products.office.com.](https://go.microsoft.com/fwlink/?linkid=2109397)
-- [Regisztráljon otthoni vagy családi csomagra,](https://go.microsoft.com/fwlink/?linkid=2109398) ha nem vásárol vállalkozáshoz. 
+**Kell valami más?** képes vagy:
+- [Frissítse Office 365-csomagját Microsoft 365 Vállalati Prémium verzióra.](migrate-to-microsoft-365-business.md)
+- Egy hónapra [ingyenesen próbaverziót kaphat](https://go.microsoft.com/fwlink/p/?linkid=2102309) a Microsoft 365 Business Premium szolgáltatással.
+- Ha kevesebb szolgáltatással rendelkező csomagra van szüksége, [regisztráljon a Microsoft 365 Vállalati szabványra.](https://go.microsoft.com/fwlink/p/?LinkID=510935) Az egyes üzleti tervek ről [a products.office.com](https://go.microsoft.com/fwlink/?linkid=2109397)megtudhatja, hogy mit tartalmaz.
+- [Regisztrálj on a home or family csomag,](https://go.microsoft.com/fwlink/?linkid=2109398) ha nem vásárol egy vállalkozás. 
 
 ## <a name="sign-up-steps"></a>Regisztrációs lépések
 
@@ -55,45 +55,45 @@ Tekintse meg ezt a videót a regisztrációs folyamat gyors áttekintéséhez.<b
 
 Ha hasznosnak találta ezt a videót, tekintse meg a [teljes tanfolyamok kisvállalatoknak és Microsoft 365-újoncoknak](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816) című témakört.
 
-A Microsoft 365 regisztrálásához és megvásárlásához hajtsa végre az alábbi lépéseket:
+A Microsoft 365-re való regisztrációhoz és a microsoft 365-ös vásárláshoz hajtsa végre az alábbi lépéseket:
 
-1. A [Microsoft 365 for business lapon](https://go.microsoft.com/fwlink/?linkid=2109654)válassza a **Csomagok & árképzés című témakört.** 
-2. A következő lapon megtudhatja a havi költséget, majd görgessen le az oldalon, és tudjon meg többet a Microsoft 365 Business szolgáltatásban található információkról. A Microsoft 365 Business csoportban válassza a **Vásárlás most**lehetőséget.
-3. A Microsoft 365 Business alkalmazás ának megadásához adja meg adatait a **Köszönjük, hogy öna** a Kezdéshez lehetőséget.
-4. **lépésben**adja meg a már használt e-mail címet. Ez lehet az aktuális munkahelyi e-mail címe, vagy bármely olyan cím, amelyet a Microsoft a telepítés során használni szeretne Önnel. Ez az a cím is, ahol információkat küldünk Önnek a számlájáról és a megújításokról. Ezután válassza a **Fiók beállítása**lehetőséget.
-5. **lépésben**adja meg nevét, cégszámát, cégnevét és helyét. Az Ön országa vagy régiója határozza meg a Microsofttól kapott szolgáltatások pontos átgondolását, és a lépés elvégzése után nem módosítható. Válassza a **Tovább** gombot.
+1. A [Microsoft 365 vállalati verziólap](https://go.microsoft.com/fwlink/?linkid=2109654) **on a Tervek megtekintése & díjszabás a lapban**válassza a Tervek megtekintése &. 
+2. A következő lapon ismerje meg a havi költséget, majd görgessen le az oldalon, hogy többet megtudjon a Microsoft 365-ben található tartalomról. A Microsoft 365 Business Premium csoportban válassza **a Vásárlás most**lehetőséget.
+3. A **Microsoft 365 Business Premium kiválasztásának köszönhetően** adja meg adatait a kezdéshez.
+4. **Az 1.** Ez lehet az aktuális munkahelyi e-mail címe vagy bármely olyan cím, amelyet a Microsoft a telepítés során önnel való kommunikációra kíván használni. Ez az a cím is, ahová a számládról és a megújításokról szóló információkat küldünk Önnek. Ezután válassza a **Fiók beállítása**lehetőséget.
+5. **Lépésben**adja meg nevét, telefonszámát, cégnevét és helyét. Az Ön országa vagy régiója határozza meg a Microsofttól kapott pontos szolgáltatásokat, és a lépés elvégzése után nem módosítható. Válassza a **Tovább** gombot.
     > [!NOTE]
-    > A vállalat nevét a felügyeleti központban jelenítjük meg; itt kezelheti a Microsoft 365-felhasználókat, licenceket és így tovább. Azt is tartalmazza azt minden belső (SharePoint) webhely URL-címeit.
-6. **lépés:**
+    > A vállalat nevét az adminisztrációs központban jelenítjük meg; Itt kezelheti a Microsoft 365-felhasználókat, licenceket és így tovább. Azt is tartalmazza, hogy minden belső (SharePoint) webhely URL-eket.
+6. **3. lépés:**
 
-    1. Bizonyítsd be, hogy nem vagy robot! Válassza ki a **Szöveg** vagy **a Hívjon lehetőséget,** és adjon meg egy számot, ahol elérhetjük Önt. Válassza **az Ellenőrző kód küldése** lehetőséget, és azonnal megkapja a szöveges vagy hívási parancsot. Írja be a kódot, és válassza **az Ellenőrzés**lehetőséget.
-    2. Ezután döntse el, hogy új domain nevet vásárol-e, vagy ideiglenes domainnevet szeretne kapni:
+    1. Bizonyítsd be, hogy nem vagy robot! Válassza az **Sms or** **Call me**lehetőséget, és adjon meg egy számot, ahol elérhetjük Önt. Válassza **az Ellenőrző kód küldése lehetőséget,** és azonnal kap egy SMS-t vagy hívást. Adja meg a kódot, és válassza **az Ellenőrzés lehetőséget.**
+    2. Ezután döntse el, hogy új domain nevet vásárol-e, vagy ideiglenes nevet kap:
 
-        - **Nincs domain nevem** 
+        - **Nincs saját domain nevem** 
         
-            Ha az e-mail cím nem tartalmazza a vállalkozás nevét, és nincs olyan webhelye, amely a vállalkozás nevét használja, most már könnyen vásárolhat domaint. Válassza az **Új tartománynév vásárlása lehetőséget**, és adja meg a vállalkozás nevét. Ha például a vállalat neve *ContosoSkis,* próbálja meg beírni Contosokis.com, Contososkis.org vagy Contososkis.biz. Ezután válassza **a Rendelkezésre állás ellenőrzése** lehetőséget, és ellenőrizze, hogy elérhető-e a kiválasztott tartomány. A döntés meghozatala előtt több lehetőséggel is próbálkozhat. Ha a domain név elérhető, tudatjuk Önnel a költségeket, és közvetlenül az új csomaggal együtt számlázunk Önnek. 
+            Ha az e-mail-címe nem tartalmazza a vállalkozás nevét, és ha nem rendelkezik olyan webhellyel, amely a vállalkozás nevét használja, most már egyszerűen vásárolhat domaint. Válassza **az Új tartománynév vásárlása**lehetőséget, és adja meg a vállalkozás nevét. Ha például a vállalat neve *ContosoSkis,* próbáljon meg Contosokis.com, Contososkis.org vagy Contososkis.biz. Ezután jelölje be **a Rendelkezésre állás ellenőrzése** jelölőnégyzetet, ha meg szeretné tudni, hogy a kiválasztott tartomány elérhető-e. A döntés meghozatala előtt több lehetőséggel is próbálkozhat. Ha a tartománynév elérhető, akkor tudatjuk Önnel a költségeket, és közvetlenül az új csomaggal számlázunk. 
        
             > [!TIP]
-            > ha nem biztos abban, hogy melyik tartománybővítményt válassza az új domainhez (például .com vagy .org), olvassa el a [Domain name vásárlása](https://go.microsoft.com/fwlink/?linkid=2109700) című témakört.
+            > Ha nem biztos abban, hogy milyen tartománybővítményt szeretne választani az új tartományhoz (például .com vagy .org), olvassa el [a Tartománynév vásárlása](https://go.microsoft.com/fwlink/?linkid=2109700) című témakört.
         
-        - **Nem vagyok benne biztos, vagy már van egy domain név** 
+        - **Nem vagyok benne biztos, vagy már van egy domain nevem** 
         
-             Válassza **a Microsoft-tartomány beszedése most**lehetőséget. Ez nem kerül semmibe, és később egyéni nevet kaphat a vállalkozásához, vagy csatlakozhat egy már meglévőhez. Megmutatjuk, hogyan.
+             Válassza **a Microsoft-tartomány beszereznie lehetőséget.** Ez nem kerül semmibe, és később egyéni nevet kaphat a vállalkozásához, vagy csatlakozhat egy már meglévő höz. Megmutatjuk, hogyan.
 
-    3. A **Következő** lehetőséget választva hozza létre a felhasználói azonosítót és a vállalati e-mail címet. Adja meg a használni kívánt nevet (más néven aliast). Például Robert Young használhatja RobY vagy RobYoung munkaaliasként. Adjon hozzá egy jelszót, és válassza **a Regisztráció**lehetőséget. Jegyezze fel a jelszavát. E-mailt küldünk az 1.
-7. **lépés:** 
+    3. Válassza a **Tovább** lehetőséget a felhasználói azonosító és az üzleti e-mail cím létrehozásához. Írja be a használni kívánt nevet (aliast). Robert Young például használhatja RobY-t vagy RobYoung-ot munkaaliasként. Adjon hozzá egy jelszót, és válassza **a Regisztráció**lehetőséget. Jegyezze fel jelszavát. Az 1.
+7. **4.** 
 
-    1. Döntse el, hogy a vállalkozásban hány embernek van szüksége Microsoft 365-licencre, vagy hagyja a **felhasználók száma** 1-re állítva, és később további személyeket vegyen fel. 
-    2. Válassza a havi vagy éves számlázást, ellenőrizze a teljes költséget, és válassza a **Tovább gombot.** 
-    3. Adja meg hitelkártya adatait. Ha a vállalat címe nem egyezik meg a hitelkártya címével, szükségünk lesz a vállalati címére is. A vállalat címe határozza meg, hogy milyen adókat fizet, és mely szolgáltatások állnak rendelkezésre. Az adókkal kapcsolatos további információkért lásd: [Milyen adót kell felszámítanom?](https://go.microsoft.com/fwlink/?linkid=2109701)
-    4. Válassza **a Hely sorrend**lehetőséget. Rövid időt vesz igénybe, amíg a Microsoft befejezi az új terv beállítását.
+    1. Döntse el, hogy a vállalkozásban hány embernek van szüksége Microsoft 365-licencre, vagy hagyja meg az 1-re beállított **felhasználók száma** értéket, és később adjon hozzá további személyeket. 
+    2. Válassza ki a havi vagy éves számlázást, ellenőrizze a teljes költséget, és válassza a **Tovább**gombot. 
+    3. Adja meg hitelkártyaadatait. Ha a vállalat címe nem egyezik meg a hitelkártya-címével, akkor a vállalat címére is szükségünk lesz. A vállalat címe határozza meg, hogy milyen adókat fizet, és mely szolgáltatások érhetők el. Az adókkal kapcsolatos további információkért lásd: [Milyen adót kell felszámítanom?](https://go.microsoft.com/fwlink/?linkid=2109701)
+    4. Válassza a **Megrendelés lehetőséget.** Rövid időt vesz igénybe, amíg a Microsoft befejezi az új csomag beállítását.
 
 ## <a name="whats-next"></a>A következő lépés
 
-Válassza **az Ugrás a beállításhoz** lehetőséget, ha további lépéseket szeretne végrehajtani, például nagyobb biztonságot szeretne adni a vállalkozásvédelme érdekében, és letöltheti az Office-alkalmazásokat, például a Wordöt és az Excelt.
+Válassza **az Ugrás a beállításhoz** lehetőséget, ha további lépéseket szeretne végrehajtani, például nagyobb biztonságot szeretne tenni a vállalkozás védelme érdekében, és letöltheti az Office-alkalmazásokat, például a Wordöt és az Excelt.
 
-Ha segítségre van szüksége a beállítással kapcsolatban, olvassa el [a beállítás.](set-up.md)
+A telepítéssel kapcsolatban a beállításról a beállításról van itt [a témakörben.](set-up.md)
 
 ## <a name="see-also"></a>Lásd még
 
-[Microsoft 365 Vállalati verziós oktatóvideók](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
+[Microsoft 365 üzleti oktatóvideók](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)

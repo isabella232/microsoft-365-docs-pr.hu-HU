@@ -21,13 +21,13 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: f3433b6b-02f7-447f-9d62-306bf03638b0
-description: Learn how to validate the Microsoft 365 Business app protection settings in your Android or iOS devices.
-ms.openlocfilehash: f37bc262b3a80f4acb7113829e3d809ee16d41d1
-ms.sourcegitcommit: 053d42480d8aa3792ecb0027ddd53d383a029474
+description: Megtudhatja, hogy miként érvényesítheti a Microsoft 365 Business Premium alkalmazásvédelmi beállításait Android- vagy iOS-eszközökön.
+ms.openlocfilehash: d25a23bc8eb56e05bd74f7bf4658ee9e18dc41f8
+ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/07/2020
-ms.locfileid: "42091093"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43635724"
 ---
 # <a name="validate-app-protection-settings-on-android-or-ios-devices"></a>Alkalmazásvédelmi beállítások ellenőrzése Android- vagy iOS-eszközökön
 
@@ -41,7 +41,7 @@ Miután [konfigurálta az Android-eszközök beállításait](app-protection-set
   
 Először győződjön meg arról, hogy a szabályzat vonatkozik arra az alkalmazásra, amelyben ellenőrizni fogja.
   
-1. A Microsoft 365 Business [felügyeleti központjában](https://portal.office.com) válassza a **Házirendek** \> **Házirend szerkesztése** lehetőséget.
+1. A Microsoft 365 Vállalati prémium [verzió felügyeleti központjában](https://portal.office.com)nyissa meg a **Házirendek** \> **szerkesztési házirendcímű verziót.**
     
 2. Válassza **az Android alkalmazásházirendjét** a beállításkor létrehozott beállításokhoz, vagy egy másik, ön által létrehozott házirendet, és ellenőrizze, hogy az outlookban van-e érvényben. 
     
@@ -53,7 +53,7 @@ A **Házirend szerkesztése** ablaktáblában válassza a **Szerkesztés** eleme
   
 ![Győződjön meg arról, hogy az Office-alkalmazások eléréséhez PIN- vagy ujjlenyomat megkövetelése beállítás be van kapcsolva.](../media/f37eb5b2-7e26-49fb-9bd6-d955d196bacf.png)
   
-1. A felhasználó Android-eszközén nyissa meg az Outlookot, és jelentkezzen be a felhasználó Microsoft 365 Businesshez használt hitelesítő adataival.
+1. A felhasználó Android-eszközén nyissa meg az Outlookot, és jelentkezzen be a felhasználó Microsoft 365 Business Premium hitelesítő adataival.
     
 2. A rendszer pin-kódot is kérni fog, vagy ujjlenyomatot kell használnia.
     
@@ -63,13 +63,13 @@ A **Házirend szerkesztése** ablaktáblában válassza a **Szerkesztés** eleme
 
 A **Házirend szerkesztése** ablaktáblán válassza a **Szerkesztés lehetőséget** az **Office-dokumentumok hozzáférés-vezérlése**mellett, válassza **a Felhasználók hozzáférésének kezelése mobileszközökön**lehetőséget, és győződjön meg arról, hogy **a PIN-kód visszaállítása a sikertelen kísérletek száma után** bizonyos számra van állítva. Ez alapértelmezés szerint 5. 
   
-1. A felhasználó Android-eszközén nyissa meg az Outlookot, és jelentkezzen be a felhasználó Microsoft 365 Businesshez használt hitelesítő adataival.
+1. A felhasználó Android-eszközén nyissa meg az Outlookot, és jelentkezzen be a felhasználó Microsoft 365 Business Premium hitelesítő adataival.
     
 2. Írjon be egy helytelen PIN-kódot a házirendben megadott alkalommal. Megjelenik egy kérdés, amely kimondja, hogy a **PIN-kód ra vonatkozóan elérte** a PIN-kód visszaállításához elért PIN-kódkorlátot. 
     
     ![After too many incorrect PIN attempts, you need to reset your PIN.](../media/fca6fcb4-bb5c-477f-af5e-5dc937e8b835.png)
   
-3. Válassza a **PIN-kód visszaállítása** elemet. A rendszer kéri, hogy jelentkezzen be a felhasználó Microsoft 365 Vállalati verziós hitelesítő adataival, majd új PIN-kódot kell beállítania.
+3. Válassza a **PIN-kód visszaállítása** elemet. A rendszer kéri, hogy jelentkezzen be a felhasználó Microsoft 365 Business Premium hitelesítő adataival, majd új PIN-kódot kell beállítania.
     
 ### <a name="validate-force-users-to-save-all-work-files-to-onedrive-for-business"></a>„A felhasználók kényszerítése arra, hogy az összes munkahelyi fájljukat ide mentsék: OneDrive Vállalati verzió" beállítás ellenőrzése
 
@@ -77,7 +77,7 @@ A **Házirend szerkesztése** ablaktáblában válassza a **Szerkesztés** eleme
   
 ![Verify that Force users to save all work files to OneDrive for Business is set to On.](../media/7140fa1d-966d-481c-829f-330c06abb5a5.png)
   
-1. A felhasználó Android-eszközén nyissa meg az Outlookot, jelentkezzen be a felhasználó Microsoft 365 Businesshez használt hitelesítő adataival, és szükség esetén adja meg a PIN-kódot.
+1. A felhasználó Android-eszközén nyissa meg az Outlookot, jelentkezzen be a felhasználó Microsoft 365 Business Premium hitelesítő adataival, és szükség esetén adjon meg PIN-kódot.
     
 2. Nyisson meg egy mellékletet tartalmazó e-mailt, és koppintson a lefelé mutató nyíl ikonra a melléklet adatai mellett.
     
@@ -94,7 +94,7 @@ A **Házirend szerkesztése** ablaktáblában válassza a **Szerkesztés** eleme
 
 A **Házirend szerkesztése** ablaktáblán válassza a **Szerkesztés lehetőséget** az **Office-dokumentumok hozzáférés-vezérlése**mellett, válassza **a Felhasználók hozzáférésének kezelése mobileszközökön**lehetőséget, és győződjön meg arról, hogy **A felhasználók bejelentkezésének megkövetelése az Office-alkalmazások tétlensége után** bizonyos számú percre van beállítva. Ez alapértelmezés szerint 30 perc. 
   
-1. A felhasználó Android-eszközén nyissa meg az Outlookot, jelentkezzen be a felhasználó Microsoft 365 Businesshez használt hitelesítő adataival, és szükség esetén adja meg a PIN-kódot.
+1. A felhasználó Android-eszközén nyissa meg az Outlookot, jelentkezzen be a felhasználó Microsoft 365 Business Premium hitelesítő adataival, és szükség esetén adjon meg PIN-kódot.
     
 2. Ekkor megjelenik az Outlook Beérkezett üzenetek mappája. Hagyja az Android-eszközt üresjáratban legalább 30 percig (vagy más időtartamig, az a lényeg, hogy hosszabb legyen a házirendben meghatározottnál). Az eszköz valószínűleg elsötétül.
     
@@ -106,7 +106,7 @@ A **Házirend szerkesztése** ablaktáblán válassza a **Szerkesztés lehetős�
 
 A **Házirend szerkesztése** ablaktáblában válassza a **Szerkesztés** elemet az **Elveszett vagy ellopott eszközök elleni védelem** elem mellett, bontsa ki a **Munkahelyi fájlok védelme az eszköz elvesztése vagy ellopása esetén** csomópontot, és győződjön meg arról, hogy a **Munkahelyi fájlok védelme titkosítással** beállítás értéke **Be**, **A felhasználók kényszerítése arra, hogy az összes munkahelyi fájljukat ide mentsék: OneDrive Vállalati verzió** beállításé pedig **Ki**.
   
-1. A felhasználó Android-eszközén nyissa meg az Outlookot, jelentkezzen be a felhasználó Microsoft 365 Businesshez használt hitelesítő adataival, és szükség esetén adja meg a PIN-kódot.
+1. A felhasználó Android-eszközén nyissa meg az Outlookot, jelentkezzen be a felhasználó Microsoft 365 Business Premium hitelesítő adataival, és szükség esetén adjon meg PIN-kódot.
     
 2. Nyisson meg egy e-mailt, amely néhány képfájl-mellékletet tartalmaz.
     
@@ -130,7 +130,7 @@ Miután [konfigurálta az iOS-eszközök beállításait](app-protection-setting
   
 Először győződjön meg arról, hogy a szabályzat vonatkozik arra az alkalmazásra, amelyben ellenőrizni fogja.
   
-1. A Microsoft 365 Business [felügyeleti központjában](https://portal.office.com) válassza a **Házirendek** \> **Házirend szerkesztése** lehetőséget.
+1. A Microsoft 365 Vállalati prémium [verzió felügyeleti központjában](https://portal.office.com)nyissa meg a **Házirendek** \> **szerkesztési házirendcímű verziót.**
     
 2. Válassza **az iOS alkalmazásházirendet** a telepítéskor létrehozott beállításokhoz, vagy egy másik, ön által létrehozott házirendet, és ellenőrizze, hogy az outlookhoz van-e kényszerítve. 
     
@@ -142,7 +142,7 @@ A **Házirend szerkesztése** ablaktáblában válassza a **Szerkesztés** eleme
   
 ![Győződjön meg arról, hogy az Office-alkalmazások eléréséhez PIN- vagy ujjlenyomat megkövetelése beállítás be van kapcsolva.](../media/f37eb5b2-7e26-49fb-9bd6-d955d196bacf.png)
   
-1. A felhasználó iOS-eszközén nyissa meg az Outlookot, és jelentkezzen be a felhasználó Microsoft 365 Businesshez használt hitelesítő adataival.
+1. A felhasználó iOS-készülékén nyissa meg az Outlookot, és jelentkezzen be a felhasználó Microsoft 365 Business Premium hitelesítő adataival.
     
 2. A rendszer pin-kódot is kérni fog, vagy ujjlenyomatot kell használnia.
     
@@ -152,13 +152,13 @@ A **Házirend szerkesztése** ablaktáblában válassza a **Szerkesztés** eleme
 
 A **Házirend szerkesztése** ablaktáblán válassza a **Szerkesztés lehetőséget** az **Office-dokumentumok hozzáférés-vezérlése**mellett, válassza **a Felhasználók hozzáférésének kezelése mobileszközökön**lehetőséget, és győződjön meg arról, hogy **a PIN-kód visszaállítása a sikertelen kísérletek száma után** bizonyos számra van állítva. Ez alapértelmezés szerint 5. 
   
-1. A felhasználó iOS-eszközén nyissa meg az Outlookot, és jelentkezzen be a felhasználó Microsoft 365 Businesshez használt hitelesítő adataival.
+1. A felhasználó iOS-készülékén nyissa meg az Outlookot, és jelentkezzen be a felhasználó Microsoft 365 Business Premium hitelesítő adataival.
     
 2. Írjon be egy helytelen PIN-kódot a házirendben megadott alkalommal. Megjelenik egy kérdés, amely kimondja, hogy a **PIN-kód ra vonatkozóan elérte** a PIN-kód visszaállításához elért PIN-kódkorlátot. 
     
     ![After too many incorrect PIN attempts, you need to reset your PIN.](../media/fab5c089-a4a5-4e8d-8c95-b8eed1dfa262.png)
   
-3. Válassza az **OK** gombot. A rendszer kéri, hogy jelentkezzen be a felhasználó Microsoft 365 Vállalati verziós hitelesítő adataival, majd új PIN-kódot kell beállítania.
+3. Válassza az **OK** gombot. A rendszer kéri, hogy jelentkezzen be a felhasználó Microsoft 365 Business Premium hitelesítő adataival, majd új PIN-kódot kell beállítania.
     
 ### <a name="validate-force-users-to-save-all-work-files-to-onedrive-for-business"></a>„A felhasználók kényszerítése arra, hogy az összes munkahelyi fájljukat ide mentsék: OneDrive Vállalati verzió" beállítás ellenőrzése
 
@@ -166,13 +166,13 @@ A **Házirend szerkesztése** ablaktáblában válassza a **Szerkesztés** eleme
   
 ![Verify that Force users to save all work files to OneDrive for Business is set to On.](../media/7140fa1d-966d-481c-829f-330c06abb5a5.png)
   
-1. A felhasználó iOS-eszközén nyissa meg az Outlookot, jelentkezzen be a felhasználó Microsoft 365 Businesshez használt hitelesítő adataival, és szükség esetén adja meg a PIN-kódot.
+1. A felhasználó iOS-készülékén nyissa meg az Outlookot, jelentkezzen be a felhasználó Microsoft 365 Business Premium hitelesítő adataival, és szükség esetén adjon meg PIN-kódot.
     
 2. Nyisson meg egy mellékletet tartalmazó e-mailt, nyissa meg a mellékletet, és válassza a **Mentés** elemet a képernyő alján. 
     
     ![Tap the Save option after you open an attachment to try to save it.](../media/b419b070-1530-4f14-86a8-8d89933a2b25.png)
   
-3. Elvileg csak a OneDrive Vállalati verzió beállítás látható. Ha nem, koppintson a **Fiók hozzáadása** elemre, és válassza a **OneDrive Vállalati** verzió lehetőséget a **Tárfiók hozzáadása** képernyőn. Amikor szükséges, adja meg a végfelhasználó Microsoft 365 Businesshez használt adatait a bejelentkezéshez. 
+3. Elvileg csak a OneDrive Vállalati verzió beállítás látható. Ha nem, koppintson a **Fiók hozzáadása** elemre, és válassza a **OneDrive Vállalati** verzió lehetőséget a **Tárfiók hozzáadása** képernyőn. Adja meg a végfelhasználó Microsoft 365 Business Premium szolgáltatását, hogy amikor a rendszer kéri, jelentkezzen be. 
     
     Koppintson a **Mentés** elemre, és válassza a **OneDrive Vállalati verzió** lehetőséget.
     
@@ -180,7 +180,7 @@ A **Házirend szerkesztése** ablaktáblában válassza a **Szerkesztés** eleme
 
 A **Házirend szerkesztése** ablaktáblán válassza a **Szerkesztés lehetőséget** az **Office-dokumentumok hozzáférés-vezérlése**mellett, válassza **a Felhasználók hozzáférésének kezelése mobileszközökön**lehetőséget, és győződjön meg arról, hogy **A felhasználók bejelentkezésének megkövetelése az Office-alkalmazások tétlensége után** bizonyos számú percre van beállítva. Ez alapértelmezés szerint 30 perc. 
   
-1. A felhasználó iOS-eszközén nyissa meg az Outlookot, jelentkezzen be a felhasználó Microsoft 365 Businesshez használt hitelesítő adataival, és szükség esetén adja meg a PIN-kódot.
+1. A felhasználó iOS-készülékén nyissa meg az Outlookot, jelentkezzen be a felhasználó Microsoft 365 Business Premium hitelesítő adataival, és szükség esetén adjon meg PIN-kódot.
     
 2. Ekkor megjelenik az Outlook Beérkezett üzenetek mappája. Hagyja az iOS-eszközt érintetlenül legalább 30 percig (vagy más időtartamig, az a lényeg, hogy hosszabb legyen a házirendben meghatározottnál). Az eszköz valószínűleg elsötétül.
     
@@ -192,7 +192,7 @@ A **Házirend szerkesztése** ablaktáblán válassza a **Szerkesztés lehetős�
 
 A **Házirend szerkesztése** ablaktáblában válassza a **Szerkesztés** elemet az **Elveszett vagy ellopott eszközök elleni védelem** elem mellett, bontsa ki a **Munkahelyi fájlok védelme az eszköz elvesztése vagy ellopása esetén** csomópontot, és győződjön meg arról, hogy a **Munkahelyi fájlok védelme titkosítással** beállítás értéke **Be**, **A felhasználók kényszerítése arra, hogy az összes munkahelyi fájljukat ide mentsék: OneDrive Vállalati verzió** beállításé pedig **Ki**.
   
-1. A felhasználó iOS-eszközén nyissa meg az Outlookot, jelentkezzen be a felhasználó Microsoft 365 Businesshez használt hitelesítő adataival, és szükség esetén adja meg a PIN-kódot.
+1. A felhasználó iOS-készülékén nyissa meg az Outlookot, jelentkezzen be a felhasználó Microsoft 365 Business Premium hitelesítő adataival, és szükség esetén adjon meg PIN-kódot.
     
 2. Nyisson meg egy e-mailt, amely néhány képfájl-mellékletet tartalmaz.
     

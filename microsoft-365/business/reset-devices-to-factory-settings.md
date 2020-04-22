@@ -22,25 +22,25 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: c4db6caf-74df-4734-b1dd-53e371c7a3c3
-description: Megtudhatja, hogy a Microsoft 365 Business segítségével hogyan állíthatja alaphelyzetbe a Kezelt Windows 10-eszközöket, és hogyan állíthatja vissza őket az eredeti beállításokhoz a vásárláskor.
-ms.openlocfilehash: 3705448602cdc22e9fb5843c46d5bdc1c4dbdb2e
-ms.sourcegitcommit: 217de0fc54cbeaea32d253f175eaf338cd85f5af
+description: Megtudhatja, hogy a Microsoft 365 vállalati verzióval hogyan állíthatja vissza gyárilag az Ön által kezelt Windows 10-es eszközöket, és hogyan állíthatja vissza őket az eredeti beállításokhoz vásárláskor.
+ms.openlocfilehash: 7cf5619cb1b6f5f847690d723381614d4b7afc3c
+ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/07/2020
-ms.locfileid: "42561300"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43634792"
 ---
 # <a name="reset-windows-10-devices-to-their-factory-settings"></a>A Windows 10-es eszközök gyári állapotának visszaállítása
 
 [![A megjelenő címke figyelmeztet a felügyeleti központ változásaira, további részleteket itt talál: aka.ms/aboutM365preview.](../media/m365admincenterchanging.png)](https://docs.microsoft.com/office365/admin/microsoft-365-admin-center-preview)
 
-A gyári állapot visszaállításával az eszköz visszaáll a megvásárlásakor érvényes, eredeti beállításaira. A visszaállítással a vásárlás óta az eszközre telepített minden appot és adatot eltávolít. A Microsoft 365 Business segítségével visszaállíthatja az Ön által kezelt Windows 10-es eszközök gyári beállításait.
+A gyári állapot visszaállításával az eszköz visszaáll a megvásárlásakor érvényes, eredeti beállításaira. A visszaállítással a vásárlás óta az eszközre telepített minden appot és adatot eltávolít. A Microsoft 365 vállalati verzióval gyárilag alaphelyzetbe állíthatja az Ön által kezelt Windows 10-es eszközöket.
   
-1. Nyissa meg a <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>felügyeleti központot a .
+1. Nyissa meg a <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>felügyeleti központot a alkalmazásban.
     
 2. A bal oldali navigációs sávon válassza az **Eszközök** \> **kezelése lehetőséget.**
 
-3. A **Kezelés** lapon jelölje be annak az eszköznek a jelölőnégyzetét, amelyről adatokat szeretne eltávolítani, majd a **Kezelés** legördülő menüben válassza **a Gyári beállítások visszaállítása**lehetőséget.
+3. A **Kezelés** lapon jelölje be annak az eszköznek a jelölőnégyzetét, amelyről adatokat szeretne eltávolítani, majd a **Kezelés** legördülő menüben válassza a **Gyári alaphelyzetbe állítást**lehetőséget.
     
 4. A **Biztos, hogy visszaállítja gyári alaphelyzetbe az alábbi eszközöket?** ablaktáblában válassza a **Megerősítés** \> **Bezárás** lehetőséget.
     

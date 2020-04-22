@@ -1,5 +1,5 @@
 ---
-title: Frissítés a Microsoft 365 Vállalati verzióra az Office 365 Vállalati prémium verzióról
+title: Frissítés a Microsoft 365 Vállalati prémium verzióra a Microsoft 365 vállalati szabványból
 f1.keywords:
 - NOCSH
 ms.author: sirkkuw
@@ -22,80 +22,80 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: 5b4ba843-24b8-4526-8e1f-f9b9eab89d06
-description: Ismerje meg, mi a különbség az Office 365 Vállalati prémium verzió és a Microsoft 365 Vállalati verzió között, és hogyan frissíthet a Microsoft 365 Vállalati verzióra.
-ms.openlocfilehash: 2ec77d96bef288bd33e4f67b74f91550f388a2c1
-ms.sourcegitcommit: 217de0fc54cbeaea32d253f175eaf338cd85f5af
+description: Ismerje meg a Microsoft 365 Business Standard és a Microsoft 365 Business Premium közötti különbséget, valamint azt, hogy miként frissíthet microsoft 365 Business Premium verzióra.
+ms.openlocfilehash: 83bdf3a770acae222dd80c5798228e67cce56e57
+ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/07/2020
-ms.locfileid: "42561420"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43633159"
 ---
-# <a name="upgrade-to-microsoft-365-business-from-office-365-business-premium"></a>Frissítés a Microsoft 365 Vállalati verzióra az Office 365 Vállalati prémium verzióról
+# <a name="upgrade-to-microsoft-365-business-premium-from-microsoft-365-business-standard"></a>Frissítés a Microsoft 365 Vállalati prémium verzióra a Microsoft 365 vállalati szabványból
 
-Ha Office [365 vállalati verziós előfizetéssel](https://products.office.com/compare-all-microsoft-office-products-4-column?activetab=tab:primaryr2)rendelkezik , például Office 365 Vállalati prémium verzióval, egyszerűen frissíthet a Microsoft 365 Vállalati verzióra. Frissítsen a Microsoft 365 Business szolgáltatásra, ha hozzá szeretné adni: 
+Ha microsoft [365 vállalati előfizetéssel](https://products.office.com/compare-all-microsoft-office-products-4-column?activetab=tab:primaryr2)rendelkezik , például Microsoft 365 Vállalati standard, egyszerűen frissíthet a Microsoft 365 Business Premium szolgáltatásra. Frissítsen a Microsoft 365 Vállalati Prémium verzióra, ha hozzá szeretné adni: 
 - Windows 10 Pro (Windows 8 vagy újabb rendszert futtató számítógépekre)
-- Egyszerű vezérlők, amelyek kezelik az üzleti adatokat az eszközökön
-- Speciális biztonsági képességek.
-További információ a Microsoft 365 Business ről [Microsoft.com](https://www.microsoft.com/microsoft-365/business)
+- Egyszerű vezérlők, amelyek az üzleti adatokat kezelik az eszközökön
+- Fejlett biztonsági képességek.
+További információ a Microsoft 365 Business Premium szolgáltatásról [Microsoft.com](https://www.microsoft.com/microsoft-365/business)
 
-## <a name="whats-the-difference-between-office-365-business-premium-and-microsoft-365-business"></a>Mi a különbség az Office 365 Vállalati prémium verzió és a Microsoft 365 Vállalati verzió között?
-A két csomag egymás melletti összehasonlítását hozzáadtuk a [Microsoft 365 Üzleti szolgáltatás leírásához.](https://docs.microsoft.com/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-business-service-description) 
+## <a name="whats-the-difference-between-microsoft-365-business-standard-and-microsoft-365-business-premium"></a>Mi a különbség a Microsoft 365 Business Standard és a Microsoft 365 Business Premium között?
+A [Microsoft 365 Business Premium szolgáltatás leírásával](https://docs.microsoft.com/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-business-service-description)kiegészítettük a két terv egymás melletti összehasonlítását. 
 
-## <a name="before-you-get-started"></a>Mielőtt elkezdesz
+## <a name="before-you-get-started"></a>Mielőtt elkezdene
 
-- **Mikor válasszam a frissítést?** A frissítés akkor a megfelelő választás, ha az egyetlen csomaghoz rendelt **összes felhasználót** frissíteni szeretné. Ha a frissítést választja, az összes csomagfelhasználó egyszerre vált át egy másik csomagra. Ha nem szeretne frissíteni mindenkit, aki egyetlen csomaghoz van rendelve, vásároljon licenceket az új csomaghoz (ebben az esetben a Microsoft 365 Business hez), és [rendelje hozzá ezeket a licenceket egyenként](https://docs.microsoft.com/office365/admin/manage/assign-licenses-to-users) minden egyes frissíteni kívánt felhasználóhoz. 
-- **Egyes bővítmények megakadályozhatják a frissítést** Ha megpróbál elindítani egy frissítést, és van egy bővítmény, amely megakadályozza a folytatást, először eltávolíthatja a bővítményt, majd később visszaveheti, ha még mindig szüksége van rá. 
-- **Ha előre kifizette a csomagot** Az előre fizetett csomagokhoz nincs egyszerű frissítési útvonal. Tudni fogja, hogy van-e előre fizetett csomagja, mert olyan termékazonosító használatával állította be a csomagot, amelyet esetleg egy üzletben vásárolt. Lépjen kapcsolatba egy partnerrel, lépjen a Microsoft Store-ba, vagy várjon, amíg az előre fizetett csomag lejár, és új csomagra vált.
+- **Mikor válasszam a frissítést?** A frissítés a megfelelő választás, ha az egyetlen csomaghoz rendelt **összes felhasználót** frissíteni szeretné. Ha a frissítés lehetőséget választja, a csomag összes felhasználója egyszerre vált át egy másik csomagra. Ha nem szeretné frissíteni az egyetlen csomaghoz hozzárendelt összes felhasználót, vásároljon licenceket az új csomaghoz (ebben az esetben a Microsoft 365 Business Premium csomaghoz), és [rendelje hozzá ezeket](https://docs.microsoft.com/office365/admin/manage/assign-licenses-to-users) a licenceket minden egyes frissíteni kívánt felhasználóhoz. 
+- **Egyes bővítmények megakadályozhatják a frissítést** Ha megpróbál elindítani egy frissítést, és van egy bővítménye, amely megakadályozza a folytatást, először eltávolíthatja a bővítményt, majd később újra hozzáadhatja, ha még szüksége van rá. 
+- **Ha előre kifizette a csomagot** Nincs egyszerű frissítési útvonal az előre fizetett csomagokhoz. Tudni fogja, ha előre fizetett csomaggal rendelkezik, mert a csomagot egy olyan termékazonosító használatával állítja be, amelyet esetleg egy üzletben vásárolt. Lépjen kapcsolatba egy partnerrel, keresse fel a Microsoft Store-t, vagy várja meg, amíg lejár az előre fizetett csomag, és váltson át egy új csomagra.
 
-## <a name="upgrade-to-microsoft-365-business"></a>Frissítés a Microsoft 365 Vállalati verzióra
+## <a name="upgrade-to-microsoft-365-business-premium"></a>Frissítés a Microsoft 365 Vállalati Prémium verzióra
 Vásárolja meg a licenceket az alábbi lépések végrehajtásával az [új felügyeleti központban:](https://docs.microsoft.com/office365/admin/microsoft-365-admin-center-preview)
-1. Jelentkezzen be a <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>felügyeleti központba a .
-2. Nyissa meg a navigációs ablakot, és válassza a **Számlázási** \> **termékek & szolgáltatások**lehetőséget. Keresse meg Office 365-előfizetését, és válassza ki a részleteket. 
+1. Jelentkezzen be a <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>felügyeleti központba a alkalmazásban.
+2. Nyissa meg a navigációs ablakot, és válassza **a Számlázási** \> **termékek & szolgáltatások lehetőséget.** Keresse meg az előfizetést, és válassza ki a részletek megtekintéséhez. 
 
     ![A képernyőkép bemutatja, hogyan keresheti meg és választhatja ki az előfizetést a felügyeleti központban.](../media/FindYourSubscription.png)
 
 3. A következő lapon válassza a **Frissítés**lehetőséget. 
 
-      ![A képernyőkép azt mutatja, hogy hol válassza a Frissítés lehetőséget a felügyeleti központban.](../media/SelectUpgrade.png)
+      ![Egy képernyőkép mutatja, hogy hol válassza a Frissítés lehetőséget a felügyeleti központban.](../media/SelectUpgrade.png)
 
   > [!NOTE]
-  > Ha megjelenik egy üzenet, amely szerint az **előfizetés frissítése nem támogatott csoportalapú licenceléssel az Azure Active Directoryban,** nyugodtan figyelmen kívül hagyhatja ezt, ha csak egy nagyon nagy szervezet. Azok a szervezetek, amelyek ezt a beállítást választották, tudatában lesznek annak, hogy csoportalapú licencelést használnak.
+  > Ha megjelenik egy üzenet, amely szerint **az előfizetés frissítése nem támogatott a csoportalapú licencelés az Azure Active Directoryban,** nyugodtan figyelmen kívül hagyhatja ezt, hacsak nem rendelkezik egy nagyon nagy szervezet. Azok a szervezetek, amelyek ezt a lehetőséget választották, tisztában lesznek azzal, hogy csoportalapú licencelést használnak.
 
-4. Ezután megtekintheti azoknak az Office-csomagoknak a listáját, amelyekre frissíthet. Ebben az esetben keresse meg a Microsoft 365 Vállalati csomag csomag. Lefelé görgethet, ha meg szeretné tekinteni a csomagban található összes Office-alkalmazást és -szolgáltatást. A **Microsoft 365 Vállalati verzió**csoportban válassza a **Frissítés** lehetőséget a Microsoft 365 Business kosárba való hozzáadásához.
+4. Ezután megtekintheti azoknak az Office-csomagoknak a listáját, amelyekre frissíthet. Ebben az esetben keresse meg a Microsoft 365 Vállalati prémium verziós csomagot. Lefelé görgethet, ha meg szeretné tekinteni a csomagban szereplő összes Office-alkalmazást és szolgáltatást. A **Microsoft 365 Vállalati prémium verzió csoportban**válassza **a Frissítés** lehetőséget, ha hozzá szeretné adni a Microsoft 365 Vállalati Prémium verziót a kosárhoz.
 5. A kosárban:
-    1. Automatikusan licenceket fogunk tartalmazni az összes jelenlegi felhasználószámára. Ha több vagy kevesebb licencre van szüksége, meg kell vásárolnia és egyenként hozzá kell [rendelnie ezeket a licenceket.](https://docs.microsoft.com/office365/admin/manage/assign-licenses-to-users)  
-    2. Beállíthatja, hogyan szeretne fizetni: havonta vagy évente. Válassza ki a legördülő menüt a választáshoz.
-6. Válassza az **Ugrás a pénztárhoz** lehetőséget, ahol a vásárlás összegzését láthatja, beleértve a fiók fizetési módját is. Azt is hozzá egy promóciós kódot itt, ha van egy.
-7. A vásárlás befejezéséhez válassza a **Megrendelés** lehetőséget.
-Az új szolgáltatási csomagok beállítása a Microsoftnak néhány percet vesz igénybe. A folyamat ellenőrzéséhez válassza **a Frissítésállapotának ellenőrzése**lehetőséget. 
-1. Ha a csomag készen áll, előfordulhat, hogy el kell végeznie néhány további beállítási lépést a felügyeleti központban. A navigációs ablakban válassza a **Kezdőlap** lehetőséget a további telepítési lépések végrehajtásához.
+    1. Automatikusan licenceket adunk az összes jelenlegi felhasználóhoz. Ha több vagy kevesebb licencre van szüksége, [akkor ezeket a licenceket egyenként kell megvásárolnia és hozzárendelnie.](https://docs.microsoft.com/office365/admin/manage/assign-licenses-to-users)  
+    2. Beállíthatja, hogyan szeretne fizetni: havonta vagy évente. A választáshoz válassza ki a legördülő menüt.
+6. Válassza **az Ugrás a Pénztárba** lehetőséget, ahol megjelenik a vásárlás összegzése, beleértve a fiókfizetési módot is. Azt is hozzá egy promóciós kódot itt, ha van egy.
+7. Válassza **a Megrendelés lehetőséget** a vásárlás befejezéséhez.
+Az új szolgáltatási csomagok beállítása a Microsoftnak néhány percet vesz igénybe. A folyamat ellenőrzéséhez válassza a **Frissítés állapotának ellenőrzése**lehetőséget. 
+1. Miután a csomag készen áll, előfordulhat, hogy néhány további beállítási lépést kell végrehajtania a felügyeleti központban. A navigációs ablakban válassza a **Kezdőlap** lehetőséget a további beállítási lépések végrehajtásához.
 
 > [!NOTE]
-> Arányos visszatérítést kap az Office 365-licencek után, amelyekre már nincs szüksége. Az új csomag beállítása után körülbelül két nappal terhelik meg bankszámláját vagy hitelkártyáját.
+> A microsoft 365-ös licencek érti a microsoft 365-ös licenceket, amelyekre már nincs szüksége, arányos visszatérítést kap. A bankszámláját vagy a hitelkártyáját körülbelül két nappal az új csomag beállítása után terhelik meg.
   
 ## <a name="protect-user-devices-and-files"></a>Felhasználói eszközök és fájlok védelme
 
-Most, hogy a Microsoft 365 Vállalati licencek hozzá lettek rendelve, tegye meg az eszközök és fájlok védelmének lépéseit. A Felügyeleti központ navigációs ablaktáblájában néhány új lehetőséget fog használni.
+Most, hogy a Microsoft 365 Business Premium licenceket hozzárendelte, hajtsa végre az eszközök és fájlok védelmének megkezdését. A Felügyeleti központ navigációs ablaktáblájában található néhány új beállítást fog használni.
   
-1. A Felügyeleti központban a navigációs ablakban nyissa meg az **Eszközök** \> **házirendjei**című főt.
+1. A Felügyeleti központ navigációs ablaktáblájában nyissa meg az Eszközök **házirendje című szakaszt.** **Devices** \>
     
-2. Az **Eszközházirendek** lapon válassza a **Hozzáadás**lehetőséget.
+2. Az **Eszközházirendek** lapon válassza a **Hozzáadás lehetőséget.**
     
-3. A **Házirend hozzáadása** ablaktáblában adjon nevet a házirendnek (például Munkahelyi fájlok védelme), majd válasszon egy **házirendtípust** a legördülő listából. 
+3. A **Házirend hozzáadása** ablaktáblán adjon nevet a házirendnek (például munkafájlok védelme), majd válasszon egy **házirendtípust** a legördülő listából. 
     
-    Beállíthatja az Android és iPhone eszközök, valamint a Windows 10 fájljainak védelmére szolgáló alkalmazásházirendeket, és beállíthatja a vállalat tulajdonában lévő Windows 10-eszközök eszközkonfigurációs irányelveit. A részleteket az alábbi hivatkozásokon találja:
+    Beállíthat alkalmazásházirendeket az Android és iPhone eszközökön, valamint a Windows 10-en lévő fájlok védelmére, és eszközkonfigurációs házirendeket állíthat be a vállalat tulajdonában lévő Windows 10-es eszközökhöz. A részleteket az alábbi linkeken találja:
     
   - [Appvédelmi beállítások megadása androidos vagy iOS-es eszközökhöz](app-protection-settings-for-android-and-ios.md)
     
   - [Alkalmazásvédelmi beállítások megadása Windows 10-es eszközökhöz](protection-settings-for-windows-10-devices.md)
     
-  - [Eszközvédelmi beállítások megadása Windows 10-es számítógépekhez](protection-settings-for-windows-10-pcs.md)
+  - [A Windows 10 rendszerű számítógépek eszközvédelmi beállításainak megadása](protection-settings-for-windows-10-pcs.md)
     
   
-4. A házirendek beállítása után Ön és alkalmazottai a következőket állíthatják be:
+4. A házirendek beállítása után Ön és az alkalmazottak beállíthatják az eszközöket:
     
-  - Ha Windows-eszközei még nem használják a Windows Pro Creator frissítést, frissítenie kell őket a [Windows Pro Alkotók frissítésére.](upgrade-to-windows-pro-creators-update.md)
+  - Ha windowsos eszközei még nem használják a Windows Pro Creator frissítését, frissítenie kell [őket a Windows Pro alkotói frissítésre.](upgrade-to-windows-pro-creators-update.md)
     
-  - A [Windows-eszközök beállítása a Microsoft 365 Vállalati verzió felhasználói számára](set-up-windows-devices.md) a Windows-eszközökhöz szükséges lépésekről. 
+  - A [Windows-eszközök beállítása A Microsoft 365 Business Premium-felhasználók számára](set-up-windows-devices.md) a Windows-eszközökhöz szükséges lépéseket lásd. 
     
-  - Az Android-telefonokra és iPhone-okra vonatkozó lépésekről a [Microsoft 365 Vállalati verzió felhasználóinak mobileszközök beállítása.](set-up-mobile-devices.md) 
+  - Az Android-telefonokra és iPhone-okra vonatkozó lépésekért olvassa el [A mobileszközök beállítása Microsoft 365 Business Premium-felhasználók számára.](set-up-mobile-devices.md) 

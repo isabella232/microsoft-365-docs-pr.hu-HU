@@ -1,5 +1,5 @@
 ---
-title: Felkészülés Office-ügyfél központi telepítésére a Microsoft 365 Business segítségével
+title: Felkészülés a Microsoft 365 vállalati verzió statisztulásának Office-ügyféltelepítésére
 f1.keywords:
 - CSH
 ms.author: sirkkuw
@@ -20,19 +20,19 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: ed34fff3-2881-4ed4-9906-1ba6bb8dd804
-description: Megtudhatja, hogy miként telepítheti automatikusan a 32 bites Office-alkalmazásokat Windows 10-es számítógépekre, és hogyan tarthatja őket naprakészen.
-ms.openlocfilehash: 0f8cd7df49ad627b190fad6737ec95a6d64d99d0
-ms.sourcegitcommit: 3dd9944a6070a7f35c4bc2b57df397f844c3fe79
+description: Megtudhatja, hogy miként telepítheti automatikusan a 32 bites Office-alkalmazásokat Windows 10 rendszerű számítógépekre, és hogyan őrizheti meg azokat.
+ms.openlocfilehash: b5f01bc9bb10765929f3c6bdd5908e8b48a51a11
+ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 02/15/2020
-ms.locfileid: "42065106"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43633099"
 ---
-# <a name="prepare-for-office-client-deployment-by-microsoft-365-business"></a>Felkészülés Office-ügyfél központi telepítésére a Microsoft 365 Business segítségével
+# <a name="prepare-for-office-client-deployment-by-microsoft-365-for-business"></a>Felkészülés a Microsoft 365 vállalati verzió statisztulásának Office-ügyféltelepítésére
 
 ## <a name="prepare-to-automatically-install-office-apps-to-client-computers"></a>Felkészülés az Office-appok ügyfélszámítógépekre történő automatikus telepítésére
 
-A Microsoft 365 Vállalati verzió segítségével automatikusan telepítheti a 32 bites Office-alkalmazásokat Windows 10-es számítógépekre, és naprakészen tarthatja őket a frissítésekkel.
+A Microsoft 365 vállalati verzióval automatikusan telepítheti a 32 bites Office-alkalmazásokat Windows 10 rendszerű számítógépekre, és naprakészen tarthatja őket a frissítésekkel kapcsolatban.
   
 Az automatikus telepítés akkor működik a legjobban, ha a végfelhasználó számítógépe Windows 10 Business rendszeren van, és:
   
@@ -42,29 +42,29 @@ Az automatikus telepítés akkor működik a legjobban, ha a végfelhasználó s
     
 - Telepítve van egy Office Kattintásra verzió.
     
-Ha ki szeretné deríteni, hogy az Office Office Kattintásra verziójával rendelkezik-e, egy tetszőleges Office-appban válassza a **Fájl** \> **Fiók** (az Outlookban **Office-fiók**) lehetőséget). Ha az **Office-frissítések** az alábbi ábrán látható módon jelenik meg, akkor a telepítés a Kattintásra szolgáltatás sal történt. 
+Ha ki szeretné deríteni, hogy az Office Office Kattintásra verziójával rendelkezik-e, egy tetszőleges Office-appban válassza a **Fájl** \> **Fiók** (az Outlookban **Office-fiók**) lehetőséget). Ha az **Office-frissítések** az alábbi ábrán látható módon jelenik meg, akkor a telepítés az Office-hoz kattintással történt. 
   
 ![Screenshot of Office updates in Office app Account](../media/e3439380-fa43-4ed6-ae5d-64851c297df5.png)
   
- **Kinek származik előnye ennek a funkciónak a birtoklásából?**
+ **Ki élvezi ezt a funkciót?**
   
 Annak a végfelhasználónak, akinek a PC-jén:
   
-- **Megtalálható** egy Windows 10 Business verzióhoz való felhasználói licenc, egy aktív Microsoft 365 Business-licenc és a Windows 10 alkotói frissítés, illetve akinek a PC-je csatlakoztatva van az Azure Active Directoryhoz. 
+- **Windows** 10 Business felhasználói licenccel, aktív Microsoft 365 vállalati licenccel, Windows 10 Alkotók frissítésével rendelkezik, és csatlakozik az Azure Active Directoryhoz. 
     
-- **Nincs** 64 bites Office-alkalmazás (például Word, Excel, PowerPoint). Ha 64 bites Office-alkalmazásokra van szükség, akkor ez a funkció nem megfelelő, mert nem támogatja az Office 64 bites, kattintásra futó verziójának aktiválását a Microsoft 365 Vállalati verzió felügyeleti konzoljáról. 
+- **Nem rendelkezik** 64 bites Office-alkalmazásokkal (például Word, Excel, PowerPoint). Ha 64 bites Office-alkalmazásokra van szükség, akkor ez a funkció nem megfelelő, mert nem támogatja az Office 64 bites Office Kattintásra verziójának elindítását a Microsoft 365 vállalati verziós felügyeleti konzolról. 
     
-- **Nem található meg** egy Windows Installer (MSI) technológiával telepített különálló 2016-os app sem (például Visio vagy Project). A Microsoft 365 Vállalati verzió az Office-t az Office 2016 Office Kattintásra verziójára frissíti, és ez nem működik az Office 2016-os MSI önálló alkalmazásokkal. 
+- **Nem található meg** egy Windows Installer (MSI) technológiával telepített különálló 2016-os app sem (például Visio vagy Project). A Microsoft 365 vállalati verzió frissíti az Office-t az Office 2016 Office 2016 Kattintásra verziója szolgáltatásra, és ez nem működik az Office 2016 MSI önálló alkalmazásaival. 
     
-Az alábbi táblázat bemutatja, hogy a végfelhasználóknak/rendszergazdáknak milyen lépéseket kell tenniük a kezdeti állapotuktól függően ahhoz, hogy az Office központi telepítésének sikeres 32 bites Office-telepítést a Microsoft 365 Vállalati verzió felügyeleti konzoljáról történő futtatásához.
+Az alábbi táblázat bemutatja, hogy a végfelhasználóknak/rendszergazdáknak a kezdeti állapotuktól függően milyen műveletet kell végrehajtaniuk ahhoz, hogy a Microsoft 365 vállalati verziós felügyeleti konzolon az Office-telepítés sikeres, Kattintásra alkalmazásra készült verziója meglegyen.
   
-|**Az Office telepítésének kezdő állapota**|**Az Office Microsoft 365 Business-szel való telepítése előtt szükséges művelet**|**Záró állapot**|
+|**Az Office telepítésének kezdő állapota**|**Végrehajtandó művelet a Microsoft 365 vállalati verzió Office-telepítése előtt**|**Záró állapot**|
 |:-----|:-----|:-----|
-|Nincs telepítve Office programcsomag  <br/> |Egyikre sem.  <br/> |Az Office 2016 32 bites telepítése kattintásra  <br/> |
+|Nincs telepítve Office programcsomag  <br/> |Egyikre sem.  <br/> |Az Office 2016 32 bites telepítése az Office Kattintásra alkalmazással történik  <br/> |
 |Az Office Kattintásra technológiával telepített Office 32 bites verziója (2016-os vagy korábbi verzió), különálló appok nélkül  <br/> |Egyikre sem.  <br/> |Frissítve az Office 2016 legújabb 32 bites, Office Kattintásra verziójára, szükség szerint **\*** <br/> |
-|Az Office és a Kattintásra 32 bites vagy a 64 bites önálló Office-alkalmazások (például Visio, Project) meglévő, Kattintásra 32 bites verziója  <br/> |Egyikre sem.  <br/> |Az önálló alkalmazásokat ez nem érinti. A programcsomag frissül az Office Kattintásra technológiával telepített Office 2016 32 bites verziójára  <br/> |
+|Az Office meglévő Kattintásra 32 bites verziója és az Office Kattintásra 32 bites vagy 64 bites önálló Office-alkalmazások (például Visio, Project)  <br/> |Egyikre sem.  <br/> |Az önálló alkalmazásokat ez nem érinti. A programcsomag frissül az Office Kattintásra technológiával telepített Office 2016 32 bites verziójára  <br/> |
 |Az Office Kattintásra technológiával telepített Office 32 bites verziója és bármely 32 vagy 64 bites (a 2016-os verzió kivételével), MSI technológiával telepített különálló Office-app  <br/> |Egyikre sem.  <br/> |Az önálló alkalmazásokat ez nem érinti. A programcsomag frissül az Office Kattintásra technológiával telepített Office 2016 32 bites verziójára  <br/> ||||
-|Az Office Kattintásra technológiával telepített Office bármely meglévő, 64 bites verziója  <br/> |Távolítsa el a 64 bites Office-alkalmazásokat, ha nem baj, ha 32 bites Office-appokra cseréli őket  <br/> |Ha eltávolítja a 64 bites Office-appokat, az Office Kattintásra technológiával telepített Office 2016 32 bites verziója települ  <br/> |
+|Az Office Kattintásra technológiával telepített Office bármely meglévő, 64 bites verziója  <br/> |A 64 bites Office-alkalmazások eltávolítása, ha nem baj, ha 32 bites Office-appokkal helyettesíti őket  <br/> |Ha eltávolítja a 64 bites Office-appokat, az Office Kattintásra technológiával telepített Office 2016 32 bites verziója települ  <br/> |
 |Az Office 2016 meglévő, MSI technológiával telepített példánya különálló appokkal vagy anélkül  <br/> |Az MSI technológiával telepített Office 2016 eltávolítása  <br/> |Telepítve van az Office Kattintásra technológiával telepített Office 2016 32 bites verziója. A különálló appokat nem érinti semmilyen változás.  <br/> |
 |Az Office 2013 és/vagy különálló Office-appok meglévő, MSI technológiával telepített példánya  <br/> |Nincs  <br/> |Az Office Kattintásra technológiával telepített Office 2016 32 bites verziója, amely együtt létezik a korábbról meglévő, MSI technológiával telepített Office-példánnyal (és különálló appokkal)  <br/> |
 ||||

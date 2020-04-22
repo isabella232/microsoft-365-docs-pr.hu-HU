@@ -21,39 +21,39 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: fae8819d-7235-495f-9f07-d016f545887f
-description: Ellenőrizze a Microsoft 365 Vállalati alkalmazásvédelmi beállításokat Windows 10-es eszközökön, és ellenőrizze, hogy a felhasználók nem másolhatnak vállalati adatokat személyes fájlokba vagy nem felügyelt alkalmazásokba.
-ms.openlocfilehash: 5b798e0335188543fc308553f71085bcde8b7752
-ms.sourcegitcommit: 217de0fc54cbeaea32d253f175eaf338cd85f5af
+description: Ellenőrizze a Microsoft 365 Business Premium alkalmazásvédelmi beállításait Windows 10-es eszközökön, és ellenőrizze, hogy a felhasználók nem másolhatnak-e vállalati adatokat személyes fájlokba vagy nem felügyelt alkalmazásokba.
+ms.openlocfilehash: 20b2e43ae53486c046440ff1066d241ec9661888
+ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/07/2020
-ms.locfileid: "42560840"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43635744"
 ---
 # <a name="validate-app-protection-settings-on-windows-10-pcs"></a>Appvédelmi beállítások érvényességének ellenőrzése Windows 10-es PC-ken
 
 ## <a name="verify-that-users-cannot-copy-company-data-to-personal-files-on-corporate-devices"></a>Meggyőződés arról, hogy a felhasználók nem tudnak céges adatokat másolni a vállalati eszközökön megtalálható személyes fájlokba
 
-Miután [beállította az appvédelmi házirendeket](protection-settings-for-windows-10-devices.md), néhány óra is eltelhet, amíg a szabályzatok érvénybe lépnek a felhasználók eszközein. Ha bekapcsolta **a** **Vállalati adatok személyes fájlokba másolásának megakadályozása beállítást, és arra kényszeríti őket, hogy munkahelyi fájlokat mentsenek** a OneDrive Vállalati verzióba vállalati tulajdonú eszközökhöz, ezt ellenőrizheti a felhasználó eszközén, miután csatlakoztak az Azure AD-hez, és bejelentkeztek. 
+Miután [beállította az appvédelmi házirendeket](protection-settings-for-windows-10-devices.md), néhány óra is eltelhet, amíg a szabályzatok érvénybe lépnek a felhasználók eszközein. Ha bekapcsolta **a** **Felhasználók személyes fájlokba másolásának megakadályozása, és kényszeríti őket arra, hogy munkafájlokat mentsenek** a vállalati tulajdonú eszközök OneDrive Vállalati verzióbeállítására, ezt ellenőrizheti a felhasználó eszközén, miután csatlakozott az Azure AD-hez, és bejelentkezett. 
   
  **A kapcsolat beállításainak ellenőrzése**
   
-1. After you sign in with Microsoft 365 Business credentials and connect to Azure AD as described in [Set up Windows devices for Microsoft 365 Business users](set-up-windows-devices.md), go to **Windows Settings** \> **Accounts** \> **Access work or school**. Choose **Connected to \<tenant name\> Azure AD**, and then choose **Info**.
+1. Miután bejelentkezett a Microsoft 365 Business Premium hitelesítő adatokkal, és csatlakozott az Azure AD-hez a [Windows-eszközök beállítása Microsoft 365 Business Premium-felhasználók számára című](set-up-windows-devices.md)részben leírtak szerint, nyissa meg a **Windows Beállítások** \> **fiókok** \> **elérése munkahelyi vagy iskolai verziót.** Choose **Connected to \<tenant name\> Azure AD**, and then choose **Info**.
     
     ![Click or tap Info on the Connected to Azure AD dialog.](../media/a36ede2b-d1a0-4d4e-8ea7-af39b4b63890.png)
   
-2. A **Bérlő által** \<\> kezelt név lapon láthatja a **Kapcsolat adatait,** amely az alábbi ábrán láthatóhoz hasonló **felügyeleti kiszolgálócímet** tartalmaz. 
+2. A **Bérlőneve** \<\> által kezelt lapon a **Kapcsolat adatai** láthatók, amelyek az alábbi ábrán láthatóhoz hasonló felügyeleti **kiszolgálócímet** tartalmaznak. 
     
     ![Managed by page shows connection info of the device manager URL.](../media/47515a8e-2d0c-4bea-99f0-6b2545b88a11.png)
   
- **Annak ellenőrzése, hogy nem tud-e vállalati adatokat beilleszteni egy nem felügyelt alkalmazásban**
+ **Annak ellenőrzése, hogy nem lehet-e vállalati adatokat beilleszteni egy nem felügyelt alkalmazásba**
   
-1. Nyissa meg a Microsoft 365 Business által telepített Outlook 2016-ot.
+1. Nyissa meg a Microsoft 365 Business Premium által telepített Outlook 2016-ot.
     
 2. Nyisson meg egy e-mailt, és másoljon belőle tartalmat a vágólapra.
     
     Nyissa meg a Jegyzettömböt, és kísérelje meg beilleszteni a vágólapra másolt tartalmat.
     
-    Hibaüzenet jelenik meg, amely szerint az alkalmazás nem tud hozzáférni a tartalomhoz.
+    Hibaüzenet et fog kapni, amely szerint az alkalmazás nem tud hozzáférni a tartalomhoz.
     
     ![A dialog that states app can't access content when you paste into an unmanaged app.](../media/5e82b154-cf2f-43c8-ae80-b45d8ad80e56.png)
   
@@ -63,29 +63,29 @@ Miután [beállította az appvédelmi házirendeket](protection-settings-for-win
 
  **A kapcsolat beállításainak ellenőrzése**
   
-1. A Windows 10-es személyes eszközén, ahol helyi felhasználóként van bejelentkezve, nyissa meg a **Windows-beállítások**lapot, és koppintson vagy koppintson vagy koppintson a **Fiókok** \> **elérése munkahelyi vagy iskolai elemre.**
+1. A Windows 10-es személyes eszközén, ahol helyi felhasználóként van bejelentkezve, nyissa meg a **Windows beállításai**lehetőséget, és koppintson a **Fiókok** \> **elérése munkahelyi vagy iskolai**elemre.
     
 2. A **Hozzáférés munkahelyi vagy iskolai rendszerhez** csoportban válassza a **Csatlakozás** elemet.
     
-3. Írja be a Microsoft 365 Business hitelesítő adatait a **Munkahelyi vagy iskolai fiók beállítása** \> **Bejelentkezés** lehetőséget választva.
+3. Adja meg a Microsoft 365 Vállalati Prémium verzió hitelesítő adatait a **Munkahelyi vagy iskolai fiók beállítása párbeszédpanelen** \> Jelentkezzen **be.**
     
 4. A **Munkahelyi vagy iskolai hozzáférés** lapon válassza a **Munkahelyi vagy iskolai fiók** lehetőséget, majd az **Információ** elemet.
     
     ![Kattintson vagy koppintson az Információ elemre a Munkahelyi vagy iskolai fiók párbeszédpanelen.](../media/63bd8b32-cb32-4afa-8ce0-6070ac403abc.png)
   
-5. Az **Access munka vagy iskola** lapon megtekintheti a **Kapcsolat adatait,** amely az alábbi ábrán láthatóhoz hasonló **felügyeleti kiszolgálócímet** tartalmaz, és tartalmazza a *wip* és *a mam* szavakat. 
+5. Az **Access munkahelyi vagy iskolai** lapján láthatja a **Kapcsolat adatait,** amely tartalmazza a **felügyeleti kiszolgáló címét,** mint az alábbi ábrán látható címet, és magában foglalja a *wip* és *az mam* szavakat. 
     
     ![Managed by page shows connection info URL that includes the words mam and wpi.](../media/abd4eaf4-44fa-4538-a3e8-1e0d331dfe1e.png)
   
- **Annak ellenőrzése, hogy nem tud-e vállalati adatokat beilleszteni egy nem felügyelt alkalmazásban**
+ **Annak ellenőrzése, hogy nem lehet-e vállalati adatokat beilleszteni egy nem felügyelt alkalmazásba**
   
-1. Nyissa meg az Outlook 2016-ot, szükség esetén vegye fel Microsoft 365 Business-fiókját, és jelentkezzen be a Microsoft 365 Business hitelesítő adataival.
+1. Nyissa meg az Outlook 2016-ot, és szükség esetén adja hozzá Microsoft 365 Vállalati Prémium verziós fiókját, és jelentkezzen be microsoft 365 Vállalati prémium szintű hitelesítő adataival.
     
 2. Nyisson meg egy e-mailt, és másoljon belőle tartalmat a vágólapra.
     
     Nyissa meg a Jegyzettömböt, és kísérelje meg beilleszteni a vágólapra másolt tartalmat.
     
-    Hibaüzenet jelenik meg, amely szerint az Alkalmazás nem fér hozzá a tartalomhoz.
+    Hibaüzenet jelenik meg, amely szerint az alkalmazás nem tud hozzáférni a tartalomhoz.
     
     ![A dialog that states app can't access content when you paste into an unmanaged app.](../media/5e82b154-cf2f-43c8-ae80-b45d8ad80e56.png)
   

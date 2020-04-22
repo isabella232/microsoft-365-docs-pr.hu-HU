@@ -24,17 +24,17 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: c12164c7-6190-4294-b88a-590580c9869a
-description: Információ a Microsoft 365 Business alkalmazásban elérhető beállításokról a munkahelyi fájlok védelmére, ha a felhasználó eszköze elveszett vagy ellopták.
-ms.openlocfilehash: 4371acd53da902aa4dea93e7b8bd087d1cf27100
-ms.sourcegitcommit: 217de0fc54cbeaea32d253f175eaf338cd85f5af
+description: Ismerje meg a Microsoft 365 vállalati verzióban elérhető, a munkahelyi fájlok védelmét szolgáló beállításokat, ha a felhasználó eszköze elveszik vagy ellopják.
+ms.openlocfilehash: 8924a2c99ee4c6a4b2c0cb987b4c5ff76911bb13
+ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/07/2020
-ms.locfileid: "42561650"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43633079"
 ---
 # <a name="protect-work-files-when-a-mobile-device-is-lost-or-stolen"></a>Munkahelyi fájlok védelme elveszett vagy ellopott eszközön
 
-A házirendbeállítások azt határozzák meg, hogy mi történjen automatikusan az elveszett vagy ellopott eszközök védelme érdekében. Azt javasoljuk, hogy a telepítés során fogadja el az alapértelmezett értékeket az Android, az iOS és a Windows 10 alkalmazásházirendjeinek létrehozásához, amelyek minden felhasználóra vonatkoznak. A telepítés után további házirendeket is létrehozhat majd.
+A házirendbeállítások azt határozzák meg, hogy mi történjen automatikusan az elveszett vagy ellopott eszközök védelme érdekében. Azt javasoljuk, hogy a telepítés során fogadja el az alapértelmezett értékeket, és hozzon létre alkalmazásházirendeket Az Android, iOS és Windows 10, amelyek minden felhasználóra vonatkoznak. A telepítés után további házirendeket is létrehozhat majd.
   
 ## <a name="settings-that-protect-work-files"></a>Munkahelyi fájlok védelmére szolgáló beállítások
 
@@ -43,8 +43,8 @@ Az alábbi beállításokkal védhetők meg a munkahelyi fájlok, ha az eszköz 
 |||
 |:-----|:-----|
 |Beállítás  <br/> |Leírás  <br/> |
-|Munkahelyi fájlok törlése az inaktív eszközökről ennyi nap után  <br/> |Ha egy eszközt nem használnak az itt megadott számú napig, az eszközön tárolt munkafájlok automatikusan törlődnek.  <br/> |
-|A felhasználók kényszerítése arra, hogy az összes munkahelyi fájljukat ide mentsék: OneDrive Vállalati verzió  <br/> |Ha ez a beállítás **Be van,** a munkahelyi fájlok csak a OneDrive Vállalati verzió számára érhető el mentési hely.  <br/> |
+|Munkahelyi fájlok törlése az inaktív eszközökről ennyi nap után  <br/> |Ha egy eszközt nem használ az itt megadott számú napig, az eszközön tárolt munkafájlok automatikusan törlődnek.  <br/> |
+|A felhasználók kényszerítése arra, hogy az összes munkahelyi fájljukat ide mentsék: OneDrive Vállalati verzió  <br/> |Ha ez a beállítás be van **kapcsolva,** a munkahelyi fájlok hoz csak a OneDrive Vállalati verzió érhető el mentési helye.  <br/> |
 |Munkahelyi fájlok titkosítása  <br/> |A munkahelyi fájlok titkosítással való védelméhez ezt a beállítást tartsa **Be** állapotban. Még akkor is, ha az eszköz elveszett vagy ellopták, senki sem tudja olvasni a vállalati adatokat.  <br/> |
    
 
