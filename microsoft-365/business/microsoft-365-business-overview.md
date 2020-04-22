@@ -1,5 +1,5 @@
 ---
-title: A Microsoft 365 Vállalati verzió – áttekintés
+title: A Microsoft 365 Vállalati prémium verzió áttekintése
 f1.keywords:
 - NOCSH
 ms.author: sirkkuw
@@ -27,94 +27,94 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
-description: Ismerje meg a Microsoft 365 Vállalati verziót, az Office 365-öt és a kiberfenyegetések elleni speciális védelmet tartalmazó előfizetéses szolgáltatást.
-ms.openlocfilehash: fccd0403131d8afe41608c4a195b53db959e7e91
-ms.sourcegitcommit: e525bcf073a61e1350484719a0c3ceb6ff0d8db1
-ms.translationtype: MT
+description: További információ a Microsoft 365 Vállalati prémium verzióról, az Office hatékonyságnövelő appjait és a kiberveszélyforrásokkal szembeni speciális védelmet tartalmazó előfizetési szolgáltatásról.
+ms.openlocfilehash: 14f6acdec79323d1dfff836ba945bb3c29059a3e
+ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
+ms.translationtype: HT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/06/2020
-ms.locfileid: "43153818"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43633223"
 ---
-# <a name="overview-of-microsoft-365-business"></a>A Microsoft 365 Vállalati verzió – áttekintés
+# <a name="overview-of-microsoft-365-business-premium"></a>A Microsoft 365 Vállalati prémium verzió áttekintése
 
-## <a name="what-is-microsoft-365-business"></a>Mi a Microsoft 365 Vállalati verzió?
+## <a name="what-is-microsoft-365-business-premium"></a>Mi a Microsoft 365 Vállalati prémium verzió?
 
-A Microsoft 365 Vállalati verzió egy előfizetéses szolgáltatás, amely az Office 365 hatékonyságnövelő eszközeit, valamint a kiberfenyegetések elleni védelmet, az adatok védelmét és az eszközök kezelését szolgáló speciális funkciókat tartalmaz.
+A Microsoft 365 Vállalati prémium verzió (korábban Microsoft 365 Vállalati verzió) egy átfogó előfizetési szolgáltatás a 300-nál kevesebb alkalmazottat foglalkoztató vállalkozásoknak. A verzió speciális biztonsági és eszközkezelési funkciókat magában foglalva integrálja a kedvenc Office hatékonyságnövelő appokat és szolgáltatásokat, valamint együttműködési eszközöket, például a Microsoft Teamst.
 
-Ebből a videóból gyors áttekintést kaphat a Microsoft 365 Vállalati verzióról.<br><br>
+Ezt a videót megnézve gyorsan áttekintheti a Microsoft 365 Vállalati prémium verziót.<br><br>
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2mhaA] 
   
-Ha hasznosnak találta ezt a videót, tekintse meg a [teljes tanfolyamok kisvállalatoknak és Microsoft 365-újoncoknak](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816) című témakört. 
+Ha hasznosnak találta ezt a videót, tekintse meg a [teljes tanfolyamok kisvállalatoknak és Microsoft 365-újoncoknak](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816) című cikket. 
 
-A Microsoft 365 Business legfeljebb 300 licencre szól. Ha további licencre van szüksége, további információt a [Microsoft 365 Enterprise dokumentációjában](https://go.microsoft.com/fwlink/p/?linkid=860986) talál.
+A Microsoft 365 Vállalati prémium verzió legfeljebb 300 licenccel való használatra készült. Ha ennél több licencre van szüksége, további információért olvassa el a [Microsoft 365 Nagyvállalati verzió](https://go.microsoft.com/fwlink/p/?linkid=860986) dokumentációját.
 
-A szolgáltatások teljes listáját a [Microsoft 365 Vállalati verzió szolgáltatásának leírásában](https://docs.microsoft.com/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-business-service-description) láthatja.
+A funkciók teljes listáját a [Microsoft 365 Vállalati prémium verzió szolgáltatás leírásában](https://docs.microsoft.com/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-business-service-description) találja.
   
 ## <a name="small-business-security-needs"></a>Kisvállalati biztonsági igények
 
-Az üzleti adatok sokféleképpen sérülhetnek. Ön és a felhasználók veszélyeztethetik a szervezet biztonságát, ha sérült hitelesítő adatokkal jelentkezik be, vagy különböző eszközökön és alkalmazásokon tekinti meg a szervezeti adatokat. Pontosabban, a szervezet veszélyben van a következők:
+Céges adatait többféle támadás is érheti. Ön és felhasználói megsérthetik szervezete biztonságát, ha feltört hitelesítő adatokkal jelentkeznek be, vagy különböző eszközöket és alkalmazásokat használva tekintik meg a szervezeti adatokat. Konkrétabban, szervezete számára veszélyt jelentenek az alábbiak:
 
-- Sérült vagy gyenge bejelentkezési hitelesítő adatok.
-- Feltört eszköz gyenge tűvel vagy felhasználó tulajdonában lévő eszközzel.
-- Azok a felhasználók, akik személyes alkalmazásokba másolhatják/beilleszthetik/menthetik a szervezet adatait.
-- Azok a felhasználók, akik gyenge biztonsággal rendelkező, harmadik féltől származó alkalmazásokat telepítenek és használnak.
-- E-mail biztonsági rések, beleértve a bizalmas adatok megosztását, az adathalászatra irányuló kísérleteket, a rosszindulatú programokat stb.
-- Amikor az emberek, akik nem, hozzáférhetnek dokumentumok érzékeny információkat.
+- Feltört vagy gyenge bejelentkezési hitelesítő adatok.
+- Gyenge PIN-kóddal rendelkező feltört eszköz vagy egy felhasználó tulajdonában álló eszköz.
+- Azok a felhasználók, akik a szervezet adatait a személyes appjaikra másolhatják, beilleszthetik vagy menthetik.
+- Azok a felhasználók, akik gyenge biztonsággal rendelkező külső appokat telepítenek és használnak.
+- Levelezési biztonsági rések, beleértve a bizalmas adatok megosztását, az adathalászati kísérleteket, kártevőket és így tovább.
+- Amikor illetéktelen felhasználók is hozzáférhetnek bizalmas adatokhoz.
 
-A Microsoft 365 Business minden ilyen esetben segít az adatok védelmében. Az üzleti adatokat védő biztonsági funkciókat az alábbi ábrán részletezheti.
+A Microsoft 365 Vállalati prémium verzió mindegyik példa esetében segít adatai védelmének biztosításában. A céges adatokat védő biztonsági funkciókat az alábbi ábra részletezi.
 
-![Egy ábra, amely bemutatja, hogyan védi az M365B vállalkozását.](../media/m365businessvalueadd.png)
+![Az ábrán látható, hogy miként védi cégét a Microsoft 365 Vállalati prémium verzió.](../media/m365businessvalueadd.png)
 
-## <a name="how-your-data-and-devices-are-protected"></a>Az adatok és az eszközök védelme
+## <a name="how-your-data-and-devices-are-protected"></a>Az adatok és eszközök védelmének biztosítása
 
-A Microsoft 365 Business a következők által nyújt segítséget a **fenyegetések elleni védekezésben:**
+A Microsoft 365 Vállalati prémium verzió az alábbiakkal segíti **a fenyegetések elleni védelmet**:
 
-- Szkennelés linkeket e-maileket és dokumentumokat valós időben, hogy blokkolja a nem biztonságos weboldalak (ATP Safe Links).
+- E-mailekben és dokumentumokban lévő hivatkozások beolvasása valós időben a nem biztonságos webhelyek letiltásához (Komplex veszélyforrások elleni védelem: Biztonságos hivatkozások).
 
-- Az e-mail mellékletek speciális elemzésének végrehajtása egy sandbox környezetben az újonnan kifejlesztett rosszindulatú programok (ATP Safe Attachments) észleléséhez. 
+- E-mail-mellékletek speciális elemzése tesztkörnyezetben az újonnan kifejlesztett kártevők észleléséhez (Komplex veszélyforrások elleni védelem: Biztonságos mellékletek). 
 
-- A gépi tanulási modelleket használó adathalászat-ellenes házirendek és a megszemélyesítés észlelése lehetővé tétele a speciális támadások (ATP adathalászat elleni intelligencia) elleni védelem biztosításához. 
+- Gépi tanulási modelleket és megszemélyesítés észlelését használó adathalászat elleni védelmi házirendek engedélyezése a speciális támadások elleni védelem biztosítására (Komplex veszélyforrások elleni védelem – adathalászatot megakadályozó intelligencia). 
 
-- Speciális házirendek beállítása, amelyek letiltják a hozzáférést a nem megbízható helyekről, vagy megkerülik a többtényezős hitelesítést a megbízható helyekről, például az irodai hálózatról (Azure multi-factor authentication, beleértve a megbízható IP-címeket és a feltételes hozzáférés). 
+- Speciális házirendek beállítása, amelyek letiltják a hozzáférést a nem megbízható helyekről vagy a többtényezős hitelesítés megkerülését a megbízható helyekről, például a munkahelyi hálózatról (Azure MFA, beleértve a megbízható IP-címeket és a feltételes hozzáférést). 
 
-- Kártevők elleni védelem érvényesítése a szervezet összes Windows 10-es eszközén, valamint a kulcsfontosságú rendszermappákban lévő fájlok védelme a zsarolóprogramok (Windows Defender) által végrehajtott módosításokkal szemben
+- Kártevők elleni védelem kényszerítése a szervezet minden Windows 10-es eszközén és a fájlok védelme a legfontosabb rendszermappákban a zsarolóprogramok által végzett módosításoktól (Windows Defender)
 
-Üzleti **adatait a következők védik:**
+**Üzleti adatai védelméről**az alábbiakkal gondoskodunk:
 
-- Automatikus észlelés használata annak megakadályozására, hogy a bizalmas adatok, például a társadalombiztosítási számok vagy a hitelkártyák kiszivárogjanak a vállalkozáson kívülre (adatvesztés-megelőzés). 
+- Automatikus észlelés használata a bizalmas adatok, például a társadalombiztosítási számok vagy hitelkártyák kiszivárgásának megakadályozásához (adatveszteség-megelőzés). 
 
-- Bizalmas e-mailek titkosítása, így biztonságosan kommunikálhat az ügyfelekkel vagy a szervezeten kívüli más személyekkel. Ez biztosítja, hogy csak a címzett tudja olvasni az üzenetet (Office 365 Üzenettitkosítás).
+- A bizalmas e-mailek titkosítása az ügyfelekkel és a szervezetén kívüli személyekkel folytatott biztonságos kommunikációhoz. Ez biztosítja, hogy csak a címzettek olvashassák el az üzenetet (Office 365 Üzenettitkosítás).
 
-- A vállalati adatokhoz való hozzáférés szabályozása olyan korlátozások alkalmazásával, mint a **Ne másolja és** ne **továbbítsa** az e-maileket és dokumentumokat (Azure Information Protection, Plan 1).
+- Az e-mailekre és dokumentumokra vonatkozó korlátozások, például **Lemásolni tilos** és **Nem továbbítandó** alkalmazásával szabályozhatja, hogy kinek legyen hozzáférése a céges adatokhoz (Azure Information Protection, 1. csomag).
 
-- Korlátlan felhőarchiválás engedélyezése, így megőrizheti a szervezet összes e-mailjét, beleértve a korábbi alkalmazottak postaládáit is (Exchange Online Archiválás).
+- Korlátlan felhőbeli archiválás, így szervezete összes levelezését megőrizheti, beleértve a korábbi alkalmazottak postaládáit is (Exchange Online Archiválás).
 
-Az **eszközöket a következők biztosítják:**
+**Eszközei védelméről**az alábbiakkal gondoskodunk:
 
-- Annak szabályozása, hogy mely eszközök és felhasználók férhetnek hozzá az Office 365-adatokhoz, letilthatja, hogy a felhasználók otthoni számítógépekről, jóvá nem hagyott alkalmazásokból vagy munkaidőn kívül (feltételes hozzáférés) jelentkezzenek be.
+- Annak szabályozása, hogy mely eszközök és felhasználók férjenek hozzá a Microsoft-adatokhoz, valamint további beállítások annak letiltásához, hogy a felhasználók az otthoni számítógépekről, nem jóváhagyott appokról vagy munkaidőn túl jelentkezzenek be (feltételes hozzáférés).
 
-- Biztonsági házirendek alkalmazása az üzleti adatok védelme érdekében iOS és Android rendszerű eszközökön. Megkövetelheti például a felhasználóktól, hogy adjanak meg PIN-kódot vagy ujjlenyomatot az üzleti adatok eléréséhez, és titkosítsák az adatokat mobileszközökön (Az Office mobilalkalmazások alkalmazásvédelme).
+- Biztonsági házirendek alkalmazása a céges adatok védelmére iOS- és Android-eszközökön. Megkövetelheti például a felhasználóktól, hogy a céges adatok eléréséhez PIN-kódot vagy ujjlenyomatot adjanak meg, és titkosítsák az adatokat a mobileszközökön (appvédelem Office-mobilappok esetén).
 
-- Üzleti dokumentumok, e-mailek és egyéb adatok megőrzése a jóváhagyott Office-mobilalkalmazásokban, valamint annak megakadályozása, hogy az alkalmazottak ezeket jogosulatlan alkalmazásokba és helyekre mentsék (App protection for Office mobile apps).
+- A céges dokumentumok, e-mailek és egyéb adatok megőrzése jóváhagyott Office-mobilappokban, és annak megakadályozása, hogy az alkalmazottak ezeket jogosulatlan appokra és helyekre mentsék (appvédelem Office-mobilappok esetén).
 
-- Üzleti adatok távoli törlése elveszett vagy ellopott eszközökről anélkül, hogy befolyásolná a személyes adatokat (Az Intune szelektív törlése).
+- A céges adatok távolról történő törlése az elveszett vagy ellopott eszközökről anélkül, hogy ez érintené a személyes adatokat (Intune szelektív adattörlés).
 
-- Egyszerűsített vezérlők használata a vállalat összes Windows 10-es számítógépének házirendjeinek kezelésére, a BitLocker-titkosítás kényszerítésére és a kritikus Windows-frissítések automatikus telepítésére (Windows update házirendek kényszerítése).
+- Egyszerűsített vezérlők használata a házirendek kezeléséhez cége összes Windows 10-es PC-jén, a BitLocker titkosítás kényszerítése és a kritikus Windows-frissítések automatikus telepítése (Windows-frissítési házirendek kényszerítése).
 
-A biztonsági szolgáltatások teljes listáját a [Microsoft 365 Vállalati verzió biztonsági szolgáltatásai című témakörben tetszésben található.](security-features.md) A [Microsoft 365 Vállalati verzió beállítása](set-up.md)után tekintse meg a [veszélyforrások elleni védelem növelése](increase-threat-protection.md) és [megfelelőségi funkciók beállítása](set-up-compliance.md) az irányított telepítés részét képező biztonsági funkciók kal kitágulva. Olvassa el az [Office 365 és a Microsoft 365 Vállalati verzió csomagjainak védelmére szolgáló top 10-es témakört](https://docs.microsoft.com/office365/admin/security-and-compliance/secure-your-business-data) is, amelyből megtudhatja, hogyan állíthatja be a kiberbűnözők és a hackerek elleni védelmet.
+A biztonsági funkciók teljes listáját [a Microsoft 365 Vállalati prémium verzió biztonsági funkciói](security-features.md) leírásában találja. Miután [beállította a Microsoft 365 Vállalati prémium verziót](set-up.md), olvassa el a [veszélyforrások elleni védelem növelése](increase-threat-protection.md) és a [megfelelőségi funkciók beállítása](set-up-compliance.md) című részeket az interaktív beállításban nem szereplő biztonsági funkciók használatbavételéhez. A kiberbűnözők és támadók elleni védekezés beállítását áttekintheti [Az Office 365 és a Microsoft 365 Vállalati prémium verziós csomagok védelmének 10 legjobb módja](https://docs.microsoft.com/office365/admin/security-and-compliance/secure-your-business-data) című cikkben.
 
-## <a name="get-microsoft-365-business"></a>A Microsoft 365 Vállalati verzió beszerzése
+## <a name="get-microsoft-365-business-premium"></a>A Microsoft 365 Vállalati prémium verzió beszerzése
 
-- Ha van partnere, a Microsoft 365 Business: [Get Microsoft 365 Business programot a Microsoft Partner Centertől](get-microsoft-365-business.md#get-microsoft-365-business-from-microsoft-partner-center)kapja meg.
+- Ha vannak partnerei, ők megkapják a Microsoft 365 Vállalati prémium verziót: [A Microsoft 365 Vállalati prémium verzió beszerzése a Microsoft Partnerközpontban](get-microsoft-365-business.md).
 
-- Ha nincs partnere, és szeretné megkapni a Microsoft 365 Business programot, [itt megvásárolhatja,](https://www.microsoft.com/microsoft-365/business) és kövesse a [regisztrációs](sign-up.md) utasításokat.
+- Ha nincs partnere, és be szeretné szerezni a Microsoft 365 Vállalati prémium verziót, [vásárolja meg itt,](https://www.microsoft.com/microsoft-365/business) és kövesse a [regisztrációs](sign-up.md) utasításokat.
 
-- A [Microsoft Store-ba](https://www.microsoft.com/en-us/store/locations/find-a-store?icid=gm_fy18_hol_bopis_feature3&CustomerIntent=Consumer) is eljuthat, ahol megvásárolhatja a Microsoft 365 Vállalati verziót, és segítséget kaphat a beállításhoz.
+- Felkeresheti a [Microsoft Store](https://www.microsoft.com/en-us/store/locations/find-a-store?icid=gm_fy18_hol_bopis_feature3&CustomerIntent=Consumer) áruházat is, hogy megvásárolja a Microsoft 365 Vállalati prémium verziót, és segítséget kapjon a beállításhoz.
 
     > [!NOTE]
-    > Ez a link csak az Egyesült Államokban található üzletekre
+    > Ez a hivatkozás csak egyesült államokbeli áruházakra vonatkozik
 
 ## <a name="see-also"></a>Lásd még
 
-[Microsoft 365 Vállalati verziós oktatóvideók](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
+[Microsoft 365 Vállalati prémium verziós oktatóvideók](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
