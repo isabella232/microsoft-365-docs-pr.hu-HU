@@ -21,12 +21,12 @@ search.appverid:
 - BCS160
 - MET150
 description: Megfelelőségi funkciók at állíthat be az adatvesztés megelőzése és az ügyfelek bizalmas adatainak biztonsága érdekében.
-ms.openlocfilehash: e0d853223c7e6f455cba6e68ad173b137992d863
-ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
+ms.openlocfilehash: 523d020587bcf16e46263b88ee7654b9c786e7a2
+ms.sourcegitcommit: 5476c2578400894640ae74bfe8e93c3319f685bd
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43635124"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44048065"
 ---
 # <a name="set-up-compliance-features"></a>Megfelelőségi funkciók beállítása
 
@@ -54,7 +54,7 @@ Ha egy postaládát peres eljárás miatti tartásba szeretne helyezni, a Felüg
     
 4. A **peres eljárás miatti tartás** párbeszédpanelen megadhatja a peres eljárás várakoztatási időtartamát a **Peres eljárás várakoztatásidőtartama** mezőben. Hagyja üresen a mezőt, ha végtelen tartást szeretne elhelyezni. Megjegyzéseket is hozzáadhat, és a postaláda tulajdonosát egy olyan webhelyre irányíthatja, amelyről előfordulhat, hogy többet kell megmagyaráznia a peres eljárás miatti tartásról. \>**Mentés.**
     
-**Megőrzés:** Engedélyezheti például a testreszabott adatmegőrzési házirendeket, hogy adott ideig megőrizzék vagy véglegesen töröljék a tartalmat az adatmegőrzési időszak végén. További információ: [Az adatmegőrzési szabályok áttekintése.](https://support.office.com/article/5e377752-700d-4870-9b6d-12bfc12d2423)
+**Megőrzés:** Engedélyezheti például a testreszabott adatmegőrzési házirendeket, hogy adott ideig megőrizzék vagy véglegesen töröljék a tartalmat az adatmegőrzési időszak végén. További információ: [Az adatmegőrzési szabályok áttekintése.](https://docs.microsoft.com/microsoft-365/compliance/retention-policies)
 
 ## <a name="set-up-sensitivity-labels"></a>Érzékenységi címkék beállítása
 
