@@ -27,12 +27,12 @@ search.appverid:
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
 description: Ismerje meg a Microsoft 365 vállalati verziót, a beállításmódját, valamint azt, hogy miként készítheti fel a felhasználók eszközeit és számítógépeit a Microsoft 365 vállalati verzió általi védelemre.
-ms.openlocfilehash: 17b142fb704d1b0be088a649490e751effb19517
-ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
+ms.openlocfilehash: 8754c470cb6369f0814f953288be130fa49cea86
+ms.sourcegitcommit: 5476c2578400894640ae74bfe8e93c3319f685bd
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43633203"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44048085"
 ---
 # <a name="get-started-with-microsoft-365-for-business"></a>Ismerkedés a Microsoft 365 vállalati verzióval
 
@@ -44,7 +44,7 @@ Ebből a videóból gyors áttekintést kaphat a Microsoft 365 vállalati verzi�
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2mhaA] 
   
-A Microsoft 365 vállalati verzió akár 300 licencre is alkalmas. Ha további licencre van szüksége, további információt a [Microsoft 365 Enterprise dokumentációjában](https://go.microsoft.com/fwlink/p/?linkid=860986) talál. 
+A Microsoft 365 vállalati verzió akár 300 licencre is alkalmas. Ha ennél több licencre van szüksége, további információért olvassa el a [Microsoft 365 Nagyvállalati verzió](https://go.microsoft.com/fwlink/p/?linkid=860986) dokumentációját. 
   
 ## <a name="get-microsoft-365-for-business"></a>A Microsoft 365 vállalati verzió beszereznie
 
@@ -64,7 +64,7 @@ Ebből a videóból megtudhatja, hogy miként tekintheti meg a Microsoft 365 vá
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE1FYSM] 
 
-Ha hasznosnak találta ezt a videót, tekintse meg a [teljes tanfolyamok kisvállalatoknak és Microsoft 365-újoncoknak](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816) című témakört.
+Ha hasznosnak találta ezt a videót, tekintse meg a [teljes tanfolyamok kisvállalatoknak és Microsoft 365-újoncoknak](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816) című cikket.
 
   
 ### <a name="1-set-up-microsoft-365-for-business-admin"></a>1: A Microsoft 365 vállalati verzió (rendszergazda) beállítása
@@ -83,7 +83,7 @@ Jelentkezzen be a [Microsoft 365 Felügyeleti központba](https://portal.office.
     
     - A címtár-szinkronizálási varázsló segítségével szinkronizálja a felhasználókat a felhővel. A folyamat végrehajtásához kövesse a [Címtár-szinkronizálás beállítása a Microsoft 365-höz](https://support.office.com/article/1b3b5318-6977-42ed-b5c7-96fa74b08846) című részben leírt lépéseket. Miután szinkronizálta a felhasználókat a felhővel, ki kell [kapcsolnia az Office 365 címtár-szinkronizálását.](https://support.office.com/article/ee5f861e-bd48-4267-83d1-a4ead4b4a00d)
     
-    Azt is meg kell adnia minden felhasználónak, hogy a hozzáadott így egy licencet a Microsoft 365 vállalati verzióhoz. Ezt megteheti a [telepítővarázslóban,](set-up.md) vagy licenceket rendelhet a [Microsoft 365 vállalati verzió felhasználóihoz.](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC)
+    Azt is meg kell adnia minden felhasználónak, hogy a hozzáadott így egy licencet a Microsoft 365 vállalati verzióhoz. Ezt megteheti a [telepítővarázslóban,](set-up.md) vagy licenceket rendelhet a [Microsoft 365 vállalati verzió felhasználóihoz.](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)
     
 ### <a name="2-prepare-mobile-devices"></a>2: Mobileszközök előkészítése
 
