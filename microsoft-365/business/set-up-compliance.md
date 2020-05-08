@@ -21,12 +21,12 @@ search.appverid:
 - BCS160
 - MET150
 description: Megfelelőségi funkciók at állíthat be az adatvesztés megelőzése és az ügyfelek bizalmas adatainak biztonsága érdekében.
-ms.openlocfilehash: 523d020587bcf16e46263b88ee7654b9c786e7a2
-ms.sourcegitcommit: 5476c2578400894640ae74bfe8e93c3319f685bd
+ms.openlocfilehash: a3405207cd7d2d6565807ef0f3a51acbcb80409a
+ms.sourcegitcommit: 46644f9778bc70ab6d62783e0a1e60ba2eccc27f
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 05/06/2020
-ms.locfileid: "44048065"
+ms.lasthandoff: 05/08/2020
+ms.locfileid: "44165737"
 ---
 # <a name="set-up-compliance-features"></a>Megfelelőségi funkciók beállítása
 
@@ -34,9 +34,9 @@ A Microsoft 365 Business Premium olyan funkciókkal rendelkezik, amelyek védik 
 
 ## <a name="set-up-dlp-features"></a>DLP-szolgáltatások beállítása
 
-Lásd: [DLP-házirend létrehozása sablonból](https://support.office.com/article/59414438-99f5-488b-975c-5023f2254369) egy példa, hogyan kell beállítani egy szabályzatot a személyazonosításra alkalmas adatok (PII) elleni védelem. 
+Lásd: [DLP-házirend létrehozása sablonból](https://docs.microsoft.com/microsoft-365/compliance/create-a-dlp-policy-from-a-template) egy példa, hogyan kell beállítani egy szabályzatot a személyazonosításra alkalmas adatok (PII) elleni védelem. 
   
-A DLP számos használatra kész házirendsablont használ számos különböző területi beállításhoz. Például: Australia Financial Data, Canada Personal Information Act, Us Financial Data és így tovább. A teljes lista a [DLP-házirendsablonok gyűjteményének](https://support.office.com/article/c2e588d3-8f4f-4937-a286-8c399f28953a) megtekintéséről. Ezek a sablonok a példaként ii sablonhoz hasonlóan engedélyezhetők. 
+A DLP számos használatra kész házirendsablont használ számos különböző területi beállításhoz. Például: Australia Financial Data, Canada Personal Information Act, Us Financial Data és így tovább. A teljes lista a [DLP-házirendsablonok gyűjteményének](https://docs.microsoft.com/microsoft-365/compliance/what-the-dlp-policy-templates-include) megtekintéséről. Ezek a sablonok a példaként ii sablonhoz hasonlóan engedélyezhetők. 
   
 ## <a name="set-up-email-retention-with-exchange-online-archiving"></a>E-mailek megőrzésének beállítása az Exchange Online archiválásával
 

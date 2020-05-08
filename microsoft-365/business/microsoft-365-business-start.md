@@ -27,12 +27,12 @@ search.appverid:
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
 description: Ismerje meg a Microsoft 365 vállalati verziót, a beállításmódját, valamint azt, hogy miként készítheti fel a felhasználók eszközeit és számítógépeit a Microsoft 365 vállalati verzió általi védelemre.
-ms.openlocfilehash: 8754c470cb6369f0814f953288be130fa49cea86
-ms.sourcegitcommit: 5476c2578400894640ae74bfe8e93c3319f685bd
+ms.openlocfilehash: a470f015857117d3cbbc15255e8d815438222509
+ms.sourcegitcommit: 46644f9778bc70ab6d62783e0a1e60ba2eccc27f
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 05/06/2020
-ms.locfileid: "44048085"
+ms.lasthandoff: 05/08/2020
+ms.locfileid: "44165789"
 ---
 # <a name="get-started-with-microsoft-365-for-business"></a>Ismerkedés a Microsoft 365 vállalati verzióval
 
@@ -79,9 +79,9 @@ Jelentkezzen be a [Microsoft 365 Felügyeleti központba](https://portal.office.
     
     Ha **véglegesen a helyi Active Directoryról a felhőbe költözik,** nyissa meg a Microsoft 365 felügyeleti központot, és a beállítási varázsló segítségével manuálisan adja hozzá a felhasználókat, vagy egyszeri szinkronizálást hajthat elő az Azure AD Connecttel. Ehhez két lehetőség közül választhat: 
     
-    - Ha Exchange 2010-es, Exchange 2013- vagy Exchange 2016-kiszolgálóval is rendelkezik, [a Minimal Hybrid használatával gyorsan áttelepítheti az Exchange-postaládákat az Office 365-be.](https://support.office.com/article/fdecceed-0702-4af3-85be-f2a0013937ef) A minimális hibrid lépések közé tartozik a felhasználók egyszeri szinkronizálása az Azure AD-vel, és e-mailes áttelepítés a helyszíni felhőbe. Az e-mailek áttelepítése után a címtár-szinkronizálás automatikusan kikapcsol, ha ezt a módszert használja.
+    - Ha Exchange 2010-es, Exchange 2013- vagy Exchange 2016-kiszolgálóval is rendelkezik, [a Minimal Hybrid használatával gyorsan áttelepítheti az Exchange-postaládákat az Office 365-be.](https://docs.microsoft.com/Exchange/mailbox-migration/use-minimal-hybrid-to-quickly-migrate) A minimális hibrid lépések közé tartozik a felhasználók egyszeri szinkronizálása az Azure AD-vel, és e-mailes áttelepítés a helyszíni felhőbe. Az e-mailek áttelepítése után a címtár-szinkronizálás automatikusan kikapcsol, ha ezt a módszert használja.
     
-    - A címtár-szinkronizálási varázsló segítségével szinkronizálja a felhasználókat a felhővel. A folyamat végrehajtásához kövesse a [Címtár-szinkronizálás beállítása a Microsoft 365-höz](https://support.office.com/article/1b3b5318-6977-42ed-b5c7-96fa74b08846) című részben leírt lépéseket. Miután szinkronizálta a felhasználókat a felhővel, ki kell [kapcsolnia az Office 365 címtár-szinkronizálását.](https://support.office.com/article/ee5f861e-bd48-4267-83d1-a4ead4b4a00d)
+    - A címtár-szinkronizálási varázsló segítségével szinkronizálja a felhasználókat a felhővel. A folyamat végrehajtásához kövesse a [Címtár-szinkronizálás beállítása a Microsoft 365-höz](https://docs.microsoft.com/office365/enterprise/set-up-directory-synchronization) című részben leírt lépéseket. Miután szinkronizálta a felhasználókat a felhővel, ki kell [kapcsolnia az Office 365 címtár-szinkronizálását.](https://docs.microsoft.com/office365/enterprise/turn-off-directory-synchronization)
     
     Azt is meg kell adnia minden felhasználónak, hogy a hozzáadott így egy licencet a Microsoft 365 vállalati verzióhoz. Ezt megteheti a [telepítővarázslóban,](set-up.md) vagy licenceket rendelhet a [Microsoft 365 vállalati verzió felhasználóihoz.](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)
     
@@ -104,7 +104,7 @@ Ha megtart egy helyi Active Directoryt, amely néhány helyszíni erőforrást (
   
 - Forduljon a partneréhez.
     
-- Microsoft 365 vállalati rendszergazdaként hozzáférhet ügyfélszolgálatunkhoz: ** [Vegye fel a kapcsolatot az üzleti termékekkel foglalkozó ügyfélszolgálattal – Rendszergazdai súgó](https://support.office.com/article/32a17ca7-6fa0-4870-8a8d-e25ba4ccfd4b)**
+- Microsoft 365 vállalati rendszergazdaként hozzáférhet ügyfélszolgálatunkhoz: ** [Vegye fel a kapcsolatot az üzleti termékekkel foglalkozó ügyfélszolgálattal – Rendszergazdai súgó](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products)**
     
 ## <a name="see-also"></a>Lásd még
 

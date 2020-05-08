@@ -23,12 +23,12 @@ search.appverid:
 - MET150
 ms.assetid: c123694a-1efb-459e-a8d5-2187975373dc
 description: Ismerje meg a Microsoft 365 Business Premium biztonsági funkcióit, amelyek segítenek megvédeni a pc-ken, telefonokon és táblagépeken lévő adatokat.
-ms.openlocfilehash: 35eb0ac1dce216ccc557fc629ddb5d2df50e7134
-ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
+ms.openlocfilehash: f6aef84afc76217161dee6b68d626128e0cc15b2
+ms.sourcegitcommit: 46644f9778bc70ab6d62783e0a1e60ba2eccc27f
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43635144"
+ms.lasthandoff: 05/08/2020
+ms.locfileid: "44165757"
 ---
 # <a name="microsoft-365-business-premium-security-and-compliance-features"></a>A Microsoft 365 Business Premium biztonsági és megfelelőségi funkciói
 
@@ -64,7 +64,7 @@ A Microsoft 365 Business Premium számos biztonsági szolgáltatását kezelheti
 
 A Microsoft 365 Business Premium speciális szolgáltatásai segítenek megvédeni vállalkozását a kiberfenyegetésekkel szemben, és védelmezni a bizalmas adatokat.
   
-- **[Office 365 komplex veszélyforrások elleni védelem](https://support.office.com/article/e100fe7c-f2a1-4b7d-9e08-622330b83653)**
+- **[Office 365 komplex veszélyforrások elleni védelem](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp)**
     
     A komplex veszélyforrások elleni védelem (ADVANCED Threat Protection, ATP) segít megvédeni vállalkozását a kifinomult adathalászatés zsarolóprogramok támadásaitól, amelyek célja az alkalmazottak vagy az ügyfelek adatainak veszélyeztetése. A szolgáltatások a következők:
     
@@ -97,7 +97,7 @@ A Microsoft 365 Business Premium speciális szolgáltatásai segítenek megvéde
 
 A Microsoft 365 Business Premium előfizetés olyan funkciókat tartalmaz, amelyek segítenek a megfelelőségi és szabályozási szabványok fenntartásában.
 
-- **[Adatveszteség-megelőzési házirendek](https://support.office.com/article/1966b2a7-d1e2-4d92-ab61-42efbb137f5e)** (DLP) áttekintése. 
+- **[Adatveszteség-megelőzési házirendek](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies)** (DLP) áttekintése. 
     
     Beállíthatja a DLP-t, hogy automatikusan észlelje a bizalmas adatokat, például hitelkártyaszámokat, társadalombiztosítási számokat és így tovább, hogy megakadályozza a vállalaton kívüli véletlen megosztásukat.
     
