@@ -12,12 +12,12 @@ localization_priority: Normal
 audience: microsoft-business 
 keywords: Microsoft 365 Vállalati prémium verzió, Microsoft 365, KKV, GYIK, gyakran ismételt kérdések, válaszok, vállalati
 ms.date: 06/08/2018
-ms.openlocfilehash: 2ace43e0a3bab466d102740434b2a126fb8e099d
-ms.sourcegitcommit: b6c4b514b2cb6739af949780d7e2a5a5c8dcc161
-ms.translationtype: HT
+ms.openlocfilehash: 68e085313b0344f9e48ddfa9124c1d2d7297ae45
+ms.sourcegitcommit: 7f307b4f583b602f11f69adae46d7f3bf6982c65
+ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43900690"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44065835"
 ---
 # <a name="microsoft-365-business-premium-frequently-asked-questions"></a>Microsoft 365 Vállalati prémium verzió – gyakori kérdések
 
@@ -130,7 +130,7 @@ Azoknak az ügyfeleknek, akik a Microsoft 365 Vállalati prémium verzió össze
 ## <a name="deployment"></a>Bevezetés
 
 ### <a name="what-should-customers-consider-when-planning-a-microsoft-365-business-premium-deployment"></a>Mit érdemes figyelembe vennie az ügyfeleknek a Microsoft 365 Vállalati prémium verzió bevezetésének megtervezésénél? 
-A Microsoft 365 Vállalati prémium verzió sikeres bevezetésének legegyszerűbb módja az, ha felveszi a kapcsolatot egy Microsoft-partnerrel. Partnereink szerteágazó képzést kaptak és széles körű tapasztalatokkal rendelkeznek számos ügyféllel, így nekik vannak a legjobb lehetőségei az Ön környezetének és igényeinek megismerésére. Azoknak az ügyfeleknek, akiknek tapasztalt informatikai személyzet áll a rendelkezésére, a <a href="https://support.office.com/article/496e690b-b75d-4ff5-bf34-cc32905d0364" target="_blank">Microsoft 365 Vállalati prémium verzió bevezetési útmutatója</a> segít a Microsoft 365 Vállalati prémium verzió bevezetésében. 
+A Microsoft 365 Vállalati prémium verzió sikeres bevezetésének legegyszerűbb módja az, ha felveszi a kapcsolatot egy Microsoft-partnerrel. Partnereink szerteágazó képzést kaptak és széles körű tapasztalatokkal rendelkeznek számos ügyféllel, így nekik vannak a legjobb lehetőségei az Ön környezetének és igényeinek megismerésére. Azoknak az ügyfeleknek, akiknek tapasztalt informatikai személyzet áll a rendelkezésére, a <a href="https://docs.microsoft.com/microsoft-365/business/microsoft-365-business-overview" target="_blank">Microsoft 365 Vállalati prémium verzió bevezetési útmutatója</a> segít a Microsoft 365 Vállalati prémium verzió bevezetésében. 
 
 ### <a name="does-microsoft-365-business-premium-include-the-full-capabilities-of-microsoft-intune"></a>A Microsoft 365 Vállalati prémium verzió a Microsoft Intune minden funkcióját tartalmazza? 
 Igen, a Microsoft 365 Vállalati prémium verzió előfizetői rendelkeznek licenccel az Intune minden funkciójához az iOS, Android, MacOS és más platformokat futtató eszközök kezelésére. A Microsoft 365 Vállalati prémium verzió egyszerűsített felügyeleti konzolján nem elérhető szolgáltatások (például a külső alkalmazások kezelése, WiFi-profilok beállítása, VPN-tanúsítványok) a teljes Intune konzolon kezelhetők. 
