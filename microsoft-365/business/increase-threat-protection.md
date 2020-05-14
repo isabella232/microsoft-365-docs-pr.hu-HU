@@ -21,12 +21,12 @@ search.appverid:
 - BCS160
 - MET150
 description: Állítsa be az Office 365 Komplex veszélyforrások elleni védelmet, és védje a bizalmas adatokat az adathalászattól, a rosszindulatú programoktól és más fenyegetésektől.
-ms.openlocfilehash: 2dd75b20bf203b9b8f0cdefb2459c45d1d0ccec1
-ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
+ms.openlocfilehash: 748868b07ac8759a66bac3c6b4165509270426a6
+ms.sourcegitcommit: 6007dbe2cf758c683de399f94023122c678bcada
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43627126"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "44224471"
 ---
 # <a name="increase-threat-protection"></a>A veszélyforrások elleni védelem növelése
 
@@ -34,13 +34,13 @@ Ez a cikk segít növelni a Microsoft 365-előfizetés védelmét az adathalász
 
 Mielőtt elkezdené, ellenőrizze az Office 365 biztonságos pontszámát. Az Office 365 biztonságos pontszáma a szokásos tevékenységek és biztonsági beállítások alapján elemzi a szervezet biztonságát, és pontokat rendel hozzá. Kezdje azzal, hogy tudomásul veszi a jelenlegi pontszámot. A pontszám növeléséhez végezze el a cikkben ajánlott műveleteket. A cél nem a maximális pontszám elérése, hanem a környezet védelmének lehetőségei, amelyek nem befolyásolják hátrányosan a felhasználók termelékenységét. 
 
-További információt a [Microsoft biztonságos pontszáma című témakörben talál.](https://docs.microsoft.com/office365/securitycompliance/microsoft-secure-score)
+További információt a [Microsoft biztonságos pontszáma című témakörben talál.](https://docs.microsoft.com/microsoft-365/security/mtp/microsoft-secure-score)
 
 ## <a name="raise-the-level-of-protection-against-malware-in-mail"></a>A rosszindulatú programok elleni védelem szintjének növelése e-mailben
 
 Office 365-ös vagy Microsoft 365-ös környezete védelmet nyújt a kártevők ellen. Ezt a védelmet növelheti, ha blokkolja a rosszindulatú programokhoz gyakran használt fájltípusokkal rendelkező mellékleteket. A rosszindulatú programok elleni védelem növelése e-mailben:
   
-1. Lépjen [https://protection.office.com](https://protection.office.com) a rendszergazdai fiók hitelesítő adataival, és jelentkezzen be. 
+1. Lépjen a [https://protection.office.com](https://protection.office.com) rendszergazdai fiók hitelesítő adataival, és jelentkezzen be. 
     
 2. A Biztonsági &amp; megfelelőségi központ bal oldali navigációs ablakában, a **Fenyegetéskezelés**csoportban válassza a **Házirend** \> **kártevőirtó**lehetőséget.
     
@@ -67,7 +67,7 @@ Az előző lépésben letiltott fájlokon kívül célszerű olyan szabályt lé
 
 Levelezési átviteli szabály létrehozása:
   
-1. Nyissa meg a <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>felügyeleti központot a területen, és válassza az **Exchange** **felügyeleti központok lehetőséget.** \>
+1. Nyissa meg a felügyeleti központot <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a> a területen, és válassza az Exchange **felügyeleti központok lehetőséget.** \> **Exchange**
     
 2. A **levelezési** kategóriában válassza ki a **szabályokat.**
     
@@ -99,7 +99,7 @@ Azok a hackerek, akik hozzáférnek egy felhasználó postaládájához, ellopha
   
 E-mail átviteli szabály létrehozásához tekintse meg [ezt a rövid videót,](https://support.office.com/article/f9d693ba-5c78-47c0-b156-8e461e062aa7) vagy kövesse az alábbi lépéseket:
   
-1. A Microsoft 365 Felügyeleti központban válassza az **Exchange** **felügyeleti központok lehetőséget.** \>
+1. A Microsoft 365 Felügyeleti központban válassza az Exchange **felügyeleti központok lehetőséget.** \> **Exchange**
     
 2. A **levelezési** kategóriában válassza ki a **szabályokat.**
     
@@ -147,10 +147,10 @@ Az adathalászat elleni ATP-házirend létrehozásához tekintse meg [ezt a röv
 |Leírás  <br/> |Győződjön meg róla, hogy a legfontosabb munkatársak és a birtokunk nem személyesítik meg őket.  <br/> |
 |Felhasználók hozzáadása a védelemhez  <br/> |Válassza a **+ Feltétel hozzáadása lehetőséget, a címzett .** Írja be a felhasználóneveket, vagy adja meg a jelölt, a kampánymenedzser és más fontos munkatársak e-mail címét. Legfeljebb 20 belső és külső címet adhat hozzá, amelyeket meg szeretne védeni a megszemélyesítéstől.  <br/> |
 |Tartományok hozzáadása a védelemhez  <br/> |Válassza a **+ Feltétel hozzáadása lehetőséget, A címzett tartomány .** Ha definiált egyet, adja meg a Microsoft 365-előfizetéséhez társított egyéni tartományt. Több tartományt is megadhat.  <br/> |
-|Műveletek kiválasztása  <br/> |Ha egy megszemélyesített felhasználó küld e-mailt: Válassza **az Üzenet átirányítása másik e-mail címre**lehetőséget, majd írja be a biztonsági rendszergazda e-mail címét; *például:<span><span>Alice @contoso.com*. Ha az e-mailt megszemélyesített tartomány küldi: Válassza a **Karantén üzenet**lehetőséget.  <br/> |
+|Műveletek kiválasztása  <br/> |Ha egy megszemélyesített felhasználó küld e-mailt: Válassza **az Üzenet átirányítása másik e-mail címre**lehetőséget, majd írja be a biztonsági rendszergazda e-mail címét; *például: Alice <span> <span> @contoso.com*. Ha az e-mailt megszemélyesített tartomány küldi: Válassza a **Karantén üzenet**lehetőséget.  <br/> |
 |Postaláda-intelligencia  <br/> |Alapértelmezés szerint a postaláda-intelligencia lesz kiválasztva, amikor új adathalászat elleni házirendet hoz létre. A legjobb eredmény érdekében hagyja **bekapcsolva** ezt a beállítást.  <br/> |
 |Megbízható feladók és tartományok hozzáadása  <br/> |Itt hozzáadhatja saját tartományát vagy bármely más megbízható tartományát.  <br/> |
-|Alkalmazása  <br/> |Válassza a **Címzett tartomány t.** **A(z) Bármelyik csoportban**válassza a **Választás lehetőséget.** Válassza **a + Hozzáadás lehetőséget.** Jelölje be a tartomány neve melletti jelölőnégyzetet, például *contoso.<span> com <span>*, a listában, majd válassza **a Hozzáadás**lehetőséget. Válassza a **Kész**lehetőséget.  <br/> |
+|Alkalmazása  <br/> |Válassza a **Címzett tartomány t.** **A(z) Bármelyik csoportban**válassza a **Választás lehetőséget.** Válassza **a + Hozzáadás lehetőséget.** Jelölje be a tartomány neve melletti jelölőnégyzetet, például *contoso. <span> <span> com*, a listában, majd válassza **a Hozzáadás**lehetőséget. Válassza a **Kész**lehetőséget.  <br/> |
   
 ## <a name="protect-against-malicious-attachments-and-files-with-atp-safe-attachments"></a>A rosszindulatú mellékletek és fájlok elleni védelem az ATP biztonságos mellékletekkel
 
@@ -158,7 +158,7 @@ A személyek rendszeresen küldenek, fogadnak és osztanak meg mellékleteket, p
   
 Az ATP biztonságos csatolási házirendjének létrehozásához tekintse meg [ezt a rövid videót,](https://support.office.com/article/e7e68934-23dc-4b9c-b714-e82e27a8f8a5)vagy hajtsa végre az alábbi lépéseket:
   
-1. Nyissa [https://protection.office.com](https://protection.office.com)meg a t, és jelentkezzen be a rendszergazdai fiókjával. 
+1. Nyissa meg a [https://protection.office.com](https://protection.office.com) t, és jelentkezzen be a rendszergazdai fiókjával. 
     
 2. A Biztonsági &amp; megfelelőségi központ bal oldali navigációs ablakában, a **Fenyegetéskezelés**csoportban válassza a **Házirend**lehetőséget.
     
@@ -166,7 +166,7 @@ Az ATP biztonságos csatolási házirendjének létrehozásához tekintse meg [e
     
 4. A Biztonságos mellékletek lapon széles körben alkalmazhatja ezt a védelmet a SharePoint, a OneDrive és a **Microsoft Teams atp bekapcsolása** jelölőnégyzet bejelölésével. 
     
-5. Új **+** házirend létrehozásához válassza ezt a lehetőséget. 
+5. Új házirend létrehozásához válassza ezt **+** a lehetőséget. 
     
 6. Alkalmazza az alábbi táblázat beállításait. 
     
@@ -195,7 +195,7 @@ Javasoljuk, hogy tegye a következőket:
     
 Az ATP Safe Links beállításához tekintse meg [ezt a rövid oktatóvideót,](https://support.office.com/article/61492713-53c2-47da-a6e7-fa97479e97fa)vagy hajtsa végre az alábbi lépéseket:
   
-1. Nyissa [https://protection.office.com](https://protection.office.com)meg a t, és jelentkezzen be a rendszergazdai fiókjával. 
+1. Nyissa meg a [https://protection.office.com](https://protection.office.com) t, és jelentkezzen be a rendszergazdai fiókjával. 
     
 2. A Biztonsági &amp; megfelelőségi központ bal oldali navigációs ablakában, a **Fenyegetéskezelés**csoportban válassza a **Házirend**lehetőséget.
     
@@ -211,7 +211,7 @@ Az alapértelmezett házirend módosítása:
     
 Új házirend létrehozása a tartomány összes címzettje számára:
   
-1. A Biztonságos hivatkozások lap **A teljes szervezetre vonatkozó házirendek**csoportban válassza **+** az új házirend létrehozásához. 
+1. A Biztonságos hivatkozások lap **A teljes szervezetre vonatkozó házirendek**csoportban válassza az **+** új házirend létrehozásához. 
     
 2. Alkalmazza az alábbi táblázatban felsorolt beállításokat.
     
