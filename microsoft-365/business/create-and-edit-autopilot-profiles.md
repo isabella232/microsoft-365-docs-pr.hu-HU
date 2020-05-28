@@ -20,18 +20,19 @@ ms.custom:
 - MSB365
 - OKR_SMB_M365
 - seo-marvel-mar
+- AdminSurgePortfolio
 search.appverid:
 - BCS160
 - MET150
 - MOE150
 ms.assetid: 5cf7139e-cfa1-4765-8aad-001af1c74faa
 description: Ismerje meg, hogyan hozhat létre AutoPilot-profilt, és alkalmazhatja azt egy eszközre, valamint szerkesztheti vagy törölheti a profilt, illetve távolíthat el egy profilt az eszközről.
-ms.openlocfilehash: a6e02ab56faeb08718a9831657b55cff0356a4ec
-ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
+ms.openlocfilehash: e58418813ed0b4d23a5fa7e1d23aae33d8850e7f
+ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43627374"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "44400974"
 ---
 # <a name="create-and-edit-autopilot-profiles"></a>AutoPilot-profilok létrehozása és szerkesztése
 
@@ -41,7 +42,7 @@ A profil egy eszközre vagy eszközök csoportjára vonatkozik.
   
 1. A Microsoft 365 Felügyeleti központban válassza az **Eszközök** \> **Autokísérleti**lehetőséget.
   
-2. Az **AutoPilot** lapon válassza **Profiles** a \> Profilok lap **Profil létrehozása**lehetőséget.
+2. Az **AutoPilot** lapon válassza a **Profilok** lap \> **Profil létrehozása**lehetőséget.
     
 3. A **Profil létrehozása** lapon adja meg a profil nevét, amely segít az azonosításában, például marketing. Kapcsolja be a kívánt beállítást, majd válassza a **Mentés gombot.** Az AutoPilot profilbeállításairól az [AutoPilot-profil beállításai című témakörben](autopilot-profile-settings.md)olvashat bővebben.
     
@@ -65,7 +66,7 @@ Miután hozzárendelt egy profilt egy eszközhöz, frissítheti azt még akkor i
 
 1. **A Windows előkészítése** lapon válassza a **Profilok** fület. 
     
-2. Jelölje be az eszköz neve melletti jelölőnégyzetet, és a **Profil** \> panelen frissítse a **rendelkezésre**álló Mentés beállítást.
+2. Jelölje be az eszköz neve melletti jelölőnégyzetet, és a **Profil** panelen frissítse a \> **rendelkezésre**álló Mentés beállítást.
     
     Ha ezt azelőtt végzi el, hogy a felhasználó csatlakoztatná az eszközt az internetre, akkor a profilt a rendszer alkalmazza a beállítási folyamatra.
     

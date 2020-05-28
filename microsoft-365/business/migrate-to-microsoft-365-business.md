@@ -18,17 +18,18 @@ ms.custom:
 - MSB365
 - OKR_SMB_M365
 - seo-marvel-mar
+- AdminSurgePortfolio
 search.appverid:
 - BCS160
 - MET150
 ms.assetid: 5b4ba843-24b8-4526-8e1f-f9b9eab89d06
 description: Ismerje meg a Microsoft 365 Business Standard és a Microsoft 365 Business Premium közötti különbséget, valamint azt, hogy miként frissíthet microsoft 365 Business Premium verzióra.
-ms.openlocfilehash: 20a4162f74a9cb0e943195a589fd2d964f773f48
-ms.sourcegitcommit: eb3c7f473e8fe62624f52c9bb38dcd6a96fa58a3
+ms.openlocfilehash: bdab8165623170926b17efa4cae9408b78a2f5f5
+ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44045980"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "44401382"
 ---
 # <a name="upgrade-to-microsoft-365-business-premium-from-microsoft-365-business-standard"></a>Frissítés a Microsoft 365 Vállalati prémium verzióra a Microsoft 365 vállalati szabványból
 
@@ -55,9 +56,9 @@ A [Microsoft 365 Business Premium szolgáltatás leírásával](https://docs.mic
 
 ## <a name="upgrade-to-microsoft-365-business-premium"></a>Frissítés a Microsoft 365 Vállalati Prémium verzióra
 
-1. Jelentkezzen be a <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>felügyeleti központba a alkalmazásban.
+1. Jelentkezzen be a felügyeleti központba <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a> a alkalmazásban.
 
-2. Nyissa meg a navigációs ablakot, és válassza **a Termékek** **számlázása** \> lehetőséget. Keresse meg aktuális előfizetését, és válassza ki a részletek megtekintéséhez.
+2. Nyissa meg a navigációs ablakot, és válassza **a Termékek számlázása** \> **Your products**lehetőséget. Keresse meg aktuális előfizetését, és válassza ki a részletek megtekintéséhez.
 
 3. A következő lapon válassza a **Frissítés**lehetőséget.
 
@@ -85,7 +86,7 @@ Az új szolgáltatási csomagok beállítása a Microsoftnak néhány percet ves
 
 Most, hogy a Microsoft 365 Business Premium licenceket hozzárendelte, hajtsa végre az eszközök és fájlok védelmének megkezdését. A Felügyeleti központ navigációs ablaktáblájában található néhány új beállítást fog használni.
   
-1. A Felügyeleti központ navigációs ablaktáblájában nyissa meg az Eszközök **házirendje című szakaszt.** **Devices** \>
+1. A Felügyeleti központ navigációs ablaktáblájában nyissa meg az **Eszközök** \> **házirendje című szakaszt.**
 
 2. Az **Eszközházirendek** lapon válassza a **Hozzáadás lehetőséget.**
 

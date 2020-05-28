@@ -21,17 +21,18 @@ ms.custom:
 - TRN_M365B
 - OKR_SMB_Videos
 - seo-marvel-mar
+- AdminSurgePortfolio
 search.appverid:
 - BCS160
 - MET150
 ms.assetid: 96153102-1db1-4df8-bca5-38cea80b65ce
 description: Ismerje meg az új felhasználók egyszerű hozzáadásának, eszközeik biztonságossá tétele és szerepkörök hozzárendelésének lépéseit a Microsoft 365 Business Premium szolgáltatásban.
-ms.openlocfilehash: d57f7470d53a6c80e04872726c634f67f091fb0d
-ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
+ms.openlocfilehash: 9d2efe62ed1c48df5c10a765b8d3499934e6aebd
+ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43627474"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "44401074"
 ---
 # <a name="add-more-users"></a>További felhasználók hozzáadása
 
@@ -41,11 +42,11 @@ Nézzen meg egy rövid videót a felhasználó hozzáadásáról. <br><br>
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE1FOfN] 
 
-Ha hasznosnak találta ezt a videót, tekintse meg a [teljes tanfolyamok kisvállalatoknak és Microsoft 365-újoncoknak](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816) című témakört.
+Ha hasznosnak találta ezt a videót, tekintse meg a [teljes tanfolyamok kisvállalatoknak és Microsoft 365-újoncoknak](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816) című cikket.
 
 Felhasználó hozzáadása:
 
-1. Nyissa meg a <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>felügyeleti központot a alkalmazásban. 
+1. Nyissa meg a felügyeleti központot a <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a> alkalmazásban. 
 2. A bal oldali navigációs ablakban válassza a **Felhasználók** \> **aktív felhasználók lehetőséget.**
 3. Az **Aktív felhasználók** lapon válassza **a Felhasználó hozzáadása lehetőséget.**
 4. Az **Új felhasználó** panelen írja be a szükséges adatokat. 

@@ -18,18 +18,19 @@ ms.custom:
 - MSB365
 - OKR_SMB_M365
 - seo-marvel-mar
+- AdminSurgePortfolio
 search.appverid:
 - BCS160
 - MET150
 - MOE150
 ms.assetid: be5b6d90-3344-4c5e-bf40-5733eb845beb
 description: Megtudhatja, hogy a Windows AutoPilot segítségével hogyan állíthatja be az új Windows 10-es eszközöket a vállalkozása számára, hogy azok készen álljanak az alkalmazottak használatára.
-ms.openlocfilehash: de14012ebf9e7cdd22e41505f316ab665773c670
-ms.sourcegitcommit: 46644f9778bc70ab6d62783e0a1e60ba2eccc27f
+ms.openlocfilehash: efcb5442b34d2d42275cedc30e71ac98c7ea1266
+ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 05/08/2020
-ms.locfileid: "44165881"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "44401094"
 ---
 # <a name="use-the-step-by-step-guide-to-add-autopilot-devices-and-profile"></a>Autopilot-eszközök és -profilok hozzáadása a lépésenkénti útmutatóval
 
@@ -49,7 +50,7 @@ Az eszközöknek meg kell felelniük az alábbi követelményeknek:
 
 Ha még nem hozott létre eszközcsoportokat vagy profilokat, a legjobb módszer az első lépések rebája segítségével. Az útmutató használata nélkül is [hozzáadhat eszközöket](create-and-edit-autopilot-devices.md) és [rendelhet hozzájuk profilokat.](create-and-edit-autopilot-profiles.md) 
   
-1. Nyissa meg a <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>felügyeleti központot a alkalmazásban.
+1. Nyissa meg a felügyeleti központot a <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a> alkalmazásban.
 
 2. A bal oldali navigációs ablakban válassza az **Eszközök** \> **autokísérleti**lehetőséget.
 
@@ -59,7 +60,7 @@ Ha még nem hozott létre eszközcsoportokat vagy profilokat, a legjobb módszer
     
     ![Click Start guide for step-by-step instructions for Autopilot.](../media/31662655-d1e6-437d-87ea-c0dec5da56f7.png)
   
-3. Az **Eszközök listájával rendelkező .csv fájl feltöltése** lapon keresse meg azt a helyet, ahol a program előkészítette a programot. CSV-fájlt, majd **nyissa meg a** \> **Tovább gombot.** A fájlnak három fejlécből kell rendelkeznie:
+3. Az **Eszközök listájával rendelkező .csv fájl feltöltése** lapon keresse meg azt a helyet, ahol a program előkészítette a programot. CSV-fájlt, majd **nyissa meg a** Tovább \> **gombot.** A fájlnak három fejlécből kell rendelkeznie:
     
     - A oszlop: Eszköz sorozatszáma
     
