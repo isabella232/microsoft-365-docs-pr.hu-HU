@@ -19,17 +19,18 @@ ms.custom:
 - MSB365
 - OKR_SMB_M365
 - seo-marvel-mar
+- AdminSurgePortfolio
 search.appverid:
 - BCS160
 - MET150
 - MOE150
 description: Megtudhatja, hogy miként állíthat be feltételes hozzáférési szabályzatokat a Microsoft 365-kampányokhoz, hogy jelentős további biztonságot nyújtjon.
-ms.openlocfilehash: 26fadecc69486d7931dac069d8f53061592f397f
-ms.sourcegitcommit: e525bcf073a61e1350484719a0c3ceb6ff0d8db1
+ms.openlocfilehash: d7c9cfee2ef00e4ebe231a28ccca185c10f53c6b
+ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/06/2020
-ms.locfileid: "43153766"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "44403018"
 ---
 # <a name="set-up-conditional-access-policies"></a>Feltételes hozzáférési házirendek beállítása
 
@@ -38,10 +39,10 @@ ms.locfileid: "43153766"
 Ezek a házirendek megkövetelik a rendszergazdáktól és a felhasználóktól, hogy bizonyos feltételek teljesülése esetén adjanak meg egy második hitelesítési formát (úgynevezett többtényezős hitelesítést vagy Többtényezős hitelesítést). Ha például egy felhasználó egy másik országból jelentkezik be, a bejelentkezés kockázatosnak minősülhet, és a felhasználónak egy további hitelesítési formát kell megadnia. 
 
 Az alappolitikák jelenleg a következők:
-- **A rendszergazdák többtényezős hitelesítésének megkövetelése Többtényezős** &ndash; hitelesítést igényel a legtöbb kiemelt rendszergazdai szerepkörhöz, beleértve a globális rendszergazdai szerepköröket is.
-- **Végfelhasználói védelem** &ndash; Többtényezős hitelesítést igényel a felhasználók számára csak akkor, ha a bejelentkezés kockázatos. 
-- **A régebbi ügyfélalkalmazások** &ndash; és néhány új alkalmazás blokkolása régebbi, biztonságosabb hitelesítési protokollokat nem használ. Ezek a régebbi alkalmazások megkerülhetik a feltételes hozzáférés házirendjeit, és jogosulatlanul hozzáférhetnek a környezethez. Ez a házirend blokkolja a hozzáférést az ügyfelek, amelyek nem támogatják a feltételes hozzáférés. 
-- **Többtényezős hitelesítés megkövetelése a szolgáltatáskezeléshez** &ndash; többtényezős hitelesítést igényel a felügyeleti eszközökhöz való hozzáféréshez, beleértve az Azure Portalt (ahol konfigurálja az alapházirendeket). 
+- **Többkori faszükségtelével kell elévülve a rendszergazdákszámára** &ndash; Többtényezős hitelesítést igényel a legtöbb kiemelt rendszergazdai szerepkörhöz, beleértve a globális rendszergazdai szerepköröket is.
+- **Végfelhasználói védelem** &ndash; Többtényezős hitelesítést igényel a felhasználók csak akkor, ha a bejelentkezés kockázatos. 
+- **Örökölt hitelesítés blokkolása** &ndash; A régebbi ügyfélalkalmazások és néhány új alkalmazás nem használ újabb, biztonságosabb hitelesítési protokollokat. Ezek a régebbi alkalmazások megkerülhetik a feltételes hozzáférési szabályzatokat, és jogosulatlanul hozzáférhetnek a környezethez. Ez a házirend blokkolja a hozzáférést az ügyfelek, amelyek nem támogatják a feltételes hozzáférést. 
+- **Többéves kor–szolgáltatás kezeléshez szükséges többfa** &ndash; Többtényezős hitelesítést igényel a felügyeleti eszközökhöz való hozzáféréshez, beleértve az Azure Portalt (ahol konfigurálja az alapházirendeket). 
 
 A Microsoft azt javasolja, hogy engedélyezze az összes ilyen alapházirendet. Miután ezek a szabályzatok engedélyezve vannak, a rendszergazdák és a felhasználók kérni fogja, hogy regisztráljon az Azure multii-factor hitelesítés.
 
@@ -50,7 +51,7 @@ Ezekről a házirendekről a [Mik az alapházirendek?](https://docs.microsoft.co
 
 ## <a name="set-up-baseline-policies"></a>Alaptervházirendek beállítása
 
-1. Nyissa meg az [Azure Portalt,](https://portal.azure.com)és keresse meg az **Azure Active Directory** \> **feltételes hozzáférését.**
+1. Nyissa meg az [Azure Portalt,](https://portal.azure.com)és keresse meg az **Azure Active Directory** feltételes \> **hozzáférését.**
     
     Az alapházirendek az oldalon vannak felsorolva. <br/> <br/>
     ![A feltételes hozzáférés alapházirendjeit felsoroló lap.](../media/baslinepolicies.png)

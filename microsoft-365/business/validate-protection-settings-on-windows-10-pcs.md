@@ -17,17 +17,18 @@ ms.custom:
 - Core_O365Admin_Migration
 - MSB365
 - seo-marvel-mar
+- AdminSurgePortfolio
 search.appverid:
 - BCS160
 - MET150
 ms.assetid: fae8819d-7235-495f-9f07-d016f545887f
 description: Ellenőrizze a Microsoft 365 Business Premium alkalmazásvédelmi beállításait Windows 10-es eszközökön, és ellenőrizze, hogy a felhasználók nem másolhatnak-e vállalati adatokat személyes fájlokba vagy nem felügyelt alkalmazásokba.
-ms.openlocfilehash: 20b2e43ae53486c046440ff1066d241ec9661888
-ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
+ms.openlocfilehash: 589d2fc25cc1425a775523595881660cc03e152e
+ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43635744"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "44403390"
 ---
 # <a name="validate-app-protection-settings-on-windows-10-pcs"></a>Appvédelmi beállítások érvényességének ellenőrzése Windows 10-es PC-ken
 
@@ -37,11 +38,11 @@ Miután [beállította az appvédelmi házirendeket](protection-settings-for-win
   
  **A kapcsolat beállításainak ellenőrzése**
   
-1. Miután bejelentkezett a Microsoft 365 Business Premium hitelesítő adatokkal, és csatlakozott az Azure AD-hez a [Windows-eszközök beállítása Microsoft 365 Business Premium-felhasználók számára című](set-up-windows-devices.md)részben leírtak szerint, nyissa meg a **Windows Beállítások** \> **fiókok** \> **elérése munkahelyi vagy iskolai verziót.** Choose **Connected to \<tenant name\> Azure AD**, and then choose **Info**.
+1. Miután bejelentkezett a Microsoft 365 Business Premium hitelesítő adatokkal, és csatlakozott az Azure AD-hez a [Windows-eszközök beállítása Microsoft 365 Business Premium-felhasználók számára című](set-up-windows-devices.md)részben leírtak szerint, nyissa meg a **Windows Beállítások** \> **fiókok** \> **elérése munkahelyi vagy iskolai verziót.** Válassza **a Connected to Azure AD (Csatlakozás az Azure \<tenant name\> AD-hez**) lehetőséget, majd az **Információ**lehetőséget.
     
     ![Click or tap Info on the Connected to Azure AD dialog.](../media/a36ede2b-d1a0-4d4e-8ea7-af39b4b63890.png)
   
-2. A **Bérlőneve** \<\> által kezelt lapon a **Kapcsolat adatai** láthatók, amelyek az alábbi ábrán láthatóhoz hasonló felügyeleti **kiszolgálócímet** tartalmaznak. 
+2. A **Felügyelt kezelés** \<tenant name\> lapon az alábbi ábrán **láthatóhoz** hasonló felügyeleti kiszolgálócímet tartalmazó **kapcsolati adatok** láthatók. 
     
     ![Managed by page shows connection info of the device manager URL.](../media/47515a8e-2d0c-4bea-99f0-6b2545b88a11.png)
   
@@ -63,11 +64,11 @@ Miután [beállította az appvédelmi házirendeket](protection-settings-for-win
 
  **A kapcsolat beállításainak ellenőrzése**
   
-1. A Windows 10-es személyes eszközén, ahol helyi felhasználóként van bejelentkezve, nyissa meg a **Windows beállításai**lehetőséget, és koppintson a **Fiókok** \> **elérése munkahelyi vagy iskolai**elemre.
+1. A Windows 10-es személyes eszközén, ahol helyi felhasználóként van bejelentkezve, nyissa meg a **Windows beállításai**lehetőséget, és koppintson a **Fiókok** elérése munkahelyi \> **vagy iskolai**elemre.
     
 2. A **Hozzáférés munkahelyi vagy iskolai rendszerhez** csoportban válassza a **Csatlakozás** elemet.
     
-3. Adja meg a Microsoft 365 Vállalati Prémium verzió hitelesítő adatait a **Munkahelyi vagy iskolai fiók beállítása párbeszédpanelen** \> Jelentkezzen **be.**
+3. Adja meg a Microsoft 365 Vállalati Prémium verzió hitelesítő adatait a **Munkahelyi vagy iskolai fiók beállítása** \> **párbeszédpanelen Jelentkezzen be.**
     
 4. A **Munkahelyi vagy iskolai hozzáférés** lapon válassza a **Munkahelyi vagy iskolai fiók** lehetőséget, majd az **Információ** elemet.
     

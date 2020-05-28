@@ -20,17 +20,18 @@ ms.custom:
 - MiniMaven
 - MSB365
 - OKR_SMB_M365
+- AdminSurgePortfolio
 search.appverid:
 - BCS160
 - MET150
 ms.assetid: aad21b1a-c775-469a-b89c-c5d1d59d27db
 description: Megtudhatja, hogy a Microsoft 365 Business Premium biztonsági szolgáltatásai hogyan felelnek meg az Intune beállításainak. Az előfizetés licencet biztosít az Intune beállításainak módosítására.
-ms.openlocfilehash: 572d3364e465067536e8369b49404d3d1de1bb5b
-ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
+ms.openlocfilehash: ce75073f748f6005a843e31f7c38d06b38a3c706
+ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43633243"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "44401578"
 ---
 # <a name="how-do-protection-features-in-microsoft-365-business-premium-map-to-intune-settings"></a>Hogyan újítják le a Microsoft 365 Business Premium biztonsági szolgáltatásait az Intune beállításaihoz?
 
@@ -44,7 +45,7 @@ Az Intune-beállítás megkereséséhez jelentkezzen be a Microsoft 365 Vállala
  > 
  > A Microsoft 365 Business Premium-előfizetés sel az Intune összes beállításának módosítására jogosít. Első [lépések: Bevezetés az Intune-ba című témakörben.](https://docs.microsoft.com/intune/introduction-intune)
   
-Válassza ki például &mdash; a kívánt házirendnevet, például az Android &mdash; alkalmazásházirendet, majd válassza a Házirend beállításai **lehetőséget**.
+Válassza ki például a kívánt &mdash; házirendnevet, például az Android alkalmazásházirendet, &mdash; majd válassza a Házirend beállításai **lehetőséget**.
   
 A **Munkahelyi fájlok védelme abban ez esetben, ha a készülék elveszik vagy ellopják** csoportban
   
@@ -95,7 +96,7 @@ A rendelkezésre álló beállítások megismeréséhez jelölje ki a kívánt h
 
 Az alábbi táblázat részletesen ismerteti, hogy a Windows 10 rendszerű eszköz konfigurációs beállításai hogyan felelnek meg az Intune-beállításoknak.
   
-Az Intune-beállítás megkereséséhez jelentkezzen be a Microsoft 365 Business Premium felügyeleti hitelesítő adataival, és nyissa meg az [Azure Portalt,](https://portal.azure.com)majd válassza a **További szolgáltatások**lehetőséget, és írja be az Intune-t a **szűrőbe,** és válassza az **Intune-eszköz** \> **konfigurációs** \> **profilok lehetőséget.** Then select **Device policy for Windows 10** \> **Properties** \> **Settings**.
+Az Intune-beállítás megkereséséhez jelentkezzen be a Microsoft 365 Business Premium felügyeleti hitelesítő adataival, és nyissa meg az [Azure Portalt,](https://portal.azure.com)majd válassza a **További szolgáltatások**lehetőséget, és írja be az Intune-t a **szűrőbe,** és válassza az **Intune-eszköz** \> **Device configuration** \> **konfigurációs profilok lehetőséget.** Then select **Device policy for Windows 10** \> **Properties** \> **Settings**.
   
 |**Eszközházirend Windows 10-es eszközhöz**|**Intune-beállítás(ok)**|
 |:-----|:-----|
@@ -103,7 +104,7 @@ Az Intune-beállítás megkereséséhez jelentkezzen be a Microsoft 365 Business
 |Segíthet megvédeni a PC-ket a Microsoft Edge-beli webes veszélyforrások ellen  <br/> |A **SmartScreen** a **Microsoft Edge böngésző beállításai** között **Kötelező** értékre van állítva.  <br/> |
 |Az eszköz képernyőjének kikapcsolása ennyi üresjárati idő után (perc):  <br/> |Képernyőzárolás legfeljebb ennyi perc inaktivitás után  <br/> |
 |A felhasználók letölthetnek appokat innen: Microsoft Áruház  <br/> |Egyéni URI-szabályzat  <br/> |
-|A felhasználók hozzáférhetnek Cortanához  <br/> |**Az Általános** \> **Cortana** **letiltásra** van beállítva az Intune-ban, amikor a Microsoft 365 Business Premium szolgáltatásban **van kikapcsolva.**  <br/> |
+|A felhasználók hozzáférhetnek Cortanához  <br/> |**Általános tudnivalók** \> **Cortana** **letiltásra** van beállítva az Intune-ban, amikor a Microsoft 365 Business Premium szolgáltatásban **van kikapcsolva.**  <br/> |
 |A felhasználók kaphatnak tippeket és hirdetéseket a Windowszal kapcsolatban a Microsofttól  <br/> |**Windows reflektorfénybe ,** minden blokkolt, ha ez van beállítva, hogy **ki** a Microsoft 365 Business Premium.  <br/> |
 |A Windows 10-es eszközök automatikus naprakészen tartása  <br/> | Ez a beállítás a **Microsoft Intune** \> **Service frissítéseinek – A Windows 10 frissítési gyűrűi**, a **Windows 10-eszközök frissítési házirendje**, majd **a Tulajdonságok** \> **beállításai**lehetőséget tartalmazza.  <br/>  Ha a Microsoft 365 Business Premium beállítás be van **kapcsolva,** az alábbi beállítások jelennek meg:  <br/> **A szolgáltatási fiók** **cb** -ra van állítva (CBB, ha ez ki van kapcsolva a Microsoft 365 Business Premium szolgáltatásban).  <br/> A **Microsoft-termékfrissítések** beállítása **Engedélyezés**.  <br/> A **Windows-illesztőprogramok** beállítása **Engedélyezés**.  <br/> Az **Automatikus frissítési viselkedés** az **Automatikus telepítés karbantartáskor** értékre van állítva az alábbi beállításokkal:  <br/> Az **Aktív órák kezdete** **de. 6** órára van állítva.  <br/> Az **Aktív órák vége** **du. 10** órára van állítva.  <br/> A **Minőségi frissítések elhalasztása (nap)** **0** értékre van állítva.  <br/> A **Szolgáltatásfrissítések elhalasztása (nap)** **0** értékre van állítva.  <br/> A **Kézbesítésoptimalizálásos letöltési mód** a **HTTP ugyanazon NAT mögötti társviszony-létesítéssel kombinálva** értékre van állítva.  <br/> |
 |||

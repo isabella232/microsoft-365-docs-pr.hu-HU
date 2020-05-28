@@ -19,17 +19,18 @@ ms.custom:
 - OKR_SMB_M365
 - TRN_M365B
 - OKR_SMB_Videos
+- AdminSurgePortfolio
 search.appverid:
 - BCS160
 - MET150
 ms.assetid: d868561b-d340-4c04-a973-e2575d7f09bc
 description: Telepítse az Office-t iPhone-ra vagy Android-telefonra, és az Office-alkalmazásokban lévő munkahelyi fájljait a Microsoft 365 vállalati verzió védi.
-ms.openlocfilehash: 1263a922ba41083511fec8030634ed6cfaf70f00
-ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
+ms.openlocfilehash: e96e2edc0fc2bc25449d8f50239fa25179b345bd
+ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43632567"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "44402998"
 ---
 # <a name="set-up-mobile-devices-for-microsoft-365-for-business-users"></a>Mobileszközök beállítása a Microsoft 365 számára üzleti felhasználók nak
 
@@ -45,7 +46,7 @@ Tekintse meg az Office-alkalmazások iOS-eszközökön való beállítását a M
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RWee2n] 
 
-Ha hasznosnak találta ezt a videót, tekintse meg a [teljes tanfolyamok kisvállalatoknak és Microsoft 365-újoncoknak](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816) című témakört.
+Ha hasznosnak találta ezt a videót, tekintse meg a [teljes tanfolyamok kisvállalatoknak és Microsoft 365-újoncoknak](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816) című cikket.
 
 Nyissa meg az **App Store** áruházat, és írja be a Microsoft Outlook kifejezést a keresőmezőbe.
   
@@ -59,7 +60,7 @@ Miután a telepítés befejeződött, koppintson a **Megnyitás** gombra az Outl
   
 ![Screenshot of Outlook with Get Started button](../media/005bedec-ae50-4d75-b3bb-e7cef9e2561c.png)
   
-Adja meg munkahelyi e-mail címét \> a Fiók **hozzáadása** **képernyőn,** majd adja meg \> a Microsoft 365 vállalati hitelesítő adatokhoz **Jelentkezzen be.**
+Adja meg munkahelyi e-mail címét a **Fiók hozzáadása** \> **Add Account**képernyőn, majd adja meg a Microsoft 365 vállalati hitelesítő adatokhoz \> **Jelentkezzen be.**
   
 ![Sign in to your work account](../media/3cef1fb5-7bec-4d3d-8542-872b731ce19f.png)
   
@@ -77,7 +78,7 @@ Tekintse meg az Outlook és az Office Android-eszközökre történő telepíté
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/ecc2e9c0-bc7e-4f26-8b14-91d84dbcfef0] 
 
-Ha hasznosnak találta ezt a videót, tekintse meg a [teljes tanfolyamok kisvállalatoknak és Microsoft 365-újoncoknak](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816) című témakört.
+Ha hasznosnak találta ezt a videót, tekintse meg a [teljes tanfolyamok kisvállalatoknak és Microsoft 365-újoncoknak](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816) című cikket.
 
 Az Android-telefonon a beállítás megkezdéséhez nyissa meg a Play Áruházat.
   
@@ -87,7 +88,7 @@ Az Android-telefonon a beállítás megkezdéséhez nyissa meg a Play Áruházat
   
 ![Tap Open to open Outlook app](../media/8b4c5937-8875-4b5a-a5b6-b8c6c9cd6240.png)
   
-Az Outlook alkalmazásban koppintson az **Első lépések**elemre, majd \> adja hozzá a Microsoft 365 vállalati verziós e-mail fiókját, **és**jelentkezzen be a szervezeti hitelesítő adatokkal.
+Az Outlook alkalmazásban koppintson az **Első lépések**elemre, majd adja hozzá a Microsoft 365 vállalati verziós e-mail fiókját, \> **és**jelentkezzen be a szervezeti hitelesítő adatokkal.
   
 ![Sign in to your organizational account in Outlook](../media/18f67c66-4bab-4b99-94bd-080839312e29.png)
   

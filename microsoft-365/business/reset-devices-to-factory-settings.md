@@ -18,17 +18,18 @@ ms.custom:
 - MSB365
 - OKR_SMB_M365
 - seo-marvel-mar
+- AdminSurgePortfolio
 search.appverid:
 - BCS160
 - MET150
 ms.assetid: c4db6caf-74df-4734-b1dd-53e371c7a3c3
 description: Megtudhatja, hogy a Microsoft 365 vállalati verzióval hogyan állíthatja vissza gyárilag az Ön által kezelt Windows 10-es eszközöket, és hogyan állíthatja vissza őket az eredeti beállításokhoz vásárláskor.
-ms.openlocfilehash: 7cf5619cb1b6f5f847690d723381614d4b7afc3c
-ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
+ms.openlocfilehash: 62585828274652e48b6c6d3654faa8c20fb4caba
+ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43634792"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "44402766"
 ---
 # <a name="reset-windows-10-devices-to-their-factory-settings"></a>A Windows 10-es eszközök gyári állapotának visszaállítása
 
@@ -36,7 +37,7 @@ ms.locfileid: "43634792"
 
 A gyári állapot visszaállításával az eszköz visszaáll a megvásárlásakor érvényes, eredeti beállításaira. A visszaállítással a vásárlás óta az eszközre telepített minden appot és adatot eltávolít. A Microsoft 365 vállalati verzióval gyárilag alaphelyzetbe állíthatja az Ön által kezelt Windows 10-es eszközöket.
   
-1. Nyissa meg a <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>felügyeleti központot a alkalmazásban.
+1. Nyissa meg a felügyeleti központot a <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a> alkalmazásban.
     
 2. A bal oldali navigációs sávon válassza az **Eszközök** \> **kezelése lehetőséget.**
 

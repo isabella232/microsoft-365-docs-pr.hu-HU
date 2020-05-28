@@ -18,17 +18,18 @@ ms.custom:
 - MSB365
 - OKR_SMB_M365
 - seo-marvel-mar
+- AdminSurgePortfolio
 search.appverid:
 - BCS160
 - MET150
 ms.assetid: c123694a-1efb-459e-a8d5-2187975373dc
 description: Ismerje meg a Microsoft 365 Business Premium biztonsági funkcióit, amelyek segítenek megvédeni a pc-ken, telefonokon és táblagépeken lévő adatokat.
-ms.openlocfilehash: f6aef84afc76217161dee6b68d626128e0cc15b2
-ms.sourcegitcommit: 46644f9778bc70ab6d62783e0a1e60ba2eccc27f
+ms.openlocfilehash: 839b5481e27591e1762a0d8eb5623f279d6d22dd
+ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 05/08/2020
-ms.locfileid: "44165757"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "44402714"
 ---
 # <a name="microsoft-365-business-premium-security-and-compliance-features"></a>A Microsoft 365 Business Premium biztonsági és megfelelőségi funkciói
 
@@ -109,7 +110,7 @@ A Microsoft 365 Business Premium előfizetés olyan funkciókat tartalmaz, amely
 
    A Microsoft 365 Business Premium az [Azure Information Protection Plan 1](https://go.microsoft.com/fwlink/p/?linkid=871407)összes funkcióját tartalmazza. Ezzel a tervvel **olyan érzékenységi címkéket** hozhat létre, amelyek lehetővé teszik a bizalmas adatokhoz való hozzáférést az e-mailekben és dokumentumokban, olyan vezérlőkkel, mint a "Ne továbbítsa" és a "Ne másolja" vezérlőkkel. A bizalmas információkat "Bizalmas"-ként is osztályozhatja, és megadhatja, hogy a minősített információk hogyan oszthatók meg a vállalkozáson kívül és azon belül. A nagyvállalati szintű titkosítás könnyen alkalmazható az e-mailekre és a dokumentumokra, hogy adatait bizalmasan tartsa. Az Azure Information Protection ügyfélbővítményt is telepítheti az Office-alkalmazásokhoz. További információ: [Azure Information Protection unified labeling client](https://docs.microsoft.com/azure/information-protection/rms-client/unifiedlabelingclient-version-release-history). Az érzékenységi címkékhez telepítse a **AzInfoProtection_UL.exe**.
 
-Ezeket a funkciókat &amp; a Biztonsági megfelelőségi központban és az Intune felügyeleti központban kezelheti. Idővel az egyszerűsített vezérlők a Microsoft 365 felügyeleti központba kerülnek.
+Ezeket a funkciókat a Biztonsági &amp; megfelelőségi központban és az Intune felügyeleti központban kezelheti. Idővel az egyszerűsített vezérlők a Microsoft 365 felügyeleti központba kerülnek.
   
     
 ## <a name="faq"></a>GYIK
@@ -118,7 +119,7 @@ Ezeket a funkciókat &amp; a Biztonsági megfelelőségi központban és az Intu
   
 Igen, ezek a funkciók minden olyan piacon elérhetők, ahol a Microsoft 365 Business Premium szolgáltatást értékesítik.
   
-### <a name="how-do-i-find-the-security-amp-compliance-center"></a>Hogyan találhatom meg &amp; a Biztonsági megfelelőségi központot?
+### <a name="how-do-i-find-the-security-amp-compliance-center"></a>Hogyan találhatom meg a Biztonsági &amp; megfelelőségi központot?
   
 1. [Jelentkezzen be a Microsoft 365 Business Premium szolgáltatásba](https://portal.microsoft.com/) rendszergazdai hitelesítő adataival. 
     
@@ -126,4 +127,4 @@ Igen, ezek a funkciók minden olyan piacon elérhetők, ahol a Microsoft 365 Bus
     
     ![A Microsoft 365 Felügyeleti központ bal oldali navigációs sávjában válassza a Felügyeleti központok lehetőséget.](../media/fa4484f8-c637-45fd-a7bd-bdb3abfd6c03.png)
   
-3. Válassza a **Biztonsági &amp; ** megfelelőség &amp; lehetőséget a Biztonsági megfelelőségi központ megugrásához.
+3. Válassza a **Biztonsági &amp; megfelelőség lehetőséget** a Biztonsági megfelelőségi központ megugrásához. &amp;

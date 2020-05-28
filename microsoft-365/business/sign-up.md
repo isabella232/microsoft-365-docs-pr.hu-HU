@@ -21,16 +21,17 @@ ms.custom:
 - TRN_M365B
 - OKR_SMB_Videos
 - seo-marvel-mar
+- AdminSurgePortfolio
 search.appverid:
 - BCS160
 - MET150
 description: Ismerje meg, hogy mit tartalmaz a Microsoft 365 Business Premium, és részletes útmutatást kaphat a Microsoft 365 Business Premium szolgáltatásra való regisztrációhoz.
-ms.openlocfilehash: 443363fa673a112ae13eb5b63308115724d9bd00
-ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
+ms.openlocfilehash: 50662149ae2faa99c567080d5e914c3300ac3494
+ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43635104"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "44401558"
 ---
 # <a name="sign-up-for-microsoft-365-business-premium"></a>Regisztráció a Microsoft 365 Vállalati Prémium verzióra
 
@@ -53,7 +54,7 @@ Tekintse meg ezt a videót a regisztrációs folyamat gyors áttekintéséhez.<b
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE3znhX] 
 
-Ha hasznosnak találta ezt a videót, tekintse meg a [teljes tanfolyamok kisvállalatoknak és Microsoft 365-újoncoknak](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816) című témakört.
+Ha hasznosnak találta ezt a videót, tekintse meg a [teljes tanfolyamok kisvállalatoknak és Microsoft 365-újoncoknak](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816) című cikket.
 
 A Microsoft 365-re való regisztrációhoz és a microsoft 365-ös vásárláshoz hajtsa végre az alábbi lépéseket:
 
