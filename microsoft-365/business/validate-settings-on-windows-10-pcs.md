@@ -20,17 +20,18 @@ ms.custom:
 - MSB365
 - OKR_SMB_M365
 - seo-marvel-mar
+- AdminSurgePortfolio
 search.appverid:
 - BCS160
 - MET150
 ms.assetid: fae8819d-7235-495f-9f07-d016f545887f
 description: Megtudhatja, hogy miként ellenőrizheti, hogy a Microsoft 365 vállalati verziós alkalmazások védelmére vonatkozó beállítások érvénybe léptek-e a felhasználók Windows 10-es eszközein.
-ms.openlocfilehash: b63681f040b0fe49127693e9cb7aac7ba6c41af6
-ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
+ms.openlocfilehash: 39aee3bc811cb0090d58f9a282de7a8162c097b3
+ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43635704"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "44403590"
 ---
 # <a name="validate-device-protection-settings-on-windows-10-pcs"></a>Eszközvédelmi beállítások érvényességének ellenőrzése Windows 10-es PC-ken
 
@@ -42,7 +43,7 @@ Miután [beállította az eszközházirendeket](protection-settings-for-windows-
     
     ![Az újraindítás imbusza szürkén jelenik meg.](../media/31308da9-18b0-47c5-bbf6-d5fa6747c376.png)
   
-2. Nyissa meg a **Beállítások** \> **frissítése &amp; biztonsági** \> **ablakOt A Windows Update** \> Speciális **beállításait,** és ellenőrizze, hogy minden beállítás szürkén jelenik-e meg. 
+2. Nyissa meg a **Beállítások** \> **frissítése &amp; biztonsági** \> **ablakOt A Windows Update** Speciális \> **beállításait,** és ellenőrizze, hogy minden beállítás szürkén jelenik-e meg. 
     
     ![A Windows Speciális frissítések beállításai szürkén jelennek meg.](../media/049cf281-d503-4be9-898b-c0a3286c7fc2.png)
   

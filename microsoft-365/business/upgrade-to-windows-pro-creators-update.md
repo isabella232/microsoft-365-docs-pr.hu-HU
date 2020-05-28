@@ -20,17 +20,18 @@ ms.custom:
 - TRN_M365B
 - OKR_SMB_Videos
 - seo-marvel-mar
+- AdminSurgePortfolio
 search.appverid:
 - MET150
 - MOE150
 ms.assetid: ffc4d886-9e1d-453d-a0d0-2f62f18635e2
 description: Fedezze fel, hogyan frissítheti Windows-eszközeit Windows 10 Pro rendszerre, hogy fejlettebb biztonsági és üzleti hálózati funkciókat használhasson.
-ms.openlocfilehash: f0cedda49dbff2a8c2884bb52e240fabfbeb4537
-ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
+ms.openlocfilehash: c982f59ded0b0d2e1cd321f5856b38bd792eebed
+ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43632051"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "44403530"
 ---
 # <a name="upgrade-windows-devices-to-windows-10-pro"></a>A Windows-eszközök frissítése Windows 10 Pro rendszerre
 
@@ -38,7 +39,7 @@ Tekintsen meg egy rövid videót a Windows-eszközök Windows 10 Pro rendszerre 
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE3t58j] 
 
-Ha hasznosnak találta ezt a videót, tekintse meg a [teljes tanfolyamok kisvállalatoknak és Microsoft 365-újoncoknak](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816) című témakört.
+Ha hasznosnak találta ezt a videót, tekintse meg a [teljes tanfolyamok kisvállalatoknak és Microsoft 365-újoncoknak](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816) című cikket.
 
 ## <a name="upgrade-to-windows-10-pro"></a>Frissítés Windows 10 Pro rendszerre
   
@@ -48,7 +49,7 @@ A Windows 10 Pro rendszerre való frissítéshez számos lehetősége van. képe
 
     - A szoftver letöltési webhelyén kattintson a **Frissítés most** gombra az eszköz Windows 10 Pro Creators update frissítésének megkezdéséhez. 
     
-- Telepítési adathordozó létrehozása a [Médiakészítő eszközzel:](https://go.microsoft.com/fwlink/?LinkID=836960) &ndash; Ezzel a beállítással windows 10 Pro Creators Update telepítési adathordozót (USB flash meghajtót vagy ISO-fájlt) hozhat létre a Windows 10 telepítéséhez egy olyan számítógépre, amely eltér a használttól.
+- Telepítési adathordozó létrehozása a [Médiakészítő eszközzel:](https://go.microsoft.com/fwlink/?LinkID=836960) Ezzel a &ndash; beállítással windows 10 Pro Creators Update telepítési adathordozót (USB flash meghajtót vagy ISO-fájlt) hozhat létre a Windows 10 telepítéséhez egy olyan számítógépre, amely eltér a használttól.
 
     - Olvassa el az eszköz használatára vonatkozó utasításokat, és hozza létre a telepítési adathordozót. 
 
