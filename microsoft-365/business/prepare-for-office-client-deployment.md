@@ -22,18 +22,20 @@ search.appverid:
 - MET150
 ms.assetid: ed34fff3-2881-4ed4-9906-1ba6bb8dd804
 description: Megtudhatja, hogy miként telepítheti automatikusan a 32 bites Office-alkalmazásokat Windows 10 rendszerű számítógépekre, és hogyan őrizheti meg azokat.
-ms.openlocfilehash: 6f3a80be9729a3818607c0f42e2cc7ece66a07ee
-ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
+ms.openlocfilehash: 2de492914edbde2afe593aac290c4a634b801443
+ms.sourcegitcommit: 2d664a95b9875f0775f0da44aca73b16a816e1c3
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 05/27/2020
-ms.locfileid: "44401322"
+ms.lasthandoff: 06/01/2020
+ms.locfileid: "44470947"
 ---
 # <a name="prepare-for-office-client-deployment-by-microsoft-365-for-business"></a>Felkészülés a Microsoft 365 vállalati verzió statisztulásának Office-ügyféltelepítésére
 
+Ez a cikk a Microsoft 365 Business Premium szolgáltatásra vonatkozik.
+
 ## <a name="prepare-to-automatically-install-office-apps-to-client-computers"></a>Felkészülés az Office-appok ügyfélszámítógépekre történő automatikus telepítésére
 
-A Microsoft 365 vállalati verzióval automatikusan telepítheti a 32 bites Office-alkalmazásokat Windows 10 rendszerű számítógépekre, és naprakészen tarthatja őket a frissítésekkel kapcsolatban.
+A Microsoft 365 Business Premium segítségével automatikusan telepítheti a 32 bites Office-alkalmazásokat Windows 10 rendszerű számítógépekre, és naprakészen tarthatja őket a frissítésekkel kapcsolatban.
   
 Az automatikus telepítés akkor működik a legjobban, ha a végfelhasználó számítógépe Windows 10 Business rendszeren van, és:
   

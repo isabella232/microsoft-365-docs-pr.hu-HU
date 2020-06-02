@@ -27,14 +27,16 @@ search.appverid:
 - MET150
 ms.assetid: 96153102-1db1-4df8-bca5-38cea80b65ce
 description: Ismerje meg az új felhasználók egyszerű hozzáadásának, eszközeik biztonságossá tétele és szerepkörök hozzárendelésének lépéseit a Microsoft 365 Business Premium szolgáltatásban.
-ms.openlocfilehash: 9d2efe62ed1c48df5c10a765b8d3499934e6aebd
-ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
+ms.openlocfilehash: bb5c3ffe29448437b6c369fc770281aca3355ee7
+ms.sourcegitcommit: 2d664a95b9875f0775f0da44aca73b16a816e1c3
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 05/27/2020
-ms.locfileid: "44401074"
+ms.lasthandoff: 06/01/2020
+ms.locfileid: "44471219"
 ---
 # <a name="add-more-users"></a>További felhasználók hozzáadása
+
+Ez a cikk a Microsoft 365 Business Premium szolgáltatásra vonatkozik.
 
 ## <a name="add-new-users"></a>Új felhasználók hozzáadása
 

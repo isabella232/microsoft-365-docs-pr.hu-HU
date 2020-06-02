@@ -28,14 +28,14 @@ search.appverid:
 - MOE150
 ms.assetid: 018a2a96-3811-4b5d-b751-3b6330b34256
 description: Ismerje meg, hogyan távolíthatja el a vállalati adatokat a védelmi szabályzatok által kezelt eszközökről, valamint állítsa vissza a Windows 10-es eszközöket a gyári beállításokra.
-ms.openlocfilehash: 2d725224631901054480d705ab2adc0f8f4f9353
-ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
+ms.openlocfilehash: 5e6ba7352a6a82811e1c79fe29bff35e3da5639e
+ms.sourcegitcommit: 2d664a95b9875f0775f0da44aca73b16a816e1c3
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 05/27/2020
-ms.locfileid: "44403098"
+ms.lasthandoff: 06/01/2020
+ms.locfileid: "44471139"
 ---
-# <a name="manage-protected-devices-with-microsoft-365-for-business"></a>Védett eszközök kezelése a Microsoft 365 vállalati verzióval
+# <a name="manage-protected-devices-with-microsoft-365-business-premium"></a>Védett eszközök kezelése a Microsoft 365 Business Premium szolgáltatással
 
 Miután a felhasználó úgy csatlakoztatja az eszközét a szervezethez, hogy bejelentkezik a munkahelyi fiókjával az eszközre vagy az eszközön lévő Office-alkalmazásokba, a beállított házirendekkel megvédheti az eszközt. A csatlakoztatott eszközök az **Eszközök** lapon jelennek meg. Az elveszett vagy ellopott eszközt ezen a lapon kezelheti, és törölhet róla minden céges adatot. Windows 10-es eszközökön a gyári állapotot is visszaállíthatja, így minden egyéni beállítás törlődik róluk. 
 

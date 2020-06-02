@@ -26,14 +26,16 @@ search.appverid:
 - MOE150
 ms.assetid: c3ac23c5-d4b4-4b1b-b7ce-ea759521bf8c
 description: Ismerje meg a különböző eszközállapotokat a Microsoft 365 vállalati verzió Felügyeleti otthonának eszközműveletek listájában.
-ms.openlocfilehash: 90c11caa03249408ba2916d303bcb4a59fbcca8c
-ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
+ms.openlocfilehash: 64138e2b6ae73c067709cde1912a96615d08ebf1
+ms.sourcegitcommit: 2d664a95b9875f0775f0da44aca73b16a816e1c3
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 05/27/2020
-ms.locfileid: "44400954"
+ms.lasthandoff: 06/01/2020
+ms.locfileid: "44471179"
 ---
 # <a name="device-states"></a>Eszközállapotok
+
+Ez a cikk a Microsoft 365 Business Premium szolgáltatásra vonatkozik.
 
 Az **Eszközműveletek** listában (Rendszergazdai kezdőlap \> **Eszközműveletek**) szereplő eszközöknek az alábbi állapotai lehetnek.
   

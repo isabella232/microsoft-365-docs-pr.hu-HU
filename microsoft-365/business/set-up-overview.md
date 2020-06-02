@@ -27,12 +27,12 @@ search.appverid:
 - MET150
 ms.assetid: 6e7a2dfd-8ec4-4eb7-8390-3ee103e5fece
 description: Ismerje meg a Microsoft 365 Business Premium beállítási lépéseit, az előfizetéstől a tartomány és felhasználók hozzáadásáig, a biztonsági házirendek beállításáig és egyebekig.
-ms.openlocfilehash: 80243fac6ca2efcfca030b6ee1c1113c026a80ce
-ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
+ms.openlocfilehash: 4670344263ceb64a32962dfa6eb9c1644e61541d
+ms.sourcegitcommit: 2d664a95b9875f0775f0da44aca73b16a816e1c3
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 05/27/2020
-ms.locfileid: "44402978"
+ms.lasthandoff: 06/01/2020
+ms.locfileid: "44470525"
 ---
 # <a name="overview-of-setup"></a>A beállítás áttekintése
 
@@ -48,7 +48,7 @@ A beállítási lépések többsége elvégezhető a telepítővarázslóban, de
 
    - **[Adja hozzá a tartományt](set-up.md#add-your-domain-to-personalize-sign-in)** (ha a regisztráció során vásárolta meg a [tartományt,](sign-up.md)ez a lépés már megtörtént.)
 
-    - **Felhasználók hozzáadása**. A felhasználókat a következő három módon veheti fel:
+   - **Felhasználók hozzáadása**. A felhasználókat a következő három módon veheti fel:
         - A [varázslóban.](set-up.md#add-users-in-the-wizard)
         - A címtár-szinkronizálás használatával [felhasználókat adhat hozzá az Azure AD Connect használatával,](https://docs.microsoft.com/office365/enterprise/set-up-directory-synchronization) ha rendelkezik egy helyszíni Active directory használatával.
         - Később a felügyeleti központban is [hozzáadhat felhasználókat.](add-users-m365b.md)

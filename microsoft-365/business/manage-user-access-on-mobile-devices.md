@@ -27,16 +27,18 @@ search.appverid:
 - MOE150
 ms.assetid: aa31319c-9196-48c9-a90b-4057e0494c7a
 description: Ismerje meg azokat a védelmi irányelveket, amelyek lehetővé teszik annak kezelését, hogy a felhasználók hogyan férhetnek hozzá az Office-alkalmazásokhoz és a munkahelyi fájlokhoz mobileszközökről.
-ms.openlocfilehash: f613e518c3607010cae55443456be9d3ddc3d689
-ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
+ms.openlocfilehash: b2b828cf2e201360f12b8fadcb395e72958230f6
+ms.sourcegitcommit: 2d664a95b9875f0775f0da44aca73b16a816e1c3
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 05/27/2020
-ms.locfileid: "44403078"
+ms.lasthandoff: 06/01/2020
+ms.locfileid: "44471067"
 ---
 # <a name="manage-how-users-access-office-documents-on-mobile-devices"></a>Office-dokumentumok felhasználói mobileszközökön történő elérésének felügyelete
 
- Az Office-dokumentumok felhasználói mobileszközökön történő elérésének felügyeletét végző házirendek alapértelmezés szerint **Ki** értékre van állítva. Azt javasoljuk, hogy a telepítés során fogadja el az alapértelmezett értékeket, és hozzon létre alkalmazásházirendeket Az Android, iOS és Windows 10, amelyek minden felhasználóra vonatkoznak. A telepítés után további házirendeket is létrehozhat majd. 
+Ez a cikk a Microsoft 365 Business Premium szolgáltatásra vonatkozik.
+
+Az Office-dokumentumok felhasználói mobileszközökön történő elérésének felügyeletét végző házirendek alapértelmezés szerint **Ki** értékre van állítva. Azt javasoljuk, hogy a telepítés során fogadja el az alapértelmezett értékeket, és hozzon létre alkalmazásházirendeket Az Android, iOS és Windows 10, amelyek minden felhasználóra vonatkoznak. A telepítés után további házirendeket is létrehozhat majd. 
   
 ## <a name="settings-that-control-how-users-access-office-files-on-mobile-devices"></a>Az Office-fájlok mobileszközökön történő elérésének felügyeletét meghatározó beállítások
 

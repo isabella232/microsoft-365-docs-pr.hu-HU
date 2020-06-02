@@ -27,14 +27,16 @@ search.appverid:
 - MOE150
 ms.assetid: 21e5551f-fa35-4f13-9418-f80d668b6a2b
 description: Ismerje meg, hogyan konfigurálja az alapértelmezett eszközházirend beállításait, amelyet bármely Windows 10-eszköz kap, amikor bejelentkezik a munkahelyi vagy iskolai fiókjába.
-ms.openlocfilehash: 7714a6e47de8a254d836ca2e158b92907b87f8c3
-ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
+ms.openlocfilehash: 03ae86861ddb0cb83cd39b7834f19e01bf3e99e2
+ms.sourcegitcommit: 2d664a95b9875f0775f0da44aca73b16a816e1c3
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 05/27/2020
-ms.locfileid: "44402734"
+ms.lasthandoff: 06/01/2020
+ms.locfileid: "44470627"
 ---
 # <a name="secure-windows-10-devices"></a>Windows 10-es eszközök védelme
+
+Ez a cikk a Microsoft 365 Business Premium szolgáltatásra vonatkozik.
 
 Az itt megadott beállítások a Windows 10-es eszközökre vonatkozó alapértelmezett eszközházirend részei lesznek. Minden olyan felhasználó, aki munkahelyi fiókjával bejelentkezve windows 10-es eszközt csatlakoztat, beleértve a mobileszközöket és a számítógépeket is, automatikusan megkapja ezeket a beállításokat. Azt javasoljuk, hogy a telepítés során az alapértelmezett házirendet fogadja el, az egyes felhasználói csoportokra vonatkozó házirendeket pedig a telepítés után adja hozzá.
   
