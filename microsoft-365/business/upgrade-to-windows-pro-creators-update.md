@@ -26,12 +26,12 @@ search.appverid:
 - MOE150
 ms.assetid: ffc4d886-9e1d-453d-a0d0-2f62f18635e2
 description: Fedezze fel, hogyan frissítheti Windows-eszközeit Windows 10 Pro rendszerre, hogy fejlettebb biztonsági és üzleti hálózati funkciókat használhasson.
-ms.openlocfilehash: c982f59ded0b0d2e1cd321f5856b38bd792eebed
-ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
+ms.openlocfilehash: 24ef1f1547ed8873ed1fa18120eef6275f53c7dc
+ms.sourcegitcommit: e5bc49f0a25954d008b6cc09c2b98bb7bfe1aa2f
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 05/27/2020
-ms.locfileid: "44403530"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "44785530"
 ---
 # <a name="upgrade-windows-devices-to-windows-10-pro"></a>A Windows-eszközök frissítése Windows 10 Pro rendszerre
 
@@ -39,7 +39,7 @@ Tekintsen meg egy rövid videót a Windows-eszközök Windows 10 Pro rendszerre 
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE3t58j] 
 
-Ha hasznosnak találta ezt a videót, tekintse meg a [teljes tanfolyamok kisvállalatoknak és Microsoft 365-újoncoknak](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816) című cikket.
+Ha hasznosnak találta ezt a videót, tekintse meg a [teljes tanfolyamok kisvállalatoknak és Microsoft 365-újoncoknak](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816) című cikket.
 
 ## <a name="upgrade-to-windows-10-pro"></a>Frissítés Windows 10 Pro rendszerre
   
@@ -62,4 +62,4 @@ Az Android és iOS-eszközök beállításának befejezéséhez olvassa el A mob
   
 ## <a name="for-more-on-setting-up-and-using-microsoft-365-for-business"></a>További információk a Microsoft 365 vállalati verzió beállításával és használatával kapcsolatosak
 
-[Microsoft 365 üzleti oktatóvideók](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
+[Microsoft 365 üzleti oktatóvideók](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)

@@ -27,12 +27,12 @@ search.appverid:
 - MET150
 ms.assetid: 6e7a2dfd-8ec4-4eb7-8390-3ee103e5fece
 description: Ismerje meg a Microsoft 365 Business Premium beállítási lépéseit, az előfizetéstől a tartomány és felhasználók hozzáadásáig, a biztonsági házirendek beállításáig és egyebekig.
-ms.openlocfilehash: 4670344263ceb64a32962dfa6eb9c1644e61541d
-ms.sourcegitcommit: 2d664a95b9875f0775f0da44aca73b16a816e1c3
+ms.openlocfilehash: a808ae5761c1bc5706966a3f7de95f96f8f7c8c8
+ms.sourcegitcommit: e5bc49f0a25954d008b6cc09c2b98bb7bfe1aa2f
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "44470525"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "44785812"
 ---
 # <a name="overview-of-setup"></a>A beállítás áttekintése
 
@@ -40,7 +40,7 @@ Tekintse meg a Microsoft 365 Business Premium beállításáról szóló rövid 
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE4jZwg] 
 
-Ha hasznosnak találta ezt a videót, tekintse meg a [teljes tanfolyamok kisvállalatoknak és Microsoft 365-újoncoknak](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816) című cikket.
+Ha hasznosnak találta ezt a videót, tekintse meg a [teljes tanfolyamok kisvállalatoknak és Microsoft 365-újoncoknak](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816) című cikket.
 
 A beállítási lépések többsége elvégezhető a telepítővarázslóban, de a többi lehetőség is szerepel a listában.
 
@@ -95,4 +95,4 @@ Amikor csatlakozik egy Windows 10-es eszközhöz az Azure AD-hez, a Windows 10-e
 
 ## <a name="see-also"></a>Lásd még
 
-[Microsoft 365 üzleti oktatóvideók](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
+[Microsoft 365 üzleti oktatóvideók](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)

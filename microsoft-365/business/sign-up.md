@@ -26,12 +26,12 @@ search.appverid:
 - BCS160
 - MET150
 description: Ismerje meg, hogy mit tartalmaz a Microsoft 365 Business Premium, és részletes útmutatást kaphat a Microsoft 365 Business Premium szolgáltatásra való regisztrációhoz.
-ms.openlocfilehash: 50662149ae2faa99c567080d5e914c3300ac3494
-ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
+ms.openlocfilehash: 5cee380998b188e7d5845becacfa46383905737f
+ms.sourcegitcommit: e5bc49f0a25954d008b6cc09c2b98bb7bfe1aa2f
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 05/27/2020
-ms.locfileid: "44401558"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "44785672"
 ---
 # <a name="sign-up-for-microsoft-365-business-premium"></a>Regisztráció a Microsoft 365 Vállalati Prémium verzióra
 
@@ -54,7 +54,7 @@ Tekintse meg ezt a videót a regisztrációs folyamat gyors áttekintéséhez.<b
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE3znhX] 
 
-Ha hasznosnak találta ezt a videót, tekintse meg a [teljes tanfolyamok kisvállalatoknak és Microsoft 365-újoncoknak](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816) című cikket.
+Ha hasznosnak találta ezt a videót, tekintse meg a [teljes tanfolyamok kisvállalatoknak és Microsoft 365-újoncoknak](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816) című cikket.
 
 A Microsoft 365-re való regisztrációhoz és a microsoft 365-ös vásárláshoz hajtsa végre az alábbi lépéseket:
 
@@ -97,4 +97,4 @@ A telepítéssel kapcsolatban a beállításról a beállításról van itt [a t
 
 ## <a name="see-also"></a>Lásd még
 
-[Microsoft 365 üzleti oktatóvideók](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
+[Microsoft 365 üzleti oktatóvideók](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)

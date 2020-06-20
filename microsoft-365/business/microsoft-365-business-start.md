@@ -28,12 +28,12 @@ search.appverid:
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
 description: Ismerje meg a Microsoft 365 vállalati verziót, a beállításmódját, valamint azt, hogy miként készítheti fel a felhasználók eszközeit és számítógépeit a Microsoft 365 vállalati verzió általi védelemre.
-ms.openlocfilehash: a09b7c676f0e095d2a9db16daa56e19fb7a3baae
-ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
+ms.openlocfilehash: 48a103333e101d545d562e7f2e9dd7329686f107
+ms.sourcegitcommit: e5bc49f0a25954d008b6cc09c2b98bb7bfe1aa2f
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 05/27/2020
-ms.locfileid: "44402006"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "44786154"
 ---
 # <a name="get-started-with-microsoft-365-for-business"></a>Ismerkedés a Microsoft 365 vállalati verzióval
 
@@ -65,7 +65,7 @@ Ebből a videóból megtudhatja, hogy miként tekintheti meg a Microsoft 365 vá
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE1FYSM] 
 
-Ha hasznosnak találta ezt a videót, tekintse meg a [teljes tanfolyamok kisvállalatoknak és Microsoft 365-újoncoknak](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816) című cikket.
+Ha hasznosnak találta ezt a videót, tekintse meg a [teljes tanfolyamok kisvállalatoknak és Microsoft 365-újoncoknak](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816) című cikket.
 
   
 ### <a name="1-set-up-microsoft-365-for-business-admin"></a>1: A Microsoft 365 vállalati verzió (rendszergazda) beállítása
@@ -113,4 +113,4 @@ Ha megtart egy helyi Active Directoryt, amely néhány helyszíni erőforrást (
   
 [A Microsoft 365 vállalati verzió kezelése](manage.md)[Áttelepítés a Microsoft 365 vállalati verzióra](migrate-to-microsoft-365-business.md)
 
-[Microsoft 365 üzleti oktatóvideók](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816) 
+[Microsoft 365 üzleti oktatóvideók](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816) 

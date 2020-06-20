@@ -24,12 +24,12 @@ search.appverid:
 - MET150
 ms.assetid: eb8244aa-a302-481a-b2b5-d34e88b18ec7
 description: Megtudhatja, hogy miként helyezheti át személyes munkahelyi fájljait és bizalmas vállalati fájljait a OneDrive Vállalati verzióba néhány egyszerű lépésben.
-ms.openlocfilehash: ec225eb43d79bebaa7035178d4d1751c58149e7a
-ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
+ms.openlocfilehash: 561c9dee1080a50dea695f136df10be8e5d52959
+ms.sourcegitcommit: e5bc49f0a25954d008b6cc09c2b98bb7bfe1aa2f
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 05/27/2020
-ms.locfileid: "44401362"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "44785912"
 ---
 # <a name="move-files-to-onedrive-for-business"></a>Fájlok áthelyezése a OneDrive Vállalati verzióba
 
@@ -37,7 +37,7 @@ Tekintse meg a fájlok OneDrive Vállalati verzióba való áthelyezéséről sz
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/d74b083c-1f44-43ea-8a14-2e1fc600b341] 
 
-Ha hasznosnak találta ezt a videót, tekintse meg a [teljes tanfolyamok kisvállalatoknak és Microsoft 365-újoncoknak](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816) című cikket.
+Ha hasznosnak találta ezt a videót, tekintse meg a [teljes tanfolyamok kisvállalatoknak és Microsoft 365-újoncoknak](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816) című cikket.
 
 
 ## <a name="move-files-to-onedrive-for-business"></a>Fájlok áthelyezése a OneDrive Vállalati verzióba
@@ -50,8 +50,8 @@ Ha egy felhasználó számítógépén sok személyes fájl található, elősz�
     
 3. Válassza a menüsoron a **Feltöltés**![Upload](../media/d9b963b8-10af-42e2-953d-360301b83d3c.png) elemet, és tallózással keresse meg a menteni kívánt fájlokat. 
     
-A felhasználói profil és a fontos fájlok átviteléhez külső eszközt is használhat (például ForensiT). Az eredményül kapott fájlokat is célszerű feltölteni a OneDrive Vállalati verzióba.
+To transfer the user profile and important files, you can also use a third-party tool, such as ForensiT. You should upload the resulting files in OneDrive for Business also.
   
 ## <a name="for-more-on-setting-up-and-using-microsoft-365-for-business"></a>További információk a Microsoft 365 vállalati verzió beállításával és használatával kapcsolatosak
 
-[Microsoft 365 üzleti oktatóvideók](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
+[Microsoft 365 üzleti oktatóvideók](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)

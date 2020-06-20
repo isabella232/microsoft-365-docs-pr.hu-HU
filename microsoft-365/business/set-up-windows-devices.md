@@ -26,12 +26,12 @@ search.appverid:
 - MET150
 ms.assetid: 2d7ff45e-0da0-4caa-89a9-48cabf41f193
 description: Ismerje meg, hogyan állíthatja be a Windows 10 Pro rendszert futtató Windows-eszközöket a Microsoft 365 Business Premium felhasználók számára, lehetővé téve a központi felügyeleti és biztonsági vezérlőket.
-ms.openlocfilehash: ecd9f5aa348d29d34e77061657619c015b09c41a
-ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
+ms.openlocfilehash: 85ac3c964792a132d5699703e543289020e38f57
+ms.sourcegitcommit: e5bc49f0a25954d008b6cc09c2b98bb7bfe1aa2f
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 05/27/2020
-ms.locfileid: "44402958"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "44785852"
 ---
 # <a name="set-up-windows-devices-for-microsoft-365-business-premium-users"></a>Windows-eszközök beállítása Microsoft 365 Business Premium-felhasználók számára
 
@@ -49,7 +49,7 @@ Tekintse n fel a Windows Microsoft 365-höz való csatlakoztatásáról szóló 
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE3yXh3] 
 
-Ha hasznosnak találta ezt a videót, tekintse meg a [teljes tanfolyamok kisvállalatoknak és Microsoft 365-újoncoknak](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816) című cikket.
+Ha hasznosnak találta ezt a videót, tekintse meg a [teljes tanfolyamok kisvállalatoknak és Microsoft 365-újoncoknak](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816) című cikket.
   
 ## <a name="join-windows-10-devices-to-your-organizations-azure-ad"></a>Windows 10-es eszközök csatlakoztatása a szervezet Azure AD szolgáltatásához
 
@@ -67,7 +67,7 @@ A Windows 10 Pro alkotói frissítését futtató vadonatúj eszköz, illetve eg
     
 3. Fejezze be a Windows 10-es eszköz beállítását.
     
-   Ha végzett, a felhasználó csatlakoztatva lesz a szervezet Azure AD szolgáltatásához. Ha meg szeretne győződni arról, hogy sikerült-e a csatlakoztatás, olvassa el az [Annak ellenőrzése, hogy az eszköz csatlakoztatva van-e az Azure AD szolgáltatáshoz](#verify-the-device-is-connected-to-azure-ad) című szakaszt. 
+   Once you're done, the user will be connected to your organization's Azure AD. See [Verify the device is connected to Azure AD](#verify-the-device-is-connected-to-azure-ad) to make sure. 
   
 ### <a name="for-a-device-already-set-up-and-running-windows-10-pro"></a>Már beállított és a Windows 10 Prót futtató eszköz esetén
 
@@ -97,7 +97,7 @@ A Windows 10 Pro alkotói frissítését futtató vadonatúj eszköz, illetve eg
   
 6. A **Győződjön meg arról, hogy ez a szervezet** lap, ellenőrizze, hogy az adatok helyesek- e, majd kattintson a Csatlakozás **gombra.**
   
-   A **Minden készen áll** lapon kattintson a **Kész** elemre.
+   On the **You're all set!** page, click **Done**.
   
    ![On the Make sure this is your organization screen, click Join](../media/c749c0a2-5191-4347-a451-c062682aa1fb.png)
   
@@ -129,4 +129,4 @@ A mobileszközök beállításához olvassa el A [mobileszközök beállítása 
   
 ## <a name="for-more-on-setting-up-and-using-microsoft-365-business-premium"></a>A Microsoft 365 Business Premium beállításával és használatával kapcsolatos további információk
 
-[Microsoft 365 üzleti oktatóvideók](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
+[Microsoft 365 üzleti oktatóvideók](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)

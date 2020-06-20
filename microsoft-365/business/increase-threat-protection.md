@@ -22,12 +22,12 @@ search.appverid:
 - BCS160
 - MET150
 description: Állítsa be az Office 365 Komplex veszélyforrások elleni védelmet, és védje a bizalmas adatokat az adathalászattól, a rosszindulatú programoktól és más fenyegetésektől.
-ms.openlocfilehash: 6fa4d1595c379aaccf3a0cbfca020fbd32376fb9
-ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
+ms.openlocfilehash: d5510cdc082781fd9a1776e86b1bab1d8a2723d6
+ms.sourcegitcommit: e5bc49f0a25954d008b6cc09c2b98bb7bfe1aa2f
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 05/27/2020
-ms.locfileid: "44400870"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "44786206"
 ---
 # <a name="increase-threat-protection"></a>A veszélyforrások elleni védelem növelése
 
@@ -92,13 +92,13 @@ További információ:
   
 - [Hogyan kezeljük a zsarolóprogramokat?](https://go.microsoft.com/fwlink/?linkid=2016501)
     
-- [A OneDrive visszaállítása](https://support.office.com/article/fa231298-759d-41cf-bcd0-25ac53eb8a15.aspx)
+- [A OneDrive visszaállítása](https://support.microsoft.com/office/fa231298-759d-41cf-bcd0-25ac53eb8a15.aspx)
 
 ## <a name="stop-auto-forwarding-for-email"></a>E-mailek automatikus továbbításának leállítása
 
 Azok a hackerek, akik hozzáférnek egy felhasználó postaládájához, ellophatják az e-maileket, ha úgy állítja be a postaládát, hogy automatikusan továbbítsa az e-maileket. Ez akkor is megtörténhet, anélkül, hogy a felhasználó figyelmét. Ennek elkerülése érdekében állítson be egy levelezési szabályt. 
   
-E-mail átviteli szabály létrehozásához tekintse meg [ezt a rövid videót,](https://support.office.com/article/f9d693ba-5c78-47c0-b156-8e461e062aa7) vagy kövesse az alábbi lépéseket:
+E-mail átviteli szabály létrehozásához tekintse meg [ezt a rövid videót,](https://support.microsoft.com/office/f9d693ba-5c78-47c0-b156-8e461e062aa7) vagy kövesse az alábbi lépéseket:
   
 1. A Microsoft 365 Felügyeleti központban válassza az Exchange **felügyeleti központok lehetőséget.** \> **Exchange**
     
@@ -127,7 +127,7 @@ Ha egy vagy több egyéni tartományt konfigurált az Office 365- vagy microsoft
   
 Javasoljuk, hogy a legfontosabb felhasználók és az egyéni tartomány védelmét szolgáló házirend létrehozásával kezdje el ezt a védelmet. 
 
-Az adathalászat elleni ATP-házirend létrehozásához tekintse meg [ezt a rövid oktatóvideót,](https://support.office.com/article/86c425e1-1686-430a-9151-f7176cce4f2c)vagy hajtsa végre az alábbi lépéseket:
+Az adathalászat elleni ATP-házirend létrehozásához tekintse meg [ezt a rövid oktatóvideót,](https://support.microsoft.com/office/86c425e1-1686-430a-9151-f7176cce4f2c)vagy hajtsa végre az alábbi lépéseket:
   
 1. Nyissa meg a [https://protection.office.com](https://protection.office.com) lapot. 
     
@@ -157,7 +157,7 @@ Az adathalászat elleni ATP-házirend létrehozásához tekintse meg [ezt a röv
 
 A személyek rendszeresen küldenek, fogadnak és osztanak meg mellékleteket, például dokumentumokat, bemutatókat, táblázatokat stb. Nem mindig könnyű megállapítani, hogy egy melléklet biztonságos vagy rosszindulatú-e, csak egy e-mail üzenet ből. Az Office 365 Komplex veszélyforrások elleni védelem tartalmazza az ATP biztonságos mellékletek védelmét, de ez a védelem alapértelmezés szerint nincs bekapcsolva. Azt javasoljuk, hogy hozzon létre egy új szabályt a védelem használatának megkezdéséhez. Ez a védelem kiterjed a SharePoint, a OneDrive és a Microsoft Teams fájljaira is.
   
-Az ATP biztonságos csatolási házirendjének létrehozásához tekintse meg [ezt a rövid videót,](https://support.office.com/article/e7e68934-23dc-4b9c-b714-e82e27a8f8a5)vagy hajtsa végre az alábbi lépéseket:
+Az ATP biztonságos csatolási házirendjének létrehozásához tekintse meg [ezt a rövid videót,](https://support.microsoft.com/office/e7e68934-23dc-4b9c-b714-e82e27a8f8a5)vagy hajtsa végre az alábbi lépéseket:
   
 1. Nyissa meg a [https://protection.office.com](https://protection.office.com) t, és jelentkezzen be a rendszergazdai fiókjával. 
     
@@ -194,7 +194,7 @@ Javasoljuk, hogy tegye a következőket:
     
 - Adjon hozzá egy új házirendet a tartomány összes címzettjének.
     
-Az ATP Safe Links beállításához tekintse meg [ezt a rövid oktatóvideót,](https://support.office.com/article/61492713-53c2-47da-a6e7-fa97479e97fa)vagy hajtsa végre az alábbi lépéseket:
+Az ATP Safe Links beállításához tekintse meg [ezt a rövid oktatóvideót,](https://support.microsoft.com/office/61492713-53c2-47da-a6e7-fa97479e97fa)vagy hajtsa végre az alábbi lépéseket:
   
 1. Nyissa meg a [https://protection.office.com](https://protection.office.com) t, és jelentkezzen be a rendszergazdai fiókjával. 
     

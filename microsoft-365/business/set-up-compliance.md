@@ -22,12 +22,12 @@ search.appverid:
 - BCS160
 - MET150
 description: Megfelelőségi funkciók at állíthat be az adatvesztés megelőzése és az ügyfelek bizalmas adatainak biztonsága érdekében.
-ms.openlocfilehash: 9b900367c22ec5bb5c2719af63049045ecd5e466
-ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
+ms.openlocfilehash: 18886ff3a0ba5e99e63c70ef083d7a69c75bac91
+ms.sourcegitcommit: e5bc49f0a25954d008b6cc09c2b98bb7bfe1aa2f
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 05/27/2020
-ms.locfileid: "44402694"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "44785832"
 ---
 # <a name="set-up-compliance-features"></a>Megfelelőségi funkciók beállítása
 
@@ -61,7 +61,7 @@ Ha egy postaládát peres eljárás miatti tartásba szeretne helyezni, a Felüg
 
 Az érzékenységi címkék az Azure Information Protection (AIP) 1- es csomaggal rendelkeznek, és címkék alkalmazásával segítenek a dokumentumok és e-mailek besorolásában és szükség esetén védelmében. A címkéket automatikusan alkalmazhatják azok a rendszergazdák, akik szabályokat és feltételeket határoznak meg, manuálisan a felhasználók által, vagy olyan kombináció használatával, ahol a felhasználók javaslatokat kapnak.
 
-Érzékenységi címkék beállításához tekintse [meg az érzékenységi címkék létrehozása és kezelése](https://support.office.com/article/2fb96b54-7dd2-4f0c-ac8d-170790d4b8b9) videót.
+Érzékenységi címkék beállításához tekintse [meg az érzékenységi címkék létrehozása és kezelése](https://support.microsoft.com/office/2fb96b54-7dd2-4f0c-ac8d-170790d4b8b9) videót.
 
 
 
@@ -69,7 +69,7 @@ Az érzékenységi címkék az Azure Information Protection (AIP) 1- es csomagga
 
 Az AIP-ügyfél manuális telepítése:
 
-1. Töltse le **AzinfoProtection_UL.exe** programot a [Microsoft letöltőközpontjából.](https://www.microsoft.com/download/details.aspx?id=53018)
+1. Töltse le **AzinfoProtection_UL.exe** a [Microsoft letöltőközpontjából.](https://www.microsoft.com/download/details.aspx?id=53018)
  
 2. Ellenőrizheti, hogy a telepítés működött-e, ha megtekint egy Word-dokumentumot, és meggyőződik arról, hogy az **Érzékenység** lehetőség elérhető a **Kezdőlap** lapon.
 <br/>![A Védelem lap legördülő menüje Egy Word-dokumentumban](../media/word-sensitivity.png)
