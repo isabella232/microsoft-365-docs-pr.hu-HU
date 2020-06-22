@@ -29,12 +29,12 @@ search.appverid:
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
 description: További információ a Microsoft 365 Vállalati prémium verzióról, az Office hatékonyságnövelő appjait és a kiberveszélyforrásokkal szembeni speciális védelmet tartalmazó előfizetési szolgáltatásról.
-ms.openlocfilehash: 61f4c34ade180717486ce889162947afe9be7ba6
-ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
+ms.openlocfilehash: 6cff2fe62111e0d3ee99f406d0be83db0a119b09
+ms.sourcegitcommit: e5bc49f0a25954d008b6cc09c2b98bb7bfe1aa2f
 ms.translationtype: HT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 05/27/2020
-ms.locfileid: "44402254"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "44786174"
 ---
 # <a name="overview-of-microsoft-365-business-premium"></a>A Microsoft 365 Vállalati prémium verzió áttekintése
 
@@ -46,7 +46,7 @@ Ezt a videót megnézve gyorsan áttekintheti a Microsoft 365 Vállalati prémiu
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2mhaA] 
   
-Ha hasznosnak találta ezt a videót, tekintse meg a [teljes tanfolyamok kisvállalatoknak és Microsoft 365-újoncoknak](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816) című cikket. 
+Ha hasznosnak találta ezt a videót, tekintse meg a [teljes tanfolyamok kisvállalatoknak és Microsoft 365-újoncoknak](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816) című cikket. 
 
 A Microsoft 365 Vállalati prémium verzió legfeljebb 300 licenccel való használatra készült. Ha ennél több licencre van szüksége, további információért olvassa el a [Microsoft 365 Nagyvállalati verzió](https://go.microsoft.com/fwlink/p/?linkid=860986) dokumentációját.
 
@@ -111,11 +111,11 @@ A biztonsági funkciók teljes listáját [a Microsoft 365 Vállalati prémium v
 
 - Ha nincs partnere, és be szeretné szerezni a Microsoft 365 Vállalati prémium verziót, [vásárolja meg itt,](https://www.microsoft.com/microsoft-365/business) és kövesse a [regisztrációs](sign-up.md) utasításokat.
 
-- Felkeresheti a [Microsoft Store](https://www.microsoft.com/en-us/store/locations/find-a-store?icid=gm_fy18_hol_bopis_feature3&CustomerIntent=Consumer) áruházat is, hogy megvásárolja a Microsoft 365 Vállalati prémium verziót, és segítséget kapjon a beállításhoz.
+- Felkeresheti a [Microsoft Store](https://www.microsoft.com/store/locations/find-a-store?icid=gm_fy18_hol_bopis_feature3&CustomerIntent=Consumer) áruházat is, hogy megvásárolja a Microsoft 365 Vállalati prémium verziót, és segítséget kapjon a beállításhoz.
 
     > [!NOTE]
     > Ez a hivatkozás csak egyesült államokbeli áruházakra vonatkozik
 
 ## <a name="see-also"></a>Lásd még
 
-[Microsoft 365 Vállalati prémium verziós oktatóvideók](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
+[Microsoft 365 Vállalati prémium verziós oktatóvideók](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
