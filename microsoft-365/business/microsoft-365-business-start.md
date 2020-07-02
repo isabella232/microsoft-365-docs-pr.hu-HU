@@ -28,12 +28,12 @@ search.appverid:
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
 description: Ismerje meg a Microsoft 365 vállalati verziót, a beállításmódját, valamint azt, hogy miként készítheti fel a felhasználók eszközeit és számítógépeit a Microsoft 365 vállalati verzió általi védelemre.
-ms.openlocfilehash: 48a103333e101d545d562e7f2e9dd7329686f107
-ms.sourcegitcommit: e5bc49f0a25954d008b6cc09c2b98bb7bfe1aa2f
+ms.openlocfilehash: 08a956cc7e68bbba74d29bafaab77065be1321ce
+ms.sourcegitcommit: 3ddcf08e8deec087df1fe524147313f1cb12a26d
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "44786154"
+ms.lasthandoff: 07/02/2020
+ms.locfileid: "45022117"
 ---
 # <a name="get-started-with-microsoft-365-for-business"></a>Ismerkedés a Microsoft 365 vállalati verzióval
 
@@ -84,7 +84,7 @@ Jelentkezzen be a [Microsoft 365 Felügyeleti központba](https://portal.office.
     
     - A címtár-szinkronizálási varázsló segítségével szinkronizálja a felhasználókat a felhővel. A folyamat végrehajtásához kövesse a [Címtár-szinkronizálás beállítása a Microsoft 365-höz](https://docs.microsoft.com/office365/enterprise/set-up-directory-synchronization) című részben leírt lépéseket. Miután szinkronizálta a felhasználókat a felhővel, ki kell [kapcsolnia az Office 365 címtár-szinkronizálását.](https://docs.microsoft.com/office365/enterprise/turn-off-directory-synchronization)
     
-    Azt is meg kell adnia minden felhasználónak, hogy a hozzáadott így egy licencet a Microsoft 365 vállalati verzióhoz. Ezt megteheti a [telepítővarázslóban,](set-up.md) vagy licenceket rendelhet a [Microsoft 365 vállalati verzió felhasználóihoz.](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)
+    Azt is meg kell adnia minden felhasználónak, hogy a hozzáadott így egy licencet a Microsoft 365 vállalati verzióhoz. Ezt megteheti a [telepítővarázslóban,](set-up.md) vagy [licenceket rendelhet a felhasználókhoz.](../admin/manage/assign-licenses-to-users.md)
     
 ### <a name="2-prepare-mobile-devices"></a>2: Mobileszközök előkészítése
 
