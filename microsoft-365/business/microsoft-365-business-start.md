@@ -28,12 +28,12 @@ search.appverid:
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
 description: Ismerje meg a Microsoft 365 vállalati verziót, a beállításmódját, valamint azt, hogy miként készítheti fel a felhasználók eszközeit és számítógépeit a Microsoft 365 vállalati verzió általi védelemre.
-ms.openlocfilehash: 08a956cc7e68bbba74d29bafaab77065be1321ce
-ms.sourcegitcommit: 3ddcf08e8deec087df1fe524147313f1cb12a26d
+ms.openlocfilehash: aedcf78f10707dbe6a1d1527effea7d56283dce0
+ms.sourcegitcommit: 5b769f74bcc76ac8d38aad815d1728824783cd9f
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 07/02/2020
-ms.locfileid: "45022117"
+ms.lasthandoff: 07/08/2020
+ms.locfileid: "45080043"
 ---
 # <a name="get-started-with-microsoft-365-for-business"></a>Ismerkedés a Microsoft 365 vállalati verzióval
 
@@ -80,9 +80,9 @@ Jelentkezzen be a [Microsoft 365 Felügyeleti központba](https://portal.office.
     
     Ha **véglegesen a helyi Active Directoryról a felhőbe költözik,** nyissa meg a Microsoft 365 felügyeleti központot, és a beállítási varázsló segítségével manuálisan adja hozzá a felhasználókat, vagy egyszeri szinkronizálást hajthat elő az Azure AD Connecttel. Ehhez két lehetőség közül választhat: 
     
-    - Ha Exchange 2010-es, Exchange 2013- vagy Exchange 2016-kiszolgálóval is rendelkezik, [a Minimal Hybrid használatával gyorsan áttelepítheti az Exchange-postaládákat az Office 365-be.](https://docs.microsoft.com/Exchange/mailbox-migration/use-minimal-hybrid-to-quickly-migrate) A minimális hibrid lépések közé tartozik a felhasználók egyszeri szinkronizálása az Azure AD-vel, és e-mailes áttelepítés a helyszíni felhőbe. Az e-mailek áttelepítése után a címtár-szinkronizálás automatikusan kikapcsol, ha ezt a módszert használja.
+    - Ha Exchange 2010,Exchange 2013 vagy Exchange 2016-kiszolgálóval is rendelkezik, [a Minimal Hybrid használatával gyorsan áttelepítheti az Exchange-postaládákat a Microsoft 365 rendszerbe.](https://docs.microsoft.com/Exchange/mailbox-migration/use-minimal-hybrid-to-quickly-migrate) A minimális hibrid lépések közé tartozik a felhasználók egyszeri szinkronizálása az Azure AD-vel, és e-mailes áttelepítés a helyszíni felhőbe. Az e-mailek áttelepítése után a címtár-szinkronizálás automatikusan kikapcsol, ha ezt a módszert használja.
     
-    - A címtár-szinkronizálási varázsló segítségével szinkronizálja a felhasználókat a felhővel. A folyamat végrehajtásához kövesse a [Címtár-szinkronizálás beállítása a Microsoft 365-höz](https://docs.microsoft.com/office365/enterprise/set-up-directory-synchronization) című részben leírt lépéseket. Miután szinkronizálta a felhasználókat a felhővel, ki kell [kapcsolnia az Office 365 címtár-szinkronizálását.](https://docs.microsoft.com/office365/enterprise/turn-off-directory-synchronization)
+    - A címtár-szinkronizálási varázsló segítségével szinkronizálja a felhasználókat a felhővel. A folyamat végrehajtásához kövesse a [Címtár-szinkronizálás beállítása a Microsoft 365-höz](https://docs.microsoft.com/office365/enterprise/set-up-directory-synchronization) című részben leírt lépéseket. Miután szinkronizálta a felhasználókat a felhővel, ki kell [kapcsolnia a Microsoft 365 címtár-szinkronizálását.](https://docs.microsoft.com/office365/enterprise/turn-off-directory-synchronization)
     
     Azt is meg kell adnia minden felhasználónak, hogy a hozzáadott így egy licencet a Microsoft 365 vállalati verzióhoz. Ezt megteheti a [telepítővarázslóban,](set-up.md) vagy [licenceket rendelhet a felhasználókhoz.](../admin/manage/assign-licenses-to-users.md)
     
