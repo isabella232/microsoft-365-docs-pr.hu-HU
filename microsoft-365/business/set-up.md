@@ -1,5 +1,5 @@
 ---
-title: A Microsoft 365 Business beállítása
+title: A Microsoft 365 Vállalati Prémium verzió beállítása
 f1.keywords:
 - NOCSH
 ms.author: sirkkuw
@@ -24,39 +24,38 @@ ms.custom:
 - TRN_M365B
 - OKR_SMB_Videos
 - seo-marvel-mar
+- AdminSurgePortfolio
 search.appverid:
 - BCS160
 - MET150
 ms.assetid: 6e7a2dfd-8ec4-4eb7-8390-3ee103e5fece
-description: Fedezze fel a Microsoft 365 Vállalati verzió beállítási lépéseit, beleértve a tartomány és a felhasználók hozzáadását, a biztonsági házirendek beállítását stb.
-ms.openlocfilehash: 99994b6f1e9e817b4858aeafe4ce3ceaaf4c3c37
-ms.sourcegitcommit: 217de0fc54cbeaea32d253f175eaf338cd85f5af
+description: Ismerje meg a Microsoft 365 Business Premium beállítási lépéseit, beleértve a tartomány és a felhasználók hozzáadását, a biztonsági házirendek beállítását és egyebeket.
+ms.openlocfilehash: efa7934ece0dfeac3c4b20daa37da6f1160901e7
+ms.sourcegitcommit: 5b769f74bcc76ac8d38aad815d1728824783cd9f
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/07/2020
-ms.locfileid: "42561183"
+ms.lasthandoff: 07/08/2020
+ms.locfileid: "45081902"
 ---
-# <a name="set-up-microsoft-365-business-in-the-setup-wizard"></a>A Microsoft 365 Business beállítása a telepítővarázslóban
+# <a name="set-up-microsoft-365-business-premium-in-the-setup-wizard"></a>A Microsoft 365 Vállalati Prémium verzió beállítása a beállítási varázslóban
 
-Ebből a videóból megtudhatja, hogy mik a Microsoft 365 Vállalati verzió beállítása.<br><br>
+Ebből a videóból megtudhatja, hogy miként tekintheti meg a Microsoft 365 Business Premium beállítását.<br><br>
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE1FYSM] 
 
-Ha hasznosnak találta ezt a videót, tekintse meg a [teljes tanfolyamok kisvállalatoknak és Microsoft 365-újoncoknak](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816) című témakört.
+Ha hasznosnak találta ezt a videót, tekintse meg a [teljes tanfolyamok kisvállalatoknak és Microsoft 365-újoncoknak](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816) című cikket.
 
 ## <a name="add-your-domain-users-and-set-up-policies"></a>Tartomány, felhasználók hozzáadása és házirendek beállítása
 
-[![A megjelenő címke figyelmeztet a felügyeleti központ változásaira, további részleteket itt talál: aka.ms/aboutM365preview.](../media/m365admincenterchanging.png)](https://docs.microsoft.com/office365/admin/microsoft-365-admin-center-preview)
+A Microsoft 365 Business Premium megvásárlásakor lehetősége van arra, hogy saját tartományt használjon, vagy a [regisztráció](sign-up.md)során megvásárolja.
 
-A Microsoft 365 Business megvásárlásakor lehetősége van arra, hogy a saját tartományát használja, vagy a [regisztráció](sign-up.md)során vásároljon egyet.
-
-- Ha regisztrált, új tartományt vásárolt, a tartomány teljesen be van állítva, és áthelyezheti a [Felhasználók hozzáadása és a licencek hozzárendelése](#add-users-and-assign-licenses)elemre.
+- Ha a regisztrált tartományban új tartományt vásárolt, a tartomány be van állítva, és áthelyezheti a Felhasználók hozzáadása és [a licencek hozzárendelése lehetőséget.](#add-users-and-assign-licenses)
 
 ### <a name="add-your-domain-to-personalize-sign-in"></a>A tartomány hozzáadása a bejelentkezés személyre szabásához
 
 1. Jelentkezzen be a [Microsoft 365 Felügyeleti központba](https://admin.microsoft.com) a globális rendszergazdai hitelesítő adatok használatával. 
 
-2. A varázsló elindításához válassza az **Ugrás a beállításhoz** lehetőséget.
+2. A varázsló elindításához válassza **az Ugrás gombot** a beállításhoz.
 
     ![Válassza az Ugrás a beállításhoz lehetőséget.](../media/gotosetupinadmincenter.png)
 
@@ -65,75 +64,75 @@ A Microsoft 365 Business megvásárlásakor lehetősége van arra, hogy a saját
 4. A **Tartomány hozzáadása** lépésben adja meg a használni kívánt tartománynevet (például contoso.com).
 
     > [!IMPORTANT]
-    > Ha a regisztráció során vásárolt tartományt, itt nem jelenik meg a **Tartomány hozzáadása** lépés. Nyissa meg inkább a [Felhasználók hozzáadása](#add-users-and-assign-licenses) lehetőséget.
+    > Ha a regisztráció során vásárolt egy tartományt, itt nem jelenik meg **a Tartomány hozzáadása** lépés. Nyissa meg a [Felhasználók hozzáadása](#add-users-and-assign-licenses) lehetőséget.
 
-    ![Képernyőkép a Bejelentkezési oldal személyre szabása lapról.](../media/adddomain.png)
+    ![Képernyőkép a Bejelentkezés testreszabása lapról.](../media/adddomain.png)
 
     
-4. A varázsló lépéseit [követve dns-rekordokat hozhat létre bármely Olyan OFFICE 365-ös DNS-szolgáltatónál,](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) amely ellenőrzi, hogy Ön a tartomány tulajdonosa.Follow the steps in the wizard to Create DNS records at any DNS hosting provider for Office 365 that verifies you own the domain. Ha ismeri a tartományi állomást, olvassa el a [gazdagép specifikus utasításait.](https://docs.microsoft.com/office365/admin/get-help-with-domains/set-up-your-domain-host-specific-instructions)
+4. Kövesse a varázsló lépéseit a [DNS-rekordok létrehozásához bármely Olyan Microsoft 365-alapú DNS-szolgáltatónál,](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) amely ellenőrzi a tartomány ön általi tulajdonát. Ha ismeri a tartományi állomást, olvassa el a [gazdagépspecifikus utasításokat](https://docs.microsoft.com/office365/admin/get-help-with-domains/set-up-your-domain-host-specific-instructions)is.
 
-    Ha a tárhelyszolgáltató godaddy vagy más, [tartományi kapcsolattal](https://docs.microsoft.com/office365/admin/get-help-with-domains/domain-connect)rendelkező gazdagép, a folyamat egyszerű, és a rendszer automatikusan megkéri, hogy jelentkezzen be, és hagyja, hogy a Microsoft hitelesítse magát az Ön nevében.
+    Ha a tárhelyszolgáltatója A GoDaddy vagy a [domain connect](https://docs.microsoft.com/office365/admin/get-help-with-domains/domain-connect)egy másik állomása, a folyamat egyszerű, és a rendszer automatikusan kéri, hogy jelentkezzen be, és hagyja, hogy a Microsoft hitelesítse magát az Ön nevében.
 
-    ![A GoDaddy Access megerősítése lapon válassza az Engedélyezés lehetőséget.](../media/godaddyauth.png)
+    ![A GoDaddy Hozzáférés megerősítése lapján válassza az Engedélyezés lehetőséget.](../media/godaddyauth.png)
 
 ### <a name="add-users-and-assign-licenses"></a>Felhasználók felvétele és licencek hozzárendelése
 
-A varázslóban felhasználókat is felvehet, de később is [felvehet felhasználókat](add-users-m365b.md) a felügyeleti központban. Ha helyi tartományvezérlővel is rendelkezik, hozzáadhat felhasználókat az [Azure AD Connect](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-install-express)szolgáltatással.
+A varázslóban hozzáadhat felhasználókat, de később a felügyeleti központban is [hozzáadhat felhasználókat.](add-users-m365b.md) Továbbá, ha rendelkezik egy helyi tartományvezérlővel, hozzáadhat felhasználókat az [Azure AD Connect](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-install-express)használatával.
 
-#### <a name="add-users-in-the-wizard"></a>Felhasználók hozzáadása a varázslóban
+#### <a name="add-users-in-the-wizard"></a>Felhasználók felvétele a varázslóba
 
-A varázslóban hozzáadott felhasználók automatikusan Microsoft 365 Vállalati licencet kapnak.
+A varázslóban hozzáadott felhasználók automatikusan Microsoft 365 Business Premium licencet kapnak.
 
-![Képernyőkép az Új felhasználók hozzáadása lapról a varázslóban](../media/addnewuserspage.png)
+![Képernyőkép a varázsló Új felhasználók hozzáadása lapjáról](../media/addnewuserspage.png)
 
-1. Ha a Microsoft 365 Business-előfizetése meglévő felhasználókkal rendelkezik (például ha az Azure AD Connectet használta), most lehetősége van licencek hozzárendelésére. Nyugodtan felvehet licenceket hozzájuk is.
+1. Ha a Microsoft 365 Business Premium-előfizetése meglévő felhasználókkal rendelkezik (például ha az Azure AD Connectet használta), most lehetősége van licenceket rendelni hozzájuk. Nyugodtan felvehet licenceket hozzájuk is.
 
-2. Miután felvette a felhasználókat, lehetőséget kap arra is, hogy megossza a hitelesítő adatokat a hozzáadott új felhasználókkal. Ezeket kinyomtathatja, elküldheti e-mailben, vagy pedig letöltheti.
+2. Miután hozzáadta a felhasználókat, lehetősége van a hitelesítő adatok megosztására a hozzáadott új felhasználókkal. Ezeket kinyomtathatja, elküldheti e-mailben, vagy pedig letöltheti.
 
 ### <a name="connect-your-domain"></a>Tartomány csatlakoztatása
 
 > [!NOTE]
-> Ha az .onmicrosoft tartomány t használja, vagy az Azure AD Connectet használta a felhasználók beállításához, akkor ez a lépés nem jelenik meg.
+> Ha az .onmicrosoft tartomány t választotta, vagy az Azure AD Connect használatával állította be a felhasználókat, akkor ez a lépés nem jelenik meg.
   
 A szolgáltatások beállításához frissítenie kell bizonyos rekordokat a DNS-szolgáltatónál vagy a tartományregisztrálónál.
   
-1. A beállítási varázsló általában felismeri a regisztrálóját, és részletes útmutatást jelenít meg arról, hogy miként frissítheti a névkiszolgálói rekordokat a regisztráló webhelyén. Ha nem, módosítsa a [névkiszolgálókat, hogy az Office 365-öt bármely tartományregisztrálóval](https://support.office.com/article/a8b487a9-2a45-4581-9dc4-5d28a47010a2)beállítsák. 
+1. A beállítási varázsló általában felismeri a regisztrálóját, és részletes útmutatást jelenít meg arról, hogy miként frissítheti a névkiszolgálói rekordokat a regisztráló webhelyén. Ha nem, módosítsa a [névkiszolgálókat, hogy a Microsoft 365-öt bármely tartományregisztrálóval állítsa be.](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar) 
 
-    - Ha meglévő DNS-rekordokkal rendelkezik, például egy meglévő webhely, de a DNS-szolgáltató engedélyezve van a [tartománycsatlakozáshoz,](https://docs.microsoft.com/office365/admin/get-help-with-domains/domain-connect)válassza **a Rekordok hozzáadása számomra**lehetőséget. Az **Online szolgáltatások kiválasztása** lapon fogadja el az összes alapértelmezést, és válassza a **Tovább**gombot, és válassza a DNS-szolgáltató lapján az **Engedélyezés** lehetőséget.
-    - Ha már rendelkezik DNS-rekordokkal más DNS-állomásokkal (nincs engedélyezve a tartománycsatlakozáshoz), akkor a meglévő szolgáltatások kapcsolatának biztosítása érdekében kezelje a saját DNS-rekordjait. További információ a [tartomány alapjaiban.](https://docs.microsoft.com/office365/admin/get-help-with-domains/dns-basics)
+    - Ha már rendelkezik meglévő DNS-rekordokkal, például egy meglévő webwebhelytel, de a DNS-szolgáltatója engedélyezve van a [tartománycsatlakozáshoz,](https://docs.microsoft.com/office365/admin/get-help-with-domains/domain-connect)válassza **a Rekordok hozzáadása nekem**lehetőséget. Az **Online szolgáltatások kiválasztása** lapon fogadja el az összes alapértelmezést, és válassza a **Tovább**gombot, és válassza a DNS-szolgáltató lapján az **Engedélyezés** lehetőséget.
+    - Ha más DNS-állomásokkal is rendelkezik DNS-rekordokkal (nincs engedélyezve a tartománycsatlakozáshoz), akkor a meglévő szolgáltatások kapcsolatának biztosítása érdekében saját DNS-rekordjait kell kezelnie. További információ a [tartományokkal kapcsolatos alapvető tudnivalókról.](https://docs.microsoft.com/office365/admin/get-help-with-domains/dns-basics)
 
         ![Rekordok aktiválása lap.](../media/activaterecords.png)
 
-2. Kövesse a varázsló lépéseit, és az e-mailek és egyéb szolgáltatások beállítva lesznek.
+2. Kövesse a varázsló lépéseit, és az e-mail és egyéb szolgáltatások be lesznek állítva.
 
 ### <a name="protect-your-organization"></a>A szervezet védelme 
 
-A varázslóban beállított házirendek automatikusan érvénybe lépnek a *Minden felhasználó*nevű [biztonsági csoportra.](https://docs.microsoft.com/office365/admin/create-groups/compare-groups#security-groups) További csoportokat is létrehozhat, amelyekhez házirendeket rendelhet a felügyeleti központban.
+A varázslóban beállított házirendek automatikusan érvénybe lépnek a Minden felhasználó nevű [biztonsági](https://docs.microsoft.com/office365/admin/create-groups/compare-groups#security-groups) *csoportra.* A felügyeleti központban további csoportokat is létrehozhat, amelyekhez házirendeket rendelhet.
 
-1. A **Fokozott védelem a fejlett kiberfenyegetésekkel kapcsolatban**ajánlott elfogadni az alapértelmezett beállításokat, hogy az [Office 365 Advance Threat Protection](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp) beszana fájlokat és hivatkozásokat az Office-alkalmazásokban.
+1. A Fokozott védelem növelése a **fejlett kiberfenyegetésekkel**szembeni védelem beállításnál ajánlott elfogadni azokat az alapértelmezett beállításokat, amelyek lehetővé teszik, hogy az [Office 365 Előzetes veszélyforrások elleni védelem](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp) fájlokat és hivatkozásokat késebősebben az Office-alkalmazásokban.
 
     ![Képernyőkép: Védelem növelése lap.](../media/increasetreatprotection.png)
 
 
-2. A **Bizalmas adatok szivárgásának megakadályozása** lapon fogadja el az Office 365 adatveszteség-megelőzési (DLP) beállításának alapértelmezett beállításait a bizalmas adatok nyomon követéséhez az Office-alkalmazásokban, és megakadályozza ezek véletlen megosztását a szervezeten kívül.
+2. A **Bizalmas adatok kiszivárgásának megelőzése** lapon fogadja el az Office 365 adatveszteség-megelőzési (DLP) bekapcsolását a bizalmas adatok Office-alkalmazásokban való nyomon követéséhez és a szervezeten kívüli véletlen megosztás megakadályozásához.
 
-3. Az **Adatok védelme mobiloffice-ban** lapon hagyja bekapcsolva a mobilalkalmazás-felügyeletet, bontsa ki a beállításokat és tekintse át őket, majd válassza a **Mobilalkalmazás-kezelési szabályzat létrehozása**lehetőséget.
+3. Az Adatok védelme az **Office mobilszolgáltatásban** lapon hagyja bekapcsolva a mobilalkalmazás-kezelést, bontsa ki a beállításokat, és tekintse át őket, majd válassza **a Mobilalkalmazás-kezelési szabályzat létrehozása lehetőséget.**
 
-    ![Képernyőkép: Adatok védelme a mobiloffice-ban lapon.](../media/protectdatainmobile.png)
+    ![Képernyőkép: Adatok védelme az Office mobilon alkalmazásban lapról.](../media/protectdatainmobile.png)
 
 
-## <a name="secure-windows-10-pcs"></a>Windows 10-es számítógépek biztonságossá tétele
+## <a name="secure-windows-10-pcs"></a>Biztonságos Windows 10-es számítógépek
 
-A bal oldali navigációs sávon válassza a **Telepítés** lehetőséget, majd a **Sin-in és a Biztonság**csoportban válassza a Windows **10-es számítógépek biztonsága**lehetőséget. A kezdéshez válassza a **Nézet** lehetőséget. A teljes útmutatóban a [Windows 10-es számítógépek biztonsága](secure-win-10-pcs.md) látható.
+A bal oldali navigációs sávon válassza a **Telepítés** lehetőséget, majd a Bejelentkezés és biztonság csoportban válassza **a Windows 10-es számítógépek védelme**lehetőséget. **Sign-in and security** A kezdéshez válassza a **Nézet** lehetőséget. A teljes körű útmutatásért tekintse meg [a Windows 10-es számítógépek biztonságossá](secure-win-10-pcs.md) tétele.
 
-## <a name="deploy-office-365-client-apps"></a>Az Office 365 ügyfélalkalmazásának telepítése
+## <a name="deploy-office-365-client-apps"></a>Office 365-ügyfélalkalmazások telepítése
 
-Ha úgy dönt, hogy a telepítés során automatikusan telepíti az Office-alkalmazásokat, az alkalmazások a Windows 10-es eszközökre települnek, miután a felhasználók bejelentkeztek az Azure AD-be a munkahelyi hitelesítő adataik használatával.
+Ha úgy döntött, hogy a telepítés során automatikusan telepíti az Office-alkalmazásokat, az alkalmazások akkor települnek a Windows 10-es eszközökre, amikor a felhasználók bejelentkeztek az Azure AD-be a Windows-eszközeikről, a munkahelyi hitelesítő adataik használatával.
 
-Az Office mobiliOS vagy Android rendszerű eszközökre való telepítéséhez olvassa el [a Mobileszközök beállítása a Microsoft 365 Vállalati verzió felhasználói számára](set-up-mobile-devices.md)című témakört.
+Az Office mobilos iOS- vagy Android-eszközökre való telepítéséről a [Mobileszközök beállítása Microsoft 365 Vállalati Prémium verziófelhasználói számára című](set-up-mobile-devices.md)témakörben található.
 
-Az Office-t külön is telepítheti. Az [Office telepítése PC-re vagy Mac gépre](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658) című témakörben talál további információt.
+Az Office-t külön is telepítheti. További információt [az Office telepítése PC-re vagy Mac gépre](https://support.microsoft.com/office/4414eaaf-0478-48be-9c42-23adc4716658) című témakörben talál.
 
 ## <a name="see-also"></a>Lásd még
 
-[Microsoft 365 Vállalati verziós oktatóvideók](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
+[Microsoft 365 üzleti oktatóvideók](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)

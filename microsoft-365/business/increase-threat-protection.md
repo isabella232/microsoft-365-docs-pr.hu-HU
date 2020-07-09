@@ -22,12 +22,12 @@ search.appverid:
 - BCS160
 - MET150
 description: Állítsa be az Office 365 Komplex veszélyforrások elleni védelmet, és védje a bizalmas adatokat az adathalászattól, a rosszindulatú programoktól és más fenyegetésektől.
-ms.openlocfilehash: d5510cdc082781fd9a1776e86b1bab1d8a2723d6
-ms.sourcegitcommit: e5bc49f0a25954d008b6cc09c2b98bb7bfe1aa2f
+ms.openlocfilehash: 0e6cb7ed13a0851ef249e1f599d17e03c052414a
+ms.sourcegitcommit: 3951147f74510e2ead6c11ceab92854f0937426b
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "44786206"
+ms.lasthandoff: 07/08/2020
+ms.locfileid: "45083602"
 ---
 # <a name="increase-threat-protection"></a>A veszélyforrások elleni védelem növelése
 
@@ -137,7 +137,7 @@ Az adathalászat elleni ATP-házirend létrehozásához tekintse meg [ezt a röv
     
 4. Az **Adathalászat elleni** lapon válassza a + Create **(Létrehozás) lehetőséget.** Egy varázsló elindítja, amely végigvezeti az adathalászat elleni házirend meghatározásán.
     
-5. Adja meg a házirend nevét, leírását és beállításait az alábbi táblázatban ajánlott módon. További információt az [Adathalászat elleni atp-házirendek című](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-anti-phishing-policies#learn-about-atp-anti-phishing-policy-options)témakörben talál. 
+5. Adja meg a házirend nevét, leírását és beállításait az alábbi táblázatban ajánlott módon. További információt az [Adathalászat elleni atp-házirendek című](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-anti-phishing-policies)témakörben talál. 
     
 6. Miután áttekintette a beállításokat, válassza **a Házirend létrehozása** vagy a **Mentés**lehetőséget.
     
