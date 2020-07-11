@@ -28,12 +28,12 @@ search.appverid:
 - MOE150
 ms.assetid: 018a2a96-3811-4b5d-b751-3b6330b34256
 description: Ismerje meg, hogyan távolíthatja el a vállalati adatokat a védelmi szabályzatok által kezelt eszközökről, valamint állítsa vissza a Windows 10-es eszközöket a gyári beállításokra.
-ms.openlocfilehash: 1f4b267f5a58429d40c5ece7df42a1bb5727c4e2
-ms.sourcegitcommit: e6e704cbd9a50fc7db1e6a0cf5d3f8c6cbb94363
+ms.openlocfilehash: 88311a2cf08ee0b1ceb4ef3eb599efe5ebccdb05
+ms.sourcegitcommit: a5ed189fa789975f8c3ed39db1d52f2ef7d671aa
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 06/04/2020
-ms.locfileid: "44564940"
+ms.lasthandoff: 07/10/2020
+ms.locfileid: "45101621"
 ---
 # <a name="manage-protected-devices-with-microsoft-365-business-premium"></a>Védett eszközök kezelése a Microsoft 365 Business Premium szolgáltatással
 
@@ -44,5 +44,7 @@ Az eszközök kezeléséhez használható feladatokról az alábbi cikkekben tal
 [Céges adatok eltávolítása az eszközökről](remove-company-data.md)
   
 [A Windows 10-es eszközök gyári állapotának visszaállítása](reset-devices-to-factory-settings.md)
+
+[Felügyelt eszköz hozzáadása](https://docs.microsoft.com/microsoft-365/business/app-protection-settings-for-android-and-ios)
   
 
