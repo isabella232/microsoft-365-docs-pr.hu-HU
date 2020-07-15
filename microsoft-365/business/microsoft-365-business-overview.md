@@ -29,12 +29,12 @@ search.appverid:
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
 description: További információ a Microsoft 365 Vállalati prémium verzióról, az Office hatékonyságnövelő appjait és a kiberveszélyforrásokkal szembeni speciális védelmet tartalmazó előfizetési szolgáltatásról.
-ms.openlocfilehash: 6cff2fe62111e0d3ee99f406d0be83db0a119b09
-ms.sourcegitcommit: e5bc49f0a25954d008b6cc09c2b98bb7bfe1aa2f
+ms.openlocfilehash: 50b1fec21593bd22577e07e000cedb89dfd90f66
+ms.sourcegitcommit: f7566dd6010744c72684efdc37f4471672330b61
 ms.translationtype: HT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "44786174"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "45138228"
 ---
 # <a name="overview-of-microsoft-365-business-premium"></a>A Microsoft 365 Vállalati prémium verzió áttekintése
 
@@ -110,11 +110,6 @@ A biztonsági funkciók teljes listáját [a Microsoft 365 Vállalati prémium v
 - Ha vannak partnerei, ők megkapják a Microsoft 365 Vállalati prémium verziót: [A Microsoft 365 Vállalati prémium verzió beszerzése a Microsoft Partnerközpontban](get-microsoft-365-business.md).
 
 - Ha nincs partnere, és be szeretné szerezni a Microsoft 365 Vállalati prémium verziót, [vásárolja meg itt,](https://www.microsoft.com/microsoft-365/business) és kövesse a [regisztrációs](sign-up.md) utasításokat.
-
-- Felkeresheti a [Microsoft Store](https://www.microsoft.com/store/locations/find-a-store?icid=gm_fy18_hol_bopis_feature3&CustomerIntent=Consumer) áruházat is, hogy megvásárolja a Microsoft 365 Vállalati prémium verziót, és segítséget kapjon a beállításhoz.
-
-    > [!NOTE]
-    > Ez a hivatkozás csak egyesült államokbeli áruházakra vonatkozik
 
 ## <a name="see-also"></a>Lásd még
 
