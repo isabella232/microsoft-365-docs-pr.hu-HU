@@ -67,7 +67,7 @@ A Windows 10 Pro alkotói frissítését futtató vadonatúj eszköz, illetve eg
     
 3. Fejezze be a Windows 10-es eszköz beállítását.
     
-   Once you're done, the user will be connected to your organization's Azure AD. See [Verify the device is connected to Azure AD](#verify-the-device-is-connected-to-azure-ad) to make sure. 
+   Ha végzett, a felhasználó csatlakoztatva lesz a szervezet Azure AD szolgáltatásához. Ha meg szeretne győződni arról, hogy sikerült-e a csatlakoztatás, olvassa el az [Annak ellenőrzése, hogy az eszköz csatlakoztatva van-e az Azure AD szolgáltatáshoz](#verify-the-device-is-connected-to-azure-ad) című szakaszt. 
   
 ### <a name="for-a-device-already-set-up-and-running-windows-10-pro"></a>Már beállított és a Windows 10 Prót futtató eszköz esetén
 
@@ -97,7 +97,7 @@ A Windows 10 Pro alkotói frissítését futtató vadonatúj eszköz, illetve eg
   
 6. A **Győződjön meg arról, hogy ez a szervezet** lap, ellenőrizze, hogy az adatok helyesek- e, majd kattintson a Csatlakozás **gombra.**
   
-   On the **You're all set!** page, click **Done**.
+   A **Minden készen áll** lapon kattintson a **Kész** elemre.
   
    ![On the Make sure this is your organization screen, click Join](../media/c749c0a2-5191-4347-a451-c062682aa1fb.png)
   

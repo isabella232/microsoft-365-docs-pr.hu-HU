@@ -50,7 +50,7 @@ Ha egy felhasználó számítógépén sok személyes fájl található, elősz�
     
 3. Válassza a menüsoron a **Feltöltés**![Upload](../media/d9b963b8-10af-42e2-953d-360301b83d3c.png) elemet, és tallózással keresse meg a menteni kívánt fájlokat. 
     
-To transfer the user profile and important files, you can also use a third-party tool, such as ForensiT. You should upload the resulting files in OneDrive for Business also.
+A felhasználói profil és a fontos fájlok átviteléhez külső eszközt is használhat (például ForensiT). Az eredményül kapott fájlokat is célszerű feltölteni a OneDrive Vállalati verzióba.
   
 ## <a name="for-more-on-setting-up-and-using-microsoft-365-for-business"></a>További információk a Microsoft 365 vállalati verzió beállításával és használatával kapcsolatosak
 
