@@ -13,12 +13,12 @@ localization_priority: Normal
 audience: microsoft-business 
 keywords: Microsoft 365 Vállalati prémium verzió, Microsoft 365, KKV, GYIK, gyakran ismételt kérdések, válaszok, vállalati
 ms.date: 06/08/2018
-ms.openlocfilehash: a2feb91ddcd2d95da28c3363d983b382cf2aa6dc
-ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
+ms.openlocfilehash: 30437825a896acb470b23cb8f68ea36235ee80c8
+ms.sourcegitcommit: 5f980a9eb5aca61cf3662ef0bc65dec215e21656
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 05/27/2020
-ms.locfileid: "44403450"
+ms.lasthandoff: 07/20/2020
+ms.locfileid: "45185976"
 ---
 # <a name="microsoft-365-business-premium-frequently-asked-questions"></a>Microsoft 365 Vállalati prémium verzió – gyakori kérdések
 
@@ -137,9 +137,9 @@ A Microsoft 365 Vállalati prémium verzió sikeres bevezetésének legegyszerű
 Igen, a Microsoft 365 Vállalati prémium verzió előfizetői rendelkeznek licenccel az Intune minden funkciójához az iOS, Android, MacOS és más platformokat futtató eszközök kezelésére. A Microsoft 365 Vállalati prémium verzió egyszerűsített felügyeleti konzolján nem elérhető szolgáltatások (például a külső alkalmazások kezelése, WiFi-profilok beállítása, VPN-tanúsítványok) a teljes Intune konzolon kezelhetők. 
   
 
-### <a name="does-azure-active-directory-azure-ad-premium-p1-come-with-microsoft-365-business"></a>Az Azure Active Directory (Azure AD) Premium P1 csomagban megtalálható a Microsoft 365 Vállalati verzió? 
+### <a name="does-azure-active-directory-azure-ad-premium-p1-come-with-microsoft-365-business-premium"></a>Az Azure Active Directory (Azure AD) Premium P1 a Microsoft 365 Business Premium csomaggal rendelkezik? 
 
-A Microsoft 365 Vállalati verzió korábban csak az Azure AD Premium 1 csomag egyes funkcióit, például a feltételes hozzáférést, az önkiszolgáló jelszó-visszaállítást és a többtényezős hitelesítést tartalmazta. Mostantól a Microsoft 365 Vállalati verzió előfizetői számára a teljes Azure AD Premium P1 csomagot bevezetjük, először az új ügyfeleknek, majd a jelenlegi előfizetőknek is. További információt a [Microsoft 365 üzleti szolgáltatásainak leírásában](https://docs.microsoft.com/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-business-service-description) és ebben a [blogban](https://techcommunity.microsoft.com/t5/small-and-medium-business-blog/azure-active-directory-premium-p1-is-coming-to-microsoft-365/ba-p/1275496) találhat.
+Igen, az Azure AD Premium P1 a Microsoft Business Premium részét tartalmazza.
  
  
 ### <a name="does-microsoft-365-business-premium-allow-customers-to-manage-macs"></a>A Microsoft 365 Vállalati prémium verzió lehetővé teszi az ügyfeleknek Mac gépek kezelését? 
