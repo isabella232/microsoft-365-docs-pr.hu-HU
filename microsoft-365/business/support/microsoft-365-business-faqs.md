@@ -12,13 +12,13 @@ ms.custom: AdminSurgePortfolio
 localization_priority: Normal
 audience: microsoft-business 
 keywords: Microsoft 365 Vállalati prémium verzió, Microsoft 365, KKV, GYIK, gyakran ismételt kérdések, válaszok, vállalati
-ms.date: 06/08/2018
-ms.openlocfilehash: 30437825a896acb470b23cb8f68ea36235ee80c8
-ms.sourcegitcommit: 5f980a9eb5aca61cf3662ef0bc65dec215e21656
+ms.date: 07/21/2020
+ms.openlocfilehash: 520009d26d0133a2c53c6149fe4938bea9db5a32
+ms.sourcegitcommit: 1b83b6bcacb997324bc4be355deba6daf319591d
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 07/20/2020
-ms.locfileid: "45185976"
+ms.lasthandoff: 07/28/2020
+ms.locfileid: "46502999"
 ---
 # <a name="microsoft-365-business-premium-frequently-asked-questions"></a>Microsoft 365 Vállalati prémium verzió – gyakori kérdések
 
@@ -33,13 +33,13 @@ A Microsoft 365 egy integrált megoldás, amely a kis-és közepes méretű vál
 * Az Office üzleti alkalmazásai (Bookings, MileIQ<sup>[1](#footnote1)</sup>). 
  
 **Nagyvállalati szintű eszközkezelési és biztonsági funkciók** 
-- Az Office 365 Komplex veszélyforrások elleni védelem 1 csomag és a Windows Defender Exploit Guard a külső veszélyforrások, például adathalászat és kifinomult kártevők elleni védelmet biztosít. 
+- Az Office 365 Komplex veszélyforrások elleni védelem 1 csomaggal és a Microsoft Defender Exploit Guard-mal védelmet nyújt az olyan külső fenyegetésekkel szemben, mint az adathalászat és a kifinomult kártevők. 
 -  Adatvesztés-megelőzési házirendekkel és az Azure Information Protection Plan 1 csomaggal segíti a bizalmas információk elérésének és továbbításának kezelését és szabályozását. 
 -  Az Exchange Online Archiving szolgáltatással segíti az adatok védelmét, megőrzését és biztonsági mentését.  
 -   Alkalmazásvédelem az Office-hoz és más mobilalkalmazásokhoz az Intune App Protection alkalmazásvédelemmel 
--  Eszközkezelés Windows 10 rendszerű gépekhez, MacOS-hez és mobileszközökhöz az Intune eszközkezelő szolgáltatással 
+-  Eszközkezelés Windows 10-es számítógépekhez, macOS-hez és mobileszközökhöz az Intune-eszközfelügyelettel. 
 -  Személyazonosság-védelem többtényezős hitelesítéssel, önkiszolgáló jelszó-visszaállítással és feltételes hozzáféréssel
--  Konzisztens biztonsági konfiguráció a különböző eszközökön&mdash; a céges adatok védelmére az eszközök között; mindig bekapcsolt, naprakész Windows Defender 
+-  Konzisztens biztonsági konfiguráció az eszközök között &mdash; a vállalati adatok védelme az eszközök között; Microsoft Defender Antivirus, amely mindig be van kapcsolva és naprakész. 
  
  
 **Egyszerűsített eszköztelepítés és felhasználóbeállítás** 
@@ -98,14 +98,14 @@ Számos alkalmazott szívesebben fér hozzá a személyes és a munkahelyi adato
 A Microsoft 365 Vállalati prémium verzió egyszerű, de hatékony eszközt biztosít az ügyfeleknek arra, hogy az alkalmazottak személyes eszközeiket használják munkára, miközben lehetővé teszik a vállalatnak, hogy az adott eszközök ne férjenek hozzá, illetve ne tároljanak vagy osszanak meg üzleti adatokat. Konkrétabban: 
 * **Az Office mobilalkalmazásaihoz készült alkalmazásvédelem** házirendekkel segít az Office-adatok védelmében, ideértve az iOS- és Android-mobileszközökön lévő e-maileket, naptárat, névjegyeket és dokumentumokat. Például az üzleti adatokat automatikusan törli egy meghatározott idő után, ha az eszköz már nem csatlakozik a szolgáltatáshoz; előírja, hogy az adatokat csak a OneDrive for Business szolgáltatással lehet tárolni; PIN-és ujjlenyomat-ellenőrzést kér az Office-alkalmazások eléréséhez; valamint megakadályozza az üzleti adatok másolását Office-alkalmazásból személyes alkalmazásokba. A Microsoft 365 Vállalati prémium verzió előfizetői számára más mobilalkalmazások kezelése is elérhető az Intune-nal. 
   
-* **A Windows 10 rendszerű gépekhez használható eszközkezelés** olyan funkciók beállítását és végrehajtását is lehetővé teszi a vállalatoknak, mint például a Windows Defender védelmi szolgáltatásai, automatikus frissítések és a képernyők kikapcsolása adott idő elteltével. Ezenkívül az elveszett vagy ellopott Windows 10 rendszerű eszközökről a felügyeleti központon keresztül teljesen törölhetők az üzleti alkalmazások és adatok. 
+* **A Windows 10-es számítógépek eszközkezelése** lehetővé teszi a vállalkozások számára, hogy beállítsák és kényszerítsék az olyan képességeket, mint például a Microsoft Defender vírusvédelem a rosszindulatú programok, az automatikus frissítések és a képernyők kikapcsolása egy meghatározott idő elteltével. Ezenkívül az elveszett vagy ellopott Windows 10 rendszerű eszközökről a felügyeleti központon keresztül teljesen törölhetők az üzleti alkalmazások és adatok. 
 
-* **Az eszközkezelés funkció iOS, Android és MacOS rendszerhez** segíti a vállalatokat abban, hogy biztonságos módon kezelhessék sokszínű, iOS, Android, Windows és MacOS rendszerű eszközöket tartalmazó eszközparkjukat. 
+* **Az iOS, az Android & a macOS** rendszer eszközkezelése segít a vállalkozásoknak az iOS, Android, Windows és macOS eszközöket is magában tartalmazó, változatos eszközökoszisztémák biztonságos kezelésében. 
 
 ### <a name="how-does-microsoft-365-business-premium-help-protect-pcs-in-my-organization-from-malicious-attacks"></a>Hogyan védi a Microsoft 365 Vállalati prémium verzió a szervezet számítógépeit a kártékony támadások ellen? 
-A Microsoft 365 Vállalati prémium verzióval kezelt gépeket a Windows Defender alkalmazás védi; ez az 1. számú víruskereső szolgáltatás a Windows 10-ben, mely minden más megoldásnál több számítógépet véd a vírusok, kártevők, kémprogramok és más veszélyforrások ellen.  A Microsoft 365 Vállalati prémium verzióval a szervezetek biztosíthatják, hogy a Windows Defender védelmi szolgáltatás minden Windows 10 alapú eszközükön fusson és mindig naprakész legyen.  
+A Microsoft 365 Business Premium szolgáltatással kezelt számítógépeket a Microsoft Defender víruskereső , a Szám számú Microsoft Defender vírus védi. 1. számú víruskereső szolgáltatás a Windows 10-ben, mely minden más megoldásnál több számítógépet véd a vírusok, kártevők, kémprogramok és más veszélyforrások ellen. A Microsoft 365 Business Premium szolgáltatással a szervezetek biztosíthatják, hogy a Microsoft Defender vírusvédelem minden Windows 10-es eszközén naprakész legyen.  
  
-A Windows 10 Business a Windows Defender Exploit Guard szolgáltatását is magában foglalja, amely új behatolásmegelőzési funkciókat nyújt. Az egyik funkciója, a szabályozott mappaelérés, a mappák zárolásával és a jogosulatlan alkalmazások hozzáférésének megakadályozásával a felhasználó fontos fájljaihoz megállítja a zsarolóvírusokat. 
+A Windows 10 Business a Microsoft Defender Exploit Guard-ot is tartalmazza, amely egy új behatolásmegelőzési képesség. Az egyik jellemzője, az ellenőrzött mappahozzáférés, a mappák zárolásával és a jogosulatlan alkalmazások hozzáférésének megakadályozásával leállítja a zsarolóprogramokat. 
 
 ### <a name="whats-the-difference-between-microsoft-365-business-standard-microsoft-365-business-premium-and-microsoft-365-enterprise"></a>Mi a különbség a Microsoft 365 Vállalati standard verzió, a Microsoft 365 Vállalati prémium verzió és a Microsoft 365 Nagyvállalati verzió között? 
 A Microsoft különféle hatékonyságnövelő és biztonsági szolgáltatásokat kínál, amelyeket a kis-és közepes méretű ügyfelek asztali és egyéb eszközeik frissítésekor igénybe vehetnek; ezek egyre több hatékony funkciót és lehetőséget kínálnak. 
@@ -126,7 +126,7 @@ A Microsoft 365 Vállalati prémium verzió az összes olyan partner és ügyfé
 A Microsoft 365 Vállalati prémium verzió próbaverziója a felhőszolgáltatóknak elérhető. A közvetlen ügyfeleknek később bocsátunk rendelkezésére próbaverziót. 
  
 ### <a name="what-should-customers-and-partners-know-before-running-microsoft-365-business-premium-within-their-organization"></a>Mit kell az ügyfeleknek és a partnereknek tudnia, mielőtt használni kezdik a Microsoft 365 Vállalati prémium verziót a szervezetben? 
-Azoknak az ügyfeleknek, akik a Microsoft 365 Vállalati prémium verzió összes funkcióját szeretnék használni, Windows 7, 8.1 vagy 10 Pro <sup>[2](#footnote2)</sup> rendszert kell használnia a meglévő asztali gépeken. A meglévő Windows 10 Pro rendszerű gépekre telepíteni kell a Creators Update frissítést, ha eddig még nem tették meg. 
+Azoknak az ügyfeleknek, akik szeretnék megtapasztalni a Microsoft 365 Business Premium teljes képességeit, windows 7, 8.1 vagy 10 Pro<sup>[2](#footnote2)</sup> rendszert kell futtatniuk a meglévő asztali számítógépeiken. A meglévő Windows 10 Pro rendszerű gépekre telepíteni kell a Creators Update frissítést, ha eddig még nem tették meg. 
 
 ## <a name="deployment"></a>Bevezetés
 
@@ -134,7 +134,7 @@ Azoknak az ügyfeleknek, akik a Microsoft 365 Vállalati prémium verzió össze
 A Microsoft 365 Vállalati prémium verzió sikeres bevezetésének legegyszerűbb módja az, ha felveszi a kapcsolatot egy Microsoft-partnerrel. Partnereink szerteágazó képzést kaptak és széles körű tapasztalatokkal rendelkeznek számos ügyféllel, így nekik vannak a legjobb lehetőségei az Ön környezetének és igényeinek megismerésére. Azoknak az ügyfeleknek, akiknek tapasztalt informatikai személyzet áll a rendelkezésére, a <a href="https://docs.microsoft.com/microsoft-365/business/microsoft-365-business-overview" target="_blank">Microsoft 365 Vállalati prémium verzió bevezetési útmutatója</a> segít a Microsoft 365 Vállalati prémium verzió bevezetésében. 
 
 ### <a name="does-microsoft-365-business-premium-include-the-full-capabilities-of-microsoft-intune"></a>A Microsoft 365 Vállalati prémium verzió a Microsoft Intune minden funkcióját tartalmazza? 
-Igen, a Microsoft 365 Vállalati prémium verzió előfizetői rendelkeznek licenccel az Intune minden funkciójához az iOS, Android, MacOS és más platformokat futtató eszközök kezelésére. A Microsoft 365 Vállalati prémium verzió egyszerűsített felügyeleti konzolján nem elérhető szolgáltatások (például a külső alkalmazások kezelése, WiFi-profilok beállítása, VPN-tanúsítványok) a teljes Intune konzolon kezelhetők. 
+Igen, a Microsoft 365 Business Premium-előfizetők rendelkeznek licenccel az Intune teljes funkcióinak használatára iOS, Android, macOS és más platformfüggetlen eszközök kezelésére. A Microsoft 365 Business Premium egyszerűsített felügyeleti konzolján nem elérhető funkciók, például a külső alkalmazáskezelés, a Wi-Fi-profilok konfigurációja és a VPN-tanúsítványok az Intune teljes konzolján kezelhetők. 
   
 
 ### <a name="does-azure-active-directory-azure-ad-premium-p1-come-with-microsoft-365-business-premium"></a>Az Azure Active Directory (Azure AD) Premium P1 a Microsoft 365 Business Premium csomaggal rendelkezik? 
@@ -143,7 +143,7 @@ Igen, az Azure AD Premium P1 a Microsoft Business Premium részét tartalmazza.
  
  
 ### <a name="does-microsoft-365-business-premium-allow-customers-to-manage-macs"></a>A Microsoft 365 Vállalati prémium verzió lehetővé teszi az ügyfeleknek Mac gépek kezelését? 
-Az Intune-nal biztonságosan kezelheti az iOS, Android, Windows és MacOS eszközöket. 
+Az Intune segítségével biztonságosan kezelheti az iOS, Android, Windows és macOS rendszerű eszközöket. 
  
 ### <a name="what-is-windows-autopilot"></a>Mi a Windows AutoPilot? 
 A Windows AutoPilot olyan szolgáltatás, mely egyszerűsíti az új Windows 10-es gépek telepítését. Ezt a folyamatot akkor játszódik le, amikor a végfelhasználó először bejelentkezik a Microsoft 365 Vállalati prémium verzióba,&mdash; úgy, hogy az informatikusoknak hozzá sem kell nyúlnia az eszközhöz,&mdash; a Microsoft 365 Vállalati prémium verzió központosított kezelőszerveit használva. A Windows AutoPilot szolgáltatást meglevő, legalább a Windows 10 Professional Creators Update változatot futtató számítógépeken is használhatja gyári alaphelyzetbe állítás után. A Windows AutoPilot szolgáltatásról ebben a <a href="https://blogs.technet.microsoft.com/windowsitpro/2017/06/29/modernizing-windows-deployment-with-windows-autopilot/" target="_blank">2017. júniusi blogbejegyzésben</a> talál részletes információkat.
@@ -151,13 +151,13 @@ A Windows AutoPilot olyan szolgáltatás, mely egyszerűsíti az új Windows 10-
 ## <a name="compatibility"></a>Kompatibilitás
 
 ### <a name="can-i-add-office-365-add-ons-to-microsoft-365-business-premium"></a>Vehetek fel Office 365-bővítményeket a Microsoft 365 Vállalati prémium verzióba? 
-A Microsoft 365 Vállalati standard verzióhoz hozzáadható összes bővítmény felvehető a Microsoft 365 Vállalati prémium verzióba is. Ez azt jelenti, hogy megvásárolhatja az Office 365 Felhőappbiztonság, Advanced Compliance, Threat Intelligence, MyAnalytics, PowerBI Pro és Audio Conferencing szolgáltatást. 
+A Microsoft 365 Vállalati standard verzióhoz hozzáadható összes bővítmény felvehető a Microsoft 365 Vállalati prémium verzióba is. Ez azt jelenti, hogy megvásárolhatja az Office 365 Cloud App Security, a Advanced Compliance, a Threat Intelligence, a MyAnalytics, a Power BI Pro és az Audio Conferencing alkalmazást. 
  
 ### <a name="can-i-add-phone-system-and-calling-plans-to-microsoft-365-business-premium"></a>Felvehetek telefonos rendszert és hívási csomagokat a Microsoft 365 Vállalati prémium verzióba? 
 Nem, a telefonos rendszer és a hívási csomag a speciálisabb igényekkel rendelkező ügyfelek számára van fenntartva. Azok az ügyfelek, akiknek szükségük van ezekre a funkciókra, a Microsoft 365 Nagyvállalati verzió kínálatából választhatnak. 
  
-### <a name="can-microsoft-365-business-premium-customers-use-windows-defender-advanced-threat-protection"></a>Használhatják a Microsoft 365 Vállalati prémium verzió előfizetői a Windows Defender Komplex veszélyforrások elleni védelem szolgáltatását? 
-Nem, ha az ügyfél szeretné használni a Windows Defender Komplex veszélyforrások elleni védelem szolgáltatását, ehhez a Windows 10 Enterprise E5 vagy a Microsoft 365 Nagyvállalati verzió E5 csomagra van szüksége. 
+### <a name="can-microsoft-365-business-premium-customers-use--microsoft-defender-advanced-threat-protection"></a>A Microsoft 365 Business Premium ügyfelei használhatják a Microsoft Defender komplex veszélyforrások elleni védelmet? 
+Igen, a Microsoft Defender komplex veszélyforrások elleni védelem bővítményként érhető el a Microsoft 365 Business Premium ügyfelek számára.
 
 ## <a name="partner-opportunity"></a>Lehetőség a partnerségre
 
