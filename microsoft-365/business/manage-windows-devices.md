@@ -24,12 +24,12 @@ search.appverid:
 - BCS160
 - MET150
 description: Megtudhatja, hogy miként engedélyezheti a Microsoft 365 számára a helyi Active Directoryhoz csatlakozott Windows 10-eszközök védelmét néhány lépésben.
-ms.openlocfilehash: 857651081fb10856d28dd419333ebef655388407
-ms.sourcegitcommit: e6e704cbd9a50fc7db1e6a0cf5d3f8c6cbb94363
+ms.openlocfilehash: 2eaf5aa76cae1680b93af008af615ae872e4fb20
+ms.sourcegitcommit: fab425ea4580d1924fb421e6db233d135f5b7d19
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 06/04/2020
-ms.locfileid: "44564946"
+ms.lasthandoff: 07/31/2020
+ms.locfileid: "46533785"
 ---
 # <a name="enable-domain-joined-windows-10-devices-to-be-managed-by-microsoft-365-business-premium"></a>A tartományhoz csatlakozó Windows 10-eszközök Microsoft 365 Business Premium általi kezelésének engedélyezése
 
@@ -77,44 +77,32 @@ A Microsoft Intune lapon válassza az **Eszközregisztráció** lehetőséget, �
         -  Adja hozzá az Azure AD-ben szinkronizált kívánt tartományi felhasználókat egy [biztonsági csoporthoz.](../admin/create-groups/create-groups.md)
         -  Válassza **a Csoportok kijelölése** lehetőséget az MDM felhasználói hatókörének engedélyezéséhez az adott biztonsági csoporthoz.
 
-## <a name="4-set-up-service-connection-point-scp"></a>4. Szolgáltatás csatlakozási pontjának (SCP) beállítása
+## <a name="4-create-the-required-resources"></a>4. A szükséges erőforrások létrehozása 
 
-Ezek a lépések egyszerűsödnek [a hibrid azure AD-illesztés](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-managed-domains#configure-hybrid-azure-ad-join)konfigurálásából. Az Azure AD Connect és a Microsoft 365 Business Premium globális rendszergazdai és Active Directory-rendszergazdai jelszavak használatához szükséges lépések végrehajtásához.
+A [hibrid Azure AD-illesztés konfigurálásához](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-managed-domains#configure-hybrid-azure-ad-join) szükséges feladatok végrehajtása leegyszerűsödött a [SecMgmt](https://www.powershellgallery.com/packages/SecMgmt) PowerShell modulban található [Initialize-SecMgmtHybirdDeviceEnrollment](https://github.com/microsoft/secmgmt-open-powershell/blob/master/docs/help/Initialize-SecMgmtHybirdDeviceEnrollment.md) parancsmag használatával. A parancsmag meghívásakor létrehozza és konfigurálja a szükséges szolgáltatáscsatlakozási pontot és csoportházirendet.
 
-1.  Indítsa el az Azure AD Connect et, és válassza **a Konfigurálás**lehetőséget.
-2.  A **További feladatok** lapon válassza az **Eszközbeállítások konfigurálása**lehetőséget, majd a **Tovább**gombot.
-3.  Az **Áttekintés** lapon válassza a **Tovább lehetőséget.**
-4.  A Csatlakozás az **Azure AD-hez** lapon adja meg a Microsoft 365 Business Premium globális rendszergazdájának hitelesítő adatait.
-5.  Az **Eszközbeállítások** lapon válassza a **Hibrid Azure AD-csatlakozás konfigurálása**lehetőséget, majd a **Tovább**gombot.
-6.  Az **SCP-lapon** minden olyan erdőesetében, ahol az Azure AD Connect konfigurálni szeretné az SCP-t, hajtsa végre a következő lépéseket, majd válassza a **Tovább**gombot:
-    - Jelölje be az erdő neve melletti négyzetet. Az erdő nek az AD tartománynévnek kell lennie.
-    - A **Hitelesítési szolgáltatás** oszlopban nyissa meg a legördülő menüt, és válassza ki az egyező tartománynevet (csak egy lehetőség lehet).
-    - A Tartományi rendszergazdahitelesítő adatok megadásához válassza a **Hozzáadás** lehetőséget.  
-7.  Az **Eszköz operációs rendszerek** lapon csak a Windows 10-es vagy újabb tartományhoz csatlakozó eszközök lehetőséget válassza.
-8.  A **Konfigurálásra kész** lapon válassza a **Konfigurálás**lehetőséget.
-9.  A **Konfiguráció befejeződése** lapon válassza a **Kilépés**lehetőséget.
+Ezt a modult a PowerShell egy példányából a következő meghívással telepítheti:
 
-
-## <a name="5-create-a-gpo-for-intune-enrollment--admx-method"></a>5. Csoportházirend-azonosító létrehozása az Intune-regisztrációhoz – ADMX metódus
-
-Használja. ADMX sablonfájl.
-
-1.  Jelentkezzen be az AD-kiszolgálóra, keressen és nyissa meg **a Kiszolgálókezelő**  >  **eszközei**  >  **csoportházirend-kezelést.**
-2.  Válassza ki a tartománynevét a **Tartományok területen,** és kattintson a jobb gombbal **a Csoportházirend-objektumok** elemre az **Új**lehetőség kiválasztásához.
-3.  Adjon nevet az új csoportházirend-csatornának, például *"Cloud_Enrollment*", majd kattintson az **OK gombra.**
-4.  Kattintson a jobb gombbal az új csoportházirend-objektumra a **Csoportházirendobjektumok csoportban,** és válassza **a Szerkesztés parancsot.**
-5.  A **Csoportházirend kezelése szerkesztőben**nyissa meg a **Számítógép konfigurációs**  >  **házirendek**  >  **felügyeleti sablonok**  >  **Windows-összetevők**  >  **MDM**című részét.
-6. Kattintson a jobb gombbal **az Automatikus MDM-regisztráció engedélyezése az azure-beli AD-hitelesítő adatok használatával,** majd válassza az Engedélyezve az OK **parancsot.**  >  **OK** Zárja be a szerkesztőablakot.
+```powershell
+Install-Module SecMgmt
+```
 
 > [!IMPORTANT]
-> Ha nem látja az **Automatikus MDM-regisztráció engedélyezése az alapértelmezett Azure AD-hitelesítő adatokkal című házirendet,** [olvassa el a Legújabb felügyeleti sablonok beszerezhetése című témakört.](#get-the-latest-administrative-templates)
+> Javasoljuk, hogy telepítse ezt a modult a Windows Server azure AD Connect futó.
 
-## <a name="6-deploy-the-group-policy"></a>6. A csoportházirend telepítése
+A szükséges szolgáltatáscsatlakozási pont és csoportházirend létrehozásához meg kell hívnia az [Initialize-SecMgmtHybirdDeviceEnrollment](https://github.com/microsoft/secmgmt-open-powershell/blob/master/docs/help/Initialize-SecMgmtHybirdDeviceEnrollment.md) parancsmamot. A feladat végrehajtásakor szüksége lesz a Microsoft 365 Business Premium globális rendszergazdai hitelesítő adataira. Ha készen áll az erőforrások létrehozására, hívja meg a következőket:
 
-1.  A Kiszolgálókezelő **tartományok** > csoportházirend-objektumok csoportjában válassza ki a Cloud_Enrollment csoportházirend-objektumot a fenti 3.
-2.  Válassza **Scope** a csoportházirend-csoport házirend-eszközhatókör lapját.
-3.  A csoportházirend-csoport hatóköre lapon kattintson a jobb gombbal a **Hivatkozások**csoporttartományra mutató hivatkozásra.
-4.  Válassza **a Kényszerített lehetőséget** a csoportházirend-csoportházirend-csoport házirendjének üzembe helyezéséhez, majd az OK **gombot** a megerősítő képernyőn.
+```powershell
+PS C:\> Connect-SecMgmtAccount
+PS C:\> Initialize-SecMgmtHybirdDeviceEnrollment -GroupPolicyDisplayName 'Device Management'
+```
+
+Az első parancs kapcsolatot létesít a Microsoft felhőjével, és amikor a rendszer kéri, adja meg a Microsoft 365 Business Premium globális rendszergazdai hitelesítő adatait.
+
+## <a name="5-link-the-group-policy"></a>5. A csoportházirend összekapcsolása
+
+1. A Csoportházirend kezelése konzolon (GPMC) kattintson a jobb gombbal arra a helyre, ahol össze szeretné kapcsolni a házirendet, és válassza a Helyi menü *Meglévő csoportházirend-házirendjének csatolása parancsot.*
+2. Jelölje ki a fenti lépésben létrehozott házirendet, majd kattintson az **OK**gombra.
 
 ## <a name="get-the-latest-administrative-templates"></a>A legújabb felügyeleti sablonok beszerezhetése
 
@@ -129,4 +117,3 @@ Ha nem látja az **Automatikus MDM-regisztráció engedélyezése az alapértelm
 6.  Indítsa újra az elsődleges tartományvezérlőt, hogy a házirend elérhető legyen. Ez eljárás akarat dolgozik részére akármi jövő változat jól.
 
 Ezen a ponton látnia kell a házirend **automatikus MDM-regisztráció engedélyezése az alapértelmezett Azure AD hitelesítő adatok elérhető** használatával.
-
