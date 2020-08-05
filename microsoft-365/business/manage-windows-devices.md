@@ -24,12 +24,12 @@ search.appverid:
 - BCS160
 - MET150
 description: Megtudhatja, hogy miként engedélyezheti a Microsoft 365 számára a helyi Active Directoryhoz csatlakozott Windows 10-eszközök védelmét néhány lépésben.
-ms.openlocfilehash: 2eaf5aa76cae1680b93af008af615ae872e4fb20
-ms.sourcegitcommit: fab425ea4580d1924fb421e6db233d135f5b7d19
+ms.openlocfilehash: 6275c6c4be9cd9631ab095f8b0e1b39683022bb2
+ms.sourcegitcommit: d988faa292c2661ffea43c7161aef92b2b4b99bc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 07/31/2020
-ms.locfileid: "46533785"
+ms.lasthandoff: 08/04/2020
+ms.locfileid: "46560843"
 ---
 # <a name="enable-domain-joined-windows-10-devices-to-be-managed-by-microsoft-365-business-premium"></a>A tartományhoz csatlakozó Windows 10-eszközök Microsoft 365 Business Premium általi kezelésének engedélyezése
 
@@ -50,8 +50,7 @@ A lépésekről a [Tartományfelhasználók szinkronizálása a Microsofthoz](ma
 
 ## <a name="1-verify-mdm-authority-in-intune"></a>1. Az MDM-szolgáltató ellenőrzése az Intune-ban
 
-Lépjen a portal.azure.com, és a lap tetején keresse meg az Intune-t.
-A Microsoft Intune lapon válassza az **Eszközregisztráció** lehetőséget, és az **Áttekintés** lapon győződjön meg arról, hogy az **MDM-szolgáltató** **intune-i.**
+Nyissa meg az [Endpoint Manager](https://endpoint.microsoft.com/#blade/Microsoft_Intune_Enrollment/EnrollmentMenu/overview) lapot, és a Microsoft Intune lapon válassza az **Eszközregisztráció**lehetőséget, majd az **Áttekintés** lapon győződjön meg arról, hogy az **MDM-szolgáltató** **intune-i.**
 
 - Ha az **MDM-szolgáltató** **nincs,** kattintson az **MDM-szolgáltatóra** az **Intune**beállításához.
 - Ha az **MDM-szolgáltató** **a Microsoft Office 365**, nyissa meg az **Eszközök**  >  **regisztrálása eszközök,** és használja a **Add MDM hatóság** párbeszéd a jobb oldalon, hogy adjunk **Intune MDM** hatóság (a **Add MDM-szolgáltató** párbeszédpanel csak akkor érhető el, ha az **MDM-szolgáltató** van beállítva a Microsoft Office 365).

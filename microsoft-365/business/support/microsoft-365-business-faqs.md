@@ -13,12 +13,12 @@ localization_priority: Normal
 audience: microsoft-business 
 keywords: Microsoft 365 Vállalati prémium verzió, Microsoft 365, KKV, GYIK, gyakran ismételt kérdések, válaszok, vállalati
 ms.date: 07/21/2020
-ms.openlocfilehash: 520009d26d0133a2c53c6149fe4938bea9db5a32
-ms.sourcegitcommit: 1b83b6bcacb997324bc4be355deba6daf319591d
+ms.openlocfilehash: 614da177df9250045ca3cc18c0b071e0aa43b7ec
+ms.sourcegitcommit: d988faa292c2661ffea43c7161aef92b2b4b99bc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 07/28/2020
-ms.locfileid: "46502999"
+ms.lasthandoff: 08/04/2020
+ms.locfileid: "46560799"
 ---
 # <a name="microsoft-365-business-premium-frequently-asked-questions"></a>Microsoft 365 Vállalati prémium verzió – gyakori kérdések
 
@@ -154,7 +154,7 @@ A Windows AutoPilot olyan szolgáltatás, mely egyszerűsíti az új Windows 10-
 A Microsoft 365 Vállalati standard verzióhoz hozzáadható összes bővítmény felvehető a Microsoft 365 Vállalati prémium verzióba is. Ez azt jelenti, hogy megvásárolhatja az Office 365 Cloud App Security, a Advanced Compliance, a Threat Intelligence, a MyAnalytics, a Power BI Pro és az Audio Conferencing alkalmazást. 
  
 ### <a name="can-i-add-phone-system-and-calling-plans-to-microsoft-365-business-premium"></a>Felvehetek telefonos rendszert és hívási csomagokat a Microsoft 365 Vállalati prémium verzióba? 
-Nem, a telefonos rendszer és a hívási csomag a speciálisabb igényekkel rendelkező ügyfelek számára van fenntartva. Azok az ügyfelek, akiknek szükségük van ezekre a funkciókra, a Microsoft 365 Nagyvállalati verzió kínálatából választhatnak. 
+Igen, megvásárolhatja a Business Voice-előfizetést. [A Business Voice](https://docs.microsoft.com/microsoftteams/business-voice/whats-business-voice) egy olyan telefonos megoldás, amelyet legfeljebb 300 felhasználóval működő kis- és középvállalkozások számára terveztek, és amely a telefonrendszert, az audiokonferenciát, a belföldi hívástervet és egyebeket is kínál. A telefonrendszer képességei közé tartozik a hangposta, a hívóazonosító, a híváspark, a hívásátirányítás, a segítők és a hívássorok. <br> Ha meg szeretné tudni, hogy a Business Voice elérhető-e az Ön országában vagy régiójában, olvassa el [az Ország és régió elérhetősége a Business Voice számára című témakört.](https://docs.microsoft.com/microsoftteams/business-voice/country-region-availability) Az árképzésről az [Árképzés a Business Voice alkalmazásban](https://go.microsoft.com/fwlink/?linkid=2127221)című témakörben talál.
  
 ### <a name="can-microsoft-365-business-premium-customers-use--microsoft-defender-advanced-threat-protection"></a>A Microsoft 365 Business Premium ügyfelei használhatják a Microsoft Defender komplex veszélyforrások elleni védelmet? 
 Igen, a Microsoft Defender komplex veszélyforrások elleni védelem bővítményként érhető el a Microsoft 365 Business Premium ügyfelek számára.
