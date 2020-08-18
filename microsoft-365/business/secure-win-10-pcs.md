@@ -1,5 +1,5 @@
 ---
-title: Biztonságos Windows 10-es számítógépek
+title: Windows 10-es számítógépek biztonságossá tétele
 f1.keywords:
 - NOCSH
 ms.author: sirkkuw
@@ -22,33 +22,32 @@ ms.custom:
 search.appverid:
 - BCS160
 - MET150
-description: Ismerje meg, hogyan biztosíthatja a Windows 10 rendszerű számítógépeket a Microsoft 365 Business Premium beállítása után.
-ms.openlocfilehash: f18447db445bf051a44b99053d41e10f3ed34fc3
-ms.sourcegitcommit: e5bc49f0a25954d008b6cc09c2b98bb7bfe1aa2f
+description: Megtudhatja, hogy miként védheti meg a Windows 10-es PC-ket a Microsoft 365 vállalati prémium verzió beállítása után.
+ms.openlocfilehash: a70fcd330fe6ef330fac08512aded4d8913313d5
+ms.sourcegitcommit: 1780359234abdf081097c8064438d415da92fb85
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "45081878"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "46778384"
 ---
-# <a name="secure-windows-10-computers"></a><span data-ttu-id="58748-103">Biztonságos Windows 10-es számítógépek</span><span class="sxs-lookup"><span data-stu-id="58748-103">Secure Windows 10 computers</span></span>
+# <a name="secure-windows-10-computers"></a><span data-ttu-id="a4b58-103">Windows 10-es számítógépek biztonságossá tétele</span><span class="sxs-lookup"><span data-stu-id="a4b58-103">Secure Windows 10 computers</span></span>
 
-<span data-ttu-id="58748-104">Ez a cikk a Microsoft 365 Business Premium szolgáltatásra vonatkozik.</span><span class="sxs-lookup"><span data-stu-id="58748-104">This article applies to Microsoft 365 Business Premium.</span></span>
+<span data-ttu-id="a4b58-104">Ez a cikk a Microsoft 365 vállalati prémium verzióra vonatkozik.</span><span class="sxs-lookup"><span data-stu-id="a4b58-104">This article applies to Microsoft 365 Business Premium.</span></span>
 
-<span data-ttu-id="58748-105">A Microsoft 365 Business Premium [beállítása](set-up.md) után itt az ideje, hogy megvédje a Windows 10-es számítógépeket a szervezetben a lopástól és a rosszindulatú fenyegetésektől, például a vírusoktól és a rosszindulatú programoktól.</span><span class="sxs-lookup"><span data-stu-id="58748-105">After you have [set up](set-up.md) Microsoft 365 Business Premium, it is time to protect the Windows 10 computers in your org from theft, and malicious threats like viruses and malware.</span></span>
-<span data-ttu-id="58748-106">Ebből a videóból megtudhatja, hogyan állíthatja be a Windows 10-es számítógépek védelmére vonatkozó házirendeket.</span><span class="sxs-lookup"><span data-stu-id="58748-106">Watch this video for an overview of how to set up policies to secure your Windows 10 computers.</span></span><br><br>
+<span data-ttu-id="a4b58-105">Miután [beállította](set-up.md) a Microsoft 365 Business Premiumot, ideje megvédeni a szervezete Windows 10-es számítógépeit a lopástól és a kártékony fenyegetésektől (például vírusok és kártevők).</span><span class="sxs-lookup"><span data-stu-id="a4b58-105">After you have [set up](set-up.md) Microsoft 365 Business Premium, it is time to protect the Windows 10 computers in your org from theft, and malicious threats like viruses and malware.</span></span>
 
-> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE4kcAF] 
+## <a name="to-secure-your-windows-10-pcs"></a><span data-ttu-id="a4b58-106">A Windows 10-es PC-k biztonságossá tétele</span><span class="sxs-lookup"><span data-stu-id="a4b58-106">To secure your Windows 10 PCs</span></span>
 
-<span data-ttu-id="58748-107">Ha hasznosnak találta ezt a videót, tekintse meg a [teljes tanfolyamok kisvállalatoknak és Microsoft 365-újoncoknak](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816) című cikket.</span><span class="sxs-lookup"><span data-stu-id="58748-107">If you found this video helpful, check out the [complete training series for small businesses and those new to Microsoft 365](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).</span></span>
+1. <span data-ttu-id="a4b58-107">A [Microsoft 365 felügyeleti központba](https://admin.microsoft.com) a globális rendszergazdai hitelesítő adataival jelentkezhet be.</span><span class="sxs-lookup"><span data-stu-id="a4b58-107">Sign in to [Microsoft 365 admin center](https://admin.microsoft.com) by using your global admin credentials.</span></span> 
+2. <span data-ttu-id="a4b58-108">A bal oldali navigációs sávon válassza a **Setup (beállítás** ) lehetőséget, majd a **Bejelentkezés és biztonság**csoportban válassza **a Windows 10-es számítógépek biztonságossá tétele**lehetőséget.</span><span class="sxs-lookup"><span data-stu-id="a4b58-108">On the left nav, select **Setup** and then, under **Sign-in and security**, choose **Secure your Windows 10 computers**.</span></span> <span data-ttu-id="a4b58-109">A kezdéshez válassza a **nézet** lehetőséget.</span><span class="sxs-lookup"><span data-stu-id="a4b58-109">Choose **View** to get started.</span></span>
+3. <span data-ttu-id="a4b58-110">A **Windows 10-es számítógépek biztonsága** lapon olvassa el az összes információt, hogy megértsék, mit kell bekapcsolnia, és mi a felhasználó hatása.</span><span class="sxs-lookup"><span data-stu-id="a4b58-110">On the **Secure your Windows 10 computers** page, read all the information to understand what you are turning on, and what the user impact is.</span></span>
 
-## <a name="to-secure-your-windows-10-pcs"></a><span data-ttu-id="58748-108">A Windows 10 rendszerű számítógépek védelme</span><span class="sxs-lookup"><span data-stu-id="58748-108">To secure your Windows 10 PCs</span></span>
+    <span data-ttu-id="a4b58-111">A lap tetején válassza az első **lépések**elemet.</span><span class="sxs-lookup"><span data-stu-id="a4b58-111">On the top of the page, choose **Get started**.</span></span>
 
-1. <span data-ttu-id="58748-109">Jelentkezzen be a [Microsoft 365 Felügyeleti központba](https://admin.microsoft.com) a globális rendszergazdai hitelesítő adatok használatával.</span><span class="sxs-lookup"><span data-stu-id="58748-109">Sign in to [Microsoft 365 admin center](https://admin.microsoft.com) by using your global admin credentials.</span></span> 
-2. <span data-ttu-id="58748-110">A bal oldali navigációs sávon válassza a **Telepítés** lehetőséget, majd a Bejelentkezés és biztonság csoportban válassza **a Windows 10-es számítógépek védelme**lehetőséget. **Sign-in and security**</span><span class="sxs-lookup"><span data-stu-id="58748-110">On the left nav, select **Setup** and then, under **Sign-in and security**, choose **Secure your Windows 10 computers**.</span></span> <span data-ttu-id="58748-111">A kezdéshez válassza a **Nézet** lehetőséget.</span><span class="sxs-lookup"><span data-stu-id="58748-111">Choose **View** to get started.</span></span>
-3. <span data-ttu-id="58748-112">A **Windows 10-es számítógépek biztonságossá tétele** lapon olvassa el az összes információt, hogy megértse, mit kapcsol be, és mi a felhasználói hatás.</span><span class="sxs-lookup"><span data-stu-id="58748-112">On the **Secure your Windows 10 computers** page, read all the information to understand what you are turning on, and what the user impact is.</span></span>
+4. <span data-ttu-id="a4b58-112">A **biztonságos Windows 10-es számítógépek** ablaktáblában válassza ki a bekapcsolni kívánt beállításokat.</span><span class="sxs-lookup"><span data-stu-id="a4b58-112">On the **Secure your Windows 10 computers** pane, select the options you want to turn on.</span></span> <span data-ttu-id="a4b58-113">A beállításokkal kapcsolatos további tudnivalókért olvassa el a [Windows 10-es eszközök biztonságossá tétele](secure-windows-10-devices.md)című témakört.</span><span class="sxs-lookup"><span data-stu-id="a4b58-113">For more information about the settings, see [Secure Windows 10 devices](secure-windows-10-devices.md).</span></span> 
+    
+    <span data-ttu-id="a4b58-114">A legtöbb szervezet esetében az itt ismertetett beállítások jó szintű biztonságot nyújtanak, azonban ha a szervezete összetettebb biztonsági igényeket tartalmaz, a Windows 10-es eszközök biztonsága érdekében előre definiált biztonsági alaptervek is használhatók.</span><span class="sxs-lookup"><span data-stu-id="a4b58-114">For most organizations, the options here offer a good level of security, however, if your organization has more complex security needs, you can also use pre-defined security baselines to secure  your Windows 10 devices.</span></span> <span data-ttu-id="a4b58-115">További információt a [Windows 10-es eszközök biztonsági alaptervei](https://docs.microsoft.com/mem/intune/protect/security-baselines)című témakörben találhat.</span><span class="sxs-lookup"><span data-stu-id="a4b58-115">For more information, see [security baselines for Windows 10 devices](https://docs.microsoft.com/mem/intune/protect/security-baselines).</span></span>   
 
-    <span data-ttu-id="58748-113">A lap tetején válassza az **Első lépések lehetőséget.**</span><span class="sxs-lookup"><span data-stu-id="58748-113">On the top of the page, choose **Get started**.</span></span>
+1. <span data-ttu-id="a4b58-116">Válassza a **Beállítások alkalmazása**gombot.</span><span class="sxs-lookup"><span data-stu-id="a4b58-116">Choose **Apply settings**.</span></span>
 
-4. <span data-ttu-id="58748-114">A Windows 10-es beállításnál adja meg a bekapcsolni kívánt beállításokat.</span><span class="sxs-lookup"><span data-stu-id="58748-114">On the Windows 10 setting, select the options you want to turn on.</span></span> <span data-ttu-id="58748-115">A beállításokról további információt a [Windows 10-es eszközök biztonságossá tétele](secure-windows-10-devices.md)című témakörben talál.</span><span class="sxs-lookup"><span data-stu-id="58748-115">For more information about the settings, see [Secure Windows 10 devices](secure-windows-10-devices.md).</span></span> 
-5. <span data-ttu-id="58748-116">Válassza ki, hogy kire szeretné alkalmazni a házirendet a szervezetben, majd válassza a **Módosítások mentése lehetőséget.**</span><span class="sxs-lookup"><span data-stu-id="58748-116">Choose to who in your organization to apply the policy to, and then choose **Save changes**.</span></span>
-
+    <span data-ttu-id="a4b58-117">Ezek a beállítások a szervezet minden felhasználójának érvényesek lesznek.</span><span class="sxs-lookup"><span data-stu-id="a4b58-117">These settings will apply to all users in your organization.</span></span> <span data-ttu-id="a4b58-118">A különböző biztonsági csoportokra vonatkozó különböző házirendek beállításáról az [eszközbeállítások beállítása Windows 10-es PC-ken](protection-settings-for-windows-10-pcs.md)című témakörben olvashat.</span><span class="sxs-lookup"><span data-stu-id="a4b58-118">To set up different policies for different security groups, see [Set device protection settings for Windows 10 PCs](protection-settings-for-windows-10-pcs.md).</span></span>
