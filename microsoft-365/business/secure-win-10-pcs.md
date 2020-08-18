@@ -1,5 +1,5 @@
 ---
-title: Biztonságos Windows 10-es számítógépek
+title: Windows 10-es számítógépek biztonságossá tétele
 f1.keywords:
 - NOCSH
 ms.author: sirkkuw
@@ -22,33 +22,32 @@ ms.custom:
 search.appverid:
 - BCS160
 - MET150
-description: Ismerje meg, hogyan biztosíthatja a Windows 10 rendszerű számítógépeket a Microsoft 365 Business Premium beállítása után.
-ms.openlocfilehash: f18447db445bf051a44b99053d41e10f3ed34fc3
-ms.sourcegitcommit: e5bc49f0a25954d008b6cc09c2b98bb7bfe1aa2f
+description: Megtudhatja, hogy miként védheti meg a Windows 10-es PC-ket a Microsoft 365 vállalati prémium verzió beállítása után.
+ms.openlocfilehash: a70fcd330fe6ef330fac08512aded4d8913313d5
+ms.sourcegitcommit: 1780359234abdf081097c8064438d415da92fb85
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "45081878"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "46778384"
 ---
-# <a name="secure-windows-10-computers"></a>Biztonságos Windows 10-es számítógépek
+# <a name="secure-windows-10-computers"></a>Windows 10-es számítógépek biztonságossá tétele
 
-Ez a cikk a Microsoft 365 Business Premium szolgáltatásra vonatkozik.
+Ez a cikk a Microsoft 365 vállalati prémium verzióra vonatkozik.
 
-A Microsoft 365 Business Premium [beállítása](set-up.md) után itt az ideje, hogy megvédje a Windows 10-es számítógépeket a szervezetben a lopástól és a rosszindulatú fenyegetésektől, például a vírusoktól és a rosszindulatú programoktól.
-Ebből a videóból megtudhatja, hogyan állíthatja be a Windows 10-es számítógépek védelmére vonatkozó házirendeket.<br><br>
+Miután [beállította](set-up.md) a Microsoft 365 Business Premiumot, ideje megvédeni a szervezete Windows 10-es számítógépeit a lopástól és a kártékony fenyegetésektől (például vírusok és kártevők).
 
-> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE4kcAF] 
+## <a name="to-secure-your-windows-10-pcs"></a>A Windows 10-es PC-k biztonságossá tétele
 
-Ha hasznosnak találta ezt a videót, tekintse meg a [teljes tanfolyamok kisvállalatoknak és Microsoft 365-újoncoknak](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816) című cikket.
+1. A [Microsoft 365 felügyeleti központba](https://admin.microsoft.com) a globális rendszergazdai hitelesítő adataival jelentkezhet be. 
+2. A bal oldali navigációs sávon válassza a **Setup (beállítás** ) lehetőséget, majd a **Bejelentkezés és biztonság**csoportban válassza **a Windows 10-es számítógépek biztonságossá tétele**lehetőséget. A kezdéshez válassza a **nézet** lehetőséget.
+3. A **Windows 10-es számítógépek biztonsága** lapon olvassa el az összes információt, hogy megértsék, mit kell bekapcsolnia, és mi a felhasználó hatása.
 
-## <a name="to-secure-your-windows-10-pcs"></a>A Windows 10 rendszerű számítógépek védelme
+    A lap tetején válassza az első **lépések**elemet.
 
-1. Jelentkezzen be a [Microsoft 365 Felügyeleti központba](https://admin.microsoft.com) a globális rendszergazdai hitelesítő adatok használatával. 
-2. A bal oldali navigációs sávon válassza a **Telepítés** lehetőséget, majd a Bejelentkezés és biztonság csoportban válassza **a Windows 10-es számítógépek védelme**lehetőséget. **Sign-in and security** A kezdéshez válassza a **Nézet** lehetőséget.
-3. A **Windows 10-es számítógépek biztonságossá tétele** lapon olvassa el az összes információt, hogy megértse, mit kapcsol be, és mi a felhasználói hatás.
+4. A **biztonságos Windows 10-es számítógépek** ablaktáblában válassza ki a bekapcsolni kívánt beállításokat. A beállításokkal kapcsolatos további tudnivalókért olvassa el a [Windows 10-es eszközök biztonságossá tétele](secure-windows-10-devices.md)című témakört. 
+    
+    A legtöbb szervezet esetében az itt ismertetett beállítások jó szintű biztonságot nyújtanak, azonban ha a szervezete összetettebb biztonsági igényeket tartalmaz, a Windows 10-es eszközök biztonsága érdekében előre definiált biztonsági alaptervek is használhatók. További információt a [Windows 10-es eszközök biztonsági alaptervei](https://docs.microsoft.com/mem/intune/protect/security-baselines)című témakörben találhat.   
 
-    A lap tetején válassza az **Első lépések lehetőséget.**
+1. Válassza a **Beállítások alkalmazása**gombot.
 
-4. A Windows 10-es beállításnál adja meg a bekapcsolni kívánt beállításokat. A beállításokról további információt a [Windows 10-es eszközök biztonságossá tétele](secure-windows-10-devices.md)című témakörben talál. 
-5. Válassza ki, hogy kire szeretné alkalmazni a házirendet a szervezetben, majd válassza a **Módosítások mentése lehetőséget.**
-
+    Ezek a beállítások a szervezet minden felhasználójának érvényesek lesznek. A különböző biztonsági csoportokra vonatkozó különböző házirendek beállításáról az [eszközbeállítások beállítása Windows 10-es PC-ken](protection-settings-for-windows-10-pcs.md)című témakörben olvashat.
