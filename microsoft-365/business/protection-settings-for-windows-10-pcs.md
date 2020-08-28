@@ -1,5 +1,5 @@
 ---
-title: Eszközvédelmi beállítások megadása Windows 10-es PC-khez
+title: A Windows 10 rendszerű PC-k eszközbeállítások beállításainak szerkesztése vagy létrehozása
 f1.keywords:
 - NOCSH
 ms.author: sirkkuw
@@ -22,47 +22,51 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: bd66c26c-73a4-45a8-8642-3ea4ee7cd89d
-description: Ismerje meg a Microsoft 365 vállalati verzióban a Windows 10-es eszközök védelmére szolgáló alapértelmezett és egyéb beállításokat.
-ms.openlocfilehash: af3f58ba13a1011e65be45337c63ff714bfdaf0c
-ms.sourcegitcommit: 2d664a95b9875f0775f0da44aca73b16a816e1c3
+description: További információ a Microsoft 365 vállalati verzióban elérhető beállításokról a Windows 10-es eszközök védelmére.
+ms.openlocfilehash: bd992113403c7134fb32bc6cced5bf216843241b
+ms.sourcegitcommit: abf63669daf12993ad3353e4b578f41c8910b20f
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "44470847"
+ms.lasthandoff: 08/27/2020
+ms.locfileid: "47289155"
 ---
-# <a name="set-device-protection-settings-for-windows-10-pcs"></a>Eszközvédelmi beállítások megadása Windows 10-es PC-khez
+# <a name="edit-or-create-device-protection-settings-for-windows-10-pcs"></a>A Windows 10 rendszerű PC-k eszközbeállítások beállításainak szerkesztése vagy létrehozása
 
-Ez a cikk a Microsoft 365 Business Premium szolgáltatásra vonatkozik.
+Ez a cikk a Microsoft 365 vállalati prémium verzióra vonatkozik.
 
-## <a name="secure-windows-10-devices"></a>Windows 10-es eszközök védelme
+Miután beállította az alapértelmezett Windows védelmi beállítások beállítását a beállítás lapon, felveheti azokat a felhasználókat, akik az összes felhasználóra vagy a felhasználókra is vonatkoznak. Szerkesztheti az Ön által létrehozott bármelyiket is.
 
-Tekintse meg a Windows 10-eszközök microsoft 365 vállalati verzióval való védelméről szóló videót:
+## <a name="create-protection-settings-for-windows-10-devices"></a>Védelmi beállítások létrehozása Windows 10-es eszközökhöz
+
+Nézze meg ezt a videót arról, hogy miként védheti meg a Windows 10-es eszközöket a Microsoft 365 vállalati prémium verzióban:
   
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/a5734146-620a-4cec-8618-536b3ca37972?autoplay=false]
   
-1. Nyissa meg a felügyeleti központot a <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a> alkalmazásban. 
-    
-2. A bal oldali **Devices** navigációs sávon válassza az \> **Eszközházirendek** \> **hozzáadása lehetőséget.**
-  
+1. Nyissa meg a felügyeleti központot <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a> . 
+2. A bal oldali navigációs sávon válassza az **eszközök** \> **házirendek** \> **hozzáadása**lehetőséget.
 3. A **Házirend felvétele** ablaktáblában adja meg a házirend egyedi nevét. 
-    
 4. A **Házirend típusa** csoportban válassza a **Windows 10-es eszközök konfigurálása** lehetőséget.
-    
-5. Expand **Secure Windows 10 Devices** \> configure the settings how you would like. További információt az [Elérhető beállítások című témakörben talál.](#available-settings) 
+5. Expand **Secure Windows 10 Devices** \> configure the settings how you would like. További információt a [rendelkezésre álló beállítások](#available-settings)című témakörben talál. 
     
     Az **Alapértelmezett beállítások visszaállítása** hivatkozásra kattintva bármikor visszatérhet az alapértelmezett beállításokhoz. 
     
     ![Add policy pane with Windows 10 Device configuration selected](../media/fa9e2dc2-7eae-4c96-af34-765a1f641ecf.png)
   
 6. Next decide **Who will get these settings?** If you don't want to use the default **All users** security group, Choose **Change**, search for the security group who will get these settings \> **Select**.
-    
 7. Végül válassza a **Kész** lehetőséget a házirend mentéséhez és eszközökhöz való hozzárendeléséhez. 
-    
+
+## <a name="edit-windows-10-protection-settings"></a>A Windows 10 védelmi beállításainak szerkesztése
+ 
+1. Nyissa meg a felügyeleti központot <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a> .     
+2. A bal oldali navigációs sávon válassza az **eszközök** \> **házirendek** elemet.
+1. Válasszon ki egy meglévő Windows-eszköz-házirendet, és **szerkessze**.
+1. Válassza a **Szerkesztés** lehetőséget a módosítani kívánt beállítás mellett, majd kattintson a **Mentés**gombra.
+
 ## <a name="available-settings"></a>Rendelkezésre álló beállítások
 
 Alapértelmezés szerint minden beállítás **be van kapcsolva**. Az alábbi beállítások érhetők el.
   
-További információt a [Microsoft 365 Premium szolgáltatás védelmi szolgáltatásai nak az Intune beállításaihoz című témakörben talál.](map-protection-features-to-intune-settings.md) 
+További információ: [a Microsoft 365 prémium verziójának védelmi funkciói az Intune beállításai](map-protection-features-to-intune-settings.md). 
   
 |||
 |:-----|:-----|
@@ -70,11 +74,11 @@ További információt a [Microsoft 365 Premium szolgáltatás védelmi szolgál
 |PC-k védelme a vírusokkal és más fenyegetésekkel szemben a Windows Defender víruskereső használatával  <br/> |Használatához a Windows Defender víruskeresőnek bekapcsolt állapotban kell lennie, hogy a PC-ket védeni lehessen az internetes kapcsolat során előforduló fenyegetésekkel szemben.  <br/> |
 |PC-k védelme a webes fenyegetésekkel szemben a Microsoft Edge böngészőben  <br/> |Bekapcsolja a Microsoft Edge böngészőben azokat a beállításokat, amelyek segítenek megvédeni a felhasználót a kártékony webhelyek és letöltések által okozott veszélyektől.  <br/> |
 |Eszközök támadási felületét csökkentő szabályok használata  <br/> |A támadásifelület-csökkentés bekapcsolásával letilthatók azok a műveletek és appok, amelyekkel a kártevők rendszerint megfertőzik az eszközöket. Ez a beállítás csak akkor használható, ha be van kapcsolva a Windows Defender víruskereső. További információ a [támadásifelület-csökkentésről](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/exploit-protection).  <br/> |
-|Mappák védelme a veszélyforrásokkal (például a zsarolóvírusokkal) szemben  <br/> |Ez a beállítás ellenőrzött mappahozzáférést használ, hogy megvédje a vállalati adatokat a gyanús vagy rosszindulatú alkalmazások, például zsarolóprogramok általi módosításokkal szemben. Az ilyen típusú alkalmazások nem módosíthatják a védett mappákat. Ez a beállítás csak akkor használható, ha be van kapcsolva a Windows Defender víruskereső. További [információ: Mappák védelme ellenőrzött mappákkal.](https://docs.microsoft.com/mem/configmgr/protect/deploy-use/create-deploy-exploit-guard-policy#bkmk_CFA)  <br/> |
-|Vélhetően kártékony internetes tartalmakhoz történő hálózati hozzáférés megakadályozása  <br/> |Ezzel a beállítással letilthatja a kimenő felhasználói kapcsolatokat az alacsony hírnévvel rendelkező internetes helyekre, amelyek adathalász csalásokat, biztonsági réseket vagy más rosszindulatú tartalmat tartalmazhatnak. Ez a beállítás csak akkor érhető **On**el, ha a Windows Defender víruskereső be van kapcsolva. További információt [a Hálózat védelme](https://docs.microsoft.com/windows/security/threat-protection/windows-defender-antivirus/configure-real-time-protection-windows-defender-antivirus)című témakörben talál.  <br/> |
-|PC-ken lévő fájlok és mappák illetéktelen hozzáféréssel szembeni védelme BitLocker-titkosítással  <br/> |A Bitlocker a számítógép merevlemezének titkosításával és a számítógép elvesztése vagy ellopása esetén az adatok kinyerése elleni védelemmel biztosítja adatai védelmét. További információ: [Bitlocker GYIK](https://go.microsoft.com/fwlink/?linkid=871000).  <br/> |
+|Mappák védelme a veszélyforrásokkal (például a zsarolóvírusokkal) szemben  <br/> |Ez a beállítás felügyelt mappa elérésével védi a céges adatkezelési funkciókat a gyanús vagy kártékony alkalmazások (például ransomware) általi módosításáról. Az alábbi típusú alkalmazások nem módosíthatók a védett mappákban. Ez a beállítás csak akkor használható, ha be van kapcsolva a Windows Defender víruskereső. További információt a [mappák védelme az ellenőrzött mappák elérésével](https://docs.microsoft.com/mem/configmgr/protect/deploy-use/create-deploy-exploit-guard-policy#bkmk_CFA) című témakörben találhat.  <br/> |
+|Vélhetően kártékony internetes tartalmakhoz történő hálózati hozzáférés megakadályozása  <br/> |Ezzel a beállítással letilthatja az adathalászó, a kihasználatlan vagy más kártékony tartalmakat tároló, alacsony hírnevű internetes helyek felé irányuló kimenő felhasználói kapcsolatokat. Ez a beállítás csak akkor érhető el, ha **a**Windows Defender víruskereső be van kapcsolva. További információt a [hálózat védelme](https://docs.microsoft.com/windows/security/threat-protection/windows-defender-antivirus/configure-real-time-protection-windows-defender-antivirus)című témakörben talál.  <br/> |
+|PC-ken lévő fájlok és mappák illetéktelen hozzáféréssel szembeni védelme BitLocker-titkosítással  <br/> |A Bitlocker a számítógép merevlemezének titkosításával és a számítógép elvesztése vagy ellopása esetén az adatok kinyerése elleni védelemmel biztosítja adatai védelmét. További információt a [BitLocker – gyakori kérdések](https://go.microsoft.com/fwlink/?linkid=871000)című témakörben talál.  <br/> |
 |A felhasználók letölthetnek appokat innen: Microsoft Áruház  <br/> |Lehetővé teszi, hogy a felhasználók appokat tölthessenek le és telepíthessenek a Microsoft Áruházból. Az appok között játékok és munkára használható eszközök egyaránt lehetnek, ezért ez a beállítás **Be** állapotban van, de a fokozott biztonság érdekében ki is kapcsolhatja.  <br/> |
-|A felhasználók igénybe vehetik Cortana segítségét  <br/> |Cortana nagyon hasznos lehet. Cortana be- és kikapcsolhatja a beállításokat, útbaigazítást adhat, és meggyőződhet arról, hogy időben van a találkozókhoz, ezért alapértelmezés szerint **bekapcsolva** tartjuk ezt a beállítást.  <br/> |
+|A felhasználók igénybe vehetik Cortana segítségét  <br/> |Cortana nagyon hasznos lehet. A Cortana be-vagy kikapcsolhatja a beállításokat, megadhatja az irányokat, és biztos lehet benne, hogy időben tartózkodik a találkozóknak, ezért alapértelmezés szerint továbbra is ezt **a** beállítást használja.  <br/> |
 |A felhasználók kaphatnak tippeket és hirdetéseket a Windowszal kapcsolatban a Microsofttól  <br/> |A Windows-tippek hasznosak lehetnek, és új funkciók megjelenésekor segíthetnek a felhasználóknak a funkciók megismerésében.  <br/> |
 |A Windows 10-es eszközök automatikus naprakészen tartása  <br/> |Biztosítja, hogy a Windows 10-es eszközök automatikusan megkapják a legújabb frissítéseket.  <br/> |
 |Az eszköz képernyőjének kikapcsolása ennyi üresjárati idő után  <br/> |Biztosítja a céges adatok védelmét, amikor a felhasználó inaktív. Előfordulhat, hogy a felhasználó nyilvános helyen, például egy kávézóban végez munkát, és ilyenkor ha csak rövid időre is elvonják a figyelmét az eszközről, akkor annak kijelzőjét illetéktelen személyek is láthatják. Ezzel a beállítással azt határozhatja meg, hogy a felhasználó mennyi ideig maradhat inaktív, mielőtt az eszköz kijelzője kikapcsol.  <br/> |
