@@ -1,5 +1,5 @@
 ---
-title: Helyszíni erőforrások elérése Azure AD-hez csatlakozott eszközről a Microsoft 365 Vállalati verzióban
+title: Hozzáférés helyszíni erőforrásokhoz a Microsoft 365 Business Azure AD-csatlakoztatott eszközéről
 f1.keywords:
 - NOCSH
 ms.author: sirkkuw
@@ -20,50 +20,50 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: b0f4d010-9fd1-44d0-9d20-fabad2cdbab5
-description: Megtudhatja, hogy miként férhet hozzá a helyszíni erőforrásokhoz, például az üzleti alkalmazásokhoz, a fájlmegosztásokhoz és a nyomtatókhoz egy Azure Active Directoryhoz csatlakozó Windows 10-eszközről.
-ms.openlocfilehash: 9615ecc9469992d3e5a7479f4799c610db11fb41
-ms.sourcegitcommit: 2d664a95b9875f0775f0da44aca73b16a816e1c3
+description: Ebből a témakörből megtudhatja, hogy miként érheti el a helyszíni erőforrásokat, például a üzletági alkalmazások, a fájlmegosztás és a nyomtatókat egy Azure Active Directory-kapcsolattal rendelkező Windows 10-es eszközön.
+ms.openlocfilehash: 9b83781afee746b06bbdf90962de0f55ffbcb118
+ms.sourcegitcommit: 555d756c69ac9031d1fb928f2e1f9750beede066
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "44471251"
+ms.lasthandoff: 08/29/2020
+ms.locfileid: "47307493"
 ---
-# <a name="access-on-premises-resources-from-an-azure-ad-joined-device-in-microsoft-365-business-premium"></a>Helyszíni erőforrások elérése Azure AD-hez csatlakozott eszközről a Microsoft 365 Business Premium szolgáltatásban
+# <a name="access-on-premises-resources-from-an-azure-ad-joined-device-in-microsoft-365-business-premium"></a>Hozzáférés helyszíni erőforrásokhoz a Microsoft 365 vállalati prémium verzióban elérhető Azure AD-eszközről
 
-Ez a cikk a Microsoft 365 Business Premium szolgáltatásra vonatkozik.
+Ez a cikk a Microsoft 365 vállalati prémium verzióra vonatkozik.
 
-Minden Olyan Windows 10-eszköz, amelyhez az Azure Active Directory csatlakozott, hozzáfér az összes felhőalapú erőforráshoz, például a Microsoft 365-alkalmazásokhoz, és a Microsoft 365 Business Premium által védett. A helyszíni erőforrásokhoz, például üzletági (LOB)-alkalmazásokhoz, fájlmegosztásokhoz és nyomtatókhoz való hozzáférést is engedélyezheti. A hozzáférés engedélyezéséhez az [Azure AD Connect](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect) segítségével szinkronizálja a helyszíni Active Directoryt az Azure Active Directoryval. 
+Bármely olyan Windows 10-es eszköz, amely az Azure Active Directoryval van csatlakoztatva, hozzáféréssel rendelkezik az összes felhőalapú erőforráshoz, például a Microsoft 365-alkalmazásaihoz, és a Microsoft 365 Business Premium által is védett. A helyszíni erőforrások, például a üzletági (LOB) alkalmazások, a fájlmegosztás és a nyomtatók elérését is engedélyezheti. Az Access engedélyezéséhez az [Azure ad Connect](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect) segítségével szinkronizálja a helyszíni Active Directoryt az Azure Active Directoryval. 
 
-További információ: [Bevezetés az eszközkezelésbe az Azure Active Directoryban című témakörben.](https://docs.microsoft.com/azure/active-directory/device-management-introduction)
-A lépéseket a következő szakaszok is összefoglalják.
+További információért olvassa el az [eszközkezelés az Azure Active Directoryban – bevezetés](https://docs.microsoft.com/azure/active-directory/device-management-introduction)című témakört.
+A lépéseket az alábbi szakaszokban is összegezjük.
 
 > [!IMPORTANT]
-> Ez az eljárás csak az OAuth és az NTLM vonatkozik. A Kerberos nem támogatott.
+> Ez az eljárás csak a OAuth és az NTLM-ra érvényes. A Kerberos nem támogatott.
  
 ## <a name="run-azure-ad-connect"></a>Az Azure AD Connect futtatása
 
-Hajtsa végre az alábbi lépéseket, hogy a szervezet Azure AD-hez csatlakozott eszközök a helyszíni erőforrások eléréséhez.
+A helyszíni erőforrások eléréséhez kövesse az alábbi lépéseket, amelyek lehetővé teszik a szervezet Azure AD egyesített eszközeinek elérését.
   
-1. Ha a felhasználókat, csoportokat és névjegyeket a helyi Active Directoryból az Azure Active Directoryba szeretné szinkronizálni, futtassa a Címtár-szinkronizálás varázslót és az Azure AD Connectet az [Office 365 címtár-szinkronizálásának beállítása](https://docs.microsoft.com/office365/enterprise/set-up-directory-synchronization)című részében leírtak szerint.
+1. Ha a helyi Active Directoryból szeretné szinkronizálni a felhasználókat, a csoportokat és a névjegyeket az Azure Active Directoryhoz, futtassa a címtár-szinkronizálás varázslót és az Azure AD Connect parancsot a [címtár-szinkronizálás beállítása az Office 365](https://docs.microsoft.com/microsoft-365/enterprise/set-up-directory-synchronization)-ban című témakörben leírtak szerint.
     
-2. A címtár-szinkronizálás befejezése után győződjön meg arról, hogy a szervezet Windows 10-es eszközei azure AD-hez csatlakoznak. Ez a lépés minden Windows 10-es eszközön külön-külön történik. A részleteket a [Windows-eszközök beállítása Microsoft 365 Business Premium-felhasználók számára.](set-up-windows-devices.md) 
+2. A címtár-szinkronizálás befejeződése után győződjön meg arról, hogy szervezete Windows 10-es eszközei az Azure AD-hoz csatlakoznak. Ezt a lépést egyenként elvégezheti minden Windows 10-es eszközön. Részletekért olvassa el a [Windows-eszközök beállítása a Microsoft 365 Business Premium felhasználói](set-up-windows-devices.md) számára című témakört. 
     
-3. Miután a Windows 10-es eszközök csatlakozott az Azure AD-hez, minden felhasználónak újra kell indítania az eszközeit, és be kell jelentkeznie a Microsoft 365 Business Premium hitelesítő adataival. Mostantól minden eszköz hozzáférhet a helyszíni erőforrásokhoz is.
+3. Miután a Windows 10-es eszközök az Azure AD-ra csatlakoznak, minden felhasználónak újra kell indítania az eszközeit, és be kell írnia a Microsoft 365 vállalati prémium verziós hitelesítő adataival. Minden eszközön elérhetők a helyszíni erőforrások is.
     
-Nincs szükség további lépésekre az Azure AD-hez csatlakozó eszközök helyszíni erőforrásaihoz való hozzáféréshez. Ez a funkció be van építve a Windows 10-be. 
+További lépésekre nincs szükség az Azure AD-hoz csatlakoztatott eszközök helyszíni erőforrásaihoz való hozzáférés megkezdéséhez. Ez a funkció a Windows 10 rendszerbe épül. 
 
-Ha azt tervezi, hogy jelentkezzen be az AADJ eszköz más, mint a jelszó módszer, mint a PIN/Bio-metric keresztül WHFB hitelesítő adatok bejelentkezés, majd a hozzáférést a helyszíni erőforrások (részvények, nyomtatók.. stb), kérjük, kövessehttps://docs.microsoft.com/windows/security/identity-protection/hello-for-business/hello-hybrid-aadj-sso-base
+Ha azt tervezi, hogy a AADJ-eszközre szeretne bejelentkezni, például a PIN-kód/bio-metrikus WHFB-beli hitelesítő adatokkal, jelentkezzen be, majd nyissa meg a helyszíni erőforrásokat (megosztásokat, nyomtatókat stb.). stb.), kérjük, kövesse az alábbi lépéseket https://docs.microsoft.com/windows/security/identity-protection/hello-for-business/hello-hybrid-aadj-sso-base
   
-Ha a szervezet nem áll készen a fent leírt Azure AD-hez csatlakozott eszközkonfigurációban való üzembe helyezésre, fontolja meg [a hibrid Azure AD-hez csatlakozott eszköz konfigurációjának beállítását.](manage-windows-devices.md)
+Ha szervezete nem hajlandó telepíteni az Azure AD csatlakoztatott eszköz konfigurációjában leírt konfigurációt, fontolja meg a [hibrid Azure ad csatlakoztatott eszköz konfigurációjának](manage-windows-devices.md)beállítását.
   
-### <a name="considerations-when-you-join-windows-devices-to-azure-ad"></a>A Windows-eszközök Azure AD-hez való csatlakozásával kapcsolatos szempontok
+### <a name="considerations-when-you-join-windows-devices-to-azure-ad"></a>A Windows-eszközök Azure AD-hoz való csatlakozásának szempontjai
 
-Ha az Azure-AD által csatlakozott Windows-eszköz korábban tartományhoz volt csatlakoztatva vagy munkacsoportban volt, vegye figyelembe a következő korlátozásokat:
+Ha az Azure-AD-hoz csatlakoztatott Windows-eszköz korábban tartományhoz csatlakozik vagy egy munkacsoportban van, vegye figyelembe az alábbi korlátozásokat:
   
-- Amikor egy eszköz höz csatlakozik az Azure AD, új felhasználót hoz létre anélkül, hogy egy meglévő profilra hivatkozna. A profilokat manuálisan kell áttelepíteni. A felhasználói profilok olyan információkat tartalmaznak, mint a kedvencek, a helyi fájlok, a böngésző beállításai és a Start menü beállításai. A legjobb megközelítés az, hogy talál egy harmadik féltől származó eszköz leképezése a meglévő fájlokat és beállításokat az új profilt.
+- Ha egy eszköz az Azure AD-hoz csatlakozik, egy új felhasználót hoz létre a meglévő profil hivatkozása nélkül. A profilokat manuálisan kell áttelepíteni. A felhasználói profilok olyan információkat tartalmaznak, mint például a Kedvencek, a helyi fájlok, a böngésző beállításai és a Start menü beállításai. A legjobb megoldás egy külső féltől származó eszköz megkeresése a meglévő fájlok és beállítások új profilba való megfeleltetéséhez.
 
-- Ha az eszköz csoportházirend-objektumokat (GPO) használ, előfordulhat, hogy egyes csoportházirend-objektumok nem rendelkeznek hasonló [konfigurációs szolgáltatóval](https://docs.microsoft.com/windows/configuration/provisioning-packages/how-it-pros-can-use-configuration-service-providers) az Intune-ban. Futtassa az [MMAT eszközt](https://www.microsoft.com/download/details.aspx?id=45520) a meglévő csoportházirend-szolgáltatók hoz hasonló kriptámok megkereséséhez.
+- Ha az eszköz csoportházirend-objektumokat (GPO) használ, előfordulhat, hogy egyes csoportházirend-objektumok nem rendelkeznek összehasonlító [konfigurációs szolgáltatóval](https://docs.microsoft.com/windows/configuration/provisioning-packages/how-it-pros-can-use-configuration-service-providers) (CSP) az Intune szolgáltatásban. A [MMAT eszköz](https://www.microsoft.com/download/details.aspx?id=45520) futtatása a meglévő csoportházirend-objektumokhoz hasonló kriptográfiai szolgáltatók megkereséséhez.
 
-- A felhasználók nem tudják hitelesíteni az Active Directory hitelesítésétől függő alkalmazásokat. Értékelje ki az örökölt alkalmazást, és ha lehetséges, fontolja meg a modern hitelesítést használó alkalmazásra való frissítést.
+- A felhasználók nem tudnak hitelesíteni olyan alkalmazásokat, amelyek az Active Directory-hitelesítéstől függenek. Értékelje ki a régi alkalmazást, és fontolja meg, hogy egy olyan alkalmazásra frissít, amely a modern hitelesítést használja, ha lehetséges.
 
-- Az Active Directory nyomtatófelderítésnem fog működni. Közvetlen nyomtatóelérési utakat adhat meg minden felhasználónak, vagy használhatja a [Hybrid Cloud Print szolgáltatást.](https://docs.microsoft.com/windows-server/administration/hybrid-cloud-print/hybrid-cloud-print-deploy)
+- Az Active Directory-nyomtató felderítése nem működik. Közvetlen nyomtatási elérési utakat is biztosíthat az összes felhasználónak, vagy használhatja a [hibrid Felhőbeli nyomtatást](https://docs.microsoft.com/windows-server/administration/hybrid-cloud-print/hybrid-cloud-print-deploy).

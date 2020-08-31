@@ -1,5 +1,5 @@
 ---
-title: Tartományi felhasználók szinkronizálása a Microsoft 365-tel
+title: A tartományi felhasználók szinkronizálása a Microsoft 365
 f1.keywords:
 - NOCSH
 ms.author: sirkkuw
@@ -22,48 +22,48 @@ search.appverid:
 - BCS160
 - MET150
 - MOE150
-description: Szinkronizálja a tartományvezérelt felhasználókat a Microsoft 365 vállalati verzióval.
-ms.openlocfilehash: af9cb7c9b2b639edc2375679a73ab41c4cf6de71
-ms.sourcegitcommit: 5b769f74bcc76ac8d38aad815d1728824783cd9f
+description: Tartomány által felügyelt felhasználók szinkronizálása a Microsoft 365 vállalati verzióval.
+ms.openlocfilehash: 9495d893eb6870ef7c417a78f921296bfc0e6705
+ms.sourcegitcommit: 555d756c69ac9031d1fb928f2e1f9750beede066
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 07/08/2020
-ms.locfileid: "45081910"
+ms.lasthandoff: 08/29/2020
+ms.locfileid: "47306449"
 ---
-# <a name="synchronize-domain-users-to-microsoft-365"></a>Tartományi felhasználók szinkronizálása a Microsoft 365-tel
+# <a name="synchronize-domain-users-to-microsoft-365"></a>A tartományi felhasználók szinkronizálása a Microsoft 365
 
 ## <a name="1-prepare-for-directory-synchronization"></a>1. Felkészülés a címtár-szinkronizálásra 
 
-Mielőtt szinkronizálja a felhasználókat és a számítógépeket a helyi Active Directory tartományból, tekintse át [a Felkészülés a Microsoft 365-tel a címtár-szinkronizálásra](https://docs.microsoft.com/office365/enterprise/prepare-for-directory-synchronization)című részt. Különösen:
+Mielőtt szinkronizálni szeretné a felhasználókat és a számítógépeket a helyi Active Directory-tartományból, tanulmányozza a [címtár-szinkronizálás előkészítése a Microsoft 365](https://docs.microsoft.com/microsoft-365/enterprise/prepare-for-directory-synchronization)-ra című részt. Különösen:
 
-   - Győződjön meg arról, hogy a következő attribútumokhoz nem találhatók ismétlődések a könyvtárban: **mail**, **proxyAddresses**és **userPrincipalName**. Ezeknek az értékeknek egyedieknek kell lenniük, és minden ismétlődést el kell távolítani.
+   - Győződjön meg arról, hogy a címtárban nincsenek ismétlődések a következő attribútumok esetében: **posta**, **ProxyAddresses**és **userPrincipalName**. Ezeknek az értékeknek egyedinek kell lenniük, és minden ismétlődést el kell távolítani.
    
-   - Azt javasoljuk, hogy minden helyi felhasználói fiókhoz konfigurálja a **userPrincipalName** (UPN) attribútumot úgy, hogy az megfeleljen a licencelt Microsoft 365-felhasználónak megfelelő elsődleges e-mail címnek. Például: *mary.shelley@contoso.com* helyett *mary@contoso.local*
+   - Azt javasoljuk, hogy állítsa be az **userPrincipalName** (UPN) attribútumot mindegyik helyi felhasználói fiókhoz, hogy megegyezzen a licenccel rendelkező Microsoft 365-felhasználóhoz tartozó elsődleges e-mail-címmel. Például: *Mary.Shelley@contoso.com* helyett *Mary@contoso. local*
    
-   - Ha az Active Directory tartomány nem irányítható utótaggal végződik, például *.local* vagy *.lan*, az internetes irányítható utótag (például *.com* vagy *.org)* helyett, állítsa be először a helyi felhasználói fiókok UPN-utónevét a [Címtár-szinkronizálásra](https://docs.microsoft.com/office365/enterprise/prepare-a-non-routable-domain-for-directory-synchronization)nem irányítható tartomány előkészítése című részben leírtak szerint. 
+   - Ha az Active Directory-tartomány nem átirányítható (például. com vagy *. org*) (például. *com* vagy. org) végződésű útválasztással *végződik, a*helyi felhasználói fiókokhoz tartozó UPN-utótagot a [címtár-szinkronizáláshoz nem útválasztásos tartomány](https://docs.microsoft.com/microsoft-365/enterprise/prepare-a-non-routable-domain-for-directory-synchronization)létrehozása című témakörben leírtak szerint állítsa *be.* 
 
-A **Run IdFix** az alábbi negyedik (4) lépésben azt is győződjön meg arról, hogy a helyszíni Active Directory készen áll a dir sync.
+A **Futtatás IdFix** az alábbi négy lépésben (4) az alábbi lépésekkel gondoskodhat arról is, hogy a helyszíni Active Directory készen áll a dir szinkronizálásra.
 
-## <a name="2-install-and-configure-azure-ad-connect"></a>2. Az Azure AD Connect telepítése és konfigurálása
+## <a name="2-install-and-configure-azure-ad-connect"></a>2. az Azure AD Connect telepítése és beállítása
 
-Ha szinkronizálni szeretné a felhasználókat, csoportokat és névjegyeket a helyi Active Directoryból az Azure Active Directoryba, telepítse az Azure Active Directory Connectet, és állítsa be a címtár-szinkronizálást. 
+Ha a helyi Active Directoryból szeretné szinkronizálni a felhasználókat, a csoportokat és a névjegyeket az Azure Active Directoryhoz, telepítse az Azure Active Directory Connect alkalmazást, és állítsa be a címtár-szinkronizálást. 
 
- 1. A felügyeleti központban válassza a <a href="https://go.microsoft.com/fwlink/p/?linkid=2024339" target="_blank">https://admin.microsoft.com</a> **telepítő lehetőséget** a bal oldali navigációs eszközben.
+ 1. A felügyeleti központ <a href="https://go.microsoft.com/fwlink/p/?linkid=2024339" target="_blank">https://admin.microsoft.com</a> bal oldali navigációs sávján válassza a **beállítás** lehetőséget.
 
- 2. A **Bejelentkezés és biztonság csoportban**válassza a **Nézet** lehetőséget a **szervezeti címtár felhasználók szinkronizálása csoportban.**
+ 2. A **Bejelentkezés és biztonság**csoportban válassza **a szervezet címtárában lévő felhasználók szinkronizálása**csoportban a **nézet** lehetőséget.
 
- 3. A **felhasználók szinkronizálása a szervezet címtárlapján** válassza az **Első lépések**lehetőséget.
+ 3. A **felhasználók szinkronizálása a szervezeti címtárból** lapon válassza az első **lépések**elemet.
 
- 4. Az első lépésben futtassa az IdFix eszközt a címtár-szinkronizáláselőkészítéséhez.
+ 4. Az első lépésben futtassa a IdFix eszközt a címtár-szinkronizálásra való felkészüléshez.
 
- 5. Kövesse a varázsló lépéseit az Azure AD Connect letöltéséhez, és használja azt a tartományáltal vezérelt felhasználók microsoft 365-tel való szinkronizálásához.
+ 5. Kövesse a varázsló lépéseit az Azure AD Connect letöltéséhez, és használja azt a tartományba tartozó felhasználók szinkronizálásához a Microsoft 365-ban.
 
 
-További információ A [Microsoft 365 címtár-szinkronizálásának beállítása.](https://docs.microsoft.com/office365/enterprise/set-up-directory-synchronization)
+További információt a [címtár-szinkronizálás beállítása a Microsoft 365](https://docs.microsoft.com/microsoft-365/enterprise/set-up-directory-synchronization) -hoz című témakörben talál.
 
-Az Azure AD Connect beállításainak konfigurálásakor azt javasoljuk, hogy engedélyezze **a jelszó-szinkronizálást**, a zökkenőmentes egyszeri bejelentkezést és a **jelszó-visszaírási** funkciót, amelyet a Microsoft 365 vállalati verzió is támogat. **Seamless Single Sign-On**
+Az Azure AD Connect beállításainak beállításakor javasoljuk, hogy engedélyezze a **Jelszó-szinkronizálást**, a **zökkenőmentes egyszeri bejelentkezést**és a jelszó- **writeback** szolgáltatást, amelyet a Microsoft 365 vállalati verzió is támogat.
 
 > [!NOTE]
-> Az Azure AD Connect jelölőnégyzetén túl további lépések is bevannak téve a jelszó-visszaíráshoz. További információ: [Útmutató: jelszó-visszaírás konfigurálása.](https://docs.microsoft.com/azure/active-directory/authentication/howto-sspr-writeback) 
+> Az Azure AD Connect writeback kívül további lépéseket is találhat a jelszavakkal kapcsolatos további lépésekhez. További információt a [jelszó-writeback beállítása](https://docs.microsoft.com/azure/active-directory/authentication/howto-sspr-writeback)című témakörben talál. 
 
-Ha tartományhoz csatlakozó Windows 10-eszközöket is kezelni szeretne, olvassa el [a Microsoft 365 Business Premium által felügyelt, tartományhoz csatlakozó Windows 10-eszközök engedélyezése](manage-windows-devices.md) hibrid Azure AD-csatlakozás beállításához című témakört. 
+Ha a tartományhoz csatlakoztatott Windows 10-es eszközök kezelését is szeretné használni, olvassa el a [tartományhoz csatlakoztatott Windows 10-es eszközök kezelésének engedélyezése a Microsoft 365 vállalati prémium](manage-windows-devices.md) verzióban című témakört a hibrid Azure ad-illesztések beállításához. 
