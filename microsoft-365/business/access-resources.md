@@ -21,12 +21,12 @@ search.appverid:
 - MET150
 ms.assetid: b0f4d010-9fd1-44d0-9d20-fabad2cdbab5
 description: Ebből a témakörből megtudhatja, hogy miként érheti el a helyszíni erőforrásokat, például a üzletági alkalmazások, a fájlmegosztás és a nyomtatókat egy Azure Active Directory-kapcsolattal rendelkező Windows 10-es eszközön.
-ms.openlocfilehash: 9b83781afee746b06bbdf90962de0f55ffbcb118
-ms.sourcegitcommit: 555d756c69ac9031d1fb928f2e1f9750beede066
+ms.openlocfilehash: 2144268f5cbab67c39d5902622c61c0c35e6481c
+ms.sourcegitcommit: 15be7822220041c25fc52565f1c64d252e442d89
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/29/2020
-ms.locfileid: "47307493"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48295310"
 ---
 # <a name="access-on-premises-resources-from-an-azure-ad-joined-device-in-microsoft-365-business-premium"></a>Hozzáférés helyszíni erőforrásokhoz a Microsoft 365 vállalati prémium verzióban elérhető Azure AD-eszközről
 
@@ -36,9 +36,6 @@ Bármely olyan Windows 10-es eszköz, amely az Azure Active Directoryval van csa
 
 További információért olvassa el az [eszközkezelés az Azure Active Directoryban – bevezetés](https://docs.microsoft.com/azure/active-directory/device-management-introduction)című témakört.
 A lépéseket az alábbi szakaszokban is összegezjük.
-
-> [!IMPORTANT]
-> Ez az eljárás csak a OAuth és az NTLM-ra érvényes. A Kerberos nem támogatott.
  
 ## <a name="run-azure-ad-connect"></a>Az Azure AD Connect futtatása
 
