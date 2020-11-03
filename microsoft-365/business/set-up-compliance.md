@@ -1,5 +1,5 @@
 ---
-title: A Microsoft 365 Business Premium fenyegetéselleni védelmének növelése
+title: A fenyegetések elleni védelem növelése a Microsoft 365 vállalati prémium verzióban
 f1.keywords:
 - NOCSH
 ms.author: sirkkuw
@@ -21,57 +21,57 @@ ms.custom:
 search.appverid:
 - BCS160
 - MET150
-description: Megfelelőségi funkciók at állíthat be az adatvesztés megelőzése és az ügyfelek bizalmas adatainak biztonsága érdekében.
-ms.openlocfilehash: 18886ff3a0ba5e99e63c70ef083d7a69c75bac91
-ms.sourcegitcommit: e5bc49f0a25954d008b6cc09c2b98bb7bfe1aa2f
+description: Beállíthatja a megfelelőségi funkciókat az adatvesztés elkerülése érdekében, és segítséget nyújt az ügyfelek bizalmas adatainak biztonságának megőrzésében.
+ms.openlocfilehash: 2c95ad3f36df28af2c68cd11192bcfe92dfe29e3
+ms.sourcegitcommit: e56894917d2aae05705c3b9447388d10e2156183
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "44785832"
+ms.lasthandoff: 11/03/2020
+ms.locfileid: "48841173"
 ---
-# <a name="set-up-compliance-features"></a>Megfelelőségi funkciók beállítása
+# <a name="set-up-compliance-features"></a>A megfelelőségi funkciók beállítása
 
-A Microsoft 365 Business Premium olyan funkciókkal rendelkezik, amelyek védik az adatokat és az eszközöket, és segítenek biztonságban tartani ügyfeleit.
+A Microsoft 365 vállalati prémium verzió az adatok és az eszközök védelméhez tartalmaz funkciókat, és segítséget nyújt az ügyfelek bizalmas adatainak biztonságának megőrzésében.
 
 ## <a name="set-up-dlp-features"></a>DLP-szolgáltatások beállítása
 
-Lásd: [DLP-házirend létrehozása sablonból](https://docs.microsoft.com/microsoft-365/compliance/create-a-dlp-policy-from-a-template) egy példa, hogyan kell beállítani egy szabályzatot a személyazonosításra alkalmas adatok (PII) elleni védelem. 
+Lásd: [DLP-házirend létrehozása sablonból](https://docs.microsoft.com/microsoft-365/compliance/create-a-dlp-policy-from-a-template) , például arról, hogy miként állíthat be házirendet a személyes adatvesztés elleni védekezéshez. 
   
-A DLP számos használatra kész házirendsablont használ számos különböző területi beállításhoz. Például: Australia Financial Data, Canada Personal Information Act, Us Financial Data és így tovább. A teljes lista a [DLP-házirendsablonok gyűjteményének](https://docs.microsoft.com/microsoft-365/compliance/what-the-dlp-policy-templates-include) megtekintéséről. Ezek a sablonok a példaként ii sablonhoz hasonlóan engedélyezhetők. 
+A DLP számos különböző nyelvhez használható, használatra kész házirend-sablonokat tartalmaz. Például Ausztrália pénzügyi adatok, kanadai személyes adatok, Amerikai pénzügyi adatok stb. Ebből a cikkből megtudhatja, hogy [milyen DLP-házirend-sablonok](https://docs.microsoft.com/microsoft-365/compliance/what-the-dlp-policy-templates-include) találhatók a teljes lista számára. Az összes ilyen sablonhoz hasonlóan engedélyezhetők a szakmai sablon példája is. 
   
-## <a name="set-up-email-retention-with-exchange-online-archiving"></a>E-mailek megőrzésének beállítása az Exchange Online archiválásával
+## <a name="set-up-email-retention-with-exchange-online-archiving"></a>E-mail-adatmegőrzés beállítása az Exchange Online archiválási szolgáltatásával
 
- **Az Exchange Online archiválási** licencfunkciók segítenek fenntartani a megfelelőséget és a szabályozási szabványokat azáltal, hogy megőrzik az e-mailek tartalmát az elektronikus adatfeltáráshoz. Ez is segít csökkenteni a kockázatot, ha van egy pert, és lehetővé teszi, hogy visszaszerezze az adatokat, miután a biztonság megsértése, vagy ha vissza kell állítani a törölt elemeket. A peres eljárás miatti tartással megőrizheti a felhasználó teljes tartalmát, vagy adatmegőrzési házirendekkel testreszabhatja, hogy mit szeretne megőrizni.
+ Az **Exchange Online archiválási** licencelési funkciói a megfelelőségi és szabályozási szabványokat a eDiscovery e-mail-tartalmainak megőrzésével segítik. Az is segít csökkenteni a kockázatokat, ha van egy pert, és lehetővé teszi az adathelyreállítást egy biztonsági rést követően, vagy ha a törölt elemek helyreállítására van szükség. A perköltség megőrzésével megőrizheti az összes felhasználó tartalmát, illetve adatmegőrzési házirendeket alkalmazva testre szabhatja a megőrizni kívánt tartalmat.
   
-**Peres eljárás miatti tartás:** Az összes postaládatartalmat megőrizheti, beleértve a törölt elemeket is, ha a felhasználó teljes postaládáját peres eljárás miatti tartásba helyezi. 
+Jogellenes **tartás:** A törölt elemeket tartalmazó összes postaláda-tartalmat megőrizheti, ha a felhasználó teljes postaládáját a peres eljárási mentességre helyezi. 
     
-Ha egy postaládát peres eljárás miatti tartásba szeretne helyezni, a Felügyeleti központban:
+Ha egy postaládát pert-mentességre szeretne helyezni, a felügyeleti központban:
     
-1. A bal oldali navigációs sávon nyissa meg a **Felhasználók** \> **aktív felhasználók lehetőséget.**
+1. A bal oldali navigációs sávon **lépjen az** \> **aktív** felhasználók elemre.
     
-2. Jelöljön ki egy olyan felhasználót, akinek a postaládáját peres eljárás miatti tartásba kívánja helyezni. A felhasználói ablaktáblán bontsa ki a **Posta beállításai csomópontot,** és a **További beállítások csoportban**válassza az **Exchange-tulajdonságok szerkesztése lehetőséget.**
+2. Jelölje ki azt a felhasználót, akinek a postaládáját pert-mentességre szeretné helyezni. A felhasználó ablaktáblában bontsa ki a **posta beállításai** lapot, majd a **További beállítások** mellett válassza az **Exchange-Tulajdonságok szerkesztése** lehetőséget.
     
-3. A felhasználó postaládalapján válassza a bal oldali navigációs eszköz ** postaláda-szolgáltatásait ,* majd a Peres eljárás miatti tartás **csoportban** válassza az **Engedélyezés**hivatkozást.
+3. A felhasználó postaládája lapján válassza a * * postaláda-funkciók * * elemet a bal oldali navigációs sávon, majd válassza az **enable (Engedélyezés** ) hivatkozást a **peres eljárási mentesség** csoportban.
     
-4. A **peres eljárás miatti tartás** párbeszédpanelen megadhatja a peres eljárás várakoztatási időtartamát a **Peres eljárás várakoztatásidőtartama** mezőben. Hagyja üresen a mezőt, ha végtelen tartást szeretne elhelyezni. Megjegyzéseket is hozzáadhat, és a postaláda tulajdonosát egy olyan webhelyre irányíthatja, amelyről előfordulhat, hogy többet kell megmagyaráznia a peres eljárás miatti tartásról. \>**Mentés.**
+4. A pert **-mentesség párbeszédpanelen** megadhatja a jogellenes tartás időtartamát a **jogvitákban** . Hagyja üresen a mezőt, ha végtelen mentességet szeretne elhelyezni. Jegyzeteket is adhat hozzá, és a postaláda tulajdonosát egy webhelyre irányíthatja, amelyet érdemes megmagyaráznia a peres eljárás megtartásáról. \>**Mentés gombot**.
     
-**Megőrzés:** Engedélyezheti például a testreszabott adatmegőrzési házirendeket, hogy adott ideig megőrizzék vagy véglegesen töröljék a tartalmat az adatmegőrzési időszak végén. További információ: [Az adatmegőrzési szabályok áttekintése.](https://docs.microsoft.com/microsoft-365/compliance/retention-policies)
+**Adatmegőrzés:** Engedélyezheti a testre szabott adatmegőrzési házirendeket, például egy adott idő megőrzését vagy a tartalom végleges törlését az adatmegőrzési időszak végén. További információt [az adatmegőrzési házirendek áttekintése](https://docs.microsoft.com/microsoft-365/compliance/retention-policies)című témakörben talál.
 
-## <a name="set-up-sensitivity-labels"></a>Érzékenységi címkék beállítása
+## <a name="set-up-sensitivity-labels"></a>A tartalmi címkék beállítása
 
-Az érzékenységi címkék az Azure Information Protection (AIP) 1- es csomaggal rendelkeznek, és címkék alkalmazásával segítenek a dokumentumok és e-mailek besorolásában és szükség esetén védelmében. A címkéket automatikusan alkalmazhatják azok a rendszergazdák, akik szabályokat és feltételeket határoznak meg, manuálisan a felhasználók által, vagy olyan kombináció használatával, ahol a felhasználók javaslatokat kapnak.
+A tartalmi címkék az Azure Information Protection ("az" 1-es csomag) 1 csomaggal rendelkeznek, és segítséget nyújtanak a dokumentumok és e-mailek osztályozásához, a címkék alkalmazásával. A címkék automatikusan alkalmazhatók olyan rendszergazdák számára, akik szabályok és feltételek meghatározását végzik manuálisan a felhasználók, illetve a felhasználók által megadott javaslatok kombinációjának használatával.
 
-Érzékenységi címkék beállításához tekintse [meg az érzékenységi címkék létrehozása és kezelése](https://support.microsoft.com/office/2fb96b54-7dd2-4f0c-ac8d-170790d4b8b9) videót.
+Az érzékenységi címkék beállításához tekintse meg a [tartalmi Címkék létrehozása és kezelése](https://support.microsoft.com/office/2fb96b54-7dd2-4f0c-ac8d-170790d4b8b9) című videót.
 
 
 
-### <a name="install-the-azure-information-protection-client-manually"></a>Az Azure Information Protection ügyfél manuális telepítése
+### <a name="install-the-azure-information-protection-client-manually"></a>Az Azure Information Protection Client manuális telepítése
 
-Az AIP-ügyfél manuális telepítése:
+Az ügyfélszolgálati ügyfél kézi telepítése:
 
-1. Töltse le **AzinfoProtection_UL.exe** a [Microsoft letöltőközpontjából.](https://www.microsoft.com/download/details.aspx?id=53018)
+1. Töltse le **AzinfoProtection_UL.exe** a [Microsoft letöltőközpontból](https://www.microsoft.com/download/details.aspx?id=53018).
  
-2. Ellenőrizheti, hogy a telepítés működött-e, ha megtekint egy Word-dokumentumot, és meggyőződik arról, hogy az **Érzékenység** lehetőség elérhető a **Kezdőlap** lapon.
-<br/>![A Védelem lap legördülő menüje Egy Word-dokumentumban](../media/word-sensitivity.png)
+2. Ellenőrizheti, hogy a telepítés a Word-dokumentum megtekintésével is működött-e, és gondoskodjon arról, hogy az **érzékenység** beállítás elérhető legyen a **Kezdőlap** lapon.
+<br/>![A védelem lap egy Word-dokumentumban](../media/word-sensitivity.png)
 
-További információt [az Ügyfél telepítése című](https://docs.microsoft.com/azure/information-protection/infoprotect-tutorial-step3)témakörben talál.
+További információt [az ügyfélalkalmazás telepítése](https://docs.microsoft.com/azure/information-protection/infoprotect-tutorial-step3)című témakörben talál.

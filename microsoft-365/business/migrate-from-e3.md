@@ -22,12 +22,12 @@ search.appverid:
 - BCS160
 - MET150
 description: Megtudhatja, hogy miként helyezheti át vállalkozását a Microsoft 365 vállalati prémium verzióba az Office 365 E3 csomagból.
-ms.openlocfilehash: f3f3894a2a5cb69f9f91825d89db4f4b857fac5c
-ms.sourcegitcommit: 15be7822220041c25fc52565f1c64d252e442d89
+ms.openlocfilehash: b8aa58f1f050ec6247479ed02e142507a2df45fc
+ms.sourcegitcommit: 815229e39a0f905d9f06717f00dc82e2a028fa7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48295290"
+ms.lasthandoff: 11/03/2020
+ms.locfileid: "48842160"
 ---
 # <a name="migrating-from-office-365-e3-to-microsoft-365-business-premium"></a>Áttérés az Office 365 E3 csomagról Microsoft 365 Business Premium rendszerre 
 
@@ -42,7 +42,7 @@ Ez a táblázat a Microsoft 365 Business Premium és az Office 365 E3 közötti 
 | Funkció    | Támogatás a Microsoft 365 vállalati prémium verzióban    | Támogatás az Office 365 E3 csomaghoz | 
 |:-------|:-----|:-----|
 | **Helyszíni**        | | | 
-| Office-alkalmazások<sup>1</sup>    | Microsoft 365-alkalmazások vállalati verzió    | Nagyvállalati Microsoft 365-alkalmazások | 
+| Office-alkalmazások<sup>1</sup>    | Microsoft 365-alkalmazások vállalati verzió    | Microsoft 365 Vállalati alkalmazások | 
 | **Felhőbeli hatékonyságnövelő alkalmazások**        | | | 
 | Exchange Online és Outlook    | 50 GB tárolási korlát egy postaládában és korlátlan Exchange Online archiválás    | 100 GB tárolási korlát egy postaládában és korlátlan Exchange Online archiválás | 
 | Teams    | ![A Microsoft 365 vállalati prémium verzió része](../media/check-mark.png)    | ![Az Office 365 E3 csomag része](../media/check-mark.png) | 
@@ -51,7 +51,7 @@ Ez a táblázat a Microsoft 365 Business Premium és az Office 365 E3 közötti 
 | StaffHub    | ![A Microsoft 365 vállalati prémium verzió része](../media/check-mark.png)    | ![Az Office 365 E3 csomag része](../media/check-mark.png) | 
 | Outlook Customer Manager, MileIQ    | ![A Microsoft 365 vállalati prémium verzió része](../media/check-mark.png)    | | 
 | **Veszélyforrások elleni védelem**        | | | 
-| Office 365 Advanced Threat Protection (ATP) csomag 1 | ![A Microsoft 365 vállalati prémium verzió része](../media/check-mark.png)    | Nem szerepelnek, de hozzáadhatók | 
+| Defender for Office 365-es csomag 1 | ![A Microsoft 365 vállalati prémium verzió része](../media/check-mark.png)    | Nem szerepelnek, de hozzáadhatók | 
 | **Személyazonosság-kezelés**        | | | 
 | Önkiszolgáló jelszó-visszaállítás a hibrid Azure Active Directory (Azure AD) fiókokhoz, Azure multi-Factor Authentication (MFA), feltételes hozzáférés, jelszó-writeback a helyszíni identitásokhoz|     ![A Microsoft 365 vállalati prémium verzió része](../media/check-mark.png)    |  | 
 | **Eszközök és alkalmazások kezelése**        | | |
@@ -95,9 +95,9 @@ Ha a szervezet minden tagját frissítette a Microsoft 365 vállalati prémium v
 
 Ezeket a lépéseket az eszközök lapon is elvégezheti:
   
-1. A felügyeleti központ bal oldali navigációs sávján kattintson az **eszközök** \> **házirendek**elemre.
+1. A felügyeleti központ bal oldali navigációs sávján kattintson az **eszközök** \> **házirendek** elemre.
     
-2. Az **eszközök házirendjei** lapon válassza a **Hozzáadás**lehetőséget.
+2. Az **eszközök házirendjei** lapon válassza a **Hozzáadás** lehetőséget.
     
 3. A házirend **hozzáadása** ablaktáblában adjon nevet a házirendnek, majd válasszon egy **házirend-típust** a legördülő listából. 
     
@@ -122,7 +122,7 @@ A Microsoft 365 vállalati prémium verzió 50 GB tárterületet tartalmaz az Ex
 
 ### <a name="threat-protection"></a>Veszélyforrások elleni védelem
 
-A Microsoft 365 vállalati prémium verzióra való áttérés után az Office 365 ATP szolgáltatással rendelkezik. Áttekintésért olvassa el az [Office 365 ATP](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp) című témakört. A beállításról az [ATP Safe-hivatkozásainak beállítása](https://support.microsoft.com/office/61492713-53c2-47da-a6e7-fa97479e97fa), az [ATP-Safe-mellékletek](https://support.microsoft.com/office/e7e68934-23dc-4b9c-b714-e82e27a8f8a5)beállítása és az [ATP-adathalászat beállítása](https://support.microsoft.com/office/86c425e1-1686-430a-9151-f7176cce4f2c)című témakörben tájékozódhat.
+A Microsoft 365 vállalati prémium verzióra való áttérés után az Office 365-nek van Defender-je. Áttekintésért olvassa el a [Microsoft Defender for Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp) című témakört. A beállításról a [biztonságos hivatkozások beállítása](https://support.microsoft.com/office/61492713-53c2-47da-a6e7-fa97479e97fa), a [biztonságos mellékletek](https://support.microsoft.com/office/e7e68934-23dc-4b9c-b714-e82e27a8f8a5)beállítása és az [adathalászat beállítása az Office 365-ban](https://support.microsoft.com/office/86c425e1-1686-430a-9151-f7176cce4f2c)című témakörben olvashat.
 
 ### <a name="sensitivity-labels"></a>Érzékenységi címkék
 

@@ -1,6 +1,6 @@
 ---
-title: Microsoft 365 Vállalati prémium verzió – gyakori kérdések 
-description: Találja meg a válaszokat a Microsoft 365 Vállalati prémium verzióval, egy kis-és középméretű vállalatok (KKV-k) számára készült új megoldással kapcsolatos gyakori kérdésekre. 
+title: Microsoft 365 Vállalati prémium verzió – gyakori kérdések
+description: Találja meg a válaszokat a Microsoft 365 Vállalati prémium verzióval, egy kis-és középméretű vállalatok (KKV-k) számára készült új megoldással kapcsolatos gyakori kérdésekre.
 author: Sirkkuw
 f1.keywords:
 - NOCSH
@@ -10,15 +10,15 @@ ms.prod: microsoft-365-business
 ms.collection: M365-subscription-management
 ms.custom: AdminSurgePortfolio
 localization_priority: Normal
-audience: microsoft-business 
+audience: microsoft-business
 keywords: Microsoft 365 Vállalati prémium verzió, Microsoft 365, KKV, GYIK, gyakran ismételt kérdések, válaszok, vállalati
 ms.date: 07/21/2020
-ms.openlocfilehash: a8547240a2733a10730d0f8fb62fe8e8c7ef971c
-ms.sourcegitcommit: dffb9b72acd2e0bd286ff7e79c251e7ec6e8ecae
+ms.openlocfilehash: b117f0aecb76dc3b30a30e067c37328865eb0fdf
+ms.sourcegitcommit: 815229e39a0f905d9f06717f00dc82e2a028fa7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "47948568"
+ms.lasthandoff: 11/03/2020
+ms.locfileid: "48842110"
 ---
 # <a name="microsoft-365-business-premium-frequently-asked-questions"></a>Microsoft 365 Vállalati prémium verzió – gyakori kérdések
 
@@ -27,15 +27,15 @@ ms.locfileid: "47948568"
 ### <a name="what-is-microsoft-365-business-premium"></a>Mi a Microsoft 365 Vállalati prémium verzió?
 A Microsoft 365 egy integrált megoldás, amely a kis-és közepes méretű vállalatok számára biztosít a kategóriájukban legjobb hatékonyságnövelő eszközöket, biztonsági és eszközkezelési funkciókat. Tartalma:
 
-**Üzleti hatékonysági és együttműködési eszközök készlete**:
+**Üzleti hatékonysági és együttműködési eszközök készlete** :
 
 - Word, Excel, PowerPoint, Outlook, OneNote, Publisher és Access
 - Exchange, OneDrive, Skype for Business, Microsoft Teams és SharePoint
 - Az Office üzleti alkalmazásai (Bookings, MileIQ<sup>[1](#footnote1)</sup>).
 
-**Nagyvállalati szintű eszközkezelés és biztonsági funkciók**:
+**Nagyvállalati szintű eszközkezelés és biztonsági funkciók** :
 
-- Segítséget nyújt a külső fenyegetésektől, például az adathalászattól és a kifinomult kártevők elleni védelemért az Office 365 Advanced Threat Protection Plan 1 és a Microsoft Defender Exploit Guard segítségével.
+- Segítséget nyújt a külső fenyegetésektől, például az adathalászattól és a kifinomult kártevők a Microsoft Defender for Office 365-as csomag 1-es verziójában és a Microsoft Defender kiaknázási Gárda
 - Adatvesztés-megelőzési házirendekkel és az Azure Information Protection Plan 1 csomaggal segíti a bizalmas információk elérésének és továbbításának kezelését és szabályozását.
 - Az Exchange Online Archiving szolgáltatással segíti az adatok védelmét, megőrzését és biztonsági mentését.
 - Alkalmazásvédelem az Office-hoz és más mobilalkalmazásokhoz az Intune App Protection alkalmazásvédelemmel
@@ -43,14 +43,14 @@ A Microsoft 365 egy integrált megoldás, amely a kis-és közepes méretű vál
 - Személyazonosság-védelem többtényezős hitelesítéssel, önkiszolgáló jelszó-visszaállítással és feltételes hozzáféréssel
 - Egységes biztonsági konfiguráció az eszközök között &mdash; a céges adatvédelmen keresztül; Microsoft Defender víruskereső, amely mindig be-és kikapcsolt.
 
-**Egyszerűsített eszközök üzembe helyezése és a felhasználó beállítása**:
+**Egyszerűsített eszközök üzembe helyezése és a felhasználó beállítása** :
 
 - Egyetlen felügyeleti konzol a felhasználók és az eszközök beállításához és kezeléséhez
 - Office-alkalmazások automatikus telepítése Windows 10 rendszerű gépeken
 - Mindig naprakész Office + Windows 10
 - A gépek egyszerűbb üzembe helyezése a Windows AutoPilot szolgáltatással
 
-**Egyéb jogosultságok**:
+**Egyéb jogosultságok** :
 
 - A Microsoft 365 Vállalati prémium verzió tulajdonosai a Windows Virtual Desktop és az Office Shared Computer Activation funkciókhoz is hozzáférhetnek. További információt a [Microsoft 365 Vállalati prémium verzió blogban](https://techcommunity.microsoft.com/t5/Microsoft-365-Business-Blog/bg-p/Microsoft365BusinessBlog) találhat. Lásd a [Microsoft 365 üzleti szolgáltatás leírását](https://docs.microsoft.com/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-business-service-description) is.
 
@@ -156,7 +156,7 @@ A Microsoft 365 Vállalati prémium verzió sikeres bevezetésének legegyszerű
 
 ### <a name="does-microsoft-365-business-premium-include-the-full-capabilities-of-microsoft-intune"></a>A Microsoft 365 Vállalati prémium verzió a Microsoft Intune minden funkcióját tartalmazza?
 
-Igen, a Microsoft 365 vállalati prémium verzióra szóló előfizetések licenccel rendelkeznek az iOS, az Android, a macOS és az egyéb platformfüggetlen eszközkezelés esetén elérhető teljes Intune-funkciók használatához. A Microsoft 365 Business Premium, például a harmadik féltől származó app-kezelés, a Wi-Fi-profilok és a VPN-tanúsítványok konfigurálása a Microsoft Business Premium egyszerűsített felügyeleti konzolján nem érhető el, a teljes Intune konzolon kezelhető.
+Igen, a Microsoft 365 vállalati prémium verzióra szóló előfizetések licenccel rendelkeznek az iOS, az Android, a macOS és az egyéb platformfüggetlen eszközkezelés esetén elérhető teljes Intune-funkciók használatához. A Microsoft 365 Business Premium egyszerűsített felügyeleti konzolján (például a harmadik féltől származó app-kezelés, a Wi-Fi-profilok és a VPN-tanúsítványok) elérhető funkciók a teljes Intune konzolban kezelhetők.
 
 ### <a name="does-azure-active-directory-azure-ad-premium-p1-come-with-microsoft-365-business-premium"></a>Használható az Azure Active Directory (Azure AD) Premium P1 csomag a Microsoft 365 Business prémium verzióval?
 
@@ -180,9 +180,9 @@ A Microsoft 365 Vállalati standard verzióhoz hozzáadható összes bővítmén
 
 Igen, vásárolhat üzleti előfizetést. A [Business Voice](https://docs.microsoft.com/microsoftteams/business-voice/whats-business-voice) egy olyan telefonos megoldás, amelynek célja olyan kis-és középvállalatok számára készült, akik legfeljebb 300 felhasználóval rendelkeznek, így a telefonrendszer, a hangkonferencia, a belföldi hívási csomag és egyéb funkciók is elérhetők. A telefon rendszerfunkciói, amelyekben megtalálható a hangposta, a hívó azonosítója, a Call Park, a hívásátirányítás, a segítők és a hívások várólistája. <br> Ha meg szeretné tudni, hogy az Ön országában vagy régiójában elérhető-e a vállalati hang, tekintse át [az ország és régió elérhetősége vállalati verziós hangra](https://docs.microsoft.com/microsoftteams/business-voice/country-region-availability) A díjszabással kapcsolatban lásd: [árazás vállalati](https://go.microsoft.com/fwlink/?linkid=2127221)verziós hang.
 
-### <a name="can-microsoft-365-business-premium-customers-use--microsoft-defender-advanced-threat-protection"></a>Használhatók a Microsoft 365 Business prémium ügyfelek a Microsoft Defender Advanced Threat Protection?
+### <a name="can-microsoft-365-business-premium-customers-use-microsoft-defender-for-endpoint"></a>Használhatók a Microsoft 365 vállalati prémium verzió ügyfelei a Microsoft Defender for Endpoint használatához?
 
-Igen, a Microsoft Defender Advanced Threat Protection bővítmény a Microsoft 365 vállalati prémium verzió bővítményként érhető el, ha [Microsoft Cloud Solution-szolgáltatótól](https://partner.microsoft.com/membership/cloud-solution-provider/find-a-provider)vásárolja meg őket.
+Igen, a Microsoft Defender for végpont a Microsoft 365 Business prémium verzióban érhető el, amikor [Microsoft Cloud Solution-szolgáltatótól](https://partner.microsoft.com/membership/cloud-solution-provider/find-a-provider)vásárolja meg őket.
 
 ## <a name="partner-opportunity"></a>Lehetőség a partnerségre
 
@@ -224,7 +224,7 @@ A Microsoft 365 Vállalati prémium verzió nem biztosítja egy egyébként nem 
 
 ### <a name="what-is-the-gdpr-and-how-does-microsoft-365-business-premium-help-customers-with-their-compliance-obligations"></a>Mi az a GDPR, és hogyan segíti a Microsoft 365 Vállalati prémium verzió az ügyfeleket abban, hogy megfeleljenek a megfelelőséggel kapcsolatos kötelezettségeiknek?
 
-Az általános adatvédelmi szabályozás (General Data Protection Regulation, GDPR) egy olyan átfogó új adatvédelmi törvény, amely az Európai Unió (EU) lakosai számára nagyobb ellenőrzést ad „személyes adataik” fölött, és előírja a szervezeteknek, hogy fenntartsák az adott személyes adatok sértetlenségét. A GDPR előírja, hogy az EU lakosainak személyes adatait kezelő vagy feldolgozó a szervezetek csak olyan külső adatfeldolgozókat vehetnek igénybe, amelyek megfelelnek a GDPR a személyes adatok feldolgozására vonatkozó követelményeinek. A Microsoft 2017 márciusában az e garanciákat biztosító szerződéses biztosítékokat tett elérhetővé. Azokat az ügyfeleket, akiknek arra vonatkozó kérdésük van, hogyan tud a Microsoft segíteni nekik a GDPR-ral kapcsolatos további kötelezettségeik teljesítésében, ismertesse meg a Microsoft 365 Vállalati prémium verzió biztonsági funkcióival (például Azure Information Protection, az adatvesztés megelőzése, Komplex veszélyforrások elleni védelem stb.), valamint más programcsomagok (például a Microsoft 365 Nagyvállalati verzió E5 csomag) hasonló funkcióival. További információt a [www.microsoft.com/gdpr](https://www.microsoft.com/gdpr) oldalon találhat.
+Az általános adatvédelmi szabályozás (General Data Protection Regulation, GDPR) egy olyan átfogó új adatvédelmi törvény, amely az Európai Unió (EU) lakosai számára nagyobb ellenőrzést ad „személyes adataik” fölött, és előírja a szervezeteknek, hogy fenntartsák az adott személyes adatok sértetlenségét. A GDPR előírja, hogy az EU lakosainak személyes adatait kezelő vagy feldolgozó a szervezetek csak olyan külső adatfeldolgozókat vehetnek igénybe, amelyek megfelelnek a GDPR a személyes adatok feldolgozására vonatkozó követelményeinek. A Microsoft 2017 márciusában az e garanciákat biztosító szerződéses biztosítékokat tett elérhetővé. Azok az ügyfelek, akik a Microsoft 365 vállalati prémium verziójában (például Azure Information Protection, adatvesztés-megelőzés, Office 365-es Defender stb.) és más lakosztályokban (például a Microsoft 365 nagyvállalati E5 csomagokban) elérhető speciális megfelelőségi és biztonsági lehetőségekről szóló kérdésekkel kapcsolatban tájékoztatják a Microsoftot a további GDPR-kötelezettségekről. További információt a [www.microsoft.com/gdpr](https://www.microsoft.com/gdpr) oldalon találhat.
 
 ## <a name="footnotes"></a>Lábjegyzetek
 

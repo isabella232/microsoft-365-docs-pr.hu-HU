@@ -24,12 +24,12 @@ search.appverid:
 - MET150
 ms.assetid: c123694a-1efb-459e-a8d5-2187975373dc
 description: Ebben a cikkben megismerheti a Microsoft 365 vállalati prémium verzió biztonsági funkcióit, amelyek megkönnyítik az adatok PC-re, telefonokra és táblaszámítógépekre való megóvását.
-ms.openlocfilehash: 5e16d4bf297d363b6f9b44ce854c857e7e5464ed
-ms.sourcegitcommit: 9ce9001aa41172152458da27c1c52825355f426d
+ms.openlocfilehash: 587d80c27f867a387c901d23f4ec05f3c5905bf6
+ms.sourcegitcommit: 815229e39a0f905d9f06717f00dc82e2a028fa7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/03/2020
-ms.locfileid: "47357318"
+ms.lasthandoff: 11/03/2020
+ms.locfileid: "48843488"
 ---
 # <a name="microsoft-365-business-premium-security-and-compliance-features"></a>A Microsoft 365 vállalati prémium verzió biztonsági és megfelelőségi funkciói
 
@@ -63,9 +63,9 @@ A felügyeleti központ számos Microsoft 365 vállalati prémium verziós bizto
 
 A Microsoft 365 vállalati prémium verzió speciális funkciói, amelyek segítséget nyújtanak a vállalkozás számítógépes fenyegetésekkel szembeni védelmében és a bizalmas információk védelmében.
   
-- **[Az Office 365 speciális veszélyforrások elleni védelem](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp)**
+- **[Office 365-hoz használható Microsoft Defender](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp)**
     
-    Advanced Threat Protection (ATP) segít megvédeni a vállalkozást a kifinomult adathalászat és a ransomware támadások ellen, amelyek veszélyeztethetik az alkalmazottak és az ügyfelek adatait. A funkciók a következők:
+    Az Office 365-hoz készült Microsoft Defender segítséget nyújt a vállalkozásnak a kifinomult adathalászat és a ransomware támadások ellen, amelyek az alkalmazottak és az ügyfelek adatait veszélyeztetik. A funkciók a következők:
     
   - Kifinomult mellékletek beolvasása és az AI-alapú elemzés a veszélyes üzenetek észleléséhez és elvetéséhez.
     

@@ -27,12 +27,12 @@ search.appverid:
 - MET150
 ms.assetid: 6e7a2dfd-8ec4-4eb7-8390-3ee103e5fece
 description: Ismerje meg a Microsoft 365 vállalati prémium verzió telepítési lépéseit, a feliratkozást, a tartomány és a felhasználók hozzáadását, illetve a biztonsági házirendek beállítását.
-ms.openlocfilehash: fa9c02fa9546437c83b9cc6c1f1e6e0d723ec868
-ms.sourcegitcommit: 555d756c69ac9031d1fb928f2e1f9750beede066
+ms.openlocfilehash: 46370166a9d5e8c9308b8947513e631c159f0b86
+ms.sourcegitcommit: 815229e39a0f905d9f06717f00dc82e2a028fa7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/29/2020
-ms.locfileid: "47306469"
+ms.lasthandoff: 11/03/2020
+ms.locfileid: "48842130"
 ---
 # <a name="overview-of-setup"></a>A beállítás áttekintése
 
@@ -42,36 +42,36 @@ Tekintsen meg egy rövid videót a Microsoft 365 vállalati prémium verzió tel
 
 Ha hasznosnak találta ezt a videót, tekintse meg a [teljes tanfolyamok kisvállalatoknak és Microsoft 365-újoncoknak](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816) című cikket.
 
-A beállítási lépések többsége a beállítási varázslóban végezhető el, de az egyéb beállítások is szerepelnek a listában.
+A beállítási lépések többsége az irányított beállításban végezhető el, de a további lehetőségek is szerepelnek a listában.
 
 ## <a name="step-1-add-your-domain-and-users"></a>Első lépés: a tartomány és a felhasználók felvétele
 
    - **[Tartomány felvétele](set-up.md#add-your-domain-to-personalize-sign-in)** (ha a [regisztráció](sign-up.md)során vásárolta meg a tartományt, ez a lépés már elkészült.)
 
    - **Felhasználók hozzáadása** A felhasználók a következő három módon adhatók hozzá:
-        - A [varázslóban](set-up.md#add-users-in-the-wizard).
+        - Az [irányított beállításban](set-up.md#add-users-in-the-wizard).
         - A címtár-szinkronizálás segítségével [felhasználókat vehet fel az Azure ad Connect segítségével](https://docs.microsoft.com/microsoft-365/enterprise/set-up-directory-synchronization) , ha helyszíni Active Directoryval rendelkezik.
         - A felügyeleti központban [később is hozzáadhat felhasználókat](add-users-m365b.md) .
 ## <a name="step-2-set-up-security-policies-and-configure-devices"></a>2. lépés: biztonsági házirendek beállítása és eszközök beállítása 
 
-  - Az eszköz-házirendek beállításához használja a [beállítási varázslót](set-up.md#protect-your-organization) . 
+  - Az [irányított beállítás](set-up.md#protect-your-organization) segítségével konfigurálhatja az eszközök házirendjeit. 
   - Később a [felügyeleti központban](view-policies-and-devices.md) és az [Intune portálon](https://docs.microsoft.com/intune/tutorial-walkthrough-intune-portal)is hozzáadhat további vagy szerkesztheti őket.
   - A beállítási varázsló a fenyegetések elleni védelem és az adatvesztés megelőzésére szolgáló beállításokat is megadhatja.
   
   A beállítási varázsló biztonsági beállításain kívül az alábbi beállítások megadásával növelheti a biztonságot:
 
 - **E-mailes kártevők elleni védelem**
-- **ATP-adathalászat**
+- **Az adathalászat elleni védekezés az Office 365 Defender-ban**
 - **Exchange Online Archiválás**
-- **Azure Information Protection (Plan1**)
+- **Azure Information Protection (Plan1** )
 
 A kezdéshez lásd: a [fenyegetések elleni védelem növelése](increase-threat-protection.md) és a [megfelelőségi funkciók beállítása](set-up-compliance.md).
 
-Lásd még az [első 10 módszer a Microsoft 365 vállalati prémium verzió biztonságossá](https://docs.microsoft.com/office365/admin/security-and-compliance/secure-your-business-data) tételéhez a legjobb biztonsági gyakorlatokra vonatkozó ütemtervet.
+Lásd még az [első 10 módszer a Microsoft 365 vállalati prémium verzió biztonságossá](https://docs.microsoft.com/office365/admin/security-and-compliance/secure-your-business-data) tételére a legjobb biztonsági gyakorlatok térképéhez.
 
 ## <a name="step-3-set-up-and-manage-windows-10-devices"></a>3. lépés: a Windows 10-es eszközök beállítása és kezelése
 
-A beállítás varázsló futtatása után a szervezet minden Windwos 10 számítógépét proctect.
+Az irányított beállítás befejezése után védenie kell a szervezete összes Windows 10-es számítógépét.
   
 - A Windows 10 Pro a Microsoft 365 vállalati prémium verzió [előfeltétele](pre-requisites-for-data-protection.md) , de ha Windows 7 Pro, Windows 8 Pro vagy Windows 8,1 Pro verziót futtat, az előfizetése feljogosítja a [Windows 10 Pro rendszerre való frissítésre](https://docs.microsoft.com/microsoft-365/business/upgrade-to-windows-pro-creators-update).
 - Kövesse a [Windows 10 rendszerű PC-k biztonsága](secure-win-10-pcs.md) című témakör lépéseit a Windows 10-es eszközök házirendjeinek beállításához.
