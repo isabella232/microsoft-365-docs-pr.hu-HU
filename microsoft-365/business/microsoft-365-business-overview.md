@@ -29,12 +29,12 @@ search.appverid:
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
 description: További információ a Microsoft 365 Vállalati prémium verzióról, az Office hatékonyságnövelő appjait és a kiberveszélyforrásokkal szembeni speciális védelmet tartalmazó előfizetési szolgáltatásról.
-ms.openlocfilehash: 50b1fec21593bd22577e07e000cedb89dfd90f66
-ms.sourcegitcommit: f7566dd6010744c72684efdc37f4471672330b61
+ms.openlocfilehash: e67ae036bf3ce7811f19c8745838bb51dde073ea
+ms.sourcegitcommit: 815229e39a0f905d9f06717f00dc82e2a028fa7c
 ms.translationtype: HT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "45138228"
+ms.lasthandoff: 11/03/2020
+ms.locfileid: "48842180"
 ---
 # <a name="overview-of-microsoft-365-business-premium"></a>A Microsoft 365 Vállalati prémium verzió áttekintése
 
@@ -69,19 +69,19 @@ A Microsoft 365 Vállalati prémium verzió mindegyik példa esetében segít ad
 
 ## <a name="how-your-data-and-devices-are-protected"></a>Az adatok és eszközök védelmének biztosítása
 
-A Microsoft 365 Vállalati prémium verzió az alábbiakkal segíti **a fenyegetések elleni védelmet**:
+A Microsoft 365 Vállalati prémium verzió az alábbiakkal segíti **a fenyegetések elleni védelmet** :
 
-- E-mailekben és dokumentumokban lévő hivatkozások beolvasása valós időben a nem biztonságos webhelyek letiltásához (Komplex veszélyforrások elleni védelem: Biztonságos hivatkozások).
+- Valós időben megvizsgálja az e-mailekben és dokumentumokban levő hivatkozásokat a nem biztonságos webhelyek letiltása érdekében (Biztonságos hivatkozások).
 
-- E-mail-mellékletek speciális elemzése tesztkörnyezetben az újonnan kifejlesztett kártevők észleléséhez (Komplex veszélyforrások elleni védelem: Biztonságos mellékletek). 
+- Speciális elemzést végez az e-mailek mellékletein egy tesztkörnyezetben az újonnan kifejlesztett kártevők észlelése érdekében (Biztonságos mellékletek). 
 
-- Gépi tanulási modelleket és megszemélyesítés észlelését használó adathalászat elleni védelmi házirendek engedélyezése a speciális támadások elleni védelem biztosítására (Komplex veszélyforrások elleni védelem – adathalászatot megakadályozó intelligencia). 
+- Gépi tanulási modelleket és a megszemélyesítés észlelésére szolgáló módszereket használó, adathalászat elleni védelmi házirendeket alkalmaz a kifinomult támadások elleni védelem biztosításához (az Office 365-höz készült Defender adathalászatot megakadályozó intelligenciája). 
 
 - Speciális házirendek beállítása, amelyek letiltják a hozzáférést a nem megbízható helyekről vagy a többtényezős hitelesítés megkerülését a megbízható helyekről, például a munkahelyi hálózatról (Azure MFA, beleértve a megbízható IP-címeket és a feltételes hozzáférést). 
 
 - Kártevők elleni védelem kényszerítése a szervezet minden Windows 10-es eszközén és a fájlok védelme a legfontosabb rendszermappákban a zsarolóprogramok által végzett módosításoktól (Windows Defender)
 
-**Üzleti adatai védelméről**az alábbiakkal gondoskodunk:
+**Üzleti adatai védelméről** az alábbiakkal gondoskodunk:
 
 - Automatikus észlelés használata a bizalmas adatok, például a társadalombiztosítási számok vagy hitelkártyák kiszivárgásának megakadályozásához (adatveszteség-megelőzés). 
 
@@ -91,7 +91,7 @@ A Microsoft 365 Vállalati prémium verzió az alábbiakkal segíti **a fenyeget
 
 - Korlátlan felhőbeli archiválás, így szervezete összes levelezését megőrizheti, beleértve a korábbi alkalmazottak postaládáit is (Exchange Online Archiválás).
 
-**Eszközei védelméről**az alábbiakkal gondoskodunk:
+**Eszközei védelméről** az alábbiakkal gondoskodunk:
 
 - Annak szabályozása, hogy mely eszközök és felhasználók férjenek hozzá a Microsoft-adatokhoz, valamint további beállítások annak letiltásához, hogy a felhasználók az otthoni számítógépekről, nem jóváhagyott appokról vagy munkaidőn túl jelentkezzenek be (feltételes hozzáférés).
 
