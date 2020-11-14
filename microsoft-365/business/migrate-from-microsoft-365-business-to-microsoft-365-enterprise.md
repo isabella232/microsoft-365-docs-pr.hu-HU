@@ -22,12 +22,12 @@ search.appverid:
 - MET150
 ms.assetid: 5b4ba843-24b8-4526-8e1f-f9b9eab89d06
 description: Megtudhatja, hogy miként helyezheti át vállalkozását a Microsoft 365 Business Premiumból a Microsoft 365 E3 csomagra.
-ms.openlocfilehash: 874da0d35759c8af4c3ee2ca4a1bdfa90a91627c
-ms.sourcegitcommit: 815229e39a0f905d9f06717f00dc82e2a028fa7c
+ms.openlocfilehash: 2b15d20e3ae1ad0bef871b139e61abf3ba260729
+ms.sourcegitcommit: 34ebec8e2bd54ba3d4ccfd9724797665c965c17f
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 11/03/2020
-ms.locfileid: "48842200"
+ms.lasthandoff: 11/13/2020
+ms.locfileid: "49071427"
 ---
 # <a name="migrate-from-microsoft-365-business-premium-to-microsoft-365-e3"></a>Áttérés a Microsoft 365 Business premiumról a Microsoft 365 E3 csomagra
 
@@ -57,7 +57,7 @@ Ez a táblázat a Microsoft 365 Business Premium és a Microsoft 365 E3 között
 | Teams    | ![A Microsoft 365 vállalati prémium verzió része](../media/check-mark.png)    | ![A Microsoft 365 E3 csomag része](../media/check-mark.png) | 
 | OneDrive Vállalati verzió    | 1 TB tárterület felhasználónként    | Korlátlan | 
 | Yammer, SharePoint Online, Planner, Stream    | ![A Microsoft 365 vállalati prémium verzió része](../media/check-mark.png)    | ![A Microsoft 365 E3 csomag része](../media/check-mark.png) | 
-| Outlook Customer Manager, MileIQ    | ![A Microsoft 365 vállalati prémium verzió része](../media/check-mark.png)    | | 
+| MileIQ    | ![A Microsoft 365 vállalati prémium verzió része](../media/check-mark.png)    | | 
 | **Veszélyforrások elleni védelem**        | | | 
 | A támadási felület csökkentési lehetőségei    | [A lista megtekintése](#threat-protection) | A Microsoft Edge hardver-alapú elkülönítésének vállalati kezelése | 
 | Defender for Office 365-es csomag 1 | ![A Microsoft 365 vállalati prémium verzió része](../media/check-mark.png)    | Nem szerepelnek, de hozzáadhatók | 
@@ -106,7 +106,7 @@ A felhasználók mostantól korlátlan tárhelyet élvezhetnek az Exchange Onlin
 Használhatja a Cloud app Discovery, az Azure AD Connect Health és az SSO több mint 10 alkalmazást.
 
 >[!Note]
->A Microsoft 365 E3-ba áttelepített felhasználók már nem használhatják az Outlook Customer Managert és a MileIQ.
+>A Microsoft 365 E3-ra áttelepített felhasználók már nem használhatják a MileIQ.
 >
 
 <a name="threat-protection"></a>
