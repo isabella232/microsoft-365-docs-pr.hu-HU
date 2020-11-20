@@ -22,12 +22,12 @@ search.appverid:
 - MET150
 ms.assetid: 5b4ba843-24b8-4526-8e1f-f9b9eab89d06
 description: Megtudhatja, hogy miként helyezheti át vállalkozását a Microsoft 365 Business Premiumból a Microsoft 365 E3 csomagra.
-ms.openlocfilehash: 2b15d20e3ae1ad0bef871b139e61abf3ba260729
-ms.sourcegitcommit: 34ebec8e2bd54ba3d4ccfd9724797665c965c17f
+ms.openlocfilehash: 3f840a27cdcf50bba7710681135f6c2e241ad14b
+ms.sourcegitcommit: 001e64f89f9c3cd6bbd4a25459f5bee3b966820c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 11/13/2020
-ms.locfileid: "49071427"
+ms.lasthandoff: 11/20/2020
+ms.locfileid: "49367055"
 ---
 # <a name="migrate-from-microsoft-365-business-premium-to-microsoft-365-e3"></a>Áttérés a Microsoft 365 Business premiumról a Microsoft 365 E3 csomagra
 
@@ -129,7 +129,7 @@ A Windows 10 Business a következő védelmet foglalja magában:
 A Windows 10 nagyvállalati E3 csomag a Microsoft Edge hardveres elkülönítésének vállalati kezelését is tartalmazza.
 
 >[!Note]
->A Microsoft 365 E3 rendszerre áttelepített felhasználók a további veszélyforrások elleni védelemhez a Microsoft Defender for Office 365 licencet igénylik. Ügyeljen arra, hogy további Office 365-licenceket vásároljon, hogy az Office 365-ös felügyelői által biztosított összes felhasználó rendelkezik licenccel. 
+>A Microsoft 365 E3 rendszerre áttelepített felhasználók mindegyikéhez szükséges a Microsoft Defender for Office 365 licenc a folyamatos fenyegetettség elleni védelemhez. Ügyeljen arra, hogy további Office 365-licenceket vásároljon, hogy az Office 365-ös felügyelői által biztosított összes felhasználó rendelkezik licenccel. 
 >
 
 ### <a name="device-management-with-intune"></a>Eszközkezelés az Intune segítségével
