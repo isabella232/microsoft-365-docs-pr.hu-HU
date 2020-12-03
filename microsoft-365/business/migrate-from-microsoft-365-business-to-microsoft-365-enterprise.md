@@ -22,12 +22,12 @@ search.appverid:
 - MET150
 ms.assetid: 5b4ba843-24b8-4526-8e1f-f9b9eab89d06
 description: Megtudhatja, hogy miként helyezheti át vállalkozását a Microsoft 365 Business Premiumból a Microsoft 365 E3 csomagra.
-ms.openlocfilehash: 3f840a27cdcf50bba7710681135f6c2e241ad14b
-ms.sourcegitcommit: 001e64f89f9c3cd6bbd4a25459f5bee3b966820c
+ms.openlocfilehash: 3f1bb9591e1bd2bac49326325ce6c8c2d6778497
+ms.sourcegitcommit: c1dd5be42fe0c5dcc7c05817c941edd9076febf8
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 11/20/2020
-ms.locfileid: "49367055"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "49558238"
 ---
 # <a name="migrate-from-microsoft-365-business-premium-to-microsoft-365-e3"></a>Áttérés a Microsoft 365 Business premiumról a Microsoft 365 E3 csomagra
 
@@ -51,7 +51,7 @@ Ez a táblázat a Microsoft 365 Business Premium és a Microsoft 365 E3 között
 |:-------|:-----|:-----|
 | **Helyszíni**        | | | 
 | Windows 10    | Windows 10 Business  |     Windows 10 nagyvállalati E3 csomag| 
-| Office-alkalmazások *    | [Microsoft 365-alkalmazások vállalati verzió](#office-365-business)    | Microsoft 365 Vállalati alkalmazások | 
+| Office-alkalmazások *    | [Microsoft 365-alkalmazások vállalati verzió](#office-365-business)    | Nagyvállalati Microsoft 365-alkalmazások | 
 | **Felhőbeli hatékonyságnövelő alkalmazások**        | | | 
 | Exchange Online és Outlook    | 50 GB tárolási korlát egy postaládában és korlátlan Exchange Online archiválás    | 100 GB tárolási korlát egy postaládában és korlátlan Exchange Online archiválás | 
 | Teams    | ![A Microsoft 365 vállalati prémium verzió része](../media/check-mark.png)    | ![A Microsoft 365 E3 csomag része](../media/check-mark.png) | 
@@ -62,7 +62,7 @@ Ez a táblázat a Microsoft 365 Business Premium és a Microsoft 365 E3 között
 | A támadási felület csökkentési lehetőségei    | [A lista megtekintése](#threat-protection) | A Microsoft Edge hardver-alapú elkülönítésének vállalati kezelése | 
 | Defender for Office 365-es csomag 1 | ![A Microsoft 365 vállalati prémium verzió része](../media/check-mark.png)    | Nem szerepelnek, de hozzáadhatók | 
 | **Személyazonosság-kezelés**        | | | 
-| Önkiszolgáló jelszó-visszaállítás a hibrid Azure Active Directory (Azure AD) fiókokhoz, Azure multi-Factor Authentication (MFA), feltételes hozzáférés, jelszó-writeback a helyszíni identitásokhoz|     ![A Microsoft 365 vállalati prémium verzió része](../media/check-mark.png)    | ![A Microsoft 365 E3 csomag része](../media/check-mark.png) | 
+| Önkiszolgáló jelszó-visszaállítás a hibrid Azure Active Directory-fiókokhoz, Azure ad multi-Factor Authentication (MFA), feltételes hozzáférés, jelszó-és writeback a helyszíni identitásokhoz|     ![A Microsoft 365 vállalati prémium verzió része](../media/check-mark.png)    | ![A Microsoft 365 E3 csomag része](../media/check-mark.png) | 
 | Felhőbeli app-felderítés, Azure AD Connect Health    |     | ![A Microsoft 365 E3 csomag része](../media/check-mark.png) | 
 | Azure AD Office 365-alkalmazások egyetlen Sign-On (SSO): 10 app felhasználónként (Gallery SaaS-alkalmazások, például Salesforce) * | ![A Microsoft 365 vállalati prémium verzió része](../media/check-mark.png)    | ![A Microsoft 365 E3 csomag része](../media/check-mark.png) | 
 | Azure AD prémium 1 egyszeri bejelentkezés: nincs korlátozás (helyszíni alkalmazások Azure AD alkalmazásproxy-és nem-gyűjteményes alkalmazásokon keresztül Self-Service app-integrációs sablonok használatával)    |     | ![A Microsoft 365 E3 csomag része](../media/check-mark.png) | 
