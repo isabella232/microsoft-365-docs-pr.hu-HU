@@ -21,12 +21,12 @@ search.appverid:
 - MET150
 ms.assetid: b0f4d010-9fd1-44d0-9d20-fabad2cdbab5
 description: Ebből a témakörből megtudhatja, hogy miként érheti el a helyszíni erőforrásokat, például a üzletági alkalmazások, a fájlmegosztás és a nyomtatókat egy Azure Active Directory-kapcsolattal rendelkező Windows 10-es eszközön.
-ms.openlocfilehash: 2144268f5cbab67c39d5902622c61c0c35e6481c
-ms.sourcegitcommit: 15be7822220041c25fc52565f1c64d252e442d89
+ms.openlocfilehash: 22edf0c23d6318e1f70bcb21b2cd697ea0a75da4
+ms.sourcegitcommit: 849b365bd3eaa9f3c3a9ef9f5973ef81af9156fa
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48295310"
+ms.lasthandoff: 12/16/2020
+ms.locfileid: "49688233"
 ---
 # <a name="access-on-premises-resources-from-an-azure-ad-joined-device-in-microsoft-365-business-premium"></a>Hozzáférés helyszíni erőforrásokhoz a Microsoft 365 vállalati prémium verzióban elérhető Azure AD-eszközről
 
@@ -63,4 +63,4 @@ Ha az Azure-AD-hoz csatlakoztatott Windows-eszköz korábban tartományhoz csatl
 
 - A felhasználók nem tudnak hitelesíteni olyan alkalmazásokat, amelyek az Active Directory-hitelesítéstől függenek. Értékelje ki a régi alkalmazást, és fontolja meg, hogy egy olyan alkalmazásra frissít, amely a modern hitelesítést használja, ha lehetséges.
 
-- Az Active Directory-nyomtató felderítése nem működik. Közvetlen nyomtatási elérési utakat is biztosíthat az összes felhasználónak, vagy használhatja a [hibrid Felhőbeli nyomtatást](https://docs.microsoft.com/windows-server/administration/hybrid-cloud-print/hybrid-cloud-print-deploy).
+- Az Active Directory-nyomtató felderítése nem működik. Közvetlen nyomtatási elérési utakat is biztosíthat minden felhasználó számára, vagy [univerzális nyomtatást](https://aka.ms/UPDocs)használhat.
