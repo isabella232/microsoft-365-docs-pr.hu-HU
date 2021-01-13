@@ -1,5 +1,5 @@
 ---
-title: A Microsoft 365 vállalati prémium verzió biztonsági és megfelelőségi funkciói
+title: A Microsoft 365 Vállalati prémium verzió biztonsági és megfelelőségi funkciói
 f1.keywords:
 - NOCSH
 ms.author: sirkkuw
@@ -23,106 +23,106 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: c123694a-1efb-459e-a8d5-2187975373dc
-description: Ebben a cikkben megismerheti a Microsoft 365 vállalati prémium verzió biztonsági funkcióit, amelyek megkönnyítik az adatok PC-re, telefonokra és táblaszámítógépekre való megóvását.
-ms.openlocfilehash: 587d80c27f867a387c901d23f4ec05f3c5905bf6
-ms.sourcegitcommit: 815229e39a0f905d9f06717f00dc82e2a028fa7c
+description: Ismerje meg a Microsoft 365 Vállalati prémium verzió biztonsági funkcióit, amelyek segítenek a PC-n, telefonon és táblagépen található adatok védelmében.
+ms.openlocfilehash: b7fdd3d7fa25c23ee49ae82aa037588d8fba61a1
+ms.sourcegitcommit: 83a40facd66e14343ad3ab72591cab9c41ce6ac0
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 11/03/2020
-ms.locfileid: "48843488"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "49840389"
 ---
-# <a name="microsoft-365-business-premium-security-and-compliance-features"></a>A Microsoft 365 vállalati prémium verzió biztonsági és megfelelőségi funkciói
+# <a name="microsoft-365-business-premium-security-and-compliance-features"></a>A Microsoft 365 Vállalati prémium verzió biztonsági és megfelelőségi funkciói
 
-A Microsoft 365 vállalati prémium verzió egyszerűsített biztonsági funkciókat nyújt az adatvédelemhez PC-ken, telefonokon és táblaszámítógépeken.
+A Microsoft 365 Vállalati prémium verzió egyszerűsített biztonsági funkciókat kínál, amelyek segítenek a PC-n, telefonon és táblagépen található adatok védelmében.
     
-## <a name="microsoft-365-admin-center-security-features"></a>A Microsoft 365 felügyeleti központ biztonsági szolgáltatásai
+## <a name="microsoft-365-admin-center-security-features"></a>A Microsoft 365 Felügyeleti központ biztonsági funkciói
 
-A felügyeleti központ számos Microsoft 365 vállalati prémium verziós biztonsági funkcióját kezelheti, így egyszerűbben be-és kikapcsolhatja ezeket a funkciókat. A felügyeleti központban az alábbi műveleteket végezheti el:
+A Felügyeleti központban kezelheti a Microsoft 365 Vállalati prémium verzió számos biztonsági funkcióját, így egyszerűbben kapcsolhatja be és ki ezeket a funkciókat. A Felügyeleti központban az alábbi lehetőségek közül választhat:
   
-- [Az Android-vagy iOS-eszközökhöz tartozó alkalmazások kezelésének beállításainak megadása](app-protection-settings-for-android-and-ios.md) 
+- [Alkalmazáskezelési beállítások megadása Android- vagy iOS-eszközökön.](app-protection-settings-for-android-and-ios.md) 
     
-    Ezekkel a beállításokkal megadhatja, hogy egy adott időszak után hogyan törölhet fájlokat egy inaktív eszközről, Titkosítsa a munkahelyi fájlokat, ami megköveteli a felhasználóknak a PIN-kód megadását.
+    Ezek közé a beállítások közé tartozik például, hogy adott időszak után töröljön fájlokat egy inaktív eszközről, titkosítsa a munkahelyi fájlokat, megkövetelje a felhasználóknak a PIN-kód beállítását stb.
     
-- [Windows 10-es eszközök alkalmazás-védelmi beállításainak megadása](protection-settings-for-windows-10-devices.md) 
+- [Alkalmazásvédelmi beállítások megadása Windows 10-es eszközökhöz.](protection-settings-for-windows-10-devices.md) 
     
-    Ezek a beállítások a cég tulajdonában lévő, illetve a személyes tulajdonú eszközökön egyaránt alkalmazhatók a vállalati adatokra.
+    Ezek a beállítások a céges vagy a személyes tulajdonú eszközökön egyaránt alkalmazhatók a céges adatokra.
     
-- [Windows 10-es eszközök eszközbeállítások beállításainak megadása](protection-settings-for-windows-10-pcs.md) 
+- [Eszközvédelmi beállítások megadása Windows 10-es eszközökhöz.](protection-settings-for-windows-10-pcs.md) 
     
-    A [BitLocker](https://go.microsoft.com/fwlink/p/?linkid=871405) -titkosítás engedélyezésével biztosíthatja az adatvédelmet abban az esetben, ha az eszköz elveszett vagy ellopták, és lehetővé teszi a Windows kisegítő [Gárda](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/enable-exploit-protection) számára a ransomware elleni speciális védelmet. 
+    A [BitLocker-titkosítás engedélyezésével](https://go.microsoft.com/fwlink/p/?linkid=871405) megvédheti az adatokat az eszközök ellopása vagy ellopása esetén, és lehetővé teheti, hogy a [Windows Biztonsági](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/enable-exploit-protection) résőr speciális védelmet nyújtson a zsarolóvírusok ellen. 
     
 - [Céges adatok eltávolítása az eszközökről](remove-company-data.md)
     
-    Ha az eszköz elveszett, ellopta vagy egy alkalmazott elhagyja a céget, akkor távolról törölje a céges adatait.
+    Távolról is törölhet céges adatokat, ha egy eszköz elveszett, ellopták, vagy ha egy alkalmazott elhagyja a vállalatát.
     
-- [Windows 10-es eszközök visszaállítása a gyári beállításokra](reset-devices-to-factory-settings.md) . 
+- [Állítsa vissza a Windows 10-es eszközöket gyári beállításaikra.](reset-devices-to-factory-settings.md) 
     
-    Alaphelyzetbe állíthatja azokat a Windows 10-es eszközöket, amelyekre az eszközbeállítások beállításai vonatkoznak.
+    Alaphelyzetbe állíthatja azokat a Windows 10-es eszközöket, amelyekre eszközvédelmi beállítások vannak alkalmazva.
     
 ## <a name="additional-security-features"></a>További biztonsági funkciókról 
 
-A Microsoft 365 vállalati prémium verzió speciális funkciói, amelyek segítséget nyújtanak a vállalkozás számítógépes fenyegetésekkel szembeni védelmében és a bizalmas információk védelmében.
+A Microsoft 365 Vállalati prémium verzió speciális funkciói segítenek megvédeni vállalkozását a kibertámadásokkal szemben, és megóvni a bizalmas információkat.
   
-- **[Office 365-hoz használható Microsoft Defender](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp)**
+- **[Microsoft Defender az Office 365-hez](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp)**
     
-    Az Office 365-hoz készült Microsoft Defender segítséget nyújt a vállalkozásnak a kifinomult adathalászat és a ransomware támadások ellen, amelyek az alkalmazottak és az ügyfelek adatait veszélyeztetik. A funkciók a következők:
+    Az Office 365-höz készült Microsoft Defender védelmet nyújt vállalkozása számára a kifinomult adathalászati és zsarolóvírus-támadások ellen, amelyek célja az alkalmazotti vagy ügyféladatok veszélyeztető támadása. A funkciók közé tartoznak az alábbiak:
     
-  - Kifinomult mellékletek beolvasása és az AI-alapú elemzés a veszélyes üzenetek észleléséhez és elvetéséhez.
+  - Kifinomult mellékletvizsgálat és AI-alapú elemzés a veszélyes üzenetek észleléséhez és elvetéséhez.
     
-  - Az e-mailekben lévő hivatkozások automatikus ellenőrzése annak megállapításához, hogy az adathalászati rendszer részét képezi-e. Így biztos lehet benne, hogy a nem biztonságos webhelyekhez hozzáfér.
+  - Az e-mailekben található hivatkozások automatikus ellenőrzése annak felmérésére, hogy azok adathalászati sémának részei-e. Ez megakadályozza, hogy hozzáférjen a nem biztonságos webhelyekhez.
 
-- **[A Intune teljes képességei az Azure portálon](https://go.microsoft.com/fwlink/p/?linkid=871403)**
+- **[Az Intune teljes képességei az Azure Portalon](https://go.microsoft.com/fwlink/p/?linkid=871403)**
     
-    Az Intune felügyeleti központ elérése az Azure portálján lehetővé teszi, hogy további biztonsági funkciókat (például MacOS-eszközök, iPhone-és Android-eszközök), valamint a Windows Advanced Device Management szolgáltatásait is beállítsa, amelyek nem érhetők el a Microsoft 365 felügyeleti központján keresztül.
-- **Azonos [feltételes hozzáférés](https://docs.microsoft.com/azure/active-directory/conditional-access/overview) Azure ad Premium P1 csomaggal**
+    Ha az Intune Felügyeleti központot használja az Azure Portalon, további biztonsági funkciókat állíthat be, például a MacOS-eszközök, az iPhone és az Android-eszközök kezelését, valamint a Speciális eszközkezelést a Windowshoz, amelyek nem érhetők el a Microsoft 365 Felügyeleti központban.
+- **Ugyanaz [a feltételes hozzáférés,](https://docs.microsoft.com/azure/active-directory/conditional-access/overview) mint az Azure AD Premium P1 csomag**
 
 
-    A feltételes hozzáférés segíthet a szervezet védelmében a bejelentkezési kockázattól, az Access váratlan hálózatról vagy területi beállításról próbál meg hozzáférni, az Access megkísérel a kockázatos eszközök típusait stb. A feltételes hozzáférésű házirendek az első hitelesítés befejezése után érvényesek, és az első hitelesítési eseménytől kapott jeleket használják annak megállapításához, hogy a megkísérelt hozzáférés jóváhagyásra, visszautasításra vagy további bizonyításra van-e szükség (például második azonosító).
+    A feltételes hozzáféréssel megvédheti szervezetét a bejelentkezési kockázatoktól, a nem várt hálózati vagy területi beállításoktól származó hozzáférési kísérletektől, a kockázatos eszköztípusoktól származó hozzáférési kísérletektől stb. A feltételes hozzáférési házirendek az első hitelesítés befejezése után lesznek kényszerítve, és az első hitelesítési esemény szignálja alapján határozzák meg, hogy a megkísérelt hozzáférést jóvá kell-e hagyni, megtagadni kell-e, vagy további igazolásra van-e szükség (például egy másik azonosításra).
 
-    A feltételes elérési funkciók a következők:
+    A feltételes hozzáférés a következő funkciókat tartalmazza:
 
-    - Hozzáférés a Felhasználónév, a csoport és a szerepkör alapján
-    - Access [alkalmazáson alapuló](https://docs.microsoft.com/azure/active-directory/conditional-access/app-based-conditional-access) hozzáférés 
-    - [Hely szerinti hozzáférés](https://docs.microsoft.com/azure/active-directory/authentication/howto-registration-mfa-sspr-combined#conditional-access-policies-for-combined-registration);  hozzáférés engedélyezése csak megbízható IP-tartományokból vagy adott országokból 
-    - MFA szükséges az Accesshez
-    - A [örökölt hitelesítést](https://docs.microsoft.com/azure/active-directory/conditional-access/block-legacy-authentication) használó alkalmazások hozzáférésének letiltása
-    - Az alkalmazások használatához TP használata [Intune app Protection](https://docs.microsoft.com/azure/active-directory/conditional-access/app-protection-based-conditional-access)
-    - Egyéni hitelesítés (például MFA) külső szolgáltatókkal (például DUO)
+    - Access felhasználónév, csoport és szerepkör alapján
+    - Access [alkalmazás alapján](https://docs.microsoft.com/azure/active-directory/conditional-access/app-based-conditional-access) 
+    - [Hozzáférés hely alapján;](https://docs.microsoft.com/azure/active-directory/authentication/howto-registration-mfa-sspr-combined#conditional-access-policies-for-combined-registration)  csak megbízható IP-tartományokból vagy adott országokból való hozzáférés engedélyezése 
+    - Több hitelesítés szükséges a hozzáféréshez
+    - A régi hitelesítést felhasználó alkalmazások [elérésének blokkolása](https://docs.microsoft.com/azure/active-directory/conditional-access/block-legacy-authentication)
+    - Az Intune appvédelmi szolgáltatás [használatának megkövetele az alkalmazások számára](https://docs.microsoft.com/azure/active-directory/conditional-access/app-protection-based-conditional-access)
+    - Egyéni hitelesítés, például több hitelesítés külső szolgáltatókkal( például DUO).
    
     Egyéb funkciók:
-    - Önkiszolgáló [jelszó-visszaállítás](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-customization) a hibrid Azure ad-hoz
+    - [Önkiszolgáló jelszó-visszaállítás](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-customization) a hibrid Azure AD-hez
     
 ## <a name="compliance-features"></a>Megfelelőségi funkciók
 
-Microsoft 365 vállalati prémium verzióra szóló előfizetése olyan funkciókat is tartalmaz, amelyek megkönnyítik a megfelelőségi és szabályozási szabványok megőrzését.
+Microsoft 365 Vállalati prémium verziós előfizetése olyan funkciókat tartalmaz, amelyek segítenek a megfelelőségi és szabályozási szabványok fenntartásában.
 
-- **[Az adatveszteség-megelőzési házirendek](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies)** (DLP) áttekintése 
+- **[Az adatveszteség-megelőzési házirendek](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies)** (DLP) áttekintése. 
     
-    A DLP beállítható úgy, hogy automatikusan észlelje a bizalmas információkat, például a hitelkártyák számát, a társadalombiztosítási számokat stb.
+    Beállíthatja, hogy a DLP automatikusan észlelje a bizalmas adatokat, például a hitelkártyaszámokat, a társadalombiztosítási számokat stb. annak érdekében, hogy megakadályozza a vállalaton kívüli véletlen megosztást.
     
 - **[Exchange Online Archiválás](https://products.office.com/exchange/microsoft-exchange-online-archiving-email)**
     
-    Az Exchange Online archiválási licence lehetővé teszi, hogy az üzenetek folyamatos adatbiztonsági másolattal legyenek archiválva. A program az összes felhasználó e-mailjeit (például a törölt elemeket) tárolja abban az esetben, ha később szükségesek a felderítéshez vagy a helyreállításhoz. Emellett eltérő adatmegőrzési szabályok is használhatók a peres eljárásokban, a eDiscovery vagy a megfelelőségi követelményeknek való megfelelés érdekében.
+    Az Exchange Online archiválási licence lehetővé teszi az üzenetek egyszerű archiválását folyamatos adatmentés használatával. Tárolja a felhasználó összes e-mail-üzenetét, beleértve a törölt elemeket is, arra az esetre, ha később szüksége lenne rájuk a feltárás vagy a visszaállítás érdekében. Emellett különböző adatmegőrzési házirendek használatával megőrizheti az e-mail-adatokat jogi visszatartások, elektronikus adatfeladatokat vagy megfelelőségi követelmények teljesítéséhez.
     
 - **[Érzékenységi címkék](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)**
 
-   A Microsoft 365 vállalati prémium verzió az [Azure Information Protection Plan 1](https://go.microsoft.com/fwlink/p/?linkid=871407)összes funkcióját tartalmazza. Ezzel a csomaggal létrehozhat olyan **tartalmi címkéket** , amelyek lehetővé teszik a bizalmas adatokhoz való hozzáférés szabályozását az e-mailekben és a dokumentumokban, például a "ne legyen előre" és a "nem lehet másolni" beállítással. A bizalmas adatokat "bizalmasként" is osztályozhatja, és megadhatja, hogy a bizalmas információk hogyan oszthatók meg az üzleten kívül és azon belül is. A nagyvállalati szintű titkosítás egyszerűen alkalmazható az e-mailekre és a dokumentumokra az információk magánjellegű megőrzéséhez. Az Azure Information Protection Client bővítményt is telepítheti az Office-alkalmazásokhoz. További információt az [Azure Information Protection egységesített feliratozási ügyfélprogram](https://docs.microsoft.com/azure/information-protection/rms-client/unifiedlabelingclient-version-release-history)című témakörben találhat. Az érzékenységi címkékhez telepítse a **AzInfoProtection_UL.exe**.
+   A Microsoft 365 Vállalati prémium verzió az [Azure Information Protection 1. csomag összes funkcióját tartalmazza.](https://go.microsoft.com/fwlink/p/?linkid=871407) Ezzel a csomaggal  bizalmas címkéket hozhat létre, amelyek lehetővé teszik a bizalmas információkhoz való hozzáférést az e-mailekben és a dokumentumokban, a "Nem továbbítható" és a "Nincs másolás" vezérlőkkel. A bizalmas adatokat "Bizalmasként" is osztályozhatja, és megadhatja, hogy a bizalmas információkat miként lehet megosztani a vállalaton belül és kívül. A nagyvállalati szintű titkosítás egyszerűen alkalmazható az e-mailekre és a dokumentumokra, hogy adatai privátak maradnak. Az Office-appok Azure Information Protection-ügyfél bővítményét is telepítheti. További információt az [Azure Information Protection egyesített címkézési ügyfélalkalmazásában található.](https://docs.microsoft.com/azure/information-protection/rms-client/unifiedlabelingclient-version-release-history) Bizalmasság-címkékhez telepítse a **AzInfoProtection_UL.exe.**
 
-Ezek a funkciók a biztonsági &amp; megfelelőségi központban és a Intune felügyeleti központban is kezelhetők. Idővel az egyszerűsített vezérlőelemek hozzáadódnak a Microsoft 365 felügyeleti központhoz.
+Ezeket a funkciókat a Biztonsági megfelelőségi központban és az &amp; Intune Felügyeleti központban kezelheti. Idővel az egyszerűsített vezérlők felkerülnek a Microsoft 365 Felügyeleti központba.
   
     
 ## <a name="faq"></a>GYIK
 
- ### <a name="are-these-security-features-available-in-all-markets"></a>Elérhetők ezek a biztonsági szolgáltatások minden piacon?
+ ### <a name="are-these-security-features-available-in-all-markets"></a>Minden piacon elérhetők ezek a biztonsági funkciók?
   
-Igen, ezek a funkciók minden olyan piacon elérhetők, ahol a Microsoft 365 vállalati prémium verzió értékesítve van.
+Igen, ezek a funkciók minden olyan piacon elérhetők, ahol a Microsoft 365 Vállalati prémium verzió vásárolható meg.
   
-### <a name="how-do-i-find-the-security-amp-compliance-center"></a>Hogyan találhatom meg a biztonsági &amp; megfelelőségi központot?
+### <a name="how-do-i-find-the-security-amp-compliance-center"></a>Hogyan találhatom meg a Biztonsági &amp; megfelelőségi központot?
   
-1. [Bejelentkezés a Microsoft 365 vállalati prémium](https://portal.microsoft.com/) verzióba a rendszergazdai hitelesítő adatokkal. 
+1. Jelentkezzen be a [Microsoft 365 Vállalati prémium](https://portal.microsoft.com/) verzióba a rendszergazdai hitelesítő adataival. 
     
-2. A bal oldali navigációs sávon keresse meg a **felügyeleti központokat** , és bontsa ki. 
+2. A bal oldali navigációs sávon keresse meg a **Felügyeleti központokat,** és bontsa ki. 
     
-    ![A Microsoft 365 felügyeleti központ bal oldali navigációs sávján válassza a felügyeleti központok lehetőséget.](../media/fa4484f8-c637-45fd-a7bd-bdb3abfd6c03.png)
+    ![A Microsoft 365 Felügyeleti központ bal oldali navigációs sávjában válassza a Felügyeleti központok lehetőséget.](../media/fa4484f8-c637-45fd-a7bd-bdb3abfd6c03.png)
   
-3. A **Biztonság &amp; megfelelősége** elemre koppintva lépjen a biztonsági &amp; megfelelőségi központba.
+3. Válassza **a Biztonsági megfelelőség &amp; lehetőséget** a Biztonsági megfelelőségi &amp; központba való ugráshoz.
