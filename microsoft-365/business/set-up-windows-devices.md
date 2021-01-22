@@ -1,5 +1,5 @@
 ---
-title: Windows-eszközök beállítása a Microsoft 365 vállalati prémium verzió felhasználóinak
+title: Windows-eszközök beállítása a Microsoft 365 Vállalati prémium verzió felhasználóinak
 f1.keywords:
 - CSH
 ms.author: sirkkuw
@@ -21,31 +21,32 @@ ms.custom:
 - OKR_SMB_Videos
 - seo-marvel-mar
 - AdminSurgePortfolio
+- okr_smb
 search.appverid:
 - BCS160
 - MET150
 ms.assetid: 2d7ff45e-0da0-4caa-89a9-48cabf41f193
-description: Megtudhatja, hogy miként állíthatja be a Windows 10 Pro rendszert futtató Windows-eszközöket a Microsoft 365 vállalati prémium verzió felhasználóinak, és engedélyezze a központi felügyeletet és a biztonsági vezérlőket.
-ms.openlocfilehash: c95b9e51c7ec3c440509fe34084d2a030c7f2eec
-ms.sourcegitcommit: e56894917d2aae05705c3b9447388d10e2156183
+description: Megtudhatja, hogy miként állíthatja be a Windows 10 Pro for Microsoft 365 Business Premium rendszert futtató windowsos eszközöket a központi felügyelet és a biztonsági vezérlők engedélyezésével.
+ms.openlocfilehash: b1877d83f113a2ba23d0db374967e0afcd7fe067
+ms.sourcegitcommit: 855719ee21017cf87dfa98cbe62806763bcb78ac
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 11/03/2020
-ms.locfileid: "48841259"
+ms.lasthandoff: 01/22/2021
+ms.locfileid: "49928724"
 ---
-# <a name="set-up-windows-devices-for-microsoft-365-business-premium-users"></a>Windows-eszközök beállítása a Microsoft 365 vállalati prémium verzió felhasználóinak
+# <a name="set-up-windows-devices-for-microsoft-365-business-premium-users"></a>Windows-eszközök beállítása a Microsoft 365 Vállalati prémium verzió felhasználóinak
 
-## <a name="prerequisites-for-setting-up-windows-devices-for-microsoft-365-business-premium-users"></a>A Windows-eszközök Microsoft 365 vállalati prémium verziós felhasználóknak való beállításának előfeltételei
+## <a name="prerequisites-for-setting-up-windows-devices-for-microsoft-365-business-premium-users"></a>A Windows-eszközök beállításának előfeltételei a Microsoft 365 Vállalati prémium verzió felhasználóinak
 
-Mielőtt beállíthatja a Windows-eszközöket a Microsoft 365 vállalati prémium verzió felhasználóinak, győződjön meg arról, hogy minden Windows-eszközön Windows 10 Pro, 1703-es verzió (alkotók frissítése) fut. Windows 10 Pro a Windows 10 Business központi telepítésének előfeltétele, amely a Windows 10 Pro rendszerhez készült felhőalapú szolgáltatások és eszközkezelés, valamint a Microsoft 365 vállalati prémium verzió központi kezelési és biztonsági ellenőrzésének engedélyezése.
+Mielőtt windowsos eszközöket állíthat be a Microsoft 365 Vállalati prémium verzió felhasználóinak, győződjön meg arról, hogy az összes Windows-eszközön a Windows 10 Pro 1703-as verziója (alkotói frissítés) fut. A Windows 10 Pro a Windows 10 Business telepítésének előfeltétele, amely a Windows 10 Pro-t kiegészítő felhőalapú szolgáltatások és eszközkezelési képességek készlete, amely lehetővé teszi a Microsoft 365 Vállalati prémium verzió központi kezelését és biztonsági vezérlőit.
   
-Ha Windows 7 Pro, Windows 8 Pro vagy Windows 8,1 Pro rendszerű Windows-eszközökkel rendelkezik, Microsoft 365 vállalati prémium verzióra szóló előfizetése feljogosítja a Windows 10-es frissítésre.
+Ha Windows 7 Pro, Windows 8 Pro vagy Windows 8.1 Pro rendszerű Windows-eszközöket futtat, a Microsoft 365 Vállalati prémium verziós előfizetése feljogosítja a Windows 10 frissítésére.
   
 Ha többet szeretne megtudni arról, hogy hogyan frissítheti Windows-eszközeit a Windows 10 Pro alkotói frissítésére, kövesse a következő témakörben szereplő lépéseket: [Windows-eszközök frissítése a Windows Pro alkotói frissítésére](upgrade-to-windows-pro-creators-update.md).
   
-Ellenőrizze, hogy az [eszköz csatlakoztatva van](#verify-the-device-is-connected-to-azure-ad) -e az Azure ad-hoz, és ellenőrizze, hogy rendelkezik-e a frissítéssel, vagy hogy biztosan működött-e a frissítés.
+Lásd: [Ellenőrizze, hogy az eszköz](#verify-the-device-is-connected-to-azure-ad) csatlakoztatva van-e az Azure AD-hez, és ellenőrizze, hogy sikerült-e a frissítés.
 
-Nézze meg ezt a rövid videót a Windows csatlakoztatásáról a Microsoft 365-ra.<br><br>
+Nézze meg a Windows és a Microsoft 365 csatlakoztatását bemutató rövid videót.<br><br>
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE3yXh3] 
 
@@ -53,7 +54,7 @@ Ha hasznosnak találta ezt a videót, tekintse meg a [teljes tanfolyamok kisvál
   
 ## <a name="join-windows-10-devices-to-your-organizations-azure-ad"></a>Windows 10-es eszközök csatlakoztatása a szervezet Azure AD szolgáltatásához
 
-Ha a szervezet minden Windows-eszköze frissítve lett a Windows 10-es Pro-készítők frissítésére, vagy már Windows 10-es Pro Creators frissítést futtat, ezek az eszközök a szervezet Azure Active Directoryhoz is bekapcsolódnak. Az eszközök csatlakoztatása után a rendszer automatikusan frissíti őket a Windows 10 Business verzióra, amely része a Microsoft 365 vállalati prémium verziós előfizetésnek.
+Ha a szervezet összes Windows-eszközét frissítette a Windows 10 Pro alkotói frissítésére, vagy már futtatja a Windows 10 Pro alkotói frissítését, csatlakozhat ezekhez az eszközökhez a szervezet Azure Active Directory szolgáltatásához. Miután csatlakozott az eszközökhez, automatikusan frissítjük őket a Windows 10 Business verzióra, amely a Microsoft 365 Vállalati prémium verziós előfizetés része.
   
 ### <a name="for-a-brand-new-or-newly-upgraded-windows-10-pro-device"></a>Vadonatúj vagy újonnan frissített Windows 10 Pro-eszköz esetén
 
@@ -63,7 +64,7 @@ A Windows 10 Pro alkotói frissítését futtató vadonatúj eszköz, illetve eg
     
     ![On the How would you like to set up page, choose Set up for an organization](../media/1b0b2dba-00bb-4a99-a729-441479220cb7.png)
   
-2. Itt válassza a **beállítás szervezethez** lehetőséget, majd adja meg a Microsoft 365 vállalati prémium verzió felhasználónevét és jelszavát. 
+2. Itt válassza a **Szervezet beállítása** lehetőséget, majd adja meg a Microsoft 365 Vállalati prémium verzió felhasználónevét és jelszavát. 
     
 3. Fejezze be a Windows 10-es eszköz beállítását.
     
@@ -95,27 +96,27 @@ A Windows 10 Pro alkotói frissítését futtató vadonatúj eszköz, illetve eg
   
    ![Enter your work or school email on the Let's get you signed in page](../media/f70eb148-b1d2-4ba3-be38-7317eaf0321a.png)
   
-6. A győződjön meg arról, hogy **Ez a szervezet** lapja, ellenőrizze, hogy az adatok helyesek-e, és válassza a **Csatlakozás** lehetőséget.
+6. Győződjön meg **arról, hogy ez** az Ön szervezete lapja, ellenőrizze, hogy helyesek-e az adatok, és válassza a **Csatlakozás lehetőséget.**
   
-   A minden készen áll **!** Lap, válasszon másikat **végzett**.
+   A **Minden beállítás meg van állítva!** lap, munka **kész.**
   
-   ![A győződjön meg róla, hogy a szervezet képernyőjén van, válassza a csatlakozás lehetőséget.](../media/c749c0a2-5191-4347-a451-c062682aa1fb.png)
+   ![A Bekapcsolódás 2010 2016](../media/c749c0a2-5191-4347-a451-c062682aa1fb.png)
   
-Szinkronizálja újból a OneDrive Vállalati verzióba esetleg feltöltött fájlokat. Ha harmadik féltől származó eszközt használ a profil és a fájlok áttelepítéséhez, az új profilba is szinkronizálja őket.
+Szinkronizálja újból a OneDrive Vállalati verzióba esetleg feltöltött fájlokat. Ha külső eszközt használt a profil és a fájlok áttelepítéséhez, ezeket is szinkronizálja az új profilba.
   
 ## <a name="verify-the-device-is-connected-to-azure-ad"></a>Annak ellenőrzése, hogy az eszköz csatlakoztatva van-e az Azure AD szolgáltatáshoz
 
-A szinkronizálás állapotának ellenőrzéséhez a **beállításokban** a **hozzáférés munkahelyi vagy iskolai** lapján jelölje be a **kapcsolat** _ \<organization name\> _ területhez választógombot, és válassza ki a gombok **adatait** , majd **válassza a leválasztás** lehetőséget. A szinkronizálási állapot eléréséhez válassza az **információ** lehetőséget. 
+A szinkronizálási állapot ellenőrzéséhez a Beállítások access munkahelyi vagy iskolai lapján válassza a Connected **to** _ _ (Csatlakoztatva) területet az Információ és a Kapcsolat  \<organization name\> bontása gomb eléréséhez.   Az **Információ lehetőséget** választva lekérte a szinkronizálás állapotát. 
   
-A **szinkronizálás állapota** lapon a **szinkronizálás** gombra koppintva nyissa meg a legújabb mobileszköz-kezelési házirendeket a PC-re.
+A Szinkronizálás **állapota lapon a** Szinkronizálás lehetőséget **választva** szerezze be a legújabb mobileszköz-kezelési házirendeket a pc-re.
   
-A Microsoft 365 vállalati prémium verzió használatának megkezdéséhez lépjen a Windows **Start** gombjára, kattintson a jobb gombbal az aktuális fiók képére, és válassza a **fiók váltása** parancsot. Jelentkezzen be a szervezeti e-mail-címével és jelszavával.
+A Microsoft 365 Vállalati prémium verziós fiók használatának elkezdéshez kattintson a Windows **Start** gombjára, kattintson a jobb gombbal az aktuális fiókképre, és válassza a Fiókváltás **gombot.** Jelentkezzen be a szervezeti e-mail-címével és jelszavával.
   
 ![Click Info button to view synchronization status](../media/818f7043-adbf-402a-844a-59d50034911d.png)
   
-## <a name="verify-the-pc-is-upgraded-to-windows-10-business"></a>Annak ellenőrzése, hogy a számítógép frissítve lett-e a Windows 10 Business verzióra
+## <a name="verify-the-pc-is-upgraded-to-windows-10-business"></a>A SZÁMÍTÓGÉP Windows 10 Vállalati verzióra való frissítésének ellenőrzése
 
-Győződjön meg arról, hogy a Microsoft 365 vállalati prémium verzióra szóló előfizetése részeként az Azure AD csatlakozik Windows 10-es eszközeit a Windows 10 Business verzióra frissítette.
+Győződjön meg arról, hogy az Azure AD-hez csatlakozott Windows 10-es eszközei a Microsoft 365 Vállalati prémium verziós előfizetése részeként Windows 10 Business verzióra frissítve vannak.
   
 1. Válassza a **Beállítások** \> **Rendszer** \> **Névjegy** lehetőséget.
     
@@ -125,8 +126,8 @@ Győződjön meg arról, hogy a Microsoft 365 vállalati prémium verzióra szó
   
 ## <a name="next-steps"></a>Következő lépések
 
-A mobileszközök beállításáról a [mobileszközök beállítása a microsoft 365 vállalati prémium verzió felhasználóinak](set-up-mobile-devices.md)című témakörben olvashat a [Microsoft 365 vállalati verzió kezelése](manage.md)című témakörben.
+A mobileszközök beállítását lásd: Mobileszközök beállítása [a Microsoft 365 Vállalati prémium](set-up-mobile-devices.md)verzió felhasználóinak, eszközvédelmi és alkalmazásvédelmi házirendek beállításához lásd: Microsoft [365 Vállalati](manage.md)verzió kezelése.
   
-## <a name="for-more-on-setting-up-and-using-microsoft-365-business-premium"></a>További információ a Microsoft 365 Business Premium beállításáról és használatáról
+## <a name="for-more-on-setting-up-and-using-microsoft-365-business-premium"></a>További információ a Microsoft 365 Vállalati prémium verzió beállításával és használatával
 
-[Microsoft 365 vállalati verziós képzési videók](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
+[Microsoft 365 Vállalati verziós oktatóvideók](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
