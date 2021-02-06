@@ -1,5 +1,5 @@
 ---
-title: Áttérés a Microsoft 365 Business webhelyről a Microsoft 365 E3 csomagra
+title: Áttelepítés a Microsoft 365 Vállalati verzióról a Microsoft 365 E3 verzióra
 f1.keywords:
 - NOCSH
 ms.author: josephd
@@ -21,133 +21,131 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: 5b4ba843-24b8-4526-8e1f-f9b9eab89d06
-description: Megtudhatja, hogy miként helyezheti át vállalkozását a Microsoft 365 Business Premiumból a Microsoft 365 E3 csomagra.
-ms.openlocfilehash: 3f1bb9591e1bd2bac49326325ce6c8c2d6778497
-ms.sourcegitcommit: c1dd5be42fe0c5dcc7c05817c941edd9076febf8
+description: Megtudhatja, hogy miként helyezze át vállalkozását a Microsoft 365 Vállalati prémium verzióról a Microsoft 365 E3 csomagra.
+ms.openlocfilehash: 019a422bb879389f42a32cf30f9a8094f776078a
+ms.sourcegitcommit: eac5d9f759f290d3c51cafaf335a1a1c43ded927
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "49558238"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "50126201"
 ---
-# <a name="migrate-from-microsoft-365-business-premium-to-microsoft-365-e3"></a>Áttérés a Microsoft 365 Business premiumról a Microsoft 365 E3 csomagra
+# <a name="migrate-from-microsoft-365-business-premium-to-microsoft-365-e3"></a>Áttelepítés a Microsoft 365 Vállalati prémium verzióról a Microsoft 365 E3 csomagra
 
-A Microsoft 365 vállalati prémium verzióban mindent meg kell tennie a kisvállalati verzióhoz, amely egyesíti a legalkalmasabb felhőalapú hatékonyságnövelő alkalmazásokat az egyszerű eszközkezelés és-biztonság segítségével, amelyek lehetővé teszik az alkalmazottak számára a legmegfelelőbb munkát. Bizonyos esetekben azonban előfordulhat, hogy a Microsoft 365 vállalati prémium verzióra szóló előfizetést át kell telepítenie a Microsoft 365 E3 csomagra. 
+A Microsoft 365 Vállalati prémium verzió mindennel rendelkezik, ami a kisvállalati verzióhoz szükséges, a legjobb, felhőalapú hatékonyságnövelő alkalmazásokat egyszerű eszközkezelési és biztonsági funkciókkal kombinálva, amelyek lehetővé teszik az alkalmazottaknak, hogy a lehető legjobb munkájukat tetsszen. Bizonyos esetekben azonban előfordulhat, hogy át kell áttelepítése a Microsoft 365 Vállalati prémium verziós előfizetését a Microsoft 365 E3 csomagra. 
 
-Üzleti tevékenysége például több mint 300-licenccel (Gratulálunk) bővült és szükséges.
+A vállalkozása például több mint 300 licencre van szüksége (egyébként gratulálunk!
 
-Vagy az üzleti igények nagyvállalati funkciókat, többek között a Microsoft 365-alkalmazásokat, a Windows 10-es nagyvállalati E3 verziót vagy az Enterprise ügyfél-hozzáférési licenceket (CAL) kell megadniuk.
+A vállalatnak nagyvállalati funkciókra is szüksége van, például a Nagyvállalati Microsoft 365-alkalmazásokra, a Windows 10 Nagyvállalati E3 verzióra vagy a Nagyvállalati ügyfélelérési licencekre (CAL-ek).
 
-A frissítés egyszerű: a frissítés [a felügyeleti központból](../commerce/subscriptions/upgrade-to-different-plan.md)indítható el. A jelenlegi előfizetésben lévő összes adatot és konfigurációt karbantartja. Nem kell semmit sem tennie az áttelepítésre való felkészüléshez, és semmi teendőt sem kell tennie, kivéve az új funkciók előnyeit.
+A frissítés egyszerű: a frissítést a Felügyeleti [központból indíthatja el.](../commerce/subscriptions/upgrade-to-different-plan.md) Az aktuális előfizetésében lévő összes adata és konfigurációja megmarad. Az áttelepítésre való felkészüléshez semmit sem kell tennie, és később semmit sem kell tennie, csak ki kell használnia az új funkciók előnyeit.
 
 >[!Note]
->A Microsoft 365 vállalati prémium verzióra szóló előfizetéssel akár 300 helyet is elérheti, és Microsoft 365 E3-előfizetést szerezhet a több mint 300 helyhez. A Microsoft Defender for Office 365 azonban nem része a Microsoft 365 E3 csomagnak. A további veszélyforrások elleni védelem érdekében további Office 365-licenceket kell hozzáadnia, hogy az Office 365-ös felügyelői által biztosított összes felhasználó rendelkezik licenccel.
+>Microsoft 365 Vállalati prémium verziós előfizetéssel akár 300-as verziós előfizetést is használhat, és Microsoft 365 E3-előfizetést is kaphat több mint 300 csomaghoz. A Microsoft Defender az Office 365-hez azonban nem része a Microsoft 365 E3-nak. A további veszélyforrások elleni védelem érdekében további Office 365-licenceket kell hozzáadnia, hogy az Office 365-ös Defenderrel rendelkező összes felhasználónak legyen licence.
 >
 
-## <a name="differences-between-microsoft-365-business-premium-and-microsoft-365-enterprise"></a>A Microsoft 365 vállalati prémium verzió és a Microsoft 365 Enterprise közötti különbségek
+## <a name="differences-between-microsoft-365-business-premium-and-microsoft-365-enterprise"></a>Különbségek a Microsoft 365 Vállalati prémium verzió és a Microsoft 365 Nagyvállalati verzió között
 
-Ez a táblázat a Microsoft 365 Business Premium és a Microsoft 365 E3 közötti különbségeket mutatja be.
+Az alábbi táblázat a Microsoft 365 Vállalati prémium verzió és a Microsoft 365 E3 közötti különbségeket mutatja be.
 
-| Funkció    | Támogatás a Microsoft 365 vállalati prémium verzióban    | Támogatás a Microsoft 365 E3 csomaghoz | 
+| Funkció    | Támogatás a Microsoft 365 Vállalati prémium verzióban    | Támogatás a Microsoft 365 E3-ban | 
 |:-------|:-----|:-----|
 | **Helyszíni**        | | | 
-| Windows 10    | Windows 10 Business  |     Windows 10 nagyvállalati E3 csomag| 
-| Office-alkalmazások *    | [Microsoft 365-alkalmazások vállalati verzió](#office-365-business)    | Nagyvállalati Microsoft 365-alkalmazások | 
+| Windows 10    | Windows 10 Business  |     Windows 10 Enterprise E3| 
+| Office-appok*    | [Microsoft 365-alkalmazások vállalati verzió](#office-365-business)    | Nagyvállalati Microsoft 365-alkalmazások | 
 | **Felhőbeli hatékonyságnövelő alkalmazások**        | | | 
-| Exchange Online és Outlook    | 50 GB tárolási korlát egy postaládában és korlátlan Exchange Online archiválás    | 100 GB tárolási korlát egy postaládában és korlátlan Exchange Online archiválás | 
-| Teams    | ![A Microsoft 365 vállalati prémium verzió része](../media/check-mark.png)    | ![A Microsoft 365 E3 csomag része](../media/check-mark.png) | 
-| OneDrive Vállalati verzió    | 1 TB tárterület felhasználónként    | Korlátlan | 
-| Yammer, SharePoint Online, Planner, Stream    | ![A Microsoft 365 vállalati prémium verzió része](../media/check-mark.png)    | ![A Microsoft 365 E3 csomag része](../media/check-mark.png) | 
-| MileIQ    | ![A Microsoft 365 vállalati prémium verzió része](../media/check-mark.png)    | | 
+| Exchange Online és Outlook    | Postaládánként 50 GB tárterületkorlát és korlátlan Exchange Online-archiválás    | Postaládánként 100 GB tárterületkorlát és korlátlan Exchange Online-archiválás | 
+| Teams    | ![A Microsoft 365 Vállalati prémium verzió része](../media/check-mark.png)    | ![A Microsoft 365 E3 csomagban](../media/check-mark.png) | 
+| OneDrive Vállalati verzió    | Felhasználónként 1 TB tárterületkorlát    | Korlátlan | 
+| Yammer, SharePoint Online, Planner, Stream    | ![A Microsoft 365 Vállalati prémium verzió része](../media/check-mark.png)    | ![A Microsoft 365 E3 csomagban](../media/check-mark.png) | 
+| MileIQ    | ![A Microsoft 365 Vállalati prémium verzió része](../media/check-mark.png)    | | 
 | **Veszélyforrások elleni védelem**        | | | 
-| A támadási felület csökkentési lehetőségei    | [A lista megtekintése](#threat-protection) | A Microsoft Edge hardver-alapú elkülönítésének vállalati kezelése | 
-| Defender for Office 365-es csomag 1 | ![A Microsoft 365 vállalati prémium verzió része](../media/check-mark.png)    | Nem szerepelnek, de hozzáadhatók | 
-| **Személyazonosság-kezelés**        | | | 
-| Önkiszolgáló jelszó-visszaállítás a hibrid Azure Active Directory-fiókokhoz, Azure ad multi-Factor Authentication (MFA), feltételes hozzáférés, jelszó-és writeback a helyszíni identitásokhoz|     ![A Microsoft 365 vállalati prémium verzió része](../media/check-mark.png)    | ![A Microsoft 365 E3 csomag része](../media/check-mark.png) | 
-| Felhőbeli app-felderítés, Azure AD Connect Health    |     | ![A Microsoft 365 E3 csomag része](../media/check-mark.png) | 
-| Azure AD Office 365-alkalmazások egyetlen Sign-On (SSO): 10 app felhasználónként (Gallery SaaS-alkalmazások, például Salesforce) * | ![A Microsoft 365 vállalati prémium verzió része](../media/check-mark.png)    | ![A Microsoft 365 E3 csomag része](../media/check-mark.png) | 
-| Azure AD prémium 1 egyszeri bejelentkezés: nincs korlátozás (helyszíni alkalmazások Azure AD alkalmazásproxy-és nem-gyűjteményes alkalmazásokon keresztül Self-Service app-integrációs sablonok használatával)    |     | ![A Microsoft 365 E3 csomag része](../media/check-mark.png) | 
-| **Eszközök és alkalmazások kezelése**        | | | 
-| Microsoft Intune, Windows Autopilot|     ![A Microsoft 365 vállalati prémium verzió része](../media/check-mark.png)    | ![A Microsoft 365 E3 csomag része](../media/check-mark.png) | 
-|Virtuális asztali hozzáférés (VDA)    |  |     ![A Microsoft 365 E3 csomag része](../media/check-mark.png) | 
-|Windows Virtual Desktop (WVD)    | ![A Microsoft 365 vállalati prémium verzió része](../media/check-mark.png) |     ![A Microsoft 365 E3 csomag része](../media/check-mark.png) | 
-|Megosztott számítógép-aktiválás (SCA)    | ![A Microsoft 365 vállalati prémium verzió része](../media/check-mark.png) |     ![A Microsoft 365 E3 csomag része](../media/check-mark.png) | 
-| Microsoft asztali optimalizálási csomag    | |     ![A Microsoft 365 E3 csomag része](../media/check-mark.png) | 
-| **Adatvédelem**        | | | 
-| Az Office 365 adatvesztés-megelőzése, Azure Information Protection Plan 1    | ![A Microsoft 365 vállalati prémium verzió része](../media/check-mark.png)    | ![A Microsoft 365 E3 csomag része](../media/check-mark.png) | 
-| Window Information Protection for Endpoint DLP    | ![A Microsoft 365 vállalati prémium verzió része](../media/check-mark.png)    | ![A Microsoft 365 E3 csomag része](../media/check-mark.png) | 
-| **Ügyfél-hozzáférési licenc (CAL-jogok)**    | | |     
-| Nagyvállalati CAL Suite (Exchange, SharePoint, Skype, Windows, Microsoft Endpoint Configuration Manager, Windows Rights Management)| |         ![A Microsoft 365 E3 csomag része](../media/check-mark.png) | 
-| **Megfelelőségi**        | | | 
-| Korlátlan e-mail-archiválás    | ![A Microsoft 365 vállalati prémium verzió része](../media/check-mark.png)    | ![A Microsoft 365 E3 csomag része](../media/check-mark.png) | 
-| Megfelelőségi vezető    | ![A Microsoft 365 vállalati prémium verzió része](../media/check-mark.png)    | ![A Microsoft 365 E3 csomag része](../media/check-mark.png) | 
-| eDiscovery    | ![A Microsoft 365 vállalati prémium verzió része](../media/check-mark.png)    | ![A Microsoft 365 E3 csomag része](../media/check-mark.png) | 
-| Helyi visszatartás és jogi célú mentesség    | ![A Microsoft 365 vállalati prémium verzió része](../media/check-mark.png)    | ![A Microsoft 365 E3 csomag része](../media/check-mark.png) | 
-| Üzenetküldési rekordok kezelése (MRM) adatmegőrzési címkék és adatmegőrzési házirendek    | ![A Microsoft 365 vállalati prémium verzió része](../media/check-mark.png)    | ![A Microsoft 365 E3 csomag része](../media/check-mark.png) | 
+| Támadásifelület-csökkentés lehetőségei    | [A lista](#threat-protection) | Hardveralapú elkülönítés nagyvállalati kezelése a Microsoft Edge-ben | 
+| Defender az Office 365 1. csomaghoz | ![A Microsoft 365 Vállalati prémium verzió része](../media/check-mark.png)    | Nem szerepel a csomagban, de hozzáadható | 
+| **Identitáskezelés**        | | | 
+| Önkiszolgáló jelszó-visszaállítás a hibrid Azure Active Directory -fiókokhoz (Azure AD), Azure AD többtényezős hitelesítéshez (MFA), feltételes hozzáféréshez, jelszóvisszaírás helyszíni identitásokhoz|     ![A Microsoft 365 Vállalati prémium verzió része](../media/check-mark.png)    | ![A Microsoft 365 E3 csomagban](../media/check-mark.png) | 
+| Cloud App Discovery, Azure AD Connect Health    |     | ![A Microsoft 365 E3 csomagban](../media/check-mark.png) | 
+| Azure AD Office 365-appok Sign-On (SSO): Felhasználónként 10 app (Gallery SaaS-appok, például Salesforce)* | ![A Microsoft 365 Vállalati prémium verzió része](../media/check-mark.png)    | ![A Microsoft 365 E3 csomagban](../media/check-mark.png) | 
+| Azure AD Premium 1 SSO: nincs korlát (helyszíni appok az Azure AD alkalmazásproxyn keresztül és nem galériaalkalmazások az Self-Service appintegrációs sablonokkal)    |     | ![A Microsoft 365 E3 csomagban](../media/check-mark.png) | 
+| **Eszköz- és alkalmazáskezelés**        | | | 
+| Microsoft Intune, Windows Autopilot|     ![A Microsoft 365 Vállalati prémium verzió része](../media/check-mark.png)    | ![A Microsoft 365 E3 csomagban](../media/check-mark.png) | 
+|Virtual Desktop Access (VDA)    |  |     ![A Microsoft 365 E3 csomagban](../media/check-mark.png) | 
+|Windows Virtuális asztal (WVD)    | ![A Microsoft 365 Vállalati prémium verzió része](../media/check-mark.png) |     ![A Microsoft 365 E3 csomagban](../media/check-mark.png) | 
+|Megosztott számítógép aktiválása (SCA)    | ![A Microsoft 365 Vállalati prémium verzió része](../media/check-mark.png) |     ![A Microsoft 365 E3 csomagban](../media/check-mark.png) | 
+| A Microsoft asztali optimalizálási csomagja    | |     ![A Microsoft 365 E3 csomagban](../media/check-mark.png) | 
+| **Információvédelem**        | | | 
+| Office 365 Adatveszteség-megelőzés, Azure Information Protection 1. csomag    | ![A Microsoft 365 Vállalati prémium verzió része](../media/check-mark.png)    | ![A Microsoft 365 E3 csomagban](../media/check-mark.png) | 
+| Window Information Protection for endpoint DLP    | ![A Microsoft 365 Vállalati prémium verzió része](../media/check-mark.png)    | ![A Microsoft 365 E3 csomagban](../media/check-mark.png) | 
+| **Ügyfélelérési licenc (CAL-jogok)**    | | |     
+| Nagyvállalati CAL csomag (Exchange, SharePoint, Skype, Windows, Microsoft Endpoint Configuration Manager, Windows Rights Management)| |         ![A Microsoft 365 E3 csomagban](../media/check-mark.png) | 
+| **Megfelelőség**        | | | 
+| Korlátlan e-mail archiválás    | ![A Microsoft 365 Vállalati prémium verzió része](../media/check-mark.png)    | ![A Microsoft 365 E3 csomagban](../media/check-mark.png) | 
+| Megfelelőségkezelő    | ![A Microsoft 365 Vállalati prémium verzió része](../media/check-mark.png)    | ![A Microsoft 365 E3 csomagban](../media/check-mark.png) | 
+| Elektronikus észlelés    | ![A Microsoft 365 Vállalati prémium verzió része](../media/check-mark.png)    | ![A Microsoft 365 E3 csomagban](../media/check-mark.png) | 
+| Helybeli és jogi tartás    | ![A Microsoft 365 Vállalati prémium verzió része](../media/check-mark.png)    | ![A Microsoft 365 E3 csomagban](../media/check-mark.png) | 
+| Üzenetrekord-kezelési (MRM) adatmegőrzési címkék és adatmegőrzési házirendek    | ![A Microsoft 365 Vállalati prémium verzió része](../media/check-mark.png)    | ![A Microsoft 365 E3 csomagban](../media/check-mark.png) | 
 ||||
 
-\* Azok a felhasználók, akik hozzáféréssel rendelkeznek a SaaS-alkalmazásokhoz, beszerezhetnek egyszeri bejelentkezést, akár 10 alkalmazásba is. A rendszergazdák beállíthatják az egyszeri bejelentkezést, és módosíthatják a felhasználók hozzáférését a különböző SaaS-alkalmazásokhoz, az SSO-hozzáférés azonban csak felhasználónként 10 alkalmazásban engedélyezett egyszerre. Minden Office 365-alkalmazás egyetlen alkalmazásként számítja ki.
+\* Azok a felhasználók, akik hozzáféréssel vannak a SaaS-alkalmazásokhoz, SSO-hozzáférést kaphatnak legfeljebb 10 apphoz. A rendszergazdák konfigurálhatnak SSO-t, és módosíthatják a különböző SaaS-appok felhasználói hozzáférését, de az SSO-hozzáférés felhasználónként csak 10 app számára engedélyezett. Minden Office 365-app egyetlen alkalmazásnak számít.
 
-## <a name="migration"></a>Áttelepítési
+## <a name="migration"></a>Áttelepítés
 
-A partnerekkel való áttelepítés érdekében a Microsoft 365 vállalati prémium verzióra szóló előfizetését és licenceit egy megfelelő Microsoft 365 E3-előfizetésre kell áthelyeznie a licencekkel.
+Az áttelepítéshez a partnerével együtt helyezze át Microsoft 365 Vállalati prémium verziós előfizetését és licencét egy megfelelő Microsoft 365 E3-előfizetésbe a licencével együtt.
 
-Az alábbi szakaszok ismertetik, hogy milyen módosításokat kell végrehajtania, ha vannak ilyenek, és hogy mit tehet az áttelepítés után.
+Az alábbi szakaszok ismertetik, hogy milyen módosításokat kell megtennie (ha van ilyen) és milyen lehetőségeket kell követnie az áttelepítés után.
 
-### <a name="microsoft-365-subscription-configuration-and-data"></a>Microsoft 365-előfizetés konfigurációja és adatainak
+### <a name="microsoft-365-subscription-configuration-and-data"></a>A Microsoft 365-előfizetés konfigurációja és adatai
 
-Az áttelepítés előtt nem kell módosítania a jelenlegi előfizetést vagy adatot, beleértve az alábbiakat:
+Az áttelepítés előtt semmit sem kell változtatnia az aktuális előfizetésen vagy az adatokon, beleértve az alábbi adatokat:
 
-- Előfizetés konfigurációja (például DNS-tartománynevek)
-- Felhasználók és csoportok fiókjai és hitelesítési beállításai, például többtényezős hitelesítés vagy feltételes hozzáférésű házirendek.
-- A hatékonyságnövelő szolgáltatások konfigurációi és adatai, többek között a Teams, az Exchange Online-postaládák, a SharePoint Online-webhelyek, a OneDrive vállalati verziós mappák és a OneNote-jegyzetfüzetek.
+- Előfizetés-konfiguráció, például DNS-tartománynevek.
+- Felhasználói és csoportos fiókok és hitelesítési beállítások, például többtényezős hitelesítés vagy feltételes hozzáférési házirendek.
+- Hatékonyságnövelő szolgáltatáskonfigurációk és adataik, például Teams, Exchange Online-postaládák, SharePoint Online-webhelyek, OneDrive Vállalati verziós mappák és OneNote-jegyzetfüzetek.
 
-A felhasználók mostantól korlátlan tárhelyet élvezhetnek az Exchange Online-postaládák és a OneDrive vállalati verzió mappáiban.
+A felhasználók mostantól korlátlan tárterületet használhatjanak az Exchange Online-postaládákban és a OneDrive Vállalati verzió mappáiban.
 
-Használhatja a Cloud app Discovery, az Azure AD Connect Health és az SSO több mint 10 alkalmazást.
+Több mint 10 alkalmazáshoz használhatja a Cloud App Discovery, az Azure AD Connect Health és az SSO alkalmazást.
 
 >[!Note]
->A Microsoft 365 E3-ra áttelepített felhasználók már nem használhatják a MileIQ.
+>A Microsoft 365 E3-ra áttelepített felhasználók már nem használhatják a MileIQ-t.
 >
 
 <a name="threat-protection"></a>
 ### <a name="threat-protection"></a>Veszélyforrások elleni védelem
 
-A Windows 10 Business a következő védelmet foglalja magában:
+A Windows 10 Business az alábbi védelmet tartalmazza:
 
-- Az operációs rendszer indítási folyamatának integritása
-- Az érzékeny operációs összetevők sértetlenségének érvényesítése
-- Speciális biztonsági rések és a nulladik napi hibák enyhítése
-- Jó hírű hálózati védelem a Microsoft Edge, az Internet Explorer és a Chrome számára
-- Host-alapú tűzfal
-- Ransomware enyhítése
-- Hardveres elkülönítés a Microsoft Edge-ben
-- Az intelligens biztonsági diagram által működtetett alkalmazás-vezérlés
-- Device Control (USB)
-- Webes fenyegetések hálózati védelme
-- A fogadó Behatolás-megelőzési szabályok
+- Az operációs rendszerindítási folyamat integritási kényszerítési eljárása
+- Bizalmas működési összetevők integritási kényszerítése
+- Fejlett biztonsági rés és nulla napos kiaknázás elleni megoldások
+- A Microsoft Edge, az Internet Explorer és a Chrome jó hírnevén alapuló hálózatvédelem
+- Host-based firewall
+- Zsarolóvírusok elleni megoldások
+- Hardveralapú elkülönítés a Microsoft Edge-hez
+- Az Intelligens biztonsági grafikonon vezérelt alkalmazásvezérlő
+- Eszközvezérlő (USB)
+- A webes veszélyforrások hálózatvédelemmel való védelme
+- Host intrusion prevention rules
 
-A Windows 10 nagyvállalati E3 csomag a Microsoft Edge hardveres elkülönítésének vállalati kezelését is tartalmazza.
+A Windows 10 Nagyvállalati E3 csomag a Microsoft Edge hardveralapú elkülönítésének nagyvállalati kezelését is magában foglalja.
 
 >[!Note]
->A Microsoft 365 E3 rendszerre áttelepített felhasználók mindegyikéhez szükséges a Microsoft Defender for Office 365 licenc a folyamatos fenyegetettség elleni védelemhez. Ügyeljen arra, hogy további Office 365-licenceket vásároljon, hogy az Office 365-ös felügyelői által biztosított összes felhasználó rendelkezik licenccel. 
+>A Microsoft 365 E3-ra áttelepített felhasználóknak szükségük lesz egy Microsoft Defender Office 365-licencre a további veszélyforrások elleni védelem érdekében. Mindenképpen vásároljon további Office 365-ös Office 365-licenceket, hogy az Office 365-ös Defenderrel rendelkező összes felhasználónak legyen licence. 
 >
 
-### <a name="device-management-with-intune"></a>Eszközkezelés az Intune segítségével
+### <a name="device-management-with-intune"></a>Eszközkezelés az Intune-nal
 
-A áttelepítés előtt nem kell módosítania a jelenlegi Intune-konfigurációt, beleértve a regisztrált eszközöket, valamint az eszközök és az App beállításait is.
+Az áttelepítés előtt nem kell módosítania az aktuális Intune-konfigurációját, beleértve a regisztrált eszközöket, valamint az eszköz- és alkalmazásbeállításokat.
 
 ### <a name="windows-10"></a>Windows 10
 
-A Microsoft 365 vállalati prémium verzió tartalmazza a Windows 10 Business verziót, amelyet a Windows Autopilot segítségével telepíthet. A Microsoft 365 E3-ra történő áttelepítéskor minden felhasználói licenc tartalmazza a Windows 10 nagyvállalati E3 verziót, amelyet a Windows Autopilot segítségével is telepíthet.
+A Microsoft 365 Vállalati prémium verzió tartalmazza a Windows 10 Businesst, amelyet a Windows AutoPilottal telepíthet. A Microsoft 365 E3 csomagra való áttelepítéskor minden felhasználói licenc tartalmazza a Windows 10 Nagyvállalati E3 rendszert, amelyet a Windows Autopilottal is telepíthet.
 
 <a name="office-365-business"></a>
 ###  <a name="microsoft-365-apps-for-business"></a>Microsoft 365-alkalmazások vállalati verzió
 
-A Microsoft 365-alapú Office-alkalmazások telepítése automatikusan megkezdődik a Microsoft 365-alkalmazások nagyvállalatoknak funkcióinak használatához. Az áttelepítés után mostantól használhatja a következőt:
+Az eszközeire telepített Microsoft 365-alkalmazások vállalati ügyfélalkalmazások automatikusan megkezdik a Nagyvállalati Microsoft 365-alkalmazások funkcióinak használatát. Az áttelepítés után a következőt használhatja:
 
- - A mennyiségi aktiválás csoportházirenden keresztül
- - App telemetriai
- - Vezérlők frissítése
- - Számolótábla összehasonlítása és lekérdezése
+ - Csoportházirend támogatása
+ - Spreadsheet compare and inquire
  - Üzleti intelligencia
 
