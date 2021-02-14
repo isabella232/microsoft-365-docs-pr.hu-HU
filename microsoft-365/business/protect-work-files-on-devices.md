@@ -27,7 +27,7 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 52089919-9a5e-475f-a49a-f65369487861
-description: 'Ismerje meg az alapértelmezett konfigurációt, és adja hozzá az alkalmazáskezelési szabályzatokat a felhasználók személyes mobileszközeinek vállalati adatainak védelme érdekében. '
+description: 'Megtudhatja, hogy hogyan konfigurálható az alapértelmezett beállítás, és hogyan adhat hozzá alkalmazáskezelési házirendeket a vállalati adatok védelméhez a felhasználók személyes mobileszközén. '
 ms.openlocfilehash: 6dd6bc5c16ffbbd6ed62f16ad11e1eeb8e06a193
 ms.sourcegitcommit: 2d664a95b9875f0775f0da44aca73b16a816e1c3
 ms.translationtype: MT
@@ -37,13 +37,13 @@ ms.locfileid: "44470907"
 ---
 # <a name="protect-work-files-on-devices"></a>Eszközökön tárolt munkahelyi fájlok védelme
 
-Ez a cikk a Microsoft 365 Business Premium szolgáltatásra vonatkozik.
+Ez a cikk a Microsoft 365 Vállalati prémium verzióra vonatkozik.
 
-A mai világban a felhasználók az eszközeikhez kötődnek, és mivel a személyes és a munkahelyi élet ütközik, a vállalati adatok egy alkalmazott személyes eszközén végződhetnek. Az itt megadható beállítások segítségével saját kezébe veheti az irányítást, és úgy nyújthat védelmet a munkahelyi fájloknak, hogy az semmilyen hatással ne legyen az alkalmazottak személyes beállításaira vagy adataira.
+Napjainkban a felhasználók hozzá vannak kötve az eszközeikhez, és mivel a személyes és a munkahelyi élet összeütköz, céges adatai egy alkalmazott személyes eszközén végződnek. Az itt megadható beállítások segítségével saját kezébe veheti az irányítást, és úgy nyújthat védelmet a munkahelyi fájloknak, hogy az semmilyen hatással ne legyen az alkalmazottak személyes beállításaira vagy adataira.
   
 ## <a name="configuring-policies-during-setup"></a>Házirendek konfigurálása a telepítés során
 
-A telepítés során három alkalmazáskezelési házirend lesz hozzáadva: Android, iOS és Windows 10 rendszerekhez egy-egy. Minden házirend ugyanazokat a beállításokat, és minden felhasználóra vonatkoznak. A házirendek akkor aktiválódnak, amikor a felhasználó a munkahelyi profiljával kapcsolódik a mobiltelefonhoz.
+A telepítés során három alkalmazáskezelési házirend lesz hozzáadva: Android, iOS és Windows 10 rendszerekhez egy-egy. Mindegyik házirend azonos beállításokkal rendelkezik, és minden felhasználóra vonatkoznak. A házirendek akkor aktiválódnak, amikor a felhasználó a munkahelyi profiljával kapcsolódik a mobiltelefonhoz.
   
 Azt javasoljuk, hogy a telepítés során az alapértelmezett beállításokat fogadja el. A telepítés után további házirendeket is hozzáadhat, amelyekkel finomhangolhatja a beállításokat, és az egyes felhasználói csoportokra különféle szabályozási szinteket határozhat meg.
   

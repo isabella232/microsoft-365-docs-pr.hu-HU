@@ -21,7 +21,7 @@ search.appverid:
 - BCS160
 - MET150
 - MOE150
-description: Ismerje meg a mobileszköz-kezelés és a mobilalkalmazás-kezelés, illetve az MDM és a MAM közötti különbségeket.
+description: Ismerje meg a mobileszköz-kezelés és a mobilappok kezelése, illetve a mobileszköz-kezelés és a mobileszköz-kezelés közötti különbségeket.
 ms.openlocfilehash: ecb06ffc23823df72f9254d881f6b1dc1b781f59
 ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
 ms.translationtype: MT
@@ -29,15 +29,15 @@ ms.contentlocale: hu-HU
 ms.lasthandoff: 04/21/2020
 ms.locfileid: "45081824"
 ---
-# <a name="difference-between-mdm-and-mam"></a>Különbség az MDM és a MAM között
+# <a name="difference-between-mdm-and-mam"></a>A MDM és a MAM közötti különbség
 
-A Microsoft 365 Business Premium számos lehetőséget kínál az üzleti adatok védelmére. A [Microsoft 365 Business Premium áttekintése című témakörben](../microsoft-365-business-overview.md) olvashat bővebben az automatikusan beállított különböző védelemről, valamint arról, hogy mit állíthat be saját maga a vállalkozás további védelme érdekében. Olyan házirendeket is beállíthat, amelyek védik a Windows 10-es eszközeit és a mobileszközökön lévő adatokat.
+A Microsoft 365 Vállalati prémium verzió számos lehetőséget kínál az üzleti adatok védelmére. A [Microsoft 365 Vállalati prémium](../microsoft-365-business-overview.md) verzió áttekintése témakörben további információt talál az automatikusan beállított különféle védelemről, valamint arról, hogy mit állíthat be saját maga a vállalat további védelme érdekében. Olyan házirendeket is állíthat be, amelyek védik a Windows 10-es eszközöket és a mobileszközei adatait.
 [Alkalmazásvédelmi beállítások megadása Windows 10-es eszközökhöz.](../protection-settings-for-windows-10-devices.md)
 
-## <a name="mobile-device-management-or-mdm"></a>Mobileszköz-kezelés vagy MDM
+## <a name="mobile-device-management-or-mdm"></a>Mobileszköz-kezelés vagy mobileszköz-kezelés
 
-A Microsoft 365 Business Premium lehetővé teszi olyan házirendek beállítását, amelyek védik a Windows 10-es eszközökön lévő adatokat. Ha egy eszköz mobileszköz-felügyelet alatt áll, a teljes eszközt vezérelheti, és törölheti az adatokat, és visszaállíthatja a gyári beállításokat. További információt a [Windows 10 rendszerű számítógépek eszközvédelmi beállításainak megadása című témakörben talál.](../protection-settings-for-windows-10-pcs.md)
+A Microsoft 365 Vállalati prémium verzió lehetővé teszi olyan házirendek beállítását, amelyek védik az adatokat a Windows 10-es eszközökön. Ha egy eszköz mobileszköz-kezelés alatt áll, Ön irányíthatja a teljes eszközt, és adatokat törölhet róla, és visszaállíthatja a gyári beállításokra. További információt a [Windows 10-es PC-k eszközvédelmi beállításainak megadása.](../protection-settings-for-windows-10-pcs.md)
 
-## <a name="mobile-application-management-or-mam"></a>Mobilalkalmazás-kezelés vagy MAM
+## <a name="mobile-application-management-or-mam"></a>Mobilalkalmazás-kezelés vagy mobileszköz-kezelés
 
-A mobilalkalmazás-kezelés lehetővé teszi az üzleti adatok szabályozását a felhasználók személyes eszközeiben, például az iPhone-okon és az Android-on, valamint a személyes Win 10 számítógépeken. Az alkalmazáskezelési házirendek segítségével megakadályozhatja, hogy a felhasználók üzleti adatokat másoljanak az Office-alkalmazásokból a személyes alkalmazásaikba. Az Office-alkalmazásokból is eltávolíthatja az összes adatot a személyes eszközeiken. További információt az [Alkalmazásvédelmi beállítások megadása Android- vagy iOS-eszközökhöz](../app-protection-settings-for-android-and-ios.md) és [Az alkalmazásvédelmi beállítások megadása Windows 10-eszközökhöz című témakörben](../protection-settings-for-windows-10-devices.md)talál.
+A mobilappok kezelése lehetővé teszi, hogy üzleti adatait a felhasználók személyes eszközein, például iPhone-ján és Android-eszközén, valamint személyes Win 10 rendszerű számítógépein is vezérelje. Alkalmazáskezelési házirendekkel megakadályozhatja, hogy a felhasználók üzleti adatokat másoljanak az Office-appok személyes appjaikba. A személyes eszközeiken is eltávolíthatja az Office-appok összes adatát. További információért lásd: Alkalmazásvédelmi beállítások megadása [Android-](../app-protection-settings-for-android-and-ios.md) vagy iOS-eszközökhöz és Alkalmazásvédelmi beállítások megadása [Windows 10-es eszközökhöz.](../protection-settings-for-windows-10-devices.md)

@@ -25,7 +25,7 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: c3ac23c5-d4b4-4b1b-b7ce-ea759521bf8c
-description: Ismerje meg a különböző eszközállapotokat a Microsoft 365 vállalati verzió Felügyeleti otthonának eszközműveletek listájában.
+description: Az eszköz különféle államokról a Microsoft 365 Vállalati verzió Rendszergazdai kezdőlapja Eszközműveletek listájában olvashat.
 ms.openlocfilehash: 64138e2b6ae73c067709cde1912a96615d08ebf1
 ms.sourcegitcommit: 2d664a95b9875f0775f0da44aca73b16a816e1c3
 ms.translationtype: MT
@@ -35,7 +35,7 @@ ms.locfileid: "44471179"
 ---
 # <a name="device-states"></a>Eszközállapotok
 
-Ez a cikk a Microsoft 365 Business Premium szolgáltatásra vonatkozik.
+Ez a cikk a Microsoft 365 Vállalati prémium verzióra vonatkozik.
 
 Az **Eszközműveletek** listában (Rendszergazdai kezdőlap \> **Eszközműveletek**) szereplő eszközöknek az alábbi állapotai lehetnek.
   
@@ -43,16 +43,16 @@ Az **Eszközműveletek** listában (Rendszergazdai kezdőlap \> **Eszközművele
   
 |**Állapot**|**Leírás**|
 |:-----|:-----|
-|Kezeli az Intune  <br/> |A Microsoft 365 Business Premium kezeli.  <br/> |
-|Kivezetés függőben  <br/> |A Microsoft 365 Business Premium készen áll a vállalati adatok eltávolítására az eszközről.  <br/> |
-|Kivezetés folyamatban  <br/> |A Microsoft 365 Business Premium jelenleg eltávolítja a vállalati adatokat az eszközről.  <br/> |
+|Kezeli az Intune  <br/> |A Microsoft 365 Vállalati prémium verzió kezeli.  <br/> |
+|Kivezetés függőben  <br/> |A Microsoft 365 Vállalati prémium verzió felkészül arra, hogy eltávolítsa a céges adatokat az eszközről.  <br/> |
+|Kivezetés folyamatban  <br/> |A Microsoft 365 Vállalati prémium verzió jelenleg eltávolítja a céges adatokat az eszközről.  <br/> |
 |Kivezetés sikertelen  <br/> | A vállalati adatok eltávolításának művelete nem sikerült.  <br/> |
-|Visszavonás megszakítva  <br/> |A visszavonási művelet megszakadt.  <br/> |
+|Visszavonva  <br/> |A kivezetett művelet visszavonva.  <br/> |
 |Törlés függőben  <br/> |Várakozás a gyári állapot visszaállításának megkezdésére.  <br/> |
 |Törlés folyamatban  <br/> |Megkezdődött a gyári állapot visszaállítása.  <br/> |
 |Törlés sikertelen  <br/> |Nem sikerült a gyári beállítások visszaállítása.  <br/> |
-|Törlés megszakítva  <br/> |A gyári törlés megszakadt.  <br/> |
+|Törlés törölve  <br/> |A gyári törlés törölve lett.  <br/> |
 |Nem kifogástalan  <br/> |Egy művelet függőben van (vagy folyamatban van), de az eszköz több mint 30 napja nem jelentkezett be.  <br/> |
 |Törlés függőben  <br/> |Egy törlési művelet függőben van.  <br/> |
-|Észlelt  <br/> |A Microsoft 365 Business Premium észlelte az eszközt.  <br/> |
+|Észlelt  <br/> |A Microsoft 365 Vállalati prémium verzió észlelte az eszközt.  <br/> |
    

@@ -22,7 +22,7 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: 6b70fa27-d171-4593-8ecf-f78bb4ed2e99
-description: Az eszközházirendek és -műveletek megtekintéséhez jelentkezzen be a Microsoft 365 vállalati verzióba globális rendszergazdai hitelesítő adatokkal.
+description: A Microsoft 365 Vállalati verzióba globális rendszergazdai hitelesítő adatokkal bejelentkezve megtekintheti az eszköz házirendeket és műveleteket.
 ms.openlocfilehash: 49e878ae6d4e1a6c55dbd7bc65532f94295412a8
 ms.sourcegitcommit: 2d664a95b9875f0775f0da44aca73b16a816e1c3
 ms.translationtype: MT
@@ -32,14 +32,14 @@ ms.locfileid: "44470595"
 ---
 # <a name="view-and-manage-policies-and-devices"></a>Házirendek és eszközök megtekintése és kezelése
 
-Ez a cikk a Microsoft 365 Business Premium szolgáltatásra vonatkozik.
+Ez a cikk a Microsoft 365 Vállalati prémium verzióra vonatkozik.
 
-## <a name="view-and-edit-device-policies"></a>Eszközházirendek megtekintése és szerkesztése
+## <a name="view-and-edit-device-policies"></a>Eszköz házirendek megtekintése és szerkesztése
 
-1.  Nyissa meg a felügyeleti központot a <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a> alkalmazásban.
-2. A bal oldali **Devices** navigációs sávon válassza az \> **Eszközházirendek lehetőséget.**
+1.  A felügyeleti központ megnyitásához: <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a> .
+2. A bal oldali navigációs sávon válassza az **Eszköz-házirendek** \> **lehetőséget.**
 
-    Ezen a lapon létrehozhat, szerkeszthet, módosíthat egy házirendet, illetve törölhet.
+    Ezen a lapon létrehozhat, szerkeszthet, módosíthatja a célcsoportot, vagy törölhet egy házirendet.
 
     ![Screenshot of the Policies page](../media/devicepolicies.png)
   
@@ -47,7 +47,7 @@ Ez a cikk a Microsoft 365 Business Premium szolgáltatásra vonatkozik.
 
 1. A bal oldali navigációs sávon válassza az **Eszközök** \> **kezelése lehetőséget.** 
     
-    Ezen a lapon kijelölhet egy vagy több eszközt, és eltávolíthatja a vállalati adatokat. Olyan Windows 10-es eszköz esetében, amelyhez eszközvédelmi beállításokat adott meg, az eszköz gyári állapotát is visszaállíthatja itt.
+    Ezen a lapon kijelölhet egy vagy több eszközt, és eltávolíthatja a céges adatokat. Olyan Windows 10-es eszköz esetében, amelyhez eszközvédelmi beállításokat adott meg, az eszköz gyári állapotát is visszaállíthatja itt.
   
    ![Eszközök kezelése lap](../media/devicesmanage.png)
 
