@@ -1,5 +1,5 @@
 ---
-title: Védett eszközök kezelése a Microsoft 365 Business Premium szolgáltatással
+title: Védett eszközök kezelése a Microsoft 365 Vállalati prémium verzióval
 f1.keywords:
 - NOCSH
 ms.author: sirkkuw
@@ -27,7 +27,7 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 018a2a96-3811-4b5d-b751-3b6330b34256
-description: Ismerje meg, hogyan távolíthatja el a vállalati adatokat a védelmi szabályzatok által kezelt eszközökről, valamint állítsa vissza a Windows 10-es eszközöket a gyári beállításokra.
+description: Megtudhatja, hogy hogyan távolíthatja el a céges adatokat a védelmi házirendekkel kezelt eszközökről, és hogyan állíthatja vissza a Windows 10-es eszközöket a gyári beállításaikra.
 ms.openlocfilehash: 88311a2cf08ee0b1ceb4ef3eb599efe5ebccdb05
 ms.sourcegitcommit: a5ed189fa789975f8c3ed39db1d52f2ef7d671aa
 ms.translationtype: MT
@@ -35,9 +35,9 @@ ms.contentlocale: hu-HU
 ms.lasthandoff: 07/10/2020
 ms.locfileid: "45101621"
 ---
-# <a name="manage-protected-devices-with-microsoft-365-business-premium"></a>Védett eszközök kezelése a Microsoft 365 Business Premium szolgáltatással
+# <a name="manage-protected-devices-with-microsoft-365-business-premium"></a>Védett eszközök kezelése a Microsoft 365 Vállalati prémium verzióval
 
-Miután a felhasználó úgy csatlakoztatja az eszközét a szervezethez, hogy bejelentkezik a munkahelyi fiókjával az eszközre vagy az eszközön lévő Office-alkalmazásokba, a beállított házirendekkel megvédheti az eszközt. A csatlakoztatott eszközök az **Eszközök** lapon jelennek meg. Az elveszett vagy ellopott eszközt ezen a lapon kezelheti, és törölhet róla minden céges adatot. Windows 10-es eszközökön a gyári állapotot is visszaállíthatja, így minden egyéni beállítás törlődik róluk. 
+Miután egy felhasználó a munkahelyi fiókjával bejelentkezve csatlakoztatta az eszközét a szervezetéhez az eszközön vagy az Office-appokban, ön megvédheti az eszközt az Ön által beállított házirendekkel. A csatlakoztatott eszközök az Eszközök **lapon listában** szerepelnek. Az elveszett vagy ellopott eszközt ezen a lapon kezelheti, és törölhet róla minden céges adatot. Windows 10-es eszközökön a gyári állapotot is visszaállíthatja, így minden egyéni beállítás törlődik róluk. 
 
 Az eszközök kezeléséhez használható feladatokról az alábbi cikkekben talál további információt: 
   
