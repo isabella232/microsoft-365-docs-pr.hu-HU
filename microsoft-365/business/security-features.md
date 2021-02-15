@@ -39,7 +39,7 @@ A Microsoft 365 Vállalati prémium verzió egyszerűsített biztonsági funkci�
 
 A Felügyeleti központban kezelheti a Microsoft 365 Vállalati prémium verzió számos biztonsági funkcióját, így egyszerűbben kapcsolhatja be és ki ezeket a funkciókat. A Felügyeleti központban az alábbi lehetőségek közül választhat:
   
-- [Alkalmazáskezelési beállítások megadása Android- vagy iOS-eszközökön.](app-protection-settings-for-android-and-ios.md) 
+- [Alkalmazáskezelési beállítások megadása Android- vagy iOS-eszközökhöz.](app-protection-settings-for-android-and-ios.md) 
     
     Ezek közé a beállítások közé tartozik például, hogy adott időszak után töröljön fájlokat egy inaktív eszközről, titkosítsa a munkahelyi fájlokat, megkövetelje a felhasználóknak a PIN-kód beállítását stb.
     
@@ -77,14 +77,14 @@ A Microsoft 365 Vállalati prémium verzió speciális funkciói segítenek megv
 - **Ugyanaz [a feltételes hozzáférés,](https://docs.microsoft.com/azure/active-directory/conditional-access/overview) mint az Azure AD Premium P1 csomag**
 
 
-    A feltételes hozzáféréssel megvédheti szervezetét a bejelentkezési kockázatoktól, a nem várt hálózati vagy területi beállításoktól származó hozzáférési kísérletektől, a kockázatos eszköztípusoktól származó hozzáférési kísérletektől stb. A feltételes hozzáférési házirendek az első hitelesítés befejezése után lesznek kényszerítve, és az első hitelesítési esemény szignálja alapján határozzák meg, hogy a megkísérelt hozzáférést jóvá kell-e hagyni, megtagadni kell-e, vagy további igazolásra van-e szükség (például egy másik azonosításra).
+    A feltételes hozzáféréssel megvédheti szervezetét a bejelentkezési kockázatoktól, a nem várt hálózati vagy területi beállításoktól származó hozzáférési kísérletektől, a kockázatos eszköztípusoktól származó hozzáférési kísérletektől stb. A feltételes hozzáférési házirendek az első hitelesítés befejezése után lesznek kényszerítve, és az első hitelesítési esemény szignálja alapján határozzák meg, hogy a hozzáférést jóvá kell-e hagyni, megtagadni kell-e, vagy további igazolásra van-e szükség (például egy másik azonosításra).
 
     A feltételes hozzáférés a következő funkciókat tartalmazza:
 
     - Access felhasználónév, csoport és szerepkör alapján
     - Access [alkalmazás alapján](https://docs.microsoft.com/azure/active-directory/conditional-access/app-based-conditional-access) 
     - [Hozzáférés hely alapján;](https://docs.microsoft.com/azure/active-directory/authentication/howto-registration-mfa-sspr-combined#conditional-access-policies-for-combined-registration)  csak megbízható IP-tartományokból vagy adott országokból való hozzáférés engedélyezése 
-    - Több hitelesítés szükséges a hozzáféréshez
+    - Több hitelesítés megkövetelve a hozzáféréshez
     - A régi hitelesítést felhasználó alkalmazások [elérésének blokkolása](https://docs.microsoft.com/azure/active-directory/conditional-access/block-legacy-authentication)
     - Az Intune appvédelmi szolgáltatás [használatának megkövetele az alkalmazások számára](https://docs.microsoft.com/azure/active-directory/conditional-access/app-protection-based-conditional-access)
     - Egyéni hitelesítés, például több hitelesítés külső szolgáltatókkal( például DUO).
@@ -102,7 +102,7 @@ Microsoft 365 Vállalati prémium verziós előfizetése olyan funkciókat tarta
     
 - **[Exchange Online Archiválás](https://products.office.com/exchange/microsoft-exchange-online-archiving-email)**
     
-    Az Exchange Online archiválási licence lehetővé teszi az üzenetek egyszerű archiválását folyamatos adatmentés használatával. Tárolja a felhasználó összes e-mail-üzenetét, beleértve a törölt elemeket is, arra az esetre, ha később szüksége lenne rájuk a feltárás vagy a visszaállítás érdekében. Emellett különböző adatmegőrzési házirendek használatával megőrizheti az e-mail-adatokat jogi visszatartások, elektronikus adatfeladatokat vagy megfelelőségi követelmények teljesítéséhez.
+    Az Exchange Online archiválási licence lehetővé teszi az üzenetek egyszerű archiválását folyamatos adatmentés használatával. Tárolja a felhasználó összes e-mail-üzenetét, beleértve a törölt elemeket is, arra az esetre, ha később szüksége lenne rájuk a feltárás vagy a visszaállítás érdekében. Emellett különböző adatmegőrzési házirendek használatával megőrizheti a levelezési adatokat a jogi visszatartások, a elektronikus adatok észlelése vagy a megfelelőségi követelmények teljesítéséhez.
     
 - **[Érzékenységi címkék](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)**
 
