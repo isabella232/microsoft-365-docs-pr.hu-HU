@@ -69,7 +69,7 @@ A Microsoft 365 Vállalati prémium verzió mindegyik példa esetében segít ad
 
 ## <a name="how-your-data-and-devices-are-protected"></a>Az adatok és eszközök védelmének biztosítása
 
-A Microsoft 365 Vállalati prémium verzió az alábbiakkal segíti **a fenyegetések elleni védelmet** :
+A Microsoft 365 Vállalati prémium verzió az alábbiakkal segíti **a fenyegetések elleni védelmet**:
 
 - Valós időben megvizsgálja az e-mailekben és dokumentumokban levő hivatkozásokat a nem biztonságos webhelyek letiltása érdekében (Biztonságos hivatkozások).
 
