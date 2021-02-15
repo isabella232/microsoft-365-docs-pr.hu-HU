@@ -21,18 +21,18 @@ search.appverid:
 - MET150
 ms.assetid: b0f4d010-9fd1-44d0-9d20-fabad2cdbab5
 description: Megtudhatja, hogy miként férhet hozzá helyszíni erőforrásokhoz, például üzleti alkalmazásokhoz, fájlmegosztáshoz és nyomtatókhoz egy Windows 10-es eszközhöz csatlakozott Azure Active Directory-eszközről.
-ms.openlocfilehash: 22edf0c23d6318e1f70bcb21b2cd697ea0a75da4
-ms.sourcegitcommit: 849b365bd3eaa9f3c3a9ef9f5973ef81af9156fa
+ms.openlocfilehash: fc02fd30f41f25f52e653e750a6bdfd1bd7f800e
+ms.sourcegitcommit: a62ac3c01ba700a51b78a647e2301f27ac437c5a
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/16/2020
-ms.locfileid: "49688233"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "50233840"
 ---
 # <a name="access-on-premises-resources-from-an-azure-ad-joined-device-in-microsoft-365-business-premium"></a>Helyszíni erőforrások elérése Azure AD-hez csatlakozott eszközről a Microsoft 365 Vállalati prémium verzióban
 
 Ez a cikk a Microsoft 365 Vállalati prémium verzióra vonatkozik.
 
-Minden olyan Windows 10-es eszköz, amelyhez az Azure Active Directory csatlakozik, hozzáférhet az összes felhőalapú erőforráshoz, például a Microsoft 365-ös apphoz, és a Microsoft 365 Vállalati prémium verzió védheti. Engedélyezheti a hozzáférést a helyszíni erőforrásokhoz is, például üzletági alkalmazásokhoz, fájlmegosztáshoz és nyomtatókhoz. A hozzáférés engedélyezése érdekében az [Azure AD Connect](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect) segítségével szinkronizálja a helyszíni Active Directoryt az Azure Active Directoryval. 
+Minden olyan Windows 10-es eszköz, amelyhez az Azure Active Directory csatlakozik, hozzáférhet az összes felhőalapú erőforráshoz, például a Microsoft 365-apphoz, és a Microsoft 365 Vállalati prémium verzió védheti. Engedélyezheti a hozzáférést a helyszíni erőforrásokhoz is, például üzletági alkalmazásokhoz, fájlmegosztáshoz és nyomtatókhoz. A hozzáférés engedélyezése érdekében az [Azure AD Connect](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect) segítségével szinkronizálja a helyszíni Active Directoryt az Azure Active Directoryval. 
 
 További információért olvassa el az Eszközkezelés az [Azure Active Directoryban – Bevezetés.](https://docs.microsoft.com/azure/active-directory/device-management-introduction)
 A lépéseket az alábbi szakaszokban is összegzi.
@@ -57,10 +57,10 @@ Ha szervezete nem áll készen a fent ismertetett Azure AD-hez való csatlakozá
 
 Ha az Azure-AD szolgáltatáshoz csatlakozott Windows-eszköz korábban tartományhoz csatlakozott vagy munkacsoport tagja volt, vegye figyelembe az alábbi korlátozásokat:
   
-- Amikor egy eszközhez az Azure AD csatlakozik, egy új felhasználót hoz létre anélkül, hogy egy meglévő profilra hivatkozna. A profilokat manuálisan kell áttelepíteni. A felhasználói profilok olyan információkat tartalmaznak, mint a kedvencek, a helyi fájlok, a böngésző beállításai és a Start menü beállításai. A legjobb megoldás, ha megkeres egy külső eszközt, amely leképezi a meglévő fájlokat és beállításokat az új profilra.
+- Amikor egy eszközhez az Azure AD csatlakozik, egy új felhasználót hoz létre anélkül, hogy egy meglévő profilra hivatkozna. A profilokat manuálisan kell áttelepíteni. A felhasználói profilok olyan információkat tartalmaznak, mint a kedvencek, a helyi fájlok, a böngésző beállításai és a Start menü beállításai. A legjobb megoldás, ha egy külső gyártótól származó eszközt keres a meglévő fájlok és beállítások új profilhoz való leképezéséhez.
 
 - Ha az eszköz csoportházirend-objektumokat használ, előfordulhat, hogy egyes csoportházirend-objektumok nem tartalmaznak hasonló konfigurációs [szolgáltatót](https://docs.microsoft.com/windows/configuration/provisioning-packages/how-it-pros-can-use-configuration-service-providers) az Intune-ban. Az [MMAT eszközzel megkereshetők](https://www.microsoft.com/download/details.aspx?id=45520) a meglévő csoportházirend-objektumok hasonló CSP-ii.
 
-- A felhasználók nem fognak tudni hitelesíteni az Active Directory-hitelesítéstől függő alkalmazásokkal. Kiértékelheti a régi appot, és lehetőség szerint frissítheti a modern Auth hitelesítést használó appra.
+- Előfordulhat, hogy a felhasználók nem tudják hitelesíteni az Active Directory-hitelesítéstől függő alkalmazásokat. Kiértékelheti a régi appot, és lehetőség szerint frissítheti a modern Auth hitelesítést használó appra.
 
 - Az Active Directory-nyomtatók felderítése nem működik. Minden felhasználónak meg kell adnia a nyomtató közvetlen elérési útját, vagy használhatja az [Univerzális nyomtatást.](https://aka.ms/UPDocs)
