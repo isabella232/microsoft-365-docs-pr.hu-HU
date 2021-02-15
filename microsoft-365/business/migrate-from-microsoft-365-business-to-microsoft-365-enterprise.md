@@ -40,12 +40,12 @@ A vállalatnak nagyvállalati funkciókra is szüksége van, például a Nagyvá
 A frissítés egyszerű: a frissítést a Felügyeleti [központból indíthatja el.](../commerce/subscriptions/upgrade-to-different-plan.md) Az aktuális előfizetésében lévő összes adata és konfigurációja megmarad. Az áttelepítésre való felkészüléshez semmit sem kell tennie, és később semmit sem kell tennie, csak ki kell használnia az új funkciók előnyeit.
 
 >[!Note]
->Microsoft 365 Vállalati prémium verziós előfizetéssel akár 300-as verziós előfizetést is használhat, és Microsoft 365 E3-előfizetést is kaphat több mint 300 csomaghoz. A Microsoft Defender az Office 365-hez azonban nem része a Microsoft 365 E3-nak. A további veszélyforrások elleni védelem érdekében további Office 365-licenceket kell hozzáadnia, hogy az Office 365-ös Defenderrel rendelkező összes felhasználónak legyen licence.
+>Microsoft 365 Vállalati prémium verziós előfizetéssel akár 300-as verziós előfizetést is használhat, és Microsoft 365 E3-előfizetést is kaphat több mint 300 csomaghoz. A Microsoft Defender az Office 365-hez azonban nem része a Microsoft 365 E3-nak. A további veszélyforrások elleni védelem érdekében további Office 365-licenceket kell hozzáadnia, hogy az Office 365-nek szóló Defenderrel rendelkező összes felhasználónak legyen licence.
 >
 
 ## <a name="differences-between-microsoft-365-business-premium-and-microsoft-365-enterprise"></a>Különbségek a Microsoft 365 Vállalati prémium verzió és a Microsoft 365 Nagyvállalati verzió között
 
-Az alábbi táblázat a Microsoft 365 Vállalati prémium verzió és a Microsoft 365 E3 közötti különbségeket mutatja be.
+Az alábbi táblázat a Microsoft 365 Vállalati prémium verzió és a Microsoft 365 E3 csomag közötti különbségeket mutatja be.
 
 | Funkció    | Támogatás a Microsoft 365 Vállalati prémium verzióban    | Támogatás a Microsoft 365 E3-ban | 
 |:-------|:-----|:-----|
@@ -60,9 +60,9 @@ Az alábbi táblázat a Microsoft 365 Vállalati prémium verzió és a Microsof
 | MileIQ    | ![A Microsoft 365 Vállalati prémium verzió része](../media/check-mark.png)    | | 
 | **Veszélyforrások elleni védelem**        | | | 
 | Támadásifelület-csökkentés lehetőségei    | [A lista](#threat-protection) | Hardveralapú elkülönítés nagyvállalati kezelése a Microsoft Edge-ben | 
-| Defender az Office 365 1. csomaghoz | ![A Microsoft 365 Vállalati prémium verzió része](../media/check-mark.png)    | Nem szerepel a csomagban, de hozzáadható | 
+| Defender az Office 365 1. csomaghoz | ![A Microsoft 365 Vállalati prémium verzió része](../media/check-mark.png)    | Nem szerepel a csomagban, de a következőn lehet hozzáadni: | 
 | **Identitáskezelés**        | | | 
-| Önkiszolgáló jelszó-visszaállítás a hibrid Azure Active Directory -fiókokhoz (Azure AD), Azure AD többtényezős hitelesítéshez (MFA), feltételes hozzáféréshez, jelszóvisszaírás helyszíni identitásokhoz|     ![A Microsoft 365 Vállalati prémium verzió része](../media/check-mark.png)    | ![A Microsoft 365 E3 csomagban](../media/check-mark.png) | 
+| Önkiszolgáló jelszó-visszaállítás a hibrid Azure Active Directory-fiókokhoz (Azure AD), Azure AD többtényezős hitelesítéshez (MFA), feltételes hozzáféréshez, jelszóvisszaírás helyszíni identitásokhoz|     ![A Microsoft 365 Vállalati prémium verzió része](../media/check-mark.png)    | ![A Microsoft 365 E3 csomagban](../media/check-mark.png) | 
 | Cloud App Discovery, Azure AD Connect Health    |     | ![A Microsoft 365 E3 csomagban](../media/check-mark.png) | 
 | Azure AD Office 365-appok Sign-On (SSO): Felhasználónként 10 app (Gallery SaaS-appok, például Salesforce)* | ![A Microsoft 365 Vállalati prémium verzió része](../media/check-mark.png)    | ![A Microsoft 365 E3 csomagban](../media/check-mark.png) | 
 | Azure AD Premium 1 SSO: nincs korlát (helyszíni appok az Azure AD alkalmazásproxyn keresztül és nem galériaalkalmazások az Self-Service appintegrációs sablonokkal)    |     | ![A Microsoft 365 E3 csomagban](../media/check-mark.png) | 
@@ -78,7 +78,7 @@ Az alábbi táblázat a Microsoft 365 Vállalati prémium verzió és a Microsof
 | **Ügyfélelérési licenc (CAL-jogok)**    | | |     
 | Nagyvállalati CAL csomag (Exchange, SharePoint, Skype, Windows, Microsoft Endpoint Configuration Manager, Windows Rights Management)| |         ![A Microsoft 365 E3 csomagban](../media/check-mark.png) | 
 | **Megfelelőség**        | | | 
-| Korlátlan e-mail archiválás    | ![A Microsoft 365 Vállalati prémium verzió része](../media/check-mark.png)    | ![A Microsoft 365 E3 csomagban](../media/check-mark.png) | 
+| Korlátlan e-mail-archiválás    | ![A Microsoft 365 Vállalati prémium verzió része](../media/check-mark.png)    | ![A Microsoft 365 E3 csomagban](../media/check-mark.png) | 
 | Megfelelőségkezelő    | ![A Microsoft 365 Vállalati prémium verzió része](../media/check-mark.png)    | ![A Microsoft 365 E3 csomagban](../media/check-mark.png) | 
 | Elektronikus észlelés    | ![A Microsoft 365 Vállalati prémium verzió része](../media/check-mark.png)    | ![A Microsoft 365 E3 csomagban](../media/check-mark.png) | 
 | Helybeli és jogi tartás    | ![A Microsoft 365 Vállalati prémium verzió része](../media/check-mark.png)    | ![A Microsoft 365 E3 csomagban](../media/check-mark.png) | 
@@ -115,7 +115,7 @@ Több mint 10 alkalmazáshoz használhatja a Cloud App Discovery, az Azure AD Co
 A Windows 10 Business az alábbi védelmet tartalmazza:
 
 - Az operációs rendszerindítási folyamat integritási kényszerítési eljárása
-- Bizalmas működési összetevők integritási kényszerítése
+- Bizalmas működési összetevők sértetlenségének kényszerítése
 - Fejlett biztonsági rés és nulla napos kiaknázás elleni megoldások
 - A Microsoft Edge, az Internet Explorer és a Chrome jó hírnevén alapuló hálózatvédelem
 - Host-based firewall
@@ -134,7 +134,7 @@ A Windows 10 Nagyvállalati E3 csomag a Microsoft Edge hardveralapú elkülöní
 
 ### <a name="device-management-with-intune"></a>Eszközkezelés az Intune-nal
 
-Az áttelepítés előtt nem kell módosítania az aktuális Intune-konfigurációját, beleértve a regisztrált eszközöket, valamint az eszköz- és alkalmazásbeállításokat.
+Az áttelepítés előtt nem kell módosítania az aktuális Intune-konfigurációt, beleértve a regisztrált eszközöket, valamint az eszköz- és alkalmazásbeállításokat.
 
 ### <a name="windows-10"></a>Windows 10
 

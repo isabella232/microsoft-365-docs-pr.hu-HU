@@ -52,7 +52,7 @@ Ha még nem hozott létre eszközcsoportokat vagy -profilokat, a legjobb, ha a l
   
 1. A felügyeleti központ megnyitásához: <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a> .
 
-2. A bal oldali navigációs ablakban válassza az **Eszközök** \> **autoPilot lehetőséget.**
+2. A bal oldali navigációs ablakban válassza az **Eszközök** \> **AutoPilot lehetőséget.**
 
     ![A Felügyeleti központban válassza ki az eszközöket, majd az AutoPilotot.](../media/AutoPilot.png)
   
@@ -73,7 +73,7 @@ Ha még nem hozott létre eszközcsoportokat vagy -profilokat, a legjobb, ha a l
     További információ: [Eszközlistát tartalmazó CSV-fájl](https://docs.microsoft.com/microsoft-365/admin/misc/device-list). Az **Eszközlistát tartalmazó CSV-fájl feltöltése** lapon egy mintafájlt is letölthet. 
     
 > [!NOTE]
-> Ez a parancsfájl a WMI segítségével beolvassa az ügyfélnek az eszköz Windows Autopilottal való regisztráláshoz szükséges tulajdonságait. Vegye figyelembe, hogy az eredményül kapott CSV-fájl nem gyűjti össze a Windows-termékazonosító (PKID) értékét, mivel ez nem szükséges az eszközök regisztrálásához, és a PKID null érték a kimeneti CSV-fájlban teljesen rendben van. Csak a sorozatszámot és a hardveres kivonatot tölti ki a rendszer.
+> Ez a parancsprogram WMI segítségével olvassa be az ügyfélnek az eszköz Windows Autopilottal való regisztráláshoz szükséges tulajdonságait. Vegye figyelembe, hogy az eredményül kapott CSV-fájl nem gyűjti össze a Windows-termékazonosító (PKID) értékét, mivel ez nem szükséges az eszközök regisztrálásához, és a PKID null érték a kimeneti CSV-fájlban teljesen rendben van. Csak a sorozatszámot és a hardveres kivonatot tölti ki a rendszer.
     
 4. A Profil **hozzárendelése lapon** választhat egy meglévő profilt, vagy létrehozhat egy újat. Ha még nincs ilyen üzenete, a rendszer kérni fogja, hogy hozzon létre egyet. 
     
