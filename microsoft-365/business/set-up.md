@@ -59,7 +59,7 @@ A Microsoft 365 Vállalati prémium verzió megvásárlásakor lehetősége van 
 
 3. Az **Office-alkalmazások telepítése** lapon tetszés szerint telepítheti az appokat a saját számítógépére.
     
-4. A Tartomány **hozzáadása lépésben** adja meg a használni kívánt tartománynevet (például contoso.com).
+4. A **Tartomány hozzáadása lépésben** adja meg a használni kívánt tartománynevet (például contoso.com).
 
     > [!IMPORTANT]
     > Ha a regisztráció során tartományt vásárolt, itt nem látható a Tartomány **hozzáadása** lépés. Ehelyett a [Felhasználók hozzáadása gombra.](#add-users-and-assign-licenses)
@@ -99,7 +99,7 @@ A szolgáltatások beállításához frissítenie kell bizonyos rekordokat a DNS
     - Ha már van DNS-rekordja, például egy meglévő webhelye, [](https://docs.microsoft.com/office365/admin/get-help-with-domains/domain-connect)de a DNS-szolgáltató engedélyezte a tartományhoz való csatlakozást, válassza a Rekordok hozzáadása **lehetőséget.** Az Online **szolgáltatások kiválasztása** lapon fogadja el az összes alapértelmezett beállítást, válassza a Tovább **gombot,** és válassza az **Authorize** (Engedély) lehetőséget a DNS-szolgáltató lapján.
     - Ha már van DNS-rekordja más DNS-szolgáltatónál (a tartományhoz való csatlakozáshoz nincs engedélyezve), akkor saját DNS-rekordokat kell kezelnie, hogy a meglévő szolgáltatások kapcsolatban maradjanak. További [információt a tartományi alapismeretek](https://docs.microsoft.com/office365/admin/get-help-with-domains/dns-basics) között láthat.
 
-        ![Rekordok aktiválása lap.](../media/activaterecords.png)
+        ![A rekordok aktiválása lap.](../media/activaterecords.png)
 
 2. Kövesse a varázsló lépéseit, és állítsa be Önnek a levelezést és más szolgáltatásokat.
 
@@ -107,12 +107,12 @@ A szolgáltatások beállításához frissítenie kell bizonyos rekordokat a DNS
 
 A varázslóban beállított házirendeket [a](https://docs.microsoft.com/office365/admin/create-groups/compare-groups#security-groups) program automatikusan alkalmazza a Minden felhasználó nevű biztonsági *csoportra.* A felügyeleti központban további csoportokat is létrehozhat, amelyekhez házirendeket rendelhet hozzá.
 
-1. A **speciális** kiberfenyegetések elleni védelem növelése érdekében javasoljuk, hogy hagyja, hogy az [Office 365 Advance Threat Protection](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp) átolvassa az Office-appokban lévő fájlokat és hivatkozásokat.
+1. A speciális kiberfenyegetések elleni védelem növelése érdekében javasoljuk, hogy hagyja, hogy az [Office 365 Advance Threat Protection](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp) átolvassa az Office-appokban lévő fájlokat és hivatkozásokat.
 
     ![Képernyőkép a Védelem növelése lapról](../media/increasetreatprotection.png)
 
 
-2. A  bizalmas adatok kiszivárgásának megelőzése lapon fogadja el az Office 365 Adatveszteség-megelőzés (DLP) alapértelmezett beállítását a bizalmas adatok nyomon követéséhez az Office-appokban, és megakadályozza, hogy a szervezeten kívüli adatok véletlenül meg is oszthatóak.
+2. A  bizalmas adatok kiszivárgásának megelőzése lapon fogadja el az Office 365 Adatveszteség-megelőzés (DLP) alapértelmezett beállítását a bizalmas adatok nyomon követéséhez az Office-appokban, és megakadályozza a véletlen megosztást a szervezeten kívül.
 
 3. Az **Office** mobileszközökre vonatkozó adatainak védelme lapon hagyja be a mobilappok kezelését, bontsa ki a beállításokat, és tekintse át őket, majd válassza a Mobilappkezelési házirend **létrehozása lehetőséget.**
 
@@ -125,7 +125,7 @@ A bal oldali navigációs sávon válassza a **Beállítás** lehetőséget, maj
 
 ## <a name="deploy-office-365-client-apps"></a>Office 365-ügyfélalkalmazások telepítése
 
-Ha a telepítés során úgy döntött, hogy automatikusan telepíti az Office-appokat, az appok a Windows 10-es eszközökre fognak telepíteni, miután a felhasználók bejelentkeztek az Azure AD-be a windowsos eszközükről a munkahelyi hitelesítő adataik használatával.
+Ha a telepítés során úgy döntött, hogy automatikusan telepíti az Office-appokat, az appok a Windows 10-es eszközökre fognak telepíteni, miután a felhasználók bejelentkeztek az Azure AD szolgáltatásba a windowsos eszközükről a munkahelyi hitelesítő adataik használatával.
 
 Az Office mobilos iOS- vagy Android-eszközökre való telepítéséhez lásd: Mobileszközök beállítása [a Microsoft 365 Vállalati prémium verzió felhasználóinak.](set-up-mobile-devices.md)
 

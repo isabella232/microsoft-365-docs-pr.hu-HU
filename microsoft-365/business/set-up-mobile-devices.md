@@ -61,7 +61,7 @@ Miután a telepítés befejeződött, koppintson a **Megnyitás** gombra az Outl
   
 ![Screenshot of Outlook with Get Started button](../media/005bedec-ae50-4d75-b3bb-e7cef9e2561c.png)
   
-Adja meg a munkahelyi  e-mail-címét az E-mail-fiók hozzáadása képernyőn a Fiók hozzáadása képernyőn, majd adja meg \> a Microsoft 365 Vállalati verziós hitelesítő \> **adatait. Jelentkezzen be.**
+Adja meg a munkahelyi  e-mail-címét az E-mail-fiók hozzáadása képernyőn a Fiók hozzáadása képernyőn, majd adja meg \> a Microsoft 365 Vállalati verziós hitelesítő \> **adatait.**
   
 ![Sign in to your work account](../media/3cef1fb5-7bec-4d3d-8542-872b731ce19f.png)
   

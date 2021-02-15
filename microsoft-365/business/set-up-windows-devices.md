@@ -44,7 +44,7 @@ Ha Windows 7 Pro, Windows 8 Pro vagy Windows 8.1 Pro rendszerű Windows-eszköz�
   
 Ha többet szeretne megtudni arról, hogy hogyan frissítheti Windows-eszközeit a Windows 10 Pro alkotói frissítésére, kövesse a következő témakörben szereplő lépéseket: [Windows-eszközök frissítése a Windows Pro alkotói frissítésére](upgrade-to-windows-pro-creators-update.md).
   
-Lásd: [Ellenőrizze, hogy az eszköz](#verify-the-device-is-connected-to-azure-ad) csatlakoztatva van-e az Azure AD-hez, és ellenőrizze, hogy sikerült-e a frissítés.
+Ellenőrizze, hogy az eszköz csatlakoztatva van-e az [Azure AD](#verify-the-device-is-connected-to-azure-ad) szolgáltatáshoz, és ellenőrizze, hogy sikerült-e a frissítés.
 
 Nézze meg a Windows és a Microsoft 365 csatlakoztatását bemutató rövid videót.<br><br>
 
@@ -126,7 +126,7 @@ Győződjön meg arról, hogy az Azure AD-hez csatlakozott Windows 10-es eszköz
   
 ## <a name="next-steps"></a>Következő lépések
 
-A mobileszközök beállítását lásd: Mobileszközök beállítása [a Microsoft 365 Vállalati prémium](set-up-mobile-devices.md)verzió felhasználóinak, eszközvédelmi és alkalmazásvédelmi házirendek beállításához lásd: Microsoft [365 Vállalati](manage.md)verzió kezelése.
+A mobileszközök beállítását lásd: Mobileszközök beállítása a [Microsoft 365 Vállalati prémium](set-up-mobile-devices.md)verzió felhasználóinak, eszközvédelmi és alkalmazásvédelmi házirendek beállításához lásd: Microsoft [365 Vállalati](manage.md)verzió kezelése.
   
 ## <a name="for-more-on-setting-up-and-using-microsoft-365-business-premium"></a>További információ a Microsoft 365 Vállalati prémium verzió beállításával és használatával
 
