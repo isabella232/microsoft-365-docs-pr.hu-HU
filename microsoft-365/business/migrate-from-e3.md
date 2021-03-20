@@ -22,12 +22,12 @@ search.appverid:
 - BCS160
 - MET150
 description: Megtudhatja, hogy miként helyezze át vállalatát a Microsoft 365 Vállalati prémium verzióba az Office 365 E3 csomagból.
-ms.openlocfilehash: eebf78c24ed4bfd1a4fc2d843f37aebbe3d35e31
-ms.sourcegitcommit: c1dd5be42fe0c5dcc7c05817c941edd9076febf8
+ms.openlocfilehash: f655037891bf8ec42e7b927256025c89c9354e98
+ms.sourcegitcommit: 27b2b2e5c41934b918cac2c171556c45e36661bf
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "49558258"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50912942"
 ---
 # <a name="migrating-from-office-365-e3-to-microsoft-365-business-premium"></a>Áttelepítés az Office 365 E3 csomagról a Microsoft 365 Vállalati prémium verzióra 
 
@@ -42,7 +42,7 @@ Az alábbi táblázatban a Microsoft 365 Vállalati prémium verzió és az Offi
 | Funkció    | Támogatás a Microsoft 365 Vállalati prémium verzióban    | Támogatás az Office 365 E3-ban | 
 |:-------|:-----|:-----|
 | **Helyszíni**        | | | 
-| Office-appok<sup>1</sup>    | Microsoft 365-alkalmazások vállalati verzióhoz    | Nagyvállalati Microsoft 365-alkalmazások | 
+| Office-appok<sup>1</sup>    | Microsoft 365-alkalmazások vállalati verzióhoz    | Microsoft 365 Vállalati alkalmazások | 
 | **Felhőbeli hatékonyságnövelő alkalmazások**        | | | 
 | Exchange Online és Outlook    | Postaládánként 50 GB tárterületkorlát és korlátlan Exchange Online-archiválás    | Postaládánként 100 GB tárterületkorlát és korlátlan Exchange Online-archiválás | 
 | Teams    | ![A Microsoft 365 Vállalati prémium verzió része](../media/check-mark.png)    | ![Az Office 365 E3 része](../media/check-mark.png) | 
@@ -122,8 +122,8 @@ A Microsoft 365 Vállalati prémium verzió 50 GB-os tárterületkorlátot haszn
 
 ### <a name="threat-protection"></a>Veszélyforrások elleni védelem
 
-Miután áttért a Microsoft 365 Vállalati prémium verzióra, az Office 365-nek már van Defendere. További [áttekintést a Microsoft Defender az Office 365-hez](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp) témakörben talál. A beállításról további tudnivalókat a Biztonságos hivatkozások [beállítása,](https://support.microsoft.com/office/61492713-53c2-47da-a6e7-fa97479e97fa)a Biztonságos mellékletek beállítása [és](https://support.microsoft.com/office/e7e68934-23dc-4b9c-b714-e82e27a8f8a5)az Adathalászat elleni védelem beállítása az [Office 365 Defenderben témakörben található.](https://support.microsoft.com/office/86c425e1-1686-430a-9151-f7176cce4f2c)
+Miután áttért a Microsoft 365 Vállalati prémium verzióra, az Office 365-nek már van Defendere. További [áttekintést a Microsoft Defender az Office 365-hez](../security/office-365-security/office-365-atp.md) témakörben talál. A beállításról további tudnivalókat a Biztonságos hivatkozások [beállítása,](https://support.microsoft.com/office/61492713-53c2-47da-a6e7-fa97479e97fa)a Biztonságos mellékletek beállítása [és](https://support.microsoft.com/office/e7e68934-23dc-4b9c-b714-e82e27a8f8a5)az Adathalászat elleni védelem beállítása az [Office 365 Defenderben témakörben található.](https://support.microsoft.com/office/86c425e1-1686-430a-9151-f7176cce4f2c)
 
 ### <a name="sensitivity-labels"></a>Érzékenységi címkék
 
-A bizalmasság-címkék használatának elkezdését a Bizalmasság-címkék áttekintése és a bizalmasság-címkék létrehozása és [kezelése videóban](https://support.microsoft.com/office/2fb96b54-7dd2-4f0c-ac8d-170790d4b8b9) olvashatja. [](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+A bizalmasság-címkék használatának elkezdését a Bizalmasság-címkék áttekintése és a bizalmasság-címkék létrehozása és [kezelése videóban](https://support.microsoft.com/office/2fb96b54-7dd2-4f0c-ac8d-170790d4b8b9) olvashatja. [](../compliance/sensitivity-labels.md)

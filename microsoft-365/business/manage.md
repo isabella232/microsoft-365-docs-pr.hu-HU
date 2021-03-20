@@ -21,29 +21,29 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: 27ff1678-865a-4707-8145-e1155aa815d6
-description: Megtudhatja, hogy hogyan kezelheti a Microsoft 365 Vállalati verzió rendszergazdai feladatait, mobileszközöket, Windows 10-es PC-ket és számos ilyen feladatot.
-ms.openlocfilehash: 0534356f4ffc4a05504121d96edbc381e00632e9
-ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
+description: Megtudhatja, hogy hogyan kezelheti a Microsoft 365 Vállalati verzió rendszergazdai feladatait, mobileszközökön, Windows 10-es PC-ket és sok hasonló feladatot.
+ms.openlocfilehash: d4136298a1305f12602e0ce258a440dd72e8cd64
+ms.sourcegitcommit: 27b2b2e5c41934b918cac2c171556c45e36661bf
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 05/27/2020
-ms.locfileid: "44403038"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50913174"
 ---
 # <a name="manage-microsoft-365-for-business"></a>A Microsoft 365 Vállalati verzió kezelése
 
 ## <a name="general-microsoft-365-for-business-admin-tasks"></a>A Microsoft 365 Vállalati verzió általános rendszergazdai feladatai
 
-Az Office [](https://docs.microsoft.com/office365/admin/admin-home) 365 rendszergazdai tartalmának nagy része a Microsoft 365 Vállalati verzióra is vonatkozik.
+Az Office [](/office365/admin/admin-home) 365 rendszergazdai tartalmának nagy része a Microsoft 365 Vállalati verzióra is vonatkozik.
 
-- [További felhasználók felvétele a Microsoft 365 Vállalati verzióba](add-users-m365b.md)
+- [További felhasználók felvétele a Microsoft 365 Vállalati verzióba](../admin/add-users/add-users.md)
     
 - [Házirendek és eszközök megtekintése](view-policies-and-devices.md)
     
 - [A Microsoft 365 Vállalati verzió biztonsági funkciói](security-features.md)
     
-- [A Microsoft 365 Vállalati verzió védelmi funkcióinak Intune-beállításokra való leképezése](map-protection-features-to-intune-settings.md)
+- [A Microsoft 365 Vállalati verzió védelmi funkcióinak megfelelő Intune-beállítások](map-protection-features-to-intune-settings.md)
     
-Az alábbi szakaszokból azt is láthatja, hogy miként használhatja a Microsoft 365 Vállalati verziót a szervezeti adatok védelmére PC-n és mobileszközön.
+Az alábbi szakaszokból azt tudheti meg, hogy a Microsoft 365 Vállalati verzió hogyan védi a szervezet adatait PC-n és mobileszközön.
   
 ## <a name="manage-mobile-devices"></a>Mobileszközök kezelése
 
@@ -51,7 +51,7 @@ Az alábbi szakaszokból azt is láthatja, hogy miként használhatja a Microsof
     
 - [Appvédelmi beállítások megadása androidos vagy iOS-es eszközökhöz](app-protection-settings-for-android-and-ios.md)
     
-    Ennek ellenőrzéséről az Appvédelmi beállítások ellenőrzése Android- vagy [iOS-eszközön szóló](validate-settings-on-android-or-ios.md)lapon található. 
+    Ennek ellenőrzéséről az Appvédelmi beállítások ellenőrzése Android- vagy iOS-eszközön – lásd: Appvédelmi beállítások [ellenőrzése Android- vagy iOS-eszközön.](validate-settings-on-android-or-ios.md) 
     
 - [Céges adatok eltávolítása az eszközökről](remove-company-data.md)
     
@@ -59,15 +59,15 @@ Az alábbi szakaszokból azt is láthatja, hogy miként használhatja a Microsof
 
 - [Windows-eszközök beállítása a Microsoft 365 Vállalati verzió felhasználóinak](set-up-windows-devices.md)
 
-    Az Office automatikus telepítése előtt olvassa el a Felkészülés az Office-ügyfél központi telepítésére a [Microsoft 365](prepare-for-office-client-deployment.md) Vállalati verzióban. 
+    Az Office automatikus telepítése előtt olvassa el a Felkészülés Office-ügyfél központi telepítésére a [Microsoft 365](prepare-for-office-client-deployment.md) Vállalati verzióban. 
     
 - [Eszközvédelmi beállítások megadása Windows 10-es eszközökhöz](protection-settings-for-windows-10-pcs.md)
     
-    Ennek ellenőrzéséről az Eszközvédelmi beállítások ellenőrzése [Windows 10-es eszközökön.](validate-settings-on-windows-10-pcs.md) 
+    Ennek ellenőrzéséről az Eszközvédelmi beállítások ellenőrzése [Windows 10-es eszközökön .](validate-settings-on-windows-10-pcs.md) 
     
 - [Alkalmazásvédelmi beállítások megadása Windows 10-es eszközökhöz](protection-settings-for-windows-10-devices.md)
     
-    Ennek ellenőrzéséhez tekintse át Az alkalmazásvédelmi beállítások ellenőrzése [Windows 10-es PC-n.](validate-protection-settings-on-windows-10-pcs.md) 
+    Ennek ellenőrzéséhez lásd: Alkalmazásvédelmi beállítások ellenőrzése [Windows 10-es PC-n.](validate-protection-settings-on-windows-10-pcs.md) 
     
 - [Céges adatok eltávolítása az eszközökről](remove-company-data.md)
     
@@ -75,7 +75,7 @@ Az alábbi szakaszokból azt is láthatja, hogy miként használhatja a Microsof
     
 ### <a name="use-autopilot-to-deploy-windows-10-devices"></a>Windows 10-es eszközök üzembe helyezése az AutoPilottal
 
-Az alábbi témakörökből megtudhatja, hogy miként konfigurálhatja előre a Windows 10-es eszközöket a Windows AutoPilottal a Microsoft 365 Vállalati verzióban.
+Az alábbi témakörökből megtudhatja, hogy miként konfigurálhatja előre a Windows 10-es eszközöket a Microsoft 365 Vállalati verzió Windows AutoPilot szolgáltatásával.
   
 - [Autopilot-eszközök és -profilok hozzáadása a lépésenkénti útmutatóval](add-autopilot-devices-and-profile.md)
     
@@ -91,12 +91,12 @@ Az alábbi témakörökből megtudhatja, hogy miként konfigurálhatja előre a 
     
 ## <a name="set-up-and-prerequisite-information"></a>Beállítási és előfeltételekre vonatkozó információk
 
-- [A Microsoft 365 Vállalati verziós eszközök adatainak védelmére vonatkozó előfeltételek](pre-requisites-for-data-protection.md)
+- [Az eszközökön a Microsoft 365 Vállalati verzióval való adatvédelem előfeltételei](pre-requisites-for-data-protection.md)
     
 - [A Microsoft 365 Vállalati verzió beállítása a beállítási varázslóval](set-up.md)
     
-- [Áttelepítés a Microsoft 365 Vállalati verzióra](migrate-to-microsoft-365-business.md)
+- [Áttelepítés a Microsoft 365 Vállalati verzióba](migrate-to-microsoft-365-business.md)
     
-- [A tartományhoz csatlakozott Windows 10-es eszközök kezelése a Microsoft 365 Vállalati verzióval](manage-windows-devices.md)
+- [A tartományhoz csatlakozott Windows 10-es eszközök microsoft 365 vállalati verziós kezelése](manage-windows-devices.md)
     
 - [További biztonsági funkciókról](security-features.md#additional-security-features)

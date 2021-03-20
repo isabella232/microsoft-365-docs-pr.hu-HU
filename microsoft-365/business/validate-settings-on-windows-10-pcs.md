@@ -26,12 +26,12 @@ search.appverid:
 - MET150
 ms.assetid: fae8819d-7235-495f-9f07-d016f545887f
 description: Megtudhatja, hogyan ellenőrizheti, hogy a Microsoft 365 Vállalati verzió appvédelmi beállításai hatályba lépnek-e a felhasználók Windows 10-es eszközein.
-ms.openlocfilehash: 39aee3bc811cb0090d58f9a282de7a8162c097b3
-ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
+ms.openlocfilehash: ff99b3a4fce49aebdb5c72f51e46678a7821e186
+ms.sourcegitcommit: 27b2b2e5c41934b918cac2c171556c45e36661bf
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 05/27/2020
-ms.locfileid: "44403590"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50912414"
 ---
 # <a name="validate-device-protection-settings-on-windows-10-pcs"></a>Eszközvédelmi beállítások érvényességének ellenőrzése Windows 10-es PC-ken
 
@@ -39,34 +39,32 @@ ms.locfileid: "44403590"
 
 Miután [beállította az eszközházirendeket](protection-settings-for-windows-10-pcs.md), néhány óra is eltelhet, amíg a házirendek érvénybe lépnek a felhasználók eszközein. A házirendek érvénybe lépéséről úgy bizonyosodhat meg, ha ellenőrzi a felhasználók eszközein a Windows Gépház bizonyos beállításlapjait. Mivel a felhasználók nem tudják módosítani a Windows Update és a Windows Defender víruskereső beállításait a Windows 10-es eszközeiken, számos beállítás szürkén jelenik meg.
   
-1. A **Windows** Update újraindítási beállításai között ellenőrizze, hogy az összes beállítás \> **&amp;** \>  \>  szürkén jelenik-e meg. 
+1. A Windows Update **újraindítási** beállításai között ellenőrizze, hogy minden \> **&amp;** \>  \>  beállítás szürkén jelenik-e meg. 
     
-    ![Az újraindítási beállítások szürkén jelennek meg.](../media/31308da9-18b0-47c5-bbf6-d5fa6747c376.png)
+    ![Az Újraindítási beállítások szürkén jelennek meg.](../media/31308da9-18b0-47c5-bbf6-d5fa6747c376.png)
   
-2. A **Windows** Update speciális beállításainál ellenőrizze, hogy az összes beállítás \> **&amp;** \>  \>  szürkén jelenik-e meg. 
+2. A **Windows** Update speciális beállításai a Biztonsági beállítások frissítése lapon győződjön meg arról, hogy az összes beállítás \> **&amp;** \>  \>  szürkén jelenik meg. 
     
-    ![A Windows speciális frissítésekkel elérhető beállításai szürkén jelennek meg.](../media/049cf281-d503-4be9-898b-c0a3286c7fc2.png)
+    ![A Windows speciális frissítésének beállításai szürkén jelennek meg.](../media/049cf281-d503-4be9-898b-c0a3286c7fc2.png)
   
 3. Go to **Settings** \> **Update &amp; security** \> **Windows Update** \> **Advanced options** \> **Choose how updates are delivered**.
     
-    Győződjön meg arról, hogy látja (pirossal) azt az üzenetet, hogy egyes beállítások rejtve vannak vagy a szervezet kezeli őket, és hogy az összes beállítás szürkén jelenik meg.
+    Győződjön meg arról, hogy látja (piros színnel) azt az üzenetet, hogy egyes beállítások rejtettek vagy a szervezet által kezeltek, és hogy az összes beállítás szürkén jelenik meg.
     
     ![Choose how updates are delivered page indicates settings are hidden or managed by your organization.](../media/6b3e37c5-da41-4afd-9983-b4f406216b59.png)
   
 4. To open the Windows Defender Security Center, go to **Settings** \> **Update &amp; security** \> **Windows Defender** \> click **Open Windows Defender Security Center** \> **Virus &amp; thread protection** \> **Virus &amp; threat protection settings**. 
     
-5. Ellenőrizze, hogy az összes beállítás szürkén jelenik-e meg. 
+5. Ellenőrizze, hogy minden beállítás szürkén jelenik-e meg. 
     
     ![A vírus- és veszélyforrás-védelmi beállítások szürkén jelennek meg.](../media/9ca68d40-a5d9-49d7-92a4-c581688b5926.png)
   
 ## <a name="related-topics"></a>Kapcsolódó témakörök
 
-[A Microsoft 365 Vállalati verzió dokumentációja és forrásai](https://go.microsoft.com/fwlink/p/?linkid=853701)
+[A Microsoft 365 Vállalati verzió dokumentációja és forrásai](./index.yml)
   
 [A Microsoft 365 Vállalati verzió első lépések](microsoft-365-business-overview.md)
   
 [A Microsoft 365 Vállalati verzió kezelése](manage.md)
   
 [Eszközkonfigurációk megadása Windows 10-es PC-ken](protection-settings-for-windows-10-pcs.md)
-  
-

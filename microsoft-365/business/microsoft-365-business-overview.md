@@ -29,12 +29,12 @@ search.appverid:
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
 description: További információ a Microsoft 365 Vállalati prémium verzióról, az Office hatékonyságnövelő appjait és a kiberveszélyforrásokkal szembeni speciális védelmet tartalmazó előfizetési szolgáltatásról.
-ms.openlocfilehash: e67ae036bf3ce7811f19c8745838bb51dde073ea
-ms.sourcegitcommit: 815229e39a0f905d9f06717f00dc82e2a028fa7c
+ms.openlocfilehash: aa6e313f0f3db1c3401836c3e1737c219fcf6c3a
+ms.sourcegitcommit: 27b2b2e5c41934b918cac2c171556c45e36661bf
 ms.translationtype: HT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 11/03/2020
-ms.locfileid: "48842180"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50913002"
 ---
 # <a name="overview-of-microsoft-365-business-premium"></a>A Microsoft 365 Vállalati prémium verzió áttekintése
 
@@ -48,9 +48,9 @@ Ezt a videót megnézve gyorsan áttekintheti a Microsoft 365 Vállalati prémiu
   
 Ha hasznosnak találta ezt a videót, tekintse meg a [teljes tanfolyamok kisvállalatoknak és Microsoft 365-újoncoknak](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816) című cikket. 
 
-A Microsoft 365 Vállalati prémium verzió legfeljebb 300 licenccel való használatra készült. Ha ennél több licencre van szüksége, további információért olvassa el a [Microsoft 365 Nagyvállalati verzió](https://go.microsoft.com/fwlink/p/?linkid=860986) dokumentációját.
+A Microsoft 365 Vállalati prémium verzió legfeljebb 300 licenccel való használatra készült. Ha ennél több licencre van szüksége, további információért olvassa el a [Microsoft 365 Nagyvállalati verzió](../enterprise/index.yml) dokumentációját.
 
-A funkciók teljes listáját a [Microsoft 365 Vállalati prémium verzió szolgáltatás leírásában](https://docs.microsoft.com/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-business-service-description) találja.
+A funkciók teljes listáját a [Microsoft 365 Vállalati prémium verzió szolgáltatás leírásában](/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-business-service-description) találja.
   
 ## <a name="small-business-security-needs"></a>Kisvállalati biztonsági igények
 
@@ -103,7 +103,7 @@ A Microsoft 365 Vállalati prémium verzió az alábbiakkal segíti **a fenyeget
 
 - Egyszerűsített vezérlők használata a házirendek kezeléséhez cége összes Windows 10-es PC-jén, a BitLocker titkosítás kényszerítése és a kritikus Windows-frissítések automatikus telepítése (Windows-frissítési házirendek kényszerítése).
 
-A biztonsági funkciók teljes listáját [a Microsoft 365 Vállalati prémium verzió biztonsági funkciói](security-features.md) leírásában találja. Miután [beállította a Microsoft 365 Vállalati prémium verziót](set-up.md), olvassa el a [veszélyforrások elleni védelem növelése](increase-threat-protection.md) és a [megfelelőségi funkciók beállítása](set-up-compliance.md) című részeket az interaktív beállításban nem szereplő biztonsági funkciók használatbavételéhez. A kiberbűnözők és támadók elleni védekezés beállítását áttekintheti [Az Office 365 és a Microsoft 365 Vállalati prémium verziós csomagok védelmének 10 legjobb módja](https://docs.microsoft.com/office365/admin/security-and-compliance/secure-your-business-data) című cikkben.
+A biztonsági funkciók teljes listáját [a Microsoft 365 Vállalati prémium verzió biztonsági funkciói](security-features.md) leírásában találja. Miután [beállította a Microsoft 365 Vállalati prémium verziót](set-up.md), olvassa el a [veszélyforrások elleni védelem növelése](increase-threat-protection.md) és a [megfelelőségi funkciók beállítása](set-up-compliance.md) című részeket az interaktív beállításban nem szereplő biztonsági funkciók használatbavételéhez. A kiberbűnözők és támadók elleni védekezés beállítását áttekintheti [Az Office 365 és a Microsoft 365 Vállalati prémium verziós csomagok védelmének 10 legjobb módja](/office365/admin/security-and-compliance/secure-your-business-data) című cikkben.
 
 ## <a name="get-microsoft-365-business-premium"></a>A Microsoft 365 Vállalati prémium verzió beszerzése
 

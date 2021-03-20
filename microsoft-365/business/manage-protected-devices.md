@@ -27,17 +27,17 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 018a2a96-3811-4b5d-b751-3b6330b34256
-description: Megtudhatja, hogy hogyan távolíthatja el a céges adatokat a védelmi házirendekkel kezelt eszközökről, és hogyan állíthatja vissza a Windows 10-es eszközöket a gyári beállításaikra.
-ms.openlocfilehash: 88311a2cf08ee0b1ceb4ef3eb599efe5ebccdb05
-ms.sourcegitcommit: a5ed189fa789975f8c3ed39db1d52f2ef7d671aa
+description: Megtudhatja, hogy hogyan távolíthatja el a céges adatokat a védelmi szabályzatokkal kezelt eszközökről, és hogyan állíthatja vissza a Windows 10-es eszközöket a gyári beállításaikra.
+ms.openlocfilehash: 8c5472eada4cded3a6869c031ab902928876095f
+ms.sourcegitcommit: 27b2b2e5c41934b918cac2c171556c45e36661bf
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 07/10/2020
-ms.locfileid: "45101621"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50913214"
 ---
 # <a name="manage-protected-devices-with-microsoft-365-business-premium"></a>Védett eszközök kezelése a Microsoft 365 Vállalati prémium verzióval
 
-Miután egy felhasználó a munkahelyi fiókjával bejelentkezve csatlakoztatta az eszközét a szervezetéhez az eszközön vagy az Office-appokban, ön megvédheti az eszközt az Ön által beállított házirendekkel. A csatlakoztatott eszközök az Eszközök **lapon listában** szerepelnek. Az elveszett vagy ellopott eszközt ezen a lapon kezelheti, és törölhet róla minden céges adatot. Windows 10-es eszközökön a gyári állapotot is visszaállíthatja, így minden egyéni beállítás törlődik róluk. 
+Miután egy felhasználó a munkahelyi fiókjával bejelentkezve csatlakozott a szervezetéhez az eszközön vagy az Office-appokban, az eszközét az Ön által beállított házirendekkel védheti. A csatlakoztatott eszközök az Eszközök **lapon listában** szerepelnek. Az elveszett vagy ellopott eszközt ezen a lapon kezelheti, és törölhet róla minden céges adatot. Windows 10-es eszközökön a gyári állapotot is visszaállíthatja, így minden egyéni beállítás törlődik róluk. 
 
 Az eszközök kezeléséhez használható feladatokról az alábbi cikkekben talál további információt: 
   
@@ -45,6 +45,4 @@ Az eszközök kezeléséhez használható feladatokról az alábbi cikkekben tal
   
 [A Windows 10-es eszközök gyári állapotának visszaállítása](reset-devices-to-factory-settings.md)
 
-[Felügyelt eszköz hozzáadása](https://docs.microsoft.com/microsoft-365/business/app-protection-settings-for-android-and-ios)
-  
-
+[Felügyelt eszköz hozzáadása](./app-protection-settings-for-android-and-ios.md)

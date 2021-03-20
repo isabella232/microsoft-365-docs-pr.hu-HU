@@ -1,5 +1,5 @@
 ---
-title: Segítség a felhasználóknak az Office telepítésében Windows 10-es eszközökön
+title: Az Office telepítésének segít a felhasználóknak Windows 10-es eszközökön
 f1.keywords:
 - NOCSH
 ms.author: sirkkuw
@@ -26,17 +26,17 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: cbc6bfe5-565a-4fb8-95f0-b06e7b74ac46
-description: Segítségével a felhasználók telepítheti az Office-alkalmazásokat Windows 10-es eszközökre, és egyszerűen telepítheti az Office-t Windows 10-es PC-re a Microsoft 365 Felügyeleti központból.
-ms.openlocfilehash: 680c1c4e43a037c6afd109220090f387b207f8b1
-ms.sourcegitcommit: d39694d7b2c98350b0d568dfd03fa0ef44ed4c1d
+description: Segítségével a felhasználók telepítheti az Office-appokat Windows 10-es eszközökre, és egyszerűen telepítheti az Office-t Windows 10-es PC-re a Microsoft 365 Felügyeleti központból.
+ms.openlocfilehash: 5337c8ef008c1af79490eb6b6705d450055d24fb
+ms.sourcegitcommit: 27b2b2e5c41934b918cac2c171556c45e36661bf
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/10/2020
-ms.locfileid: "46601983"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50913346"
 ---
-# <a name="help-your-users-install-office-on-windows-10-devices"></a>Segítség a felhasználóknak az Office telepítésében Windows 10-es eszközökön
+# <a name="help-your-users-install-office-on-windows-10-devices"></a>Az Office telepítésének segít a felhasználóknak Windows 10-es eszközökön
 
-[![A megjelenő címke figyelmeztet a felügyeleti központ változásaira, további részleteket itt talál: aka.ms/aboutM365preview.](../media/m365admincenterchanging.png)](https://docs.microsoft.com/office365/admin/microsoft-365-admin-center-preview)
+[![A megjelenő címke figyelmeztet a felügyeleti központ változásaira, további részleteket itt talál: aka.ms/aboutM365preview.](../media/m365admincenterchanging.png)](/office365/admin/microsoft-365-admin-center-preview)
 
 A Microsoft 365 Felügyeleti központból gyorsan és egyszerűen telepítheti az Office-t Windows 10-es PC-re.
   
@@ -50,18 +50,18 @@ Ha hasznosnak találta ezt a videót, tekintse meg a [teljes tanfolyamok kisvál
 
 ## <a name="manage-office-deployments"></a>Az Office üzembe helyezésének kezelése
 
-1. A felügyeleti központ megnyitásához jelentkezzen be <a href="https://go.microsoft.com/fwlink/p/?linkid=2024339" target="_blank">https://admin.microsoft.com</a> a globális rendszergazdai hitelesítő adatokkal. 
+1. A felügyeleti központ megnyitásához jelentkezzen be a globális <a href="https://go.microsoft.com/fwlink/p/?linkid=2024339" target="_blank">https://admin.microsoft.com</a> rendszergazdai hitelesítő adatokkal. 
 
-2. A bal **oldali navigációs ablakban** válassza  a Beállítás lehetőséget, és a Beállítás lapon görgessen az Alkalmazások és **frissítések elemre.**
+2. A bal **oldali navigációs** ablakban válassza a Beállítás lehetőséget, majd a **Beállítás lapon** görgessen az Alkalmazások és **frissítések elemre.**
     > [!NOTE]
     > Ha az összes felhasználó telepítette az Office-appokat, előfordulhat, hogy nem látja ezt a kártyát.
   
-3. A **súgóban a felhasználók telepítik az Office-appok** kártyáját, válassza a **Nézet,** majd az **Első lépések lehetőséget.**
+3. A Segítség a **felhasználóknak az Office-appok** kártyája telepítéséhez csoportban válassza a **Nézet**, majd az **Első lépések lehetőséget.**
     
-4. Az **E-mailben a felhasználóknál az Office** letöltésére mutató hivatkozáson jelölje ki az e-mailben küldeni kívánt felhasználókat, majd küldje el e-mailben **a kijelölt felhasználókat.**
+4. Az **Office letöltésére** mutató hivatkozás küldése a felhasználóknak panelen jelölje ki az e-mailben küldeni kívánt felhasználókat, majd válassza a Kijelölt felhasználók e-mailben **lehetőséget.**
 
-   ![Jelölje ki a felhasználókat, akik e-mailt küldenek az Office letöltési hivatkozásával.](../media/sendemailtousers.png)
+   ![Felhasználók kijelölése az Office letöltési hivatkozásával való e-mail küldéshez.](../media/sendemailtousers.png)
 
 ## <a name="for-more-on-setting-up-and-using-microsoft-365-business-premium"></a>További információ a Microsoft 365 Vállalati prémium verzió beállításával és használatával
 
-[Microsoft 365 Vállalati verziós oktatóvideók](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
+[Microsoft 365 Vállalati verzió – oktatóvideók](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)

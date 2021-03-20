@@ -24,12 +24,12 @@ search.appverid:
 - MET150
 ms.assetid: 5b4ba843-24b8-4526-8e1f-f9b9eab89d06
 description: Ismerje meg a Microsoft 365 Vállalati standard verzió és a Microsoft 365 Business Premium közötti különbséget, valamint azt, hogy miként frissíthet a Microsoft 365 Vállalati prémium verzióra.
-ms.openlocfilehash: bdab8165623170926b17efa4cae9408b78a2f5f5
-ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
+ms.openlocfilehash: ef3d929164f83d4e48157065eb1ae1d2a1a9452e
+ms.sourcegitcommit: 27b2b2e5c41934b918cac2c171556c45e36661bf
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 05/27/2020
-ms.locfileid: "44401382"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50912922"
 ---
 # <a name="upgrade-to-microsoft-365-business-premium-from-microsoft-365-business-standard"></a>Frissítés a Microsoft 365 Vállalati prémium verzióra a Microsoft 365 Vállalati standard verzióról
 
@@ -44,7 +44,7 @@ További információ a Microsoft 365 Vállalati prémium verzióról a [Microso
 
 ## <a name="whats-the-difference-between-microsoft-365-business-standard-and-microsoft-365-business-premium"></a>Mi a különbség a Microsoft 365 Vállalati standard verzió és a Microsoft 365 Vállalati prémium verzió között?
 
-A microsoft [365](https://docs.microsoft.com/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-business-service-description)Vállalati prémium verzió szolgáltatásleírása összehasonlítása egymás mellett található. 
+A microsoft [365](/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-business-service-description)Vállalati prémium verzió szolgáltatásleírása összehasonlítása egymás mellett található. 
 
 ## <a name="before-you-get-started"></a>Első lépések
 

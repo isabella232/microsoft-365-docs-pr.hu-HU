@@ -24,13 +24,13 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: be5b6d90-3344-4c5e-bf40-5733eb845beb
-description: Megtudhatja, hogy a Windows AutoPilot használatával hogyan állíthat be új Windows 10-es eszközöket a vállalata számára, hogy készen álljanak az alkalmazottak használatára.
-ms.openlocfilehash: f263cc90656ae5e7be1a89e3c7f56bfb2d0e3651
-ms.sourcegitcommit: 3b369a44b71540c8b8214ce588a7aa6f47c3bb1e
+description: Megtudhatja, hogy a Windows AutoPilot segítségével hogyan állíthat be új Windows 10-es eszközöket a vállalata számára, hogy azok készen állnak az alkalmazottak használatára.
+ms.openlocfilehash: 75cc51b889f8673de8dba2357c777de47fd0d296
+ms.sourcegitcommit: 27b2b2e5c41934b918cac2c171556c45e36661bf
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 02/04/2021
-ms.locfileid: "50099750"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50913502"
 ---
 # <a name="use-the-step-by-step-guide-to-add-autopilot-devices-and-profile"></a>Autopilot-eszközök és -profilok hozzáadása a lépésenkénti útmutatóval
 
@@ -40,27 +40,27 @@ A Windows AutoPilot segítségével új **Windows** 10-es eszközöket állítha
 
 Az eszközöknek meg kell felelnie az alábbi követelményeknek:
   
-- Windows 10 1703-as vagy újabb verzió
+- Windows 10, 1703-as vagy újabb verzió
     
-- Új eszközök, amelyek még nem voltak használhatók a Windows rendszerben
+- Új eszközök, amelyek még nem voltak használhatók a Windowsban
     
 ## <a name="use-the-setup-guide-to-create-devices-and-profiles"></a>Eszközök és profilok létrehozása a beállítási útmutató használatával
 
-[![A megjelenő címke figyelmeztet a felügyeleti központ változásaira, további részleteket itt talál: aka.ms/aboutM365preview.](../media/m365admincenterchanging.png)](https://docs.microsoft.com/office365/admin/microsoft-365-admin-center-preview)
+[![A megjelenő címke figyelmeztet a felügyeleti központ változásaira, további részleteket itt talál: aka.ms/aboutM365preview.](../media/m365admincenterchanging.png)](/office365/admin/microsoft-365-admin-center-preview)
 
-Ha még nem hozott létre eszközcsoportokat vagy -profilokat, a legjobb, ha a lépésenként végigvezeti az első lépéseken. Az útmutató használata [](create-and-edit-autopilot-profiles.md) [nélkül](create-and-edit-autopilot-devices.md) is felvehet eszközöket, és profilokat rendelhet hozzájuk. 
+Ha még nem hozott létre eszközcsoportokat vagy -profilokat, a legjobb, ha a részletes útmutatót használja. Az útmutató [használata](create-and-edit-autopilot-devices.md) [](create-and-edit-autopilot-profiles.md) nélkül is felvehet eszközöket, és profilokat rendelhet hozzájuk. 
   
 1. A felügyeleti központ megnyitásához: <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a> .
 
 2. A bal oldali navigációs ablakban válassza az **Eszközök** \> **AutoPilot lehetőséget.**
 
-    ![A Felügyeleti központban válassza ki az eszközöket, majd az AutoPilotot.](../media/AutoPilot.png)
+    ![A Felügyeleti központban válassza az eszközök, majd az AutoPilot lehetőséget.](../media/AutoPilot.png)
   
-2. Az **AutoPilot lapon** kattintson vagy koppintson az útmutató **indítási parancsára.**
+2. Az **AutoPilot lapon** kattintson vagy koppintson az Útmutató **kezdése elemre.**
     
     ![Click Start guide for step-by-step instructions for Autopilot.](../media/31662655-d1e6-437d-87ea-c0dec5da56f7.png)
   
-3. A **.csv** fájl feltöltése az eszközök listájával lapon tallózással keresse meg azt a helyet, ahol előkészítette. CSV-fájl, majd **a Tovább megnyitása** \> **gombra.** A fájlnak három fejlécet kell lennie:
+3. Az **Eszközlistát** is tartalmazza .csv fájl feltöltése lapon tallózással keresse meg azt a helyet, ahol előkészítette az eszközt. CSV-fájl, majd **a Következő megnyitása** \> **gombra.** A fájlnak három fejléccel kell lennie:
     
     - A oszlop: Eszköz sorozatszáma
     
@@ -68,24 +68,24 @@ Ha még nem hozott létre eszközcsoportokat vagy -profilokat, a legjobb, ha a l
     
     - C oszlop: Hardverkivonat
     
-    Ezeket az információkat a hardvergyártótól kaphatja meg, vagy a [Get-WindowsAutoPilotInfo](https://www.powershellgallery.com/packages/Get-WindowsAutoPilotInfo) PowerShell-parancsprogrammal létrehozhat egy CSV-fájlt. 
+    Ezeket az információkat a hardvergyártójától kaphatja meg, vagy a [Get-WindowsAutoPilotInfo PowerShell-parancsprogrammal](https://www.powershellgallery.com/packages/Get-WindowsAutoPilotInfo) létrehozhat egy CSV-fájlt. 
     
-    További információ: [Eszközlistát tartalmazó CSV-fájl](https://docs.microsoft.com/microsoft-365/admin/misc/device-list). Az **Eszközlistát tartalmazó CSV-fájl feltöltése** lapon egy mintafájlt is letölthet. 
+    További információ: [Eszközlistát tartalmazó CSV-fájl](../admin/misc/device-list.md). Az **Eszközlistát tartalmazó CSV-fájl feltöltése** lapon egy mintafájlt is letölthet. 
     
 > [!NOTE]
-> Ez a parancsprogram WMI segítségével olvassa be az ügyfélnek az eszköz Windows Autopilottal való regisztráláshoz szükséges tulajdonságait. Vegye figyelembe, hogy az eredményül kapott CSV-fájl nem gyűjti össze a Windows-termékazonosító (PKID) értékét, mivel ez nem szükséges az eszközök regisztrálásához, és a PKID null érték a kimeneti CSV-fájlban teljesen rendben van. Csak a sorozatszámot és a hardveres kivonatot tölti ki a rendszer.
+> Ez a parancsfájl WMI segítségével beolvassa az eszközök Windows Autopilottal való regisztrálása esetén szükséges tulajdonságokat. Vegye figyelembe, hogy az eredményül kapott CSV-fájlban nem kell Windows-termékazonosító (PKID) értéket gyűjteni, mivel ez nem szükséges egy eszköz regisztrálásához, és a PKID NULL érték a kimeneti CSV-fájlban teljesen rendben van. A rendszer csak a sorozatszámot és a hardver kivonatát tölti ki.
     
-4. A Profil **hozzárendelése lapon** választhat egy meglévő profilt, vagy létrehozhat egy újat. Ha még nincs ilyen üzenete, a rendszer kérni fogja, hogy hozzon létre egyet. 
+4. A Profil **hozzárendelése lapon** kiválaszthat egy meglévő profilt, vagy létrehozhat egy újat. Ha még nincs ilyen fiókja, a rendszer kérni fogja, hogy hozzon létre egyet. 
     
     A profil azoknak a beállításoknak a gyűjteménye, amelyek egyetlen eszközre vagy eszközök csoportjára lehet alkalmazni.
     
-    Az alapértelmezett funkciók kötelezők, és automatikusan be vannak állítva. Az alapértelmezett funkciók az alábbiak:
+    Az alapértelmezett funkciók kötelezők, és automatikusan vannak beállítva. Az alapértelmezett funkciók az alábbiak:
     
     - Kihagyhatja Cortanát, a OneDrive-ot és az OEM-regisztrációt.
     
     - Bejelentkezés céges márkával.
     
-    - Csatlakoztassa az eszközeit az Azure Active Directory-fiókokhoz, és automatikusan regisztrálja őket a Microsoft 365 Business Premium által kezelt fiókokra.
+    - Csatlakoztassa az eszközeit az Azure Active Directory-fiókokhoz, és automatikusan regisztrálja őket a Microsoft 365 Business Premiumval való használatra.
     
     További információ: [Az AutoPilot-profil beállításai.](autopilot-profile-settings.md) 
     
@@ -94,4 +94,3 @@ Ha még nem hozott létre eszközcsoportokat vagy -profilokat, a legjobb, ha a l
     Válassza a **Tovább** gombot.
     
 6. **Ha végzett,** az azt jelenti, hogy a létrehozott (vagy kiválasztott) profilt a rendszer az eszközlista feltöltésével létrehozott eszközcsoportra alkalmazza. A beállítások akkor lépnek életbe, amikor az eszköz felhasználói legközelebb bejelentkeznek. Válassza a **Bezárás** gombot.
-    
