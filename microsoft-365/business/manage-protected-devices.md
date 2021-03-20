@@ -27,24 +27,22 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 018a2a96-3811-4b5d-b751-3b6330b34256
-description: Megtudhatja, hogy hogyan távolíthatja el a céges adatokat a védelmi házirendekkel kezelt eszközökről, és hogyan állíthatja vissza a Windows 10-es eszközöket a gyári beállításaikra.
-ms.openlocfilehash: 88311a2cf08ee0b1ceb4ef3eb599efe5ebccdb05
-ms.sourcegitcommit: a5ed189fa789975f8c3ed39db1d52f2ef7d671aa
+description: Megtudhatja, hogy hogyan távolíthatja el a céges adatokat a védelmi szabályzatokkal kezelt eszközökről, és hogyan állíthatja vissza a Windows 10-es eszközöket a gyári beállításaikra.
+ms.openlocfilehash: 8c5472eada4cded3a6869c031ab902928876095f
+ms.sourcegitcommit: 27b2b2e5c41934b918cac2c171556c45e36661bf
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 07/10/2020
-ms.locfileid: "45101621"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50913214"
 ---
-# <a name="manage-protected-devices-with-microsoft-365-business-premium"></a><span data-ttu-id="233c0-103">Védett eszközök kezelése a Microsoft 365 Vállalati prémium verzióval</span><span class="sxs-lookup"><span data-stu-id="233c0-103">Manage protected devices with Microsoft 365 Business Premium</span></span>
+# <a name="manage-protected-devices-with-microsoft-365-business-premium"></a><span data-ttu-id="32b8e-103">Védett eszközök kezelése a Microsoft 365 Vállalati prémium verzióval</span><span class="sxs-lookup"><span data-stu-id="32b8e-103">Manage protected devices with Microsoft 365 Business Premium</span></span>
 
-<span data-ttu-id="233c0-104">Miután egy felhasználó a munkahelyi fiókjával bejelentkezve csatlakoztatta az eszközét a szervezetéhez az eszközön vagy az Office-appokban, ön megvédheti az eszközt az Ön által beállított házirendekkel.</span><span class="sxs-lookup"><span data-stu-id="233c0-104">After a user connects their device to your organization by signing in with their work account to the device or to Office apps on the device, you can protect the device with the policies you set up.</span></span> <span data-ttu-id="233c0-105">A csatlakoztatott eszközök az Eszközök **lapon listában** szerepelnek.</span><span class="sxs-lookup"><span data-stu-id="233c0-105">Connected devices are listed on the **Devices** page.</span></span> <span data-ttu-id="233c0-106">Az elveszett vagy ellopott eszközt ezen a lapon kezelheti, és törölhet róla minden céges adatot.</span><span class="sxs-lookup"><span data-stu-id="233c0-106">If a device is lost or stolen, you can manage it from this page to remove any company data.</span></span> <span data-ttu-id="233c0-107">Windows 10-es eszközökön a gyári állapotot is visszaállíthatja, így minden egyéni beállítás törlődik róluk.</span><span class="sxs-lookup"><span data-stu-id="233c0-107">You can also reset Windows 10 devices to their factory settings to wipe out any custom settings.</span></span> 
+<span data-ttu-id="32b8e-104">Miután egy felhasználó a munkahelyi fiókjával bejelentkezve csatlakozott a szervezetéhez az eszközön vagy az Office-appokban, az eszközét az Ön által beállított házirendekkel védheti.</span><span class="sxs-lookup"><span data-stu-id="32b8e-104">After a user connects their device to your organization by signing in with their work account to the device or to Office apps on the device, you can protect the device with the policies you set up.</span></span> <span data-ttu-id="32b8e-105">A csatlakoztatott eszközök az Eszközök **lapon listában** szerepelnek.</span><span class="sxs-lookup"><span data-stu-id="32b8e-105">Connected devices are listed on the **Devices** page.</span></span> <span data-ttu-id="32b8e-106">Az elveszett vagy ellopott eszközt ezen a lapon kezelheti, és törölhet róla minden céges adatot.</span><span class="sxs-lookup"><span data-stu-id="32b8e-106">If a device is lost or stolen, you can manage it from this page to remove any company data.</span></span> <span data-ttu-id="32b8e-107">Windows 10-es eszközökön a gyári állapotot is visszaállíthatja, így minden egyéni beállítás törlődik róluk.</span><span class="sxs-lookup"><span data-stu-id="32b8e-107">You can also reset Windows 10 devices to their factory settings to wipe out any custom settings.</span></span> 
 
-<span data-ttu-id="233c0-108">Az eszközök kezeléséhez használható feladatokról az alábbi cikkekben talál további információt:</span><span class="sxs-lookup"><span data-stu-id="233c0-108">For more information on the tasks you can use to manage devices, see these articles:</span></span> 
+<span data-ttu-id="32b8e-108">Az eszközök kezeléséhez használható feladatokról az alábbi cikkekben talál további információt:</span><span class="sxs-lookup"><span data-stu-id="32b8e-108">For more information on the tasks you can use to manage devices, see these articles:</span></span> 
   
-[<span data-ttu-id="233c0-109">Céges adatok eltávolítása az eszközökről</span><span class="sxs-lookup"><span data-stu-id="233c0-109">Remove company data from devices</span></span>](remove-company-data.md)
+[<span data-ttu-id="32b8e-109">Céges adatok eltávolítása az eszközökről</span><span class="sxs-lookup"><span data-stu-id="32b8e-109">Remove company data from devices</span></span>](remove-company-data.md)
   
-[<span data-ttu-id="233c0-110">A Windows 10-es eszközök gyári állapotának visszaállítása</span><span class="sxs-lookup"><span data-stu-id="233c0-110">Reset Windows 10 devices to their factory settings</span></span>](reset-devices-to-factory-settings.md)
+[<span data-ttu-id="32b8e-110">A Windows 10-es eszközök gyári állapotának visszaállítása</span><span class="sxs-lookup"><span data-stu-id="32b8e-110">Reset Windows 10 devices to their factory settings</span></span>](reset-devices-to-factory-settings.md)
 
-[<span data-ttu-id="233c0-111">Felügyelt eszköz hozzáadása</span><span class="sxs-lookup"><span data-stu-id="233c0-111">Add a managed device</span></span>](https://docs.microsoft.com/microsoft-365/business/app-protection-settings-for-android-and-ios)
-  
-
+[<span data-ttu-id="32b8e-111">Felügyelt eszköz hozzáadása</span><span class="sxs-lookup"><span data-stu-id="32b8e-111">Add a managed device</span></span>](./app-protection-settings-for-android-and-ios.md)

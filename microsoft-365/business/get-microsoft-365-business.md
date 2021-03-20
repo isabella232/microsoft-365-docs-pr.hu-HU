@@ -1,5 +1,5 @@
 ---
-title: A Microsoft 365 Vállalati prémium verzió lekérte a partnerközpontból
+title: A Microsoft 365 Vállalati prémium verzió a Partnerközpontból
 f1.keywords:
 - NOCSH
 ms.author: sirkkuw
@@ -24,39 +24,36 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: 5abfef7b-5957-484a-b06b-a7c55e013e44
-description: Ismerje meg a Microsoft 365 Vállalati prémium verzió megvásárlására vonatkozó lehetőségeket, és ismerje meg a Microsoft Partnerközpontból való vásárlás lépéses utasításait.
-ms.openlocfilehash: 550ab62b46ffc09f8c4822a2e1741ee51b4579ca
-ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
+description: Fedezze fel a Microsoft 365 Vállalati prémium verzió megvásárlására vonatkozó lehetőségeket és a Microsoft Partnerközpontból való vásárláshoz rendelkezésre álló részletes útmutatót.
+ms.openlocfilehash: 9f29846a7017259340b2125b09bc9fa5f935501b
+ms.sourcegitcommit: 27b2b2e5c41934b918cac2c171556c45e36661bf
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 05/27/2020
-ms.locfileid: "45081828"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50913326"
 ---
-# <a name="get-microsoft-365-business-premium"></a><span data-ttu-id="319d4-103">A Microsoft 365 Vállalati prémium verzió beszerzése</span><span class="sxs-lookup"><span data-stu-id="319d4-103">Get Microsoft 365 Business Premium</span></span>
+# <a name="get-microsoft-365-business-premium"></a><span data-ttu-id="58143-103">A Microsoft 365 Vállalati prémium verzió beszerzése</span><span class="sxs-lookup"><span data-stu-id="58143-103">Get Microsoft 365 Business Premium</span></span>
 
-## <a name="get-microsoft-365-business-premium-from-microsoft"></a><span data-ttu-id="319d4-104">A Microsoft 365 Vállalati prémium verzió lekérte a Microsofttól</span><span class="sxs-lookup"><span data-stu-id="319d4-104">Get Microsoft 365 Business Premium from Microsoft</span></span>
+## <a name="get-microsoft-365-business-premium-from-microsoft"></a><span data-ttu-id="58143-104">A Microsoft 365 Vállalati prémium verzió a Microsofttól</span><span class="sxs-lookup"><span data-stu-id="58143-104">Get Microsoft 365 Business Premium from Microsoft</span></span>
 
-<span data-ttu-id="319d4-105">Ha nincs partnere, és meg szeretné vásárolni a Microsoft 365 Vállalati prémium verziós előfizetést, megvásárolhatja [itt.](https://www.microsoft.com/en-US/microsoft-365/business)</span><span class="sxs-lookup"><span data-stu-id="319d4-105">If you don't have a partner and want to get Microsoft 365 Business Premium, you can [buy it here](https://www.microsoft.com/en-US/microsoft-365/business).</span></span>
+<span data-ttu-id="58143-105">Ha nincs partnere, és meg szeretné vásárolni a Microsoft 365 Business Premiumt, meg [is vásárolhatja itt.](https://www.microsoft.com/en-US/microsoft-365/business)</span><span class="sxs-lookup"><span data-stu-id="58143-105">If you don't have a partner and want to get Microsoft 365 Business Premium, you can [buy it here](https://www.microsoft.com/en-US/microsoft-365/business).</span></span>
 
-<span data-ttu-id="319d4-106">Részletes útmutatásért olvassa el a [Microsoft 365 Vállalati prémium](sign-up.md) verzióra való regisztrációt.</span><span class="sxs-lookup"><span data-stu-id="319d4-106">See [sign up for Microsoft 365 Business Premium](sign-up.md) for detailed instructions.</span></span>
+<span data-ttu-id="58143-106">Részletes [útmutatást a Microsoft 365 Vállalati prémium verzióra való](sign-up.md) regisztrációt mutatja be.</span><span class="sxs-lookup"><span data-stu-id="58143-106">See [sign up for Microsoft 365 Business Premium](sign-up.md) for detailed instructions.</span></span>
 
-<span data-ttu-id="319d4-107">A Microsoft Store áruházból is vásárolhat Microsoft 365 Vállalati prémium verziós előfizetést, és segítséget kaphat a beállításhoz. [](https://www.microsoft.com/en-us/store/locations/find-a-store?icid=en_US_Store_UH_FAS)</span><span class="sxs-lookup"><span data-stu-id="319d4-107">You can also head over to a [Microsoft Store](https://www.microsoft.com/en-us/store/locations/find-a-store?icid=en_US_Store_UH_FAS) to buy Microsoft 365 Business Premium and get setup help.</span></span>
+<span data-ttu-id="58143-107">A Microsoft Store-ban a [Microsoft](https://www.microsoft.com/en-us/store/locations/find-a-store?icid=en_US_Store_UH_FAS) 365 Business Premiumt is megvásárolhatja, és segítséget kaphat a beállításhoz.</span><span class="sxs-lookup"><span data-stu-id="58143-107">You can also head over to a [Microsoft Store](https://www.microsoft.com/en-us/store/locations/find-a-store?icid=en_US_Store_UH_FAS) to buy Microsoft 365 Business Premium and get setup help.</span></span>
   
-## <a name="get-microsoft-365-business-premium-from-microsoft-partner-center"></a><span data-ttu-id="319d4-108">A Microsoft 365 Vállalati prémium verzió lekérte a Microsoft Partnerközpontból</span><span class="sxs-lookup"><span data-stu-id="319d4-108">Get Microsoft 365 Business Premium from Microsoft Partner Center</span></span>
+## <a name="get-microsoft-365-business-premium-from-microsoft-partner-center"></a><span data-ttu-id="58143-108">A Microsoft 365 Vállalati prémium verzió a Microsoft Partnerközpontból</span><span class="sxs-lookup"><span data-stu-id="58143-108">Get Microsoft 365 Business Premium from Microsoft Partner Center</span></span>
 
-1. <span data-ttu-id="319d4-109">Jelentkezzen be a [Microsoft Partnerközpontba](https://go.microsoft.com/fwlink/p/?linkid=849910) a felhőszolgáltatói (CSP) programhoz való csatlakozáskor létrehozott hitelesítő adatokkal.</span><span class="sxs-lookup"><span data-stu-id="319d4-109">Sign in at [Microsoft Partner Center](https://go.microsoft.com/fwlink/p/?linkid=849910) by using the credentials you created when you enrolled to the Cloud Service Provider (CSP) program.</span></span> 
+1. <span data-ttu-id="58143-109">Jelentkezzen be a [Microsoft Partnerközpontba](https://go.microsoft.com/fwlink/p/?linkid=849910) a felhőszolgáltatói (CSP) programhoz való csatlakozáskor létrehozott hitelesítő adatokkal.</span><span class="sxs-lookup"><span data-stu-id="58143-109">Sign in at [Microsoft Partner Center](https://go.microsoft.com/fwlink/p/?linkid=849910) by using the credentials you created when you enrolled to the Cloud Service Provider (CSP) program.</span></span> 
     
-2. <span data-ttu-id="319d4-110">A Partner irányítópultján válassza az Ügyfelek **lehetőséget,** majd válassza ki az ügyfelet, vagy vegyen fel egy új ügyfelet, mielőtt a Microsoft 365 Vállalati prémium verzióhoz jut.</span><span class="sxs-lookup"><span data-stu-id="319d4-110">On the Partner Dashboard, choose **Customers**, then select your customer or add a new customer before you get Microsoft 365 Business Premium.</span></span>
+2. <span data-ttu-id="58143-110">A Partner irányítópultján válassza az **Ügyfelek** lehetőséget, majd válassza ki az ügyfelet, vagy vegyen fel egy új ügyfelet, mielőtt a Microsoft 365 Vállalati prémium verzióhoz jut.</span><span class="sxs-lookup"><span data-stu-id="58143-110">On the Partner Dashboard, choose **Customers**, then select your customer or add a new customer before you get Microsoft 365 Business Premium.</span></span>
     
     ![A Microsoft Partnerközpontban vegyen fel egy ügyfelet.](../media/ec807d07-bbd2-411f-8fe1-c644cf9a3882.png)
   
-3. <span data-ttu-id="319d4-112">Az ügyfél Előfizetés  lapján válassza az **Előfizetés** hozzáadása lehetőséget, válassza a Kisvállalati verzió lehetőséget a Katalógus lapon, majd válassza a **Microsoft 365 Vállalati prémium verzió lehetőséget.**</span><span class="sxs-lookup"><span data-stu-id="319d4-112">On the customer's **Subscription** page, select **Add subscription**, choose the Small business option under Catalog, and then choose **Microsoft 365 Business Premium**.</span></span>
+3. <span data-ttu-id="58143-112">Az ügyfél Előfizetés  lapján válassza az Előfizetés hozzáadása **lehetőséget,** a Katalógus alatt válassza a Kisvállalati lehetőséget, majd a **Microsoft 365 Business Premium lehetőséget.**</span><span class="sxs-lookup"><span data-stu-id="58143-112">On the customer's **Subscription** page, select **Add subscription**, choose the Small business option under Catalog, and then choose **Microsoft 365 Business Premium**.</span></span>
     
-    <span data-ttu-id="319d4-113">Adja meg a szükséges licencek számát (legfeljebb 300 lehet).</span><span class="sxs-lookup"><span data-stu-id="319d4-113">Select the number of licenses you need (up to 300).</span></span> <span data-ttu-id="319d4-114">Ha több mint 300 felhasználója van, olvassa el a [Microsoft 365 Nagyvállalati verzió](https://go.microsoft.com/fwlink/p/?linkid=862316) ismertetését.</span><span class="sxs-lookup"><span data-stu-id="319d4-114">If you have more than 300 users, see [Microsoft 365 Enterprise](https://go.microsoft.com/fwlink/p/?linkid=862316) instead.</span></span> 
+    <span data-ttu-id="58143-113">Adja meg a szükséges licencek számát (legfeljebb 300 lehet).</span><span class="sxs-lookup"><span data-stu-id="58143-113">Select the number of licenses you need (up to 300).</span></span> <span data-ttu-id="58143-114">Ha több mint 300 felhasználója van, olvassa el a [Microsoft 365 Nagyvállalati verzió](../enterprise/index.yml) ismertetését.</span><span class="sxs-lookup"><span data-stu-id="58143-114">If you have more than 300 users, see [Microsoft 365 Enterprise](../enterprise/index.yml) instead.</span></span> 
     
-    ![Az Új előfizetés lapon válassza a kisvállalati verzió lehetőséget.](../media/52d99e89-2175-4974-84bb-dd626048541b.png)
+    ![Az Új előfizetés lapon válassza a Kisvállalati verzió lehetőséget.](../media/52d99e89-2175-4974-84bb-dd626048541b.png)
   
-    <span data-ttu-id="319d4-116">Az új ügyfél hozzáadásának további lépéseit, beleértve a cég nevét is.</span><span class="sxs-lookup"><span data-stu-id="319d4-116">Complete the rest of the steps for adding a new customer, including the business name.</span></span>
-    
-
-
+    <span data-ttu-id="58143-116">Kövesse az új ügyfél hozzáadásának további lépéseit, a cég nevével együtt.</span><span class="sxs-lookup"><span data-stu-id="58143-116">Complete the rest of the steps for adding a new customer, including the business name.</span></span>
