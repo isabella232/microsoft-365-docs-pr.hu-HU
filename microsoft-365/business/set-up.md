@@ -30,12 +30,12 @@ search.appverid:
 - MET150
 ms.assetid: 6e7a2dfd-8ec4-4eb7-8390-3ee103e5fece
 description: Megismerheti a Microsoft 365 Vállalati prémium verzió beállítási lépéseit, például tartomány és felhasználók felvételét, biztonsági házirendek beállítását és sok más lépést.
-ms.openlocfilehash: 5b082e78f3dc4067dcce4a96a8088b2347bc3af4
-ms.sourcegitcommit: 27b2b2e5c41934b918cac2c171556c45e36661bf
+ms.openlocfilehash: 4d49ba7ccdb65691756aaa505d0856deb115595b
+ms.sourcegitcommit: 956176ed7c8b8427fdc655abcd1709d86da9447e
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50912570"
+ms.lasthandoff: 03/23/2021
+ms.locfileid: "51052234"
 ---
 # <a name="set-up-microsoft-365-business-premium-in-the-setup-wizard"></a>A Microsoft 365 Vállalati prémium verzió beállítása a beállítási varázslóban
 
@@ -107,7 +107,7 @@ A szolgáltatások beállításához frissítenie kell bizonyos rekordokat a DNS
 
 A varázslóban beállított házirendek automatikusan vonatkoznak a Minden [felhasználó](/office365/admin/create-groups/compare-groups#security-groups) nevű biztonsági *csoportra.* További csoportokat is létrehozhat, amelyekhez házirendeket rendelhet hozzá a Felügyeleti központban.
 
-1. A speciális kiberfenyegetések elleni védelem növelése érdekében javasoljuk, hogy hagyja, hogy az [Office 365 Előzetes](../security/office-365-security/office-365-atp.md) veszélyforrások elleni védelem megvizsgálja az Office-appok fájljait és hivatkozásait.
+1. A speciális kiberfenyegetések elleni védelem növelése érdekében javasoljuk, hogy hagyja, hogy az [Office 365 Előzetes](../security/defender-365-security/defender-for-office-365.md) veszélyforrások elleni védelem megvizsgálja az Office-appok fájljait és hivatkozásait.
 
     ![Képernyőkép a Védelem növelése lapról](../media/increasetreatprotection.png)
 

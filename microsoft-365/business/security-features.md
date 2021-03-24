@@ -24,12 +24,12 @@ search.appverid:
 - MET150
 ms.assetid: c123694a-1efb-459e-a8d5-2187975373dc
 description: Ismerje meg a Microsoft 365 Vállalati prémium verzió biztonsági funkcióit, amelyek segítenek a PC-n, telefonon és táblagépen található adatok védelmében.
-ms.openlocfilehash: 74a22b654e60e4a980e397598117bb4c435e833b
-ms.sourcegitcommit: 27b2b2e5c41934b918cac2c171556c45e36661bf
+ms.openlocfilehash: d641fc66e27f3c5e0a7c8609e4fa25fac93d8561
+ms.sourcegitcommit: 956176ed7c8b8427fdc655abcd1709d86da9447e
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50912550"
+ms.lasthandoff: 03/23/2021
+ms.locfileid: "51052254"
 ---
 # <a name="microsoft-365-business-premium-security-and-compliance-features"></a>A Microsoft 365 Vállalati prémium verzió biztonsági és megfelelőségi funkciói
 
@@ -63,7 +63,7 @@ A Felügyeleti központban kezelheti a Microsoft 365 Vállalati prémium verzió
 
 A Microsoft 365 Vállalati prémium verzió speciális funkciói segítenek megvédeni vállalkozását a kibertámadásokkal szemben, és megóvni a bizalmas információkat.
   
-- **[Microsoft Defender az Office 365-hez](../security/office-365-security/office-365-atp.md)**
+- **[Microsoft Defender az Office 365-hez](../security/defender-365-security/defender-for-office-365.md)**
     
     Az Office 365-höz készült Microsoft Defender védelmet nyújt vállalkozása számára a kifinomult adathalászati és zsarolóvírus-támadások ellen, amelyek az alkalmazotti és ügyféladatok veszélyeztető kísérletére vannak tervezve. A funkciók közé tartoznak az alábbiak:
     
