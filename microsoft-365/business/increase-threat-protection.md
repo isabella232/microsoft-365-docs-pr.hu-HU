@@ -22,12 +22,12 @@ search.appverid:
 - BCS160
 - MET150
 description: Állítsa be a Microsoft Defendert az Office 365-hez, és megóvja a bizalmas adatokat az adathalászat, a kártevők és más veszélyforrások ellen.
-ms.openlocfilehash: 80ad3767b277e4808b6df4bdd977688794649e11
-ms.sourcegitcommit: 956176ed7c8b8427fdc655abcd1709d86da9447e
+ms.openlocfilehash: 6526ed9a849e83f19f74656004978089ce367ea9
+ms.sourcegitcommit: dcb97fbfdae52960ae62b6faa707a05358193ed5
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/23/2021
-ms.locfileid: "51050846"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "51198391"
 ---
 # <a name="increase-threat-protection"></a>Veszélyforrások elleni védelem növelése
 
@@ -57,7 +57,7 @@ Office 365- vagy Microsoft 365-környezete védelmet nyújt a kártevők ellen. 
 
 6. Válassza a **Mentés gombot.**
 
-További információ: Kártevők elleni védelem az [EOP-ban.](../security/defender-365-security/anti-malware-protection.md)
+További információ: Kártevők elleni védelem az [EOP-ban.](../security/office-365-security/anti-malware-protection.md)
 
 ## <a name="protect-against-ransomware"></a>Zsarolóvírusok elleni védelem
 
@@ -138,7 +138,7 @@ Ha az Office 365-hez készült Microsoft [](https://support.microsoft.com/office
 
 4. Az **Adathalászat elleni lapon** válassza a **+ Létrehozás lehetőséget.** Egy varázsló elindítja ezt a lépést az adathalászat-házirend definiálása során.
 
-5. Adja meg a házirend nevét, leírását és beállításait az alábbi táblázatban ajánlottak szerint. További információt a További információ az adathalászat elleni védelemről az [Office 365-nek a Microsoft Defender beállításaiban.](../security/defender-365-security/set-up-anti-phishing-policies.md)
+5. Adja meg a házirend nevét, leírását és beállításait az alábbi táblázatban ajánlottak szerint. További információt a További információ az adathalászat elleni védelemről az [Office 365-nek a Microsoft Defender beállításaiban.](../security/office-365-security/set-up-anti-phishing-policies.md)
 
 6. A beállítások áttekintése után válassza a Házirend létrehozása **vagy** a **Mentés** lehetőséget a megfelelő módon.
 
@@ -181,7 +181,7 @@ Ha biztonságos mellékletre vonatkozó házirendet hoz létre, nézze meg ezt a
 |Melléklet átirányítása észlelésre|Átirányítás engedélyezése (válassza ezt a mezőt) Adja meg a rendszergazdai fiókot vagy egy postaláda-beállítást karanténként.          Akkor alkalmazza a fenti kijelölést, ha a kártevők a mellékletek időkorlokát vagy hibát keresnek (válassza ezt a mezőt).|
 |Alkalmazva:|A címzett tartománya: . . . válassza ki a tartományt.|
 
-További információt az Adathalászat elleni házirendek beállítása [az Office 365-nek a Microsoft Defenderben.](../security/defender-365-security/set-up-anti-phishing-policies.md)
+További információt az Adathalászat elleni házirendek beállítása [az Office 365-nek a Microsoft Defenderben.](../security/office-365-security/set-up-anti-phishing-policies.md)
 
 ## <a name="protect-against-phishing-attacks-with-safe-links"></a>Az adathalászati támadások elleni védelem biztonságos hivatkozásokkal
 
@@ -224,7 +224,7 @@ Az alapértelmezett házirend módosítása:
 |Letölthető tartalom beolvasása biztonságos mellékletek használatával|Jelölje ki ezt a mezőt.|
 |Alkalmazva:|A címzett tartománya: . . . válassza ki a tartományt.|
 
-További információt a Biztonságos [hivatkozások témakörben található.](../security/defender-365-security/safe-links.md)
+További információt a Biztonságos [hivatkozások témakörben található.](../security/office-365-security/safe-links.md)
 
 ## <a name="go-to-intune-admin-center"></a>Az Intune Felügyeleti központ elérése
 

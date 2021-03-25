@@ -22,14 +22,14 @@ search.appverid:
 - BCS160
 - MET150
 description: Megtudhatja, hogy miként helyezze át vállalatát a Microsoft 365 Vállalati prémium verzióba az Office 365 E3 csomagból.
-ms.openlocfilehash: f655037891bf8ec42e7b927256025c89c9354e98
-ms.sourcegitcommit: 27b2b2e5c41934b918cac2c171556c45e36661bf
+ms.openlocfilehash: cb70260201686cae02428c715ac98ffe2f88787f
+ms.sourcegitcommit: dcb97fbfdae52960ae62b6faa707a05358193ed5
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50912942"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "51198097"
 ---
-# <a name="migrating-from-office-365-e3-to-microsoft-365-business-premium"></a>Áttelepítés az Office 365 E3 csomagról a Microsoft 365 Vállalati prémium verzióra 
+# <a name="migrating-from-office-365-e3-to-microsoft-365-business-premium"></a>Áttelepítés az Office 365 E3 csomagról a Microsoft 365 Vállalati prémium verzióra
 
 A Microsoft 365 Vállalati prémium verzió mindennel rendelkezik, ami a kisvállalati verzióhoz szükséges, a kategóriában legjobb felhőalapú hatékonyságnövelő alkalmazásokat egyszerű eszközkezeléssel és biztonsággal kombinálva. Ha jelenleg Office 365 E3-előfizetéssel rendelkezik, de nem rendelkezik több mint 300 alkalmazottal, érdemes a Microsoft 365 Vállalati prémium verzióra váltani a további biztonsági funkciókért.
 
@@ -49,7 +49,7 @@ Az alábbi táblázatban a Microsoft 365 Vállalati prémium verzió és az Offi
 | OneDrive Vállalati verzió    | Felhasználónként 1 TB tárterületkorlát    | Korlátlan | 
 | Yammer, SharePoint Online, Planner, Stream    | ![A Microsoft 365 Vállalati prémium verzió része](../media/check-mark.png)    | ![Az Office 365 E3 része](../media/check-mark.png) | 
 | StaffHub    | ![A Microsoft 365 Vállalati prémium verzió része](../media/check-mark.png)    | ![Az Office 365 E3 része](../media/check-mark.png) | 
-| Outlook Customer Manager, MileIQ    | ![A Microsoft 365 Vállalati prémium verzió része](../media/check-mark.png)    | | 
+| Outlook Ügyfélmenedzser    | ![A Microsoft 365 Vállalati prémium verzió része](../media/check-mark.png)    | | 
 | **Veszélyforrások elleni védelem**        | | | 
 | Defender az Office 365 1. csomaghoz | ![A Microsoft 365 Vállalati prémium verzió része](../media/check-mark.png)    | Nem tartalmazza, de a következőn használhatja: | 
 | **Identitáskezelés**        | | | 
@@ -122,7 +122,7 @@ A Microsoft 365 Vállalati prémium verzió 50 GB-os tárterületkorlátot haszn
 
 ### <a name="threat-protection"></a>Veszélyforrások elleni védelem
 
-Miután áttért a Microsoft 365 Vállalati prémium verzióra, az Office 365-nek már van Defendere. További [áttekintést a Microsoft Defender az Office 365-hez](../security/office-365-security/office-365-atp.md) témakörben talál. A beállításról további tudnivalókat a Biztonságos hivatkozások [beállítása,](https://support.microsoft.com/office/61492713-53c2-47da-a6e7-fa97479e97fa)a Biztonságos mellékletek beállítása [és](https://support.microsoft.com/office/e7e68934-23dc-4b9c-b714-e82e27a8f8a5)az Adathalászat elleni védelem beállítása az [Office 365 Defenderben témakörben található.](https://support.microsoft.com/office/86c425e1-1686-430a-9151-f7176cce4f2c)
+Miután áttért a Microsoft 365 Vállalati prémium verzióra, az Office 365-nek már van Defendere. További [áttekintést a Microsoft Defender az Office 365-hez](../security/office-365-security/defender-for-office-365.md) témakörben talál. A beállításról további tudnivalókat a Biztonságos hivatkozások [beállítása,](https://support.microsoft.com/office/61492713-53c2-47da-a6e7-fa97479e97fa)a Biztonságos mellékletek beállítása [és](https://support.microsoft.com/office/e7e68934-23dc-4b9c-b714-e82e27a8f8a5)az Adathalászat elleni védelem beállítása az [Office 365 Defenderben témakörben található.](https://support.microsoft.com/office/86c425e1-1686-430a-9151-f7176cce4f2c)
 
 ### <a name="sensitivity-labels"></a>Érzékenységi címkék
 
