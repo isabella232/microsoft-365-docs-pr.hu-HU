@@ -21,12 +21,12 @@ search.appverid:
 - MET150
 ms.assetid: b0f4d010-9fd1-44d0-9d20-fabad2cdbab5
 description: Megtudhatja, hogy miként férhet hozzá a helyszíni erőforrásokhoz, például üzletági alkalmazásokhoz, fájlmegosztáshoz és nyomtatókhoz egy Azure Active Directoryhoz csatlakozott Windows 10-es eszközről.
-ms.openlocfilehash: b78509d72cbd9b3c121039c4965625bf5c21c7e0
-ms.sourcegitcommit: 27b2b2e5c41934b918cac2c171556c45e36661bf
+ms.openlocfilehash: 1bca0beb3ccc78e670ad33ce446b9b3f7c372ba7
+ms.sourcegitcommit: 39609c4d8c432c8e7d7a31cb35c8020e5207385b
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50913522"
+ms.lasthandoff: 03/30/2021
+ms.locfileid: "51445348"
 ---
 # <a name="access-on-premises-resources-from-an-azure-ad-joined-device-in-microsoft-365-business-premium"></a>Helyszíni erőforrások elérése Azure AD-csatlakozású eszközről a Microsoft 365 Vállalati prémium verzióban
 
@@ -64,3 +64,7 @@ Ha az Azure-AD-hoz csatlakozott Windows-eszköz korábban tartományhoz csatlako
 - Előfordulhat, hogy a felhasználók nem tudják hitelesíteni az Active Directory-hitelesítéstől függő alkalmazásokat. Kiértékelheti a régi appot, és lehetőség szerint frissítheti a modern Auth hitelesítést használó appra.
 
 - Az Active Directory-nyomtatók felderítése nem működik. Minden felhasználónak meg lehet adni közvetlen nyomtatóútját, vagy használhatja az [Univerzális nyomtatást.](/universal-print/)
+
+### <a name="related-articles"></a>Kapcsolódó cikkek
+
+[Az Azure AD Connect előfeltételei](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-install-prerequisites)
