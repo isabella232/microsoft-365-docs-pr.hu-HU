@@ -2,8 +2,8 @@
 title: Házirendek és eszközök megtekintése
 f1.keywords:
 - NOCSH
-ms.author: sirkkuw
-author: Sirkkuw
+ms.author: sharik
+author: skjerland
 manager: scotv
 audience: Admin
 ms.topic: article
@@ -22,13 +22,13 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: 6b70fa27-d171-4593-8ecf-f78bb4ed2e99
-description: A Microsoft 365 Vállalati verzióba globális rendszergazdai hitelesítő adatokkal bejelentkezve megtekintheti az eszköz házirendeket és műveleteket.
-ms.openlocfilehash: 49e878ae6d4e1a6c55dbd7bc65532f94295412a8
-ms.sourcegitcommit: 2d664a95b9875f0775f0da44aca73b16a816e1c3
+description: Az eszköz házirendeket és műveleteket megtekintheti, ha globális rendszergazdai hitelesítő adatokkal jelentkezik be a Microsoft 365 Vállalati verzióba.
+ms.openlocfilehash: 39d88e8fa84055e4bac62899a1b84bdf42f366a2
+ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "44470595"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51578027"
 ---
 # <a name="view-and-manage-policies-and-devices"></a>Házirendek és eszközök megtekintése és kezelése
 
@@ -37,9 +37,9 @@ Ez a cikk a Microsoft 365 Vállalati prémium verzióra vonatkozik.
 ## <a name="view-and-edit-device-policies"></a>Eszköz házirendek megtekintése és szerkesztése
 
 1.  A felügyeleti központ megnyitásához: <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a> .
-2. A bal oldali navigációs sávon válassza az **Eszköz-házirendek** \> **lehetőséget.**
+2. A bal oldali  navigációs sávon válassza az Eszköz \> **házirendek lehetőséget.**
 
-    Ezen a lapon létrehozhat, szerkeszthet, módosíthatja a célcsoportot, vagy törölhet egy házirendet.
+    Ezen a lapon házirendet hozhat létre, szerkeszthet, módosíthat célcsoportokat, illetve törölhet házirendeket.
 
     ![Screenshot of the Policies page](../media/devicepolicies.png)
   
