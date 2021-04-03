@@ -2,8 +2,8 @@
 title: Az Office telepítése Windows 10-es eszközön a telepítés során
 f1.keywords:
 - NOCSH
-ms.author: sirkkuw
-author: sirkkuw
+ms.author: efrene
+author: efrene
 manager: scotv
 audience: Admin
 ms.topic: conceptual
@@ -25,18 +25,18 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 5ffd5327-a83a-4d53-94d6-22ba2f9fd090
-description: Ismerje meg, hogy a Microsoft 365 Vállalati prémium verzióval miként győződhet meg arról, hogy a felhasználók minden Windows 10-es eszközükön automatikusan az Office legújabb verzióját használhatja.
-ms.openlocfilehash: 1ca386f75743178aebaf0bfabbabcb74f4813685
-ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
+description: A Microsoft 365 Business Premium segítségével automatikusan meg lehet győződni arról, hogy a felhasználók az Office legújabb verzióját minden Windows 10-es eszközükön használhatja.
+ms.openlocfilehash: d3c62eb42ea73c7af6df6012dbc9488828cd1ba8
+ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 05/27/2020
-ms.locfileid: "44400838"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51580174"
 ---
 # <a name="install-office-on-windows-10-during-setup"></a>Az Office telepítése Windows 10-es eszközön a telepítés során
 
 ![Banner that point to https://aka.ms/aboutM365preview .](../media/m365admincenterchanging.png)
 
-Ez a beállítás alapértelmezés szerint ki van kapcsolva. Bekapcsolhatja, hogy a felhasználók az Office legújabb verzióját minden Windows 10-es eszközükön, de először ellenőrizze, hogy minden előfeltétel teljesül-e. Ahhoz, hogy a felhasználók a Microsoft 365 Vállalati prémium verzió telepítésére készüljenek, a Microsoft 365 Vállalati prémium verzió által az [Office-ügyfél](prepare-for-office-client-deployment.md)központi telepítésére vonatkozó egyéb követelményeken kívül licenccel kell felváltaniük a szoftvert az eszközre.
+Ez a beállítás alapértelmezés szerint ki van kapcsolva. Bekapcsolhatja azt, hogy a felhasználók az Office legújabb verzióját minden Windows 10-es eszközükön el tudja látni, de először győződjön meg arról, hogy minden előfeltétel teljesül. A felkészülés Office-ügyfél központi telepítésére a [Microsoft 365](prepare-for-office-client-deployment.md)Vállalati prémium verzió által leírt egyéb követelményeken kívül a felhasználóknak licenccel kell ahhoz, hogy ez a beállítás a szoftvert az eszközre tolja.
   
-Azt javasoljuk, hogy a telepítés során fogadja el az alapértelmezett beállítást.
+Azt javasoljuk, hogy a telepítés során az alapértelmezett beállítást fogadja el.
