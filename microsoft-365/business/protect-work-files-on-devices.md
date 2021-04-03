@@ -2,8 +2,8 @@
 title: Eszközökön tárolt munkahelyi fájlok védelme
 f1.keywords:
 - NOCSH
-ms.author: sirkkuw
-author: sirkkuw
+ms.author: sharik
+author: skjerland
 manager: scotv
 audience: Admin
 ms.topic: conceptual
@@ -27,24 +27,24 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 52089919-9a5e-475f-a49a-f65369487861
-description: 'Megtudhatja, hogy hogyan konfigurálható az alapértelmezett beállítás, és hogyan adhat hozzá alkalmazáskezelési házirendeket a vállalati adatok védelméhez a felhasználók személyes mobileszközén. '
-ms.openlocfilehash: 6dd6bc5c16ffbbd6ed62f16ad11e1eeb8e06a193
-ms.sourcegitcommit: 2d664a95b9875f0775f0da44aca73b16a816e1c3
+description: 'Megtudhatja, hogy hogyan konfigurálható az alapértelmezett beállítás, és hogyan adhat hozzá alkalmazáskezelési házirendeket a céges adatok védelméhez a felhasználók személyes mobileszközén. '
+ms.openlocfilehash: 7e3967dad47508e938b760d0eb96ba8685d886a1
+ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "44470907"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51580034"
 ---
-# <a name="protect-work-files-on-devices"></a><span data-ttu-id="93121-103">Eszközökön tárolt munkahelyi fájlok védelme</span><span class="sxs-lookup"><span data-stu-id="93121-103">Protect work files on devices</span></span>
+# <a name="protect-work-files-on-devices"></a><span data-ttu-id="ee7f5-103">Eszközökön tárolt munkahelyi fájlok védelme</span><span class="sxs-lookup"><span data-stu-id="ee7f5-103">Protect work files on devices</span></span>
 
-<span data-ttu-id="93121-104">Ez a cikk a Microsoft 365 Vállalati prémium verzióra vonatkozik.</span><span class="sxs-lookup"><span data-stu-id="93121-104">This article applies to Microsoft 365 Business Premium.</span></span>
+<span data-ttu-id="ee7f5-104">Ez a cikk a Microsoft 365 Vállalati prémium verzióra vonatkozik.</span><span class="sxs-lookup"><span data-stu-id="ee7f5-104">This article applies to Microsoft 365 Business Premium.</span></span>
 
-<span data-ttu-id="93121-105">Napjainkban a felhasználók hozzá vannak kötve az eszközeikhez, és mivel a személyes és a munkahelyi élet összeütköz, céges adatai egy alkalmazott személyes eszközén végződnek.</span><span class="sxs-lookup"><span data-stu-id="93121-105">In today's world, users are tied to their devices, and as personal and work life collide, your company data can end up on an employee's personal device.</span></span> <span data-ttu-id="93121-106">Az itt megadható beállítások segítségével saját kezébe veheti az irányítást, és úgy nyújthat védelmet a munkahelyi fájloknak, hogy az semmilyen hatással ne legyen az alkalmazottak személyes beállításaira vagy adataira.</span><span class="sxs-lookup"><span data-stu-id="93121-106">The settings that you configure here can help you take back control and provide protection for work files, without affecting any of the user's personal settings or data.</span></span>
+<span data-ttu-id="ee7f5-105">Napjainkban a felhasználók hozzá vannak kötve az eszközeikhez, és mivel a személyes és a munkahelyi élet összeütközik, céges adatai egy alkalmazott személyes eszközén végződnek.</span><span class="sxs-lookup"><span data-stu-id="ee7f5-105">In today's world, users are tied to their devices, and as personal and work life collide, your company data can end up on an employee's personal device.</span></span> <span data-ttu-id="ee7f5-106">Az itt megadható beállítások segítségével saját kezébe veheti az irányítást, és úgy nyújthat védelmet a munkahelyi fájloknak, hogy az semmilyen hatással ne legyen az alkalmazottak személyes beállításaira vagy adataira.</span><span class="sxs-lookup"><span data-stu-id="ee7f5-106">The settings that you configure here can help you take back control and provide protection for work files, without affecting any of the user's personal settings or data.</span></span>
   
-## <a name="configuring-policies-during-setup"></a><span data-ttu-id="93121-107">Házirendek konfigurálása a telepítés során</span><span class="sxs-lookup"><span data-stu-id="93121-107">Configuring policies during setup</span></span>
+## <a name="configuring-policies-during-setup"></a><span data-ttu-id="ee7f5-107">Házirendek konfigurálása a telepítés során</span><span class="sxs-lookup"><span data-stu-id="ee7f5-107">Configuring policies during setup</span></span>
 
-<span data-ttu-id="93121-108">A telepítés során három alkalmazáskezelési házirend lesz hozzáadva: Android, iOS és Windows 10 rendszerekhez egy-egy.</span><span class="sxs-lookup"><span data-stu-id="93121-108">During setup, three application management policies are added, one each for Android, iOS, and Windows 10.</span></span> <span data-ttu-id="93121-109">Mindegyik házirend azonos beállításokkal rendelkezik, és minden felhasználóra vonatkoznak.</span><span class="sxs-lookup"><span data-stu-id="93121-109">Each policy has the same settings and they apply to all users.</span></span> <span data-ttu-id="93121-110">A házirendek akkor aktiválódnak, amikor a felhasználó a munkahelyi profiljával kapcsolódik a mobiltelefonhoz.</span><span class="sxs-lookup"><span data-stu-id="93121-110">The policies are activated when the user connects their work account to their mobile phone.</span></span>
+<span data-ttu-id="ee7f5-108">A telepítés során három alkalmazáskezelési házirend lesz hozzáadva: Android, iOS és Windows 10 rendszerekhez egy-egy.</span><span class="sxs-lookup"><span data-stu-id="ee7f5-108">During setup, three application management policies are added, one each for Android, iOS, and Windows 10.</span></span> <span data-ttu-id="ee7f5-109">Minden házirend azonos beállításokkal rendelkezik, és mindegyik minden felhasználóra vonatkozik.</span><span class="sxs-lookup"><span data-stu-id="ee7f5-109">Each policy has the same settings and they apply to all users.</span></span> <span data-ttu-id="ee7f5-110">A házirendek akkor aktiválódnak, amikor a felhasználó a munkahelyi profiljával kapcsolódik a mobiltelefonhoz.</span><span class="sxs-lookup"><span data-stu-id="ee7f5-110">The policies are activated when the user connects their work account to their mobile phone.</span></span>
   
-<span data-ttu-id="93121-p103">Azt javasoljuk, hogy a telepítés során az alapértelmezett beállításokat fogadja el. A telepítés után további házirendeket is hozzáadhat, amelyekkel finomhangolhatja a beállításokat, és az egyes felhasználói csoportokra különféle szabályozási szinteket határozhat meg.</span><span class="sxs-lookup"><span data-stu-id="93121-p103">We recommend that you accept the default configuration during setup. After setup completes, you can add more policies that let you fine-tune the configuration and let you apply varying levels of control for specific user groups.</span></span>
+<span data-ttu-id="ee7f5-p103">Azt javasoljuk, hogy a telepítés során az alapértelmezett beállításokat fogadja el. A telepítés után további házirendeket is hozzáadhat, amelyekkel finomhangolhatja a beállításokat, és az egyes felhasználói csoportokra különféle szabályozási szinteket határozhat meg.</span><span class="sxs-lookup"><span data-stu-id="ee7f5-p103">We recommend that you accept the default configuration during setup. After setup completes, you can add more policies that let you fine-tune the configuration and let you apply varying levels of control for specific user groups.</span></span>
   
-<span data-ttu-id="93121-113">Ha a telepítés után újabb házirendeket szeretne hozzáadni, olvassa el a [Házirendek és eszközök kezelése a felügyeleti központban](manage.md) című témakört.</span><span class="sxs-lookup"><span data-stu-id="93121-113">To add policies after setup, see [Manage policies and devices in the admin center](manage.md).</span></span>
+<span data-ttu-id="ee7f5-113">Ha a telepítés után újabb házirendeket szeretne hozzáadni, olvassa el a [Házirendek és eszközök kezelése a felügyeleti központban](manage.md) című témakört.</span><span class="sxs-lookup"><span data-stu-id="ee7f5-113">To add policies after setup, see [Manage policies and devices in the admin center](manage.md).</span></span>
