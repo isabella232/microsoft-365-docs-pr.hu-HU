@@ -2,8 +2,8 @@
 title: Melyik előfizetés a megfelelő a vállalkozása számára?
 f1.keywords:
 - NOCSH
-ms.author: sirkkuw
-author: Sirkkuw
+ms.author: sharik
+author: skjerland
 manager: scotv
 audience: Admin
 ms.topic: article
@@ -18,14 +18,14 @@ ms.custom:
 search.appverid:
 - BCS160
 - MET150
-description: Annak megállapítása, hogy az Office 365 E3, a Microsoft 365 Vállalati standard verzió vagy a Microsoft 365 Vállalati prémium verzió megfelelő-e a vállalkozásának.
-ms.openlocfilehash: 10799de6e588a92782e17c8efe3fb17ba219bd48
-ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
+description: Állapítsa meg, hogy az Office 365 E3, a Microsoft 365 Business Standard vagy a Microsoft 365 Business Premium megfelelő-e a vállalkozásának.
+ms.openlocfilehash: 2f8c59e0af619730060862fc8ee24a702ca00343
+ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 05/27/2020
-ms.locfileid: "44403718"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51579822"
 ---
-# <a name="what-subscription-is-right-for-your-small-business"></a><span data-ttu-id="b2d35-103">Melyik előfizetés a megfelelő a kisvállalati verzióhoz?</span><span class="sxs-lookup"><span data-stu-id="b2d35-103">What subscription is right for your small business?</span></span>
+# <a name="what-subscription-is-right-for-your-small-business"></a><span data-ttu-id="6515a-103">Melyik előfizetés megfelelő a kisvállalata számára?</span><span class="sxs-lookup"><span data-stu-id="6515a-103">What subscription is right for your small business?</span></span>
 
-<span data-ttu-id="b2d35-104">A Microsoft számos tervet kínál kisvállalatoknak.</span><span class="sxs-lookup"><span data-stu-id="b2d35-104">Microsoft offers several plans for small businesses.</span></span> <span data-ttu-id="b2d35-105">Az ajánlott előfizetések a Microsoft 365 Vállalati standard verzió vagy a Legfeljebb 300 felhasználóval elérhető Microsoft 365 Vállalati prémium verzió.</span><span class="sxs-lookup"><span data-stu-id="b2d35-105">The recommended subscriptions are either Microsoft 365 Business Standard or Microsoft 365 Business Premium with up to 300 users.</span></span> <span data-ttu-id="b2d35-106">A Microsoft 365 Vállalati prémium verzió további költségekért több biztonsági funkciót kínál, mint a Microsoft 365 Vállalati standard verzió.</span><span class="sxs-lookup"><span data-stu-id="b2d35-106">Microsoft 365 Business Premium offers more security features than Microsoft 365 Business Standard for an added cost.</span></span>
+<span data-ttu-id="6515a-104">A Microsoft számos tervet kínál a kisvállalatoknak.</span><span class="sxs-lookup"><span data-stu-id="6515a-104">Microsoft offers several plans for small businesses.</span></span> <span data-ttu-id="6515a-105">Az ajánlott előfizetések a Microsoft 365 Business Standard vagy a Microsoft 365 Business Premium legfeljebb 300 felhasználóval.</span><span class="sxs-lookup"><span data-stu-id="6515a-105">The recommended subscriptions are either Microsoft 365 Business Standard or Microsoft 365 Business Premium with up to 300 users.</span></span> <span data-ttu-id="6515a-106">A Microsoft 365 Business Premium további biztonsági funkciókat nyújt, mint a Microsoft 365 Business Standard, és további költséggel jár.</span><span class="sxs-lookup"><span data-stu-id="6515a-106">Microsoft 365 Business Premium offers more security features than Microsoft 365 Business Standard for an added cost.</span></span>
