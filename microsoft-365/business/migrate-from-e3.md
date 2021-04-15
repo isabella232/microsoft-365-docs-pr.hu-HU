@@ -22,12 +22,12 @@ search.appverid:
 - BCS160
 - MET150
 description: Megtudhatja, hogy miként helyezze át vállalatát a Microsoft 365 Vállalati prémium verzióba az Office 365 E3 csomagból.
-ms.openlocfilehash: ffb82fa40f05383260ac1b97ed0bdf5f2f30c1df
-ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
+ms.openlocfilehash: f2b7962918186f4a1063c5a66596135c2972ec71
+ms.sourcegitcommit: 07dea2aa98daf0c4086f8590375167830027c802
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51578327"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51750000"
 ---
 # <a name="migrating-from-office-365-e3-to-microsoft-365-business-premium"></a>Áttelepítés az Office 365 E3 csomagról a Microsoft 365 Vállalati prémium verzióra
 
@@ -49,7 +49,7 @@ Az alábbi táblázatban a Microsoft 365 Vállalati prémium verzió és az Offi
 | OneDrive Vállalati verzió    | Felhasználónként 1 TB tárterületkorlát    | Korlátlan | 
 | Yammer, SharePoint Online, Planner, Stream    | ![A Microsoft 365 Vállalati prémium verzió része](../media/check-mark.png)    | ![Az Office 365 E3 része](../media/check-mark.png) | 
 | StaffHub    | ![A Microsoft 365 Vállalati prémium verzió része](../media/check-mark.png)    | ![Az Office 365 E3 része](../media/check-mark.png) | 
-| Outlook Ügyfélmenedzser    | ![A Microsoft 365 Vállalati prémium verzió része](../media/check-mark.png)    | | 
+| MileIQ    | ![A Microsoft 365 Vállalati prémium verzió része](../media/check-mark.png)    | | 
 | **Veszélyforrások elleni védelem**        | | | 
 | Defender az Office 365 1. csomaghoz | ![A Microsoft 365 Vállalati prémium verzió része](../media/check-mark.png)    | Nem tartalmazza, de a következőn használhatja: | 
 | **Identitáskezelés**        | | | 
@@ -60,7 +60,7 @@ Az alábbi táblázatban a Microsoft 365 Vállalati prémium verzió és az Offi
 | A Windows 10 Pro verzióra vonatkozó frissítési jogok a Win 7/8.1 Pro verziós licencekről|     ![A Microsoft 365 Vállalati prémium verzió része](../media/check-mark.png)    || 
 | **Információvédelem**        | | |
 |Office 365 Adatveszteség-megelőzés|    ![A Microsoft 365 Vállalati prémium verzió része](../media/check-mark.png)|![Az Office 365 E3 része](../media/check-mark.png)|
-|Azure Information Protection Plan 1, Bitlocker enforcement|![A Microsoft 365 Vállalati prémium verzió része](../media/check-mark.png)||
+|Azure Information Protection Plan 1, BitLocker enforcement|![A Microsoft 365 Vállalati prémium verzió része](../media/check-mark.png)||
 |Azure Information Protection Plan 1, Bizalmasság-címkék|![A Microsoft 365 Vállalati prémium verzió része](../media/check-mark.png)||
 |**Ügyfélelérési licenc (CAL-jogok)**|||
 |Nagyvállalati CAL csomag (Exchange, SharePoint, Skype)||![Az Office 365 E3 része](../media/check-mark.png)|
