@@ -24,12 +24,12 @@ search.appverid:
 - BCS160
 - MET150
 description: Megtudhatja, hogyan engedélyezheti a Microsoft 365-nek, hogy mindössze néhány lépésben védje a helyi Active Directoryhoz csatlakozott Windows 10-es eszközöket.
-ms.openlocfilehash: 8a45c6959bee368491c5c6424e3713300c443779
-ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
+ms.openlocfilehash: c9f5a21d993200abcf9ecf1fa236879245e1c153
+ms.sourcegitcommit: 4076b43a4b661de029f6307ddc1a989ab3108edb
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51580134"
+ms.lasthandoff: 04/22/2021
+ms.locfileid: "51939502"
 ---
 # <a name="enable-domain-joined-windows-10-devices-to-be-managed-by-microsoft-365-business-premium"></a>A tartományhoz csatlakozott Windows 10-es eszközök kezelése a Microsoft 365 Business Premiumval
 
@@ -116,3 +116,7 @@ Ha nem látható az Automatikus **MDM-regisztráció** engedélyezése az Azure 
 6.  Ha több tartományvezérlője van, várja meg, amíg a SYSVOL replikálja a házirendeket. Ez az eljárás a felügyeleti sablonok későbbi verzióival is működni fog.
 
 Ezen a ponton látnia kell az Automatikus **MDM-regisztráció** engedélyezése az alapértelmezett Azure AD-beli hitelesítő adatokkal elérhető házirendet.
+
+## <a name="related-content"></a>Kapcsolódó tartalom
+
+[A tartományfelhasználók szinkronizálása a Microsoft 365-be](manage-domain-users.md) (cikk) Csoport létrehozása a Felügyeleti [központban](../admin/create-groups/create-groups.md) (cikk) Oktatóprogram: A hibrid [Azure Active Directory-alapú](/azure/active-directory/devices/hybrid-azuread-join-managed-domains.md) csatlakozás konfigurálása felügyelt tartományokhoz (cikk)
