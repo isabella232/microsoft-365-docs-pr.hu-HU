@@ -26,13 +26,13 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: 6e7a2dfd-8ec4-4eb7-8390-3ee103e5fece
-description: Ismerje meg a Microsoft 365 Vállalati prémium verzió beállítási lépéseit, az előfizetéstől az előfizetésen át a tartományok és felhasználók hozzáadásán át a biztonsági házirendek beállításán át a biztonsági házirendek beállításához stb.
-ms.openlocfilehash: 749acbfdbde92ad97b09dc720c85dd850b76c9cf
-ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
+description: Megtudhatja, hogy hogyan Microsoft 365 Vállalati prémium verzió, az előfizetéstől a tartományok és felhasználók felvételén át a biztonsági házirendek beállításán át a biztonsági házirendek beállításához.
+ms.openlocfilehash: 008a5c51698589667acc0d01649f67dab33b4c58
+ms.sourcegitcommit: ff20f5b4e3268c7c98a84fb1cbe7db7151596b6d
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51579934"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52245064"
 ---
 # <a name="overview-of-setup"></a>A beállítás áttekintése
 
@@ -40,7 +40,7 @@ Tekintsen meg egy rövid videót a Microsoft 365 Vállalati prémium verzió be�
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE4jZwg] 
 
-Ha hasznosnak találta ezt a videót, tekintse meg a [teljes tanfolyamok kisvállalatoknak és Microsoft 365-újoncoknak](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816) című cikket.
+Ha hasznosnak találta ezt a videót, tekintse meg a [teljes tanfolyamok kisvállalatoknak és Microsoft 365-újoncoknak](../business-video/index.yml) című cikket.
 
 A beállítási lépések nagy része az irányított telepítés során megjelenik, de a többi lehetőség is szerepel a listában.
 
@@ -50,7 +50,7 @@ A beállítási lépések nagy része az irányított telepítés során megjele
 
    - **Felhasználók hozzáadása gombra.** A felhasználókat a következő három módszer bármelyikében felveheti:
         - Az irányított [beállításban](set-up.md#add-users-in-the-wizard).
-        - Ha helyszíni Active Directoryval rendelkezik, a címtár-szinkronizálással felhasználókat adhat hozzá az [Azure AD Connect](../enterprise/set-up-directory-synchronization.md) használatával.
+        - A címtár-szinkronizálással felhasználókat adhat hozzá az [Azure AD](../enterprise/set-up-directory-synchronization.md) Csatlakozás használatával, ha helyszíni Active Directoryval rendelkezik.
         - A felhasználókat [később is hozzáadhatja a](../admin/add-users/add-users.md) Felügyeleti központban.
 ## <a name="step-2-set-up-security-policies-and-configure-devices"></a>2. lépés: Biztonsági házirendek beállítása és eszközök beállítása 
 
@@ -61,38 +61,38 @@ A beállítási lépések nagy része az irányított telepítés során megjele
   A beállítási varázsló biztonsági beállításain kívül az alábbi beállítások megadásával növelheti a biztonságot:
 
 - **Kártevők elleni védelem az e-mailekben**
-- **Adathalászat elleni védelem az Office 365 Defenderben**
+- **Adathalászat elleni védelem a Defender Office 365**
 - **Exchange Online Archiválás**
 - **Azure Information Protection (1. csomag)**
 
 Első lépések: A veszélyforrások [elleni védelem](increase-threat-protection.md) növelése és megfelelőségi [funkciók beállítása.](set-up-compliance.md)
 
-A 10 legjobb módszer a [Microsoft 365 Vállalati prémium](/office365/admin/security-and-compliance/secure-your-business-data) verzió biztonságának biztonságára vonatkozó gyakorlati tanácsokért tekintse meg az utcatérképet.
+Az ajánlott biztonsági eljárásokról a [10](/office365/admin/security-and-compliance/secure-your-business-data) legjobb Microsoft 365 Vállalati prémium verzió kínálunk.
 
-## <a name="step-3-set-up-and-manage-windows-10-devices"></a>3. lépés: Windows 10-es eszközök beállítása és kezelése
+## <a name="step-3-set-up-and-manage-windows-10-devices"></a>3. lépés: A mobileszközök Windows 10 kezelése
 
-Az irányított beállítás befejezése után meg kell védenie a szervezet összes Windows 10-es számítógépét.
+Az irányított beállítás befejezése után meg kell védenie a Windows 10 összes számítógépét.
   
-- A Windows 10 Pro előfeltétele [a](pre-requisites-for-data-protection.md) Microsoft 365 Business Premium terméknek, ha azonban Windows 7 Pro, Windows 8 Pro vagy Windows 8.1 Pro rendszerrel rendelkezik, előfizetése feljogosítja a Windows 10 Pro verzióra [való frissítésre.](./upgrade-to-windows-pro-creators-update.md)
-- Kövesse a [biztonságos Windows 10-es PC-k](secure-win-10-pcs.md) lépéseit a Windows 10-es eszközökhöz beállított házirendek beállításához.
+- Windows 10 Pro a Microsoft 365 Vállalati prémium verzió [](pre-requisites-for-data-protection.md) előfeltétele, de ha Windows 7 Pro, Windows 8 Pro vagy Windows 8.1 Pro verzióval rendelkezik, előfizetése feljogosítja a Windows 10 Pro. [](./upgrade-to-windows-pro-creators-update.md)
+- A pc-k biztonságos Windows 10 [a](secure-win-10-pcs.md) házirendek beállításához Windows 10 eszközökre.
 
-Amikor egy Windows 10-es eszközhöz csatlakozik az Azure AD-hez, a Windows 10-es számítógépeken beállított házirendek érvényesek rá. További információt a Windows-eszközök beállítása [a Microsoft 365 felhasználóinak.](set-up-windows-devices.md)
+Amikor egy Windows 10 eszközhöz csatlakozik az Azure AD-hez, a számítógéphez Windows 10 házirendeket alkalmazza a rendszer. További információt A mobileszközök beállítása [Windows felhasználóknak Microsoft 365.](set-up-windows-devices.md)
 
-## <a name="step-4-install-microsoft-365-apps-for-business"></a>4. lépés: A Microsoft 365 Vállalati verziós alkalmazások telepítése
-- Az Office-t automatikusan telepítheti a Windows-eszközökre a [beállítási varázslóval.](set-up.md#deploy-office-365-client-apps)
-- A felhasználók [telepíthetinek Office-appokat](/office365/admin/setup/install-applications) Windowsra és eszközökre.
+## <a name="step-4-install-microsoft-365-apps-for-business"></a>4. lépés: A Üzleti Microsoft 365-alkalmazások
+- A telepítővarázsló Office automatikusan telepítheti Windows eszközén. [](set-up.md#deploy-office-365-client-apps)
+- A felhasználók [telepíthet Office appokat](/office365/admin/setup/install-applications) a Windows eszközökhöz.
      
 ## <a name="advanced"></a>Speciális
 - **Új eszközök beállítása az Autopilottal**
             
-     A [Windows Autopilottal](add-autopilot-devices-and-profile.md) automatikusan előre konfigurálhatja az új **Windows** 10-es eszközöket [](https://www.microsoft.com/solution-providers/search) a felhasználóknak, de egyszerűbb lehet egy partnert kihozni, aki ezt meg tudja tenni Önért. A Microsoft [Store](https://go.microsoft.com/fwlink/?linkid=874598)áruházban meg is kérhet egy felhőtechnológia-szakértőt, hogy állítsa be a megvásárolt új eszközöket.
+     A Windows [Autopilottal](add-autopilot-devices-and-profile.md) automatikusan előre konfigurálhatja  az új Windows 10-eszközöket a felhasználók számára, de [](https://www.microsoft.com/solution-providers/search) egyszerűbb, ha egy olyan partnert szerez be, aki ezt meg tudja tenni Önért. Azt is beállíthatja, hogy [Microsoft Store](https://go.microsoft.com/fwlink/?linkid=874598), és kérje meg egy felhőtechnológiát szakértőt, hogy állítsa be a megvásárolt új eszközöket.
 
 - **Helyszíni erőforrások elérése**
 
-     - Ha szervezete helyszíni Windows Server Active Directoryt használ, beállíthatja a Microsoft 365 Business Premiumt a Windows 10-es eszközök védelme érdekében úgy, hogy közben továbbra is hozzáférjen a helyi hitelesítést igénylő helyszíni erőforrásokhoz. A beállítás beállításához kövesse A tartományhoz csatlakozott [Windows 10-es eszközök microsoft 365 Vállalati prémium](manage-windows-devices.md) verzió által történő kezelése. Ez az előnyben részesített módszer, az ebben az állapotban használt eszközök pedig hibrid Azure AD-hez csatlakozott eszközök.
+     - Ha szervezete helyszíni Windows Server Active Directoryt használ, beállíthatja a Microsoft 365 Vállalati prémium verzió-t az Windows 10-eszközök védelmére, miközben továbbra is hozzáfér a helyi hitelesítést igénylő helyszíni erőforrásokhoz. A beállításhoz kövesse A tartományhoz Windows 10 eszközök felhasználói [Microsoft 365 Vállalati prémium verzió](manage-windows-devices.md) beállításának lépéseit. Ez az előnyben részesített módszer, az ebben az állapotban használt eszközök pedig hibrid Azure AD-hez csatlakozott eszközök.
 
-    - Ha vállalata helyi Active Directory-címtárral rendelkezik, amely helyszíni erőforrásokat (például fájlmegosztásokat és nyomtatókat) tartalmaz, az alábbi lépéseket követve hozzáférést adhat Azure AD-hez eszközének ezekhez az erőforrásokhoz: Hozzáférés helyszíni erőforrásokhoz egy Azure AD-hez csatlakozott eszközről a [Microsoft 365 Vállalati prémium verzióban.](access-resources.md)
+    - Ha vállalata rendelkezik olyan helyi Active Directory-címtárral, amely helyszíni erőforrásokat (például fájlmegosztásokat és nyomtatókat) tartalmaz, az alábbi lépéseket követve hozzáférést adhat Azure AD-hez eszközének az erőforrásokhoz: Hozzáférés helyszíni erőforrásokhoz [egy Azure AD-hez](access-resources.md)csatlakozott eszközről a Microsoft 365 Vállalati prémium verzió-ban.
 
-## <a name="see-also"></a>Lásd még
+## <a name="related-content"></a>Kapcsolódó tartalom
 
-[Microsoft 365 Vállalati verzió – oktatóvideók](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
+[Microsoft 365 vállalati verziós oktatóvideók](../business-video/index.yml) (hivatkozáslap)
