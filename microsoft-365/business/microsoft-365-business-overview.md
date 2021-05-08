@@ -29,12 +29,12 @@ search.appverid:
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
 description: További információ a Microsoft 365 Vállalati prémium verzióról, az Office hatékonyságnövelő appjait és a kiberveszélyforrásokkal szembeni speciális védelmet tartalmazó előfizetési szolgáltatásról.
-ms.openlocfilehash: d6b0ded25e0478f85e73b807789463e4d55b1bb0
-ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
+ms.openlocfilehash: a355c9856ead4a66f6876cc7cb5aa8eb469d7f12
+ms.sourcegitcommit: ff20f5b4e3268c7c98a84fb1cbe7db7151596b6d
 ms.translationtype: HT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51578347"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52244856"
 ---
 # <a name="overview-of-microsoft-365-business-premium"></a>A Microsoft 365 Vállalati prémium verzió áttekintése
 
@@ -46,7 +46,7 @@ Ezt a videót megnézve gyorsan áttekintheti a Microsoft 365 Vállalati prémiu
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2mhaA] 
   
-Ha hasznosnak találta ezt a videót, tekintse meg a [teljes tanfolyamok kisvállalatoknak és Microsoft 365-újoncoknak](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816) című cikket. 
+Ha hasznosnak találta ezt a videót, tekintse meg a [teljes tanfolyamok kisvállalatoknak és Microsoft 365-újoncoknak](../business-video/index.yml) című cikket. 
 
 A Microsoft 365 Vállalati prémium verzió legfeljebb 300 licenccel való használatra készült. Ha ennél több licencre van szüksége, további információért olvassa el a [Microsoft 365 Nagyvállalati verzió](../enterprise/index.yml) dokumentációját.
 
@@ -111,6 +111,6 @@ A biztonsági funkciók teljes listáját [a Microsoft 365 Vállalati prémium v
 
 - Ha nincs partnere, és be szeretné szerezni a Microsoft 365 Vállalati prémium verziót, [vásárolja meg itt,](https://www.microsoft.com/microsoft-365/business) és kövesse a [regisztrációs](sign-up.md) utasításokat.
 
-## <a name="see-also"></a>Lásd még
+## <a name="related-content"></a>Kapcsolódó tartalom
 
-[Microsoft 365 Vállalati prémium verziós oktatóvideók](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
+[Microsoft 365 Vállalati prémium verziós oktatóvideók](../business-video/index.yml) (hivatkozáslap)

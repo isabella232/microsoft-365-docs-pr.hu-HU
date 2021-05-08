@@ -1,5 +1,5 @@
 ---
-title: Windows-eszközök frissítése Windows 10 Pro verzióra
+title: Az Windows frissítése Windows 10 Pro
 f1.keywords:
 - NOCSH
 ms.author: kwekua
@@ -25,41 +25,41 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: ffc4d886-9e1d-453d-a0d0-2f62f18635e2
-description: Fedezze fel, hogy milyen módon frissítheti Windows-eszközeit a Windows 10 Pro-ra, hogy speciálisabb biztonsági és üzleti hálózati funkciókat használva használva.
-ms.openlocfilehash: ffcdff540da18a2ecc0578e8015424a2435de6a8
-ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
+description: Fedezze fel, hogy milyen módokon frissítheti Windows eszközét, Windows 10 Pro fejlettebb biztonsági és üzleti hálózati funkciókat kihasználhatja.
+ms.openlocfilehash: 0ed24f3560832890c1ba26f89ecbcd1f2ef7b098
+ms.sourcegitcommit: ff20f5b4e3268c7c98a84fb1cbe7db7151596b6d
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51578047"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52244736"
 ---
-# <a name="upgrade-windows-devices-to-windows-10-pro"></a>Windows-eszközök frissítése Windows 10 Pro verzióra
+# <a name="upgrade-windows-devices-to-windows-10-pro"></a>Az Windows frissítése Windows 10 Pro
 
-Nézze meg a Windows-eszközök Windows 10 Pro-ra való frissítését bemutató rövid videót.<br><br>
+Tekintsen meg egy rövid videót az Windows eszközök Windows 10 Pro.<br><br>
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE3t58j] 
 
-Ha hasznosnak találta ezt a videót, tekintse meg a [teljes tanfolyamok kisvállalatoknak és Microsoft 365-újoncoknak](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816) című cikket.
+Ha hasznosnak találta ezt a videót, tekintse meg a [teljes tanfolyamok kisvállalatoknak és Microsoft 365-újoncoknak](../business-video/index.yml) című cikket.
 
-## <a name="upgrade-to-windows-10-pro"></a>Frissítés Windows 10 Pro-ra
+## <a name="upgrade-to-windows-10-pro"></a>Frissítés Windows 10 Pro
   
-A Windows 10 Pro verzióra való frissítéshez több lehetőség közül választhat. képes vagy:
+A Windows 10 Pro több lehetőség közül választhat. képes vagy:
     
 - A frissítés telepítése [a Microsoft](https://go.microsoft.com/fwlink/?LinkID=836951 ) szoftverletöltési webhelyéről: Akkor válassza ezt a lehetőséget, ha a bejelentkezett eszköz ugyanazon az eszközön található, mint a frissíteni kívánt &ndash; eszköz. 
 
-    - A szoftverletöltési  webhelyen a Frissítés elemre kattintva kezdje el frissíteni az eszközt a Windows 10 Pro alkotói frissítésére. 
+    - A szoftverletöltési  webhelyen kattintson a Frissítés elemre az eszköz alkotói frissítésre Windows 10 Pro frissítésének elkezdéséhez. 
     
-- Telepítési adathordozó létrehozása [](https://go.microsoft.com/fwlink/?LinkID=836960) a Médiakészítő eszközzel: Akkor jelölje be ezt a jelölőnégyzetet, ha a Windows 10 Pro alkotói frissítés telepítő adathordozóját (USB flash meghajtót vagy ISO-fájlt) hoz létre a Windows 10 telepítéséhez a használttól eltérő &ndash; PC-re.
+- Telepítési adathordozó létrehozása [](https://go.microsoft.com/fwlink/?LinkID=836960) a Médiakészítő eszközzel: Akkor válassza ezt a lehetőséget, ha létre kell hoznia egy Windows 10 Pro Creators Update telepítő adathordozót (USB flash meghajtót vagy ISO-fájlt) az Windows 10 telepítéséhez a használttól eltérő &ndash; PC-re.
 
     - Olvassa el az eszköz használatát és a telepítési adathordozó létrehozásához szükséges utasításokat. 
 
 > [!NOTE]
-> Ha Windows 7 Pro, Windows 8 Pro vagy Windows 8.1 Pro rendszerű Windows-eszközöket futtat, a Microsoft 365 Vállalati verziós előfizetése feljogosítja a Windows Pro 10 frissítésére.
+> Ha 7 Windows Pro, Windows 8 Pro vagy Windows 8.1 Pro-t futtató Windows-es eszközével rendelkezik, a Microsoft 365 Vállalati verziós előfizetés feljogosítja a Windows Pro 10-es verzióra való frissítésre.
     
-A [Windows 10-es](set-up-windows-devices.md) eszközök beállításának befejezéséhez lásd: Windows-eszközök beállítása a Microsoft 365 Vállalati verzió felhasználóinak. 
+A [vállalati Windows](set-up-windows-devices.md) beállításának befejezéséhez Windows állítsa be az Microsoft 365 Vállalati verzió felhasználóinak Windows 10. 
   
-Lásd: Mobileszközök beállítása a [Microsoft 365](set-up-mobile-devices.md) Vállalati verzió felhasználóinak az Android- és iOS-eszközök beállításának befejezéséhez. 
+Az [Android- és](set-up-mobile-devices.md) iOS-eszközök beállításának befejezéséhez Microsoft 365 mobileszközök beállítása a Vállalati verzió felhasználói számára. 
   
-## <a name="for-more-on-setting-up-and-using-microsoft-365-for-business"></a>További információ a Microsoft 365 Vállalati verzió beállításával és használatával
+## <a name="related-content"></a>Kapcsolódó tartalom
 
-[Microsoft 365 Vállalati verzió – oktatóvideók](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
+[Microsoft 365 vállalati verziós oktatóvideók](../business-video/index.yml) (hivatkozáslap)

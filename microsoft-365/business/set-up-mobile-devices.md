@@ -1,5 +1,5 @@
 ---
-title: Mobileszközök beállítása a Microsoft 365 Vállalati verzió felhasználóinak
+title: Mobileszközök beállítása vállalati Microsoft 365 felhasználóknak
 f1.keywords:
 - NOCSH
 ms.author: sharik
@@ -25,17 +25,17 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: d868561b-d340-4c04-a973-e2575d7f09bc
-description: Telepítse az Office-t iPhone-ra vagy Android-telefonra, és az Office-appokban lévő munkahelyi fájljait a Microsoft 365 Vállalati verzió védi.
-ms.openlocfilehash: fefec17344d199ced230907fbaa85d98198cfb94
-ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
+description: Telepítse Office fájlokat egy iPhone vagy Android rendszerű telefonon, és az Office-alkalmazásokban lévő munkahelyi fájljait a vállalati Microsoft 365 fogja védeni.
+ms.openlocfilehash: 7b411b6ae1223963b8583e1e3cd0ee00e13ff958
+ms.sourcegitcommit: ff20f5b4e3268c7c98a84fb1cbe7db7151596b6d
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51578167"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52244796"
 ---
-# <a name="set-up-mobile-devices-for-microsoft-365-for-business-users"></a>Mobileszközök beállítása a Microsoft 365 Vállalati verzió felhasználóinak
+# <a name="set-up-mobile-devices-for-microsoft-365-for-business-users"></a>Mobileszközök beállítása vállalati Microsoft 365 felhasználóknak
 
-Az Office iPhone-ra vagy Android-telefonra való telepítéshez kövesse a lapokon szereplő utasításokat. A lépések után az Office-appokban létrehozott munkahelyi fájlokat a Microsoft 365 Vállalati verzió védi.
+Az Office iPhone-ra vagy Android-telefonra való telepítéshez kövesse a lapokon szereplő utasításokat. A lépések után a vállalati verziós appokban Office munkahelyi fájljait a vállalati Microsoft 365 fogja védeni.
 
 A példa az Outlookra vonatkozik, de minden más, telepíteni kívánt Office-appra érvényes.
   
@@ -43,11 +43,11 @@ A példa az Outlookra vonatkozik, de minden más, telepíteni kívánt Office-ap
 
 ## <a name="iphone"></a>[iPhone](#tab/iPhone)
   
-Nézze meg ezt a rövid videót arról, hogy miként állíthatja be az Office-appokat iOS-eszközökön a Microsoft 365 Vállalati verzióval.<br><br>
+Nézze meg ezt a rövid videót, amely bemutatja, hogy miként állíthat be Office alkalmazásokat iOS-eszközökön a Microsoft 365 vállalati verzióval.<br><br>
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RWee2n] 
 
-Ha hasznosnak találta ezt a videót, tekintse meg a [teljes tanfolyamok kisvállalatoknak és Microsoft 365-újoncoknak](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816) című cikket.
+Ha hasznosnak találta ezt a videót, tekintse meg a [teljes tanfolyamok kisvállalatoknak és Microsoft 365-újoncoknak](../business-video/index.yml) című cikket.
 
 Nyissa meg az **App Store** áruházat, és írja be a Microsoft Outlook kifejezést a keresőmezőbe.
   
@@ -61,13 +61,13 @@ Miután a telepítés befejeződött, koppintson a **Megnyitás** gombra az Outl
   
 ![Screenshot of Outlook with Get Started button](../media/005bedec-ae50-4d75-b3bb-e7cef9e2561c.png)
   
-Adja meg a munkahelyi e-mail-címét az E-mail-fiók **hozzáadása** képernyőn a Fiók hozzáadása képernyőn, majd adja meg \> a Microsoft 365 Vállalati verziós hitelesítő \> **adatait: Jelentkezzen be.**
+Adja meg a munkahelyi e-mail-címét az E-mail-fiók **hozzáadása** képernyőn a Fiók hozzáadása képernyőn, majd adja meg Microsoft 365 Vállalati verziós hitelesítő \> adatokat. \> **Jelentkezzen be.**
   
 ![Sign in to your work account](../media/3cef1fb5-7bec-4d3d-8542-872b731ce19f.png)
   
 Ha a szervezete védelmet nyújt a fájloknak az appokban, megjelenik egy párbeszédpanel, amely arról közli, hogy a szervezet most már védi az appban lévő adatokat, és a használat folytatásához újra kell indítania az appot. Koppintson az **OK** gombra, és zárja be az Outlookot. 
   
-![Képernyőkép arról, hogy a szervezet most már védi az Outlook appot](../media/fb4c1c84-b1e9-42e1-8070-c13dcf79fb09.png)
+![Képernyőkép arról, hogy szervezete most már védi a Outlook appot](../media/fb4c1c84-b1e9-42e1-8070-c13dcf79fb09.png)
   
 Keresse meg az Outlookot az iPhone-on, és indítsa újra. Amikor a rendszer kéri, adja meg és ellenőrizze a PIN-kódot. Az iPhone-ján az Outlook most már készen áll a használatra.
   
@@ -75,21 +75,21 @@ Keresse meg az Outlookot az iPhone-on, és indítsa újra. Amikor a rendszer ké
   
 ## <a name="android"></a>[Android](#tab/Android)
   
-Videó az Outlook és az Office Android-eszközökre való telepítéséről.<br><br>
+Nézze meg ezt a videót arról, hogy mi Outlook az Office androidos eszközökön.<br><br>
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/ecc2e9c0-bc7e-4f26-8b14-91d84dbcfef0] 
 
-Ha hasznosnak találta ezt a videót, tekintse meg a [teljes tanfolyamok kisvállalatoknak és Microsoft 365-újoncoknak](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816) című cikket.
+Ha hasznosnak találta ezt a videót, tekintse meg a [teljes tanfolyamok kisvállalatoknak és Microsoft 365-újoncoknak](../business-video/index.yml) című cikket.
 
 Az Android-telefon beállításának megkezdéséhez kattintson a Play Store áruházra.
   
 ![On the Android home screen, tap Play Store](../media/93df88e7-c778-40e1-b35e-868ca6e97f6c.png)
   
-Írja be a Microsoft Outlook alkalmazást a Google Play Áruház keresőmezőbe, és koppintson a **Telepítés gombra.** Miután az Outlook végzett a telepítéssel, koppintson a Megnyitás **gombra.**
+Írja be a Microsoft Outlook a Google Play keresőmezőbe, és koppintson a Telepítés **gombra.** Ha Outlook a telepítést, koppintson a Megnyitás **gombra.**
   
 ![Tap Open to open Outlook app](../media/8b4c5937-8875-4b5a-a5b6-b8c6c9cd6240.png)
   
-Az Outlook appban koppintson az Első lépések gombra, majd vegye fel a Microsoft 365 Vállalati verziós e-mail-fiókját a Folytatás gombra, és jelentkezzen be \> a szervezeti hitelesítő adataival.
+A Outlook appban koppintson az Első lépések **,** majd adja meg Microsoft 365 vállalati e-mail-fiókját a Folytatás gombra, és jelentkezzen be a szervezeti hitelesítő \> adataival.
   
 ![Sign in to your organizational account in Outlook](../media/18f67c66-4bab-4b99-94bd-080839312e29.png)
   
@@ -97,7 +97,7 @@ Az Intune Vállalati portál app telepítését kérő párbeszédpanelen, koppi
   
 ![Tap on Go to store to get Intune Company Portal app](../media/a702d712-5622-45dd-a511-b1adaee63071.png)
   
-A Play Store-ban telepítse az Intune vállalati portált.
+A Play Store-ban telepítse a Intune Céges portál.
   
 ![Screenshot that shows the install button for Intune Company Portal in Google Play Store](../media/5e0408f2-3f37-44dd-80ed-13ca2ac6df0c.png)
   
@@ -107,6 +107,6 @@ Nyissa meg ismét az Outlookot, és adja meg, majd erősítse meg a PIN-kódot. 
 
 ## <a name="see-also"></a>Lásd még
 
-[Microsoft 365 Vállalati verzió – oktatóvideók](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
+[Microsoft 365 vállalati verziós oktatóvideók](../business-video/index.yml)
 
 ---
