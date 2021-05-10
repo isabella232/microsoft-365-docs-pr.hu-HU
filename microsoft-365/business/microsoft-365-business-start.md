@@ -28,12 +28,12 @@ search.appverid:
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
 description: Tudnivalók a Microsoft 365 vállalati verzióról, a beállításról, valamint arról, hogy miként készítheti fel a felhasználók eszközeit és számítógépeit a vállalati Microsoft 365 védelmére.
-ms.openlocfilehash: cc54147e75a27fbb93255d6f706b4f9044c75858
-ms.sourcegitcommit: ff20f5b4e3268c7c98a84fb1cbe7db7151596b6d
+ms.openlocfilehash: ddf6f8d12587c6fb562a599a41c190ffef32c147
+ms.sourcegitcommit: de5fce90de22ba588e75e1a1d2e87e03b9e25ec7
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52245124"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "52293707"
 ---
 # <a name="get-started-with-microsoft-365-for-business"></a>Első lépések a Microsoft 365 vállalati verzióban
 
@@ -105,7 +105,7 @@ Ha megőriz egy olyan helyi Active Directory-címtárat, amely helyszíni erőfo
   
 - Forduljon a partneréhez.
     
-- Vállalati Microsoft 365 rendszergazdáként hozzáférhet ügyfélszolgálati csapatunkhoz: Kapcsolatfelvétel az ügyfélszolgálattal üzleti termékekhez **[– rendszergazdai súgó](../admin/contact-support-for-business-products.md)**
+- Vállalati Microsoft 365 rendszergazdáként hozzáférhet ügyfélszolgálati csapatunkhoz: Kapcsolatfelvétel az ügyfélszolgálattal üzleti termékekhez **[– rendszergazdai súgó](../business-video/get-help-support.md)**
     
 ## <a name="related-content"></a>Kapcsolódó tartalom
 
