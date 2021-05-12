@@ -22,12 +22,12 @@ search.appverid:
 - BCS160
 - MET150
 description: Megtudhatja, hogy miként mozgathat cége új Microsoft 365 Vállalati prémium verzió az E3 Office 365 verzióból.
-ms.openlocfilehash: f08b054473fdd63ec2372e81c776a1b64f89fe9d
-ms.sourcegitcommit: ff20f5b4e3268c7c98a84fb1cbe7db7151596b6d
+ms.openlocfilehash: 990ca8bdae979f1efb8a60a3460add2953a51892
+ms.sourcegitcommit: 68383240ef7a673d5f28e2ecfab9f105bf1d8c8f
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52244836"
+ms.lasthandoff: 05/11/2021
+ms.locfileid: "52327170"
 ---
 # <a name="migrating-from-office-365-e3-to-microsoft-365-business-premium"></a>Áttelepítés az E3 Office 365-ről a Microsoft 365 Vállalati prémium verzió
 
@@ -39,25 +39,24 @@ Az áttelepítés egyszerű: Először váltson a licencek között, és az aktu
 
 Az alábbi táblázat az E3 Microsoft 365 Vállalati prémium verzió és az E3 Office 365 különbségeket mutatja.
 
-| Funkció    | Támogatás a Microsoft 365 Vállalati prémium verzió    | Támogatás az E3 Office 365-ban | 
+| Funkció    | Támogatás a Microsoft 365 Vállalati prémium verzió    | Támogatás az E3 Office 365-ban |
 |:-------|:-----|:-----|
-| **Helyszíni**        | | | 
-| Office alkalmazások<sup>1</sup>    | Üzleti Microsoft 365-alkalmazások    | Microsoft 365 Vállalati alkalmazások | 
-| **Felhőbeli hatékonyságnövelő alkalmazások**        | | | 
-| Exchange Online és Outlook    | Postaládánként 50 GB tárterületkorlát és korlátlan Exchange Online Archiválás    | Postaládánként 100 GB tárterületkorlát és korlátlan Exchange Online Archiválás | 
+| **Helyszíni**        | | |
+| Office alkalmazások<sup>1</sup>    | Üzleti Microsoft 365-alkalmazások    | Microsoft 365 Vállalati alkalmazások |
+| **Felhőbeli hatékonyságnövelő alkalmazások**        | | |
+| Exchange Online és Outlook    | Postaládánként 50 GB tárterületkorlát és korlátlan Exchange Online Archiválás    | Postaládánként 100 GB tárterületkorlát és korlátlan Exchange Online Archiválás |
 | Teams    | ![Az Microsoft 365 Vállalati prémium verzió](../media/check-mark.png)    | ![Az E3 Office 365 része](../media/check-mark.png) | 
 | OneDrive Vállalati verzió    | Felhasználónként 1 TB tárterületkorlát    | Korlátlan | 
 | Yammer, SharePoint, Planner, Stream    | ![Az Microsoft 365 Vállalati prémium verzió](../media/check-mark.png)    | ![Az E3 Office 365 része](../media/check-mark.png) | 
-| StaffHub    | ![Az Microsoft 365 Vállalati prémium verzió](../media/check-mark.png)    | ![Az E3 Office 365 része](../media/check-mark.png) | 
-| MileIQ    | ![Az Microsoft 365 Vállalati prémium verzió](../media/check-mark.png)    | | 
-| **Veszélyforrások elleni védelem**        | | | 
-| Defender a Office 365 1. csomaghoz | ![Az Microsoft 365 Vállalati prémium verzió](../media/check-mark.png)    | Nem tartalmazza, de a következőn használhatja: | 
-| **Identitáskezelés**        | | | 
-| Önkiszolgáló jelszó-visszaállítás hibrid Azure Active Directory -fiókokhoz (Azure AD-fiókokhoz), Azure AD többtényezős hitelesítés (MFA), feltételes hozzáférés, jelszóvisszaírás a helyszíni identitásokhoz|     ![Az Microsoft 365 Vállalati prémium verzió](../media/check-mark.png)    |  | 
+| StaffHub    | ![Az Microsoft 365 Vállalati prémium verzió](../media/check-mark.png)    | ![Az E3 Office 365 része](../media/check-mark.png) |
+| **Veszélyforrások elleni védelem**        | | |
+| Defender a Office 365 1. csomaghoz | ![Az Microsoft 365 Vállalati prémium verzió](../media/check-mark.png)    | Nem tartalmazza, de a következőn használhatja: |
+| **Identitáskezelés**        | | |
+| Önkiszolgáló jelszó-visszaállítás hibrid Azure Active Directory -fiókokhoz (Azure AD-fiókokhoz), Azure AD többtényezős hitelesítés (MFA), feltételes hozzáférés, jelszóvisszaírás a helyszíni identitásokhoz|     ![Az Microsoft 365 Vállalati prémium verzió](../media/check-mark.png)    |  |
 | **Eszköz- és alkalmazáskezelés**        | | |
 | Microsoft Intune, Windows AutoPilot|     ![Az Microsoft 365 Vállalati prémium verzió](../media/check-mark.png)    |  |
 | Megosztott számítógép aktiválása|     ![Az Microsoft 365 Vállalati prémium verzió](../media/check-mark.png)    | ![Az E3 Office 365 része](../media/check-mark.png)| 
-| Frissítési jogok Windows 10 Pro Windows 7/8.1 verziós Pro verzióról|     ![Az Microsoft 365 Vállalati prémium verzió](../media/check-mark.png)    || 
+| Frissítési jogok Windows 10 Pro Windows 7/8.1 verziós Pro verzióról|     ![Az Microsoft 365 Vállalati prémium verzió](../media/check-mark.png)    ||
 | **Információvédelem**        | | |
 |Office 365 Adatveszteség-megelőzés|    ![Az Microsoft 365 Vállalati prémium verzió](../media/check-mark.png)|![Az E3 Office 365 része](../media/check-mark.png)|
 |Azure Information Protection 1. csomag, BitLocker kényszerítve|![Az Microsoft 365 Vállalati prémium verzió](../media/check-mark.png)||
@@ -96,29 +95,28 @@ Ha szervezetében mindenkit frissített a Microsoft 365 Vállalati prémium verz
 Az Eszközök lapon az alábbi lépéseket is végre tudja tenni:
   
 1. A felügyeleti központ bal oldali navigációs  sávjában menjen az Eszköz \> **házirendek lapra.**
-    
+
 2. Az Eszköz **házirendek lapon** válassza a Hozzáadás **lehetőséget.**
-    
-3. A Házirend **hozzáadása ablaktáblában** nevezze el a házirendet, majd válasszon **egy** Házirendtípust a legördülő menüből. 
-    
+
+3. A Házirend **hozzáadása ablaktáblában** nevezze el a házirendet, majd válasszon **egy** Házirendtípust a legördülő menüből.
+
      Alkalmazás-konfigurációs házirendeket állíthat be az Android- és iPhone-eszközökön, valamint az Windows 10-ban lévő fájlok védelmére, valamint eszközkonfigurációs házirendeket állíthat be a vállalati tulajdonú Windows 10 eszközökön. A részleteket az alábbi hivatkozásokra kattintva olvashatja el:
-    
+
   - [Appvédelmi beállítások megadása androidos vagy iOS-es eszközökhöz](app-protection-settings-for-android-and-ios.md)
-    
+
   - [Alkalmazásvédelmi beállítások megadása Windows 10-es eszközökhöz](protection-settings-for-windows-10-devices.md)
-    
+
   - [Eszközvédelmi beállítások megadása Windows 10 PC-khez](protection-settings-for-windows-10-pcs.md)
   
 4. A házirendek beállítása után Ön és alkalmazottai eszközeiket is beállíthatja:
-    
+
   - Az [eszköz Windows beállítása Microsoft 365 Vállalati prémium verzió felhasználók](set-up-windows-devices.md) számára Windows lépéseket. 
-    
+
   - Az [Android-telefonok és](set-up-mobile-devices.md) iPhone-ok használatának Microsoft 365 Vállalati prémium verzió beállítása a mobileszközök számára. 
   
 ### <a name="mailbox-size"></a>Postaláda mérete
 
 Microsoft 365 Vállalati prémium verzió 50 GB-os tárterületkorlátot használ az 1. Exchange Online használ. Az Microsoft 365 Vállalati prémium verzió-re való áttelepítés során, ha a felhasználók bármelyike meghaladja az 50 GB-os postaláda-tárterületet, javasoljuk, hogy rendeljen a felhasználóhoz egy Exchange Online 2. csomaggal, és távolítsa el az Exchange Online 1. csomagját, mivel mindkettőt nem lehet hozzárendelni.
-
 
 ### <a name="threat-protection"></a>Veszélyforrások elleni védelem
 
