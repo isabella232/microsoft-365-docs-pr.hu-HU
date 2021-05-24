@@ -26,17 +26,17 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: 2d7ff45e-0da0-4caa-89a9-48cabf41f193
-description: Megtudhatja, hogy miként állíthatja Windows a Windows 10 Pro-et futtató Microsoft 365 Vállalati prémium verzió központi felügyelet és biztonsági vezérlők engedélyezésével.
-ms.openlocfilehash: 3e268d81ff6fb7113b7e0b0fe5d0545ff5c72b1e
-ms.sourcegitcommit: ff20f5b4e3268c7c98a84fb1cbe7db7151596b6d
+description: Állítsa be Windows központi felügyelet és Windows 10 Pro felügyeleti Microsoft 365 Vállalati prémium verzió felügyeleti és biztonsági vezérlők engedélyezésével.
+ms.openlocfilehash: 3d32a033a1a1c89d7d4d557cea6a28e24543ab2c
+ms.sourcegitcommit: b0d3abbccf4dd37e32d69664d3ebc9ab8dea760d
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52244776"
+ms.lasthandoff: 05/21/2021
+ms.locfileid: "52594021"
 ---
 # <a name="set-up-windows-devices-for-microsoft-365-business-premium-users"></a>Az eszköz Windows beállítása a Microsoft 365 Vállalati prémium verzió számára
 
-## <a name="prerequisites-for-setting-up-windows-devices-for-microsoft-365-business-premium-users"></a>A mobileszközök beállításának előfeltételei Windows felhasználóknak Microsoft 365 Vállalati prémium verzió számára
+## <a name="before-you-begin"></a>Az első lépések
 
 Mielőtt Windows eszközét Microsoft 365 Vállalati prémium verzió, győződjön meg arról, hogy az összes Windows-eszközön az 1703-as verzió (alkotói frissítés) Windows 10 Pro fut. Windows 10 Pro a Windows 10 Business üzembe helyezésének előfeltétele, amely a Windows 10 Pro-et kiegészítő felhőalapú szolgáltatások és eszközkezelési képességek készlete, amely lehetővé teszi az Microsoft 365 Vállalati prémium verzió központi felügyeletét és Microsoft 365 Vállalati prémium verzió.
   
@@ -128,6 +128,6 @@ Ellenőrizze, hogy az Azure AD-hez Windows 10 eszközén a Windows 10 Business e
 
 A mobileszközök beállításához lásd: Mobileszközök beállítása Microsoft 365 Vállalati prémium verzió [felhasználóknak](set-up-mobile-devices.md), eszközvédelmi és alkalmazásvédelmi házirendek beállításához lásd: Vállalati Microsoft 365 [kezelése.](manage.md)
   
-## <a name="for-more-on-setting-up-and-using-microsoft-365-business-premium"></a>További információ a beállításokról és a Microsoft 365 Vállalati prémium verzió
+## <a name="related-content"></a>Kapcsolódó tartalom
 
-[Microsoft 365 vállalati verziós oktatóvideók](../business-video/index.yml)
+[Microsoft 365 vállalati verziós oktatóvideók](../business-video/index.yml) (hivatkozáslap)

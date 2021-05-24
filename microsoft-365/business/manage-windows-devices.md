@@ -1,5 +1,5 @@
 ---
-title: A tartományhoz csatlakozott Windows 10-es eszközök microsoft 365 vállalati verziós kezelése
+title: Tartományhoz Windows 10 eszközök vállalati verziós Microsoft 365 kezelése
 f1.keywords:
 - CSH
 ms.author: efrene
@@ -23,18 +23,18 @@ ms.custom:
 search.appverid:
 - BCS160
 - MET150
-description: Megtudhatja, hogyan engedélyezheti a Microsoft 365-nek, hogy mindössze néhány lépésben védje a helyi Active Directoryhoz csatlakozott Windows 10-es eszközöket.
-ms.openlocfilehash: c9f5a21d993200abcf9ecf1fa236879245e1c153
-ms.sourcegitcommit: 4076b43a4b661de029f6307ddc1a989ab3108edb
+description: Ebből a cikkből megtudhatja, Microsoft 365 pár lépésben hogyan védheti a helyi Active Directoryhoz Windows 10 a helyi Active Directoryhoz Windows 10 eszközét.
+ms.openlocfilehash: f16962dd3c33c3c228da507bc5c4a902d76a8a08
+ms.sourcegitcommit: b0d3abbccf4dd37e32d69664d3ebc9ab8dea760d
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/22/2021
-ms.locfileid: "51939502"
+ms.lasthandoff: 05/21/2021
+ms.locfileid: "52593893"
 ---
-# <a name="enable-domain-joined-windows-10-devices-to-be-managed-by-microsoft-365-business-premium"></a>A tartományhoz csatlakozott Windows 10-es eszközök kezelése a Microsoft 365 Business Premiumval
+# <a name="enable-domain-joined-windows-10-devices-to-be-managed-by-microsoft-365-business-premium"></a>A tartományhoz Windows 10 eszközöknek a felhasználók által Microsoft 365 Vállalati prémium verzió
 
-Ha szervezete helyszíni Windows Server Active Directoryt használ, beállíthatja a Microsoft 365 Business Premiumt a Windows 10-es eszközök védelme érdekében úgy, hogy közben továbbra is hozzáférjen a helyi hitelesítést igénylő helyszíni erőforrásokhoz.
-A védelem beállításához hibrid Azure AD-hez csatlakozású eszközöket **kell implementálja.** Ezek az eszközök a helyszíni Active Directoryhoz és az Azure Active Directoryhoz egyaránt csatlakoznak.
+Ha szervezete helyszíni Windows Server Active Directoryt használ, beállíthatja a Microsoft 365 Vállalati prémium verzió-t az Windows 10-eszközök védelmére, miközben továbbra is hozzáfér a helyi hitelesítést igénylő helyszíni erőforrásokhoz.
+A védelem beállításához hibrid Azure AD-hez csatlakozású eszközöket **kell implementálja.** Ezek az eszközök a helyszíni Active Directoryhoz és a számítógépéhez Azure Active Directory.
 
 Ez a videó bemutatja, hogy miként állíthatja be ezt a leggyakoribb forgatókönyvhöz, amely az alábbi lépésekben is részletesen le van írják.
 
@@ -42,23 +42,23 @@ Ez a videó bemutatja, hogy miként állíthatja be ezt a leggyakoribb forgatók
   
 
 ## <a name="before-you-get-started-make-sure-you-complete-these-steps"></a>Mielőtt neki kezd, győződjön meg arról, hogy végre kell ezeket a lépéseket:
-- Felhasználók szinkronizálása az Azure AD-be az Azure AD Connect használatával.
-- Az Azure AD Connect szervezeti egység (OU) szinkronizálásának befejezése.
-- Győződjön meg arról, hogy a szinkronizált összes tartományfelhasználó rendelkezik Licenccel a Microsoft 365 Vállalati prémium verzióhoz.
+- Szinkronizálja a felhasználókat az Azure AD szolgáltatásba az Azure AD Csatlakozás.
+- Az Azure AD Csatlakozás szervezeti egység (OU) szinkronizálásának befejezése.
+- Győződjön meg arról, hogy az összes szinkronizált tartományfelhasználó rendelkezik licenccel a Microsoft 365 Vállalati prémium verzió.
 
 A [lépéseket a Tartományfelhasználók szinkronizálása a Microsofttal](manage-domain-users.md) lásd.
 
 ## <a name="1-verify-mdm-authority-in-intune"></a>1. A MDM Authority ellenőrzése az Intune-ban
 
-Válassza a [Végpontkezelő lehetőséget,](https://endpoint.microsoft.com/#blade/Microsoft_Intune_Enrollment/EnrollmentMenu/overview) majd a Microsoft Intune lapon válassza az Eszköz regisztrálása **lehetőséget,** majd az **Áttekintés** lapon győződjön meg arról, hogy az **MDM authority** **az Intune.**
+Válassza [a Endpoint Manager](https://endpoint.microsoft.com/#blade/Microsoft_Intune_Enrollment/EnrollmentMenu/overview) lap Microsoft Intune eszközregisztrálás **lehetőséget,** majd az Áttekintés  lapon ellenőrizze, hogy az **MDM authority** az **Intune.**
 
 - Ha **az MDM authority** (Nincs) **beállításnál** az MDM authority (Nincs) beállításhoz kattintson az **MDM authority (MDM-hitelesítés)** elemre az **Intune beállításhoz.**
-- Ha az **MDM** authority a **Microsoft Office 365,** válassza az Eszközök regisztrálása eszközt, és az Intune MDM authority hozzáadásához használja a jobb oldalon az   >   **MDM** authority (MDM Authority hozzáadása) párbeszédpanelt (az **MDM Authority** hozzáadása párbeszédpanel csak akkor érhető el, ha a Microsoft Office 365-ösre van beállítva az **MDM** **Authority).**
+- Ha **mDM** authority is **Microsoft Office 365**, menjen az Eszközök regisztrálása eszközre, és az Intune MDM authority hozzáadásához használja a jobb oldalon az MDM authority (MDM Authority hozzáadása) párbeszédpanelt (az MDM Authority hozzáadása párbeszédpanel csak akkor érhető el, ha  >   az **MDM Authority (MDM** Authority) beállítás Microsoft Office 365).   
 
 ## <a name="2-verify-azure-ad-is-enabled-for-joining-computers"></a>2. Annak ellenőrzése, hogy az Azure AD engedélyezve van-e a számítógépekhez való csatlakozáshoz
 
-- A Felügyeleti központban válassza az Azure Active Directory lehetőséget (válassza Az összes megjelenítése, ha az Azure Active Directory nem látható) lehetőséget a Felügyeleti <a href="https://go.microsoft.com/fwlink/p/?linkid=2024339" target="_blank">https://admin.microsoft.com</a> **központok listában.**  
-- Az **Azure Active Directory Felügyeleti központban** válassza az **Azure Active Directory** lehetőséget, válassza az **Eszközök,** majd az **Eszközbeállítások lehetőséget.**
+- A Felügyeleti központ megnyitásához a Felügyeleti központok <a href="https://go.microsoft.com/fwlink/p/?linkid=2024339" target="_blank">https://admin.microsoft.com</a> **listában válassza** Azure Active Directory (válassza Az  összes megjelenítése, Azure Active Directory látható) lehetőséget. 
+- A Azure Active Directory **Felügyeleti központban válassza** a Azure Active Directory **,** majd az Eszközök, majd az  **Eszközbeállítások lehetőséget.**
 - Annak ellenőrzése, hogy a **Felhasználók csatlakozhatnak-e az Azure AD-hez** engedélyezve van-e 
     1. Az összes felhasználó engedélyezéséhez állítsa a Mind **beállításra.**
     2. Ha csak bizonyos felhasználókat szeretné engedélyezni, állítsa **a Bejelölve** beállítást egy adott felhasználócsoport engedélyezéséhez.
@@ -67,11 +67,11 @@ Válassza a [Végpontkezelő lehetőséget,](https://endpoint.microsoft.com/#bla
 
 ## <a name="3-verify-azure-ad-is-enabled-for-mdm"></a>3. Annak ellenőrzése, hogy az Azure AD engedélyezve van-e az MDM-hez
 
-- A felügyeleti központ megnyitásához válassza <a href="https://go.microsoft.com/fwlink/p/?linkid=2024339" target="_blank">https://admin.microsoft.com</a> a Endpoint  **Managemen**  t (Az összes megjelenítése, ha a Végpontkezelő nem látható) lehetőséget.
-- A **Microsoft Endpoint Manager Felügyeleti központban** menjen az **Eszközök**  >    >  **Windows Enrollment** Automatikus  >  **regisztrálása lapra.**
+- A felügyeleti központ megnyitásához válassza a Végpont kezelése 1 lehetőséget (ha nem látható az összes Endpoint Manager <a href="https://go.microsoft.com/fwlink/p/?linkid=2024339" target="_blank">https://admin.microsoft.com</a> lehetőséget)   
+- A Microsoft Endpoint Manager **Felügyeleti központban az** Eszközök Windows  >    >  **Windows**  >  **központban.**
 - Ellenőrizze, hogy engedélyezve van-e az MDM felhasználói hatóköre.
 
-    1. Az összes számítógép regisztrálásának beállítását a Mind beállításra állítva automatikusan regisztrálja az Azure AD szolgáltatáshoz és az új számítógépekhez regisztrált összes számítógépet, amikor a felhasználók munkahelyi fiókot hozzáadnak a Windowshoz. 
+    1. Az összes számítógép regisztrálásának beállítását a Mind beállításra állítva automatikusan regisztrálja az Azure AD szolgáltatáshoz és az új számítógépekhez regisztrált összes felhasználói számítógépet, amikor a felhasználók munkahelyi fiókot Windows. 
     2. A Néhány **beállításra** beállítva regisztrálja egy adott felhasználócsoport számítógépeit.
         -  Adja hozzá az Azure AD-ban szinkronizált tartományfelhasználót egy [biztonsági csoporthoz.](../admin/create-groups/create-groups.md)
         -  Válassza **a Csoportok kiválasztása lehetőséget,** ha engedélyezni szeretné az MDM-felhasználók hatókörét az adott biztonsági csoportban.
@@ -87,16 +87,16 @@ Install-Module SecMgmt
 ```
 
 > [!IMPORTANT]
-> Javasoljuk, hogy telepítse ezt a modult az Azure AD Connectet futtató Windows Serverre.
+> Javasoljuk, hogy telepítse ezt a modult az Azure AD-Windows futtató Csatlakozás.
 
-A szükséges szolgáltatási csatlakozási pont és csoportházirend létrehozásához meg kell hívnia az  [Initialize-SecMgmtHybirdDeviceEnrollment](https://github.com/microsoft/secmgmt-open-powershell/blob/master/docs/help/Initialize-SecMgmtHybirdDeviceEnrollment.md) parancsmagot. A feladat végrehajtásához szüksége lesz a Microsoft 365 Vállalati prémium verziós globális rendszergazdai hitelesítő adataira. Ha készen áll az erőforrások létrehozására, hívja meg az alábbiakat:
+A szükséges szolgáltatási csatlakozási pont és csoportházirend létrehozásához meg kell hívnia az  [Initialize-SecMgmtHybirdDeviceEnrollment](https://github.com/microsoft/secmgmt-open-powershell/blob/master/docs/help/Initialize-SecMgmtHybirdDeviceEnrollment.md) parancsmagot. A feladat végrehajtásához Microsoft 365 Vállalati prémium verzió globális rendszergazdai hitelesítő adatokra lesz szüksége. Ha készen áll az erőforrások létrehozására, hívja meg az alábbiakat:
 
 ```powershell
 PS C:\> Connect-SecMgmtAccount
 PS C:\> Initialize-SecMgmtHybirdDeviceEnrollment -GroupPolicyDisplayName 'Device Management'
 ```
 
-Az első parancs kapcsolatot létesít a Microsoft felhővel, és amikor a rendszer kéri, adja meg a Microsoft 365 Vállalati prémium verziós globális rendszergazdai hitelesítő adatait.
+Az első parancs kapcsolatot létesít a Microsoft-felhővel, és amikor a rendszer kéri, adja meg Microsoft 365 Vállalati prémium verzió globális rendszergazdai hitelesítő adatait.
 
 ## <a name="5-link-the-group-policy"></a>5. A csoportházirend csatolása
 
@@ -105,11 +105,11 @@ Az első parancs kapcsolatot létesít a Microsoft felhővel, és amikor a rends
 
 ## <a name="get-the-latest-administrative-templates"></a>Szerezze be a legújabb felügyeleti sablonokat
 
-Ha nem látható az Automatikus **MDM-regisztráció** engedélyezése az Azure AD alapértelmezett hitelesítő adataival házirend, annak az lehet az oka, hogy nincs telepítve az ADMX a Windows 10 10-es vagy újabb verziójához. A probléma megoldásához kövesse az alábbi lépéseket (megjegyzés: A legújabb MDM.admx visszamenőlegesen kompatibilis:
+Ha nem látja az Automatikus **MDM-regisztráció** engedélyezése alapértelmezett Azure AD-beli hitelesítő adatokkal házirendet, annak az lehet az oka, hogy nincs telepítve az ADMX az Windows 10 1803-as vagy újabb verziójához. A probléma megoldásához kövesse az alábbi lépéseket (megjegyzés: A legújabb MDM.admx visszamenőlegesen kompatibilis:
 
-1.  Letöltés: [Rendszergazdai sablonok (.admx) a Windows 10 2020. októberi frissítéséhez (20H2)](https://www.microsoft.com/download/102157).
+1.  Letöltés: [Rendszergazdai sablonok (.admx) Windows 10 2020. októberi frissítéshez (20H2).](https://www.microsoft.com/download/102157)
 2.  Telepítse a csomagot egy tartományvezérlőn.
-3.  A felügyeleti sablonok verziójától függően a következő mappába navigálhat: **C:\Program Files (x86)\Microsoft Group Policy\Windows 10 October 2020 Update (20H2)**.
+3.  A felügyeleti sablonok verziójától függően a következő mappába navigálhat: **C:\Program Files (x86)\Microsoft Group Policy\Windows 10 2020. októberi frissítés (20H2)**.
 4.  Nevezze át **a Policy Definitions mappát** a fenti útvonalon a **PolicyDefinitions névre.**
 5.  Másolja **a PolicyDefinitions** mappát a SYSVOL megosztásba, amely alapértelmezés szerint a **C:\Windows\SYSVOL\tartomány\Policies** helyen található. 
     -   Ha a teljes tartományhoz egy központi házirendtárat szeretne használni, adja hozzá a HázirendDefinitions mező tartalmát.
@@ -119,4 +119,8 @@ Ezen a ponton látnia kell az Automatikus **MDM-regisztráció** engedélyezése
 
 ## <a name="related-content"></a>Kapcsolódó tartalom
 
-[A tartományfelhasználók szinkronizálása a Microsoft 365-be](manage-domain-users.md) (cikk) Csoport létrehozása a Felügyeleti [központban](../admin/create-groups/create-groups.md) (cikk) Oktatóprogram: A hibrid [Azure Active Directory-alapú](/azure/active-directory/devices/hybrid-azuread-join-managed-domains.md) csatlakozás konfigurálása felügyelt tartományokhoz (cikk)
+[A tartományfelhasználók szinkronizálása Microsoft 365](manage-domain-users.md) (cikk)
+
+[Csoport létrehozása a Felügyeleti központban](../admin/create-groups/create-groups.md) (cikk)
+
+[Oktatóprogram: A hibrid Azure Active Directory konfigurálása felügyelt tartományokhoz](/azure/active-directory/devices/hybrid-azuread-join-managed-domains.md) (cikk)
