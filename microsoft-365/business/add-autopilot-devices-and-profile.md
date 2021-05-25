@@ -24,29 +24,27 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: be5b6d90-3344-4c5e-bf40-5733eb845beb
-description: Megtudhatja, hogy a Windows AutoPilot segítségével hogyan állíthat be új Windows 10-es eszközöket a vállalata számára, hogy azok készen állnak az alkalmazottak használatára.
-ms.openlocfilehash: cd8777e6ae2e395506d2bf308c99309de1e24805
-ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
+description: Ebből a cikkből megtudhatja, Windows AutoPilot használatával hogyan állíthat be új Windows 10 eszközét a vállalata számára, hogy azok készen állnak az alkalmazottak használatára.
+ms.openlocfilehash: e178e7df220e89605502d9ed400265bcd963e57e
+ms.sourcegitcommit: 17f0aada83627d9defa0acf4db03a2d58e46842f
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51578527"
+ms.lasthandoff: 05/24/2021
+ms.locfileid: "52636106"
 ---
 # <a name="use-the-step-by-step-guide-to-add-autopilot-devices-and-profile"></a>Autopilot-eszközök és -profilok hozzáadása a lépésenkénti útmutatóval
 
-A Windows AutoPilot segítségével új **Windows** 10-es eszközöket állíthat be a vállalata számára, így azok készen állnak a használatra, amikor átadjuk őket az alkalmazottainak.
+Az AutoPilot Windows használatával új  Windows 10 állíthat be a vállalata számára, így azok készen állnak a használatra, amikor az alkalmazottaknak adja őket.
   
 ## <a name="device-requirements"></a>Eszközkövetelmények
 
 Az eszközöknek meg kell felelnie az alábbi követelményeknek:
   
-- Windows 10, 1703-as vagy újabb verzió
+- Windows 10 1703-as vagy újabb verzió
     
-- Új eszközök, amelyek még nem voltak használhatók a Windowsban
+- Új eszközök, amelyeken még nem Windows nem voltak bevetve
     
 ## <a name="use-the-setup-guide-to-create-devices-and-profiles"></a>Eszközök és profilok létrehozása a beállítási útmutató használatával
-
-[![A megjelenő címke figyelmeztet a felügyeleti központ változásaira, további részleteket itt talál: aka.ms/aboutM365preview.](../media/m365admincenterchanging.png)](/office365/admin/microsoft-365-admin-center-preview)
 
 Ha még nem hozott létre eszközcsoportokat vagy -profilokat, a legjobb, ha a részletes útmutatót használja. Az útmutató [használata](create-and-edit-autopilot-devices.md) [](create-and-edit-autopilot-profiles.md) nélkül is felvehet eszközöket, és profilokat rendelhet hozzájuk. 
   
@@ -60,7 +58,7 @@ Ha még nem hozott létre eszközcsoportokat vagy -profilokat, a legjobb, ha a r
     
     ![Click Start guide for step-by-step instructions for Autopilot.](../media/31662655-d1e6-437d-87ea-c0dec5da56f7.png)
   
-3. Az **Eszközlistát** is tartalmazza .csv fájl feltöltése lapon tallózással keresse meg azt a helyet, ahol előkészítette az eszközt. CSV-fájl, majd **a Következő megnyitása** \> **gombra.** A fájlnak három fejléccel kell lennie:
+3. Az **Eszközlista .csv** fájl feltöltése lapon tallózással keresse meg azt a helyet, ahol  az előkészített fájl .CSV, majd a Tovább \> **gombra.** A fájlnak három fejléccel kell lennie:
     
     - A oszlop: Eszköz sorozatszáma
     
@@ -73,7 +71,7 @@ Ha még nem hozott létre eszközcsoportokat vagy -profilokat, a legjobb, ha a r
     További információ: [Eszközlistát tartalmazó CSV-fájl](../admin/misc/device-list.md). Az **Eszközlistát tartalmazó CSV-fájl feltöltése** lapon egy mintafájlt is letölthet. 
     
 > [!NOTE]
-> Ez a parancsfájl WMI segítségével beolvassa az eszközök Windows Autopilottal való regisztrálása esetén szükséges tulajdonságokat. Vegye figyelembe, hogy az eredményül kapott CSV-fájlban nem kell Windows-termékazonosító (PKID) értéket gyűjteni, mivel ez nem szükséges egy eszköz regisztrálásához, és a PKID NULL érték a kimeneti CSV-fájlban teljesen rendben van. A rendszer csak a sorozatszámot és a hardver kivonatát tölti ki.
+> Ez a parancsprogram WMI segítségével beolvassa az autopilottal regisztrált eszközöknek az Windows tulajdonságait. Felhívjuk a figyelmét arra, hogy az eredményül kapott CSV-fájlban nem kell egy Windows-termékazonosító (PKID) értéket gyűjteni, mivel ez nem szükséges egy eszköz regisztrálásához, és a PKID NULL érték a kimeneti CSV-fájlban teljesen rendben van. A rendszer csak a sorozatszámot és a hardver kivonatát tölti ki.
     
 4. A Profil **hozzárendelése lapon** kiválaszthat egy meglévő profilt, vagy létrehozhat egy újat. Ha még nincs ilyen fiókja, a rendszer kérni fogja, hogy hozzon létre egyet. 
     
@@ -81,11 +79,11 @@ Ha még nem hozott létre eszközcsoportokat vagy -profilokat, a legjobb, ha a r
     
     Az alapértelmezett funkciók kötelezők, és automatikusan vannak beállítva. Az alapértelmezett funkciók az alábbiak:
     
-    - Kihagyhatja Cortanát, a OneDrive-ot és az OEM-regisztrációt.
+    - Kihagyhatja Cortanát, OneDrive és OEM-regisztrációt.
     
     - Bejelentkezés céges márkával.
     
-    - Csatlakoztassa az eszközeit az Azure Active Directory-fiókokhoz, és automatikusan regisztrálja őket a Microsoft 365 Business Premiumval való használatra.
+    - Csatlakozás az eszközeit a Azure Active Directory fiókokhoz, és automatikusan regisztrálja őket a Microsoft 365 Vállalati prémium verzió.
     
     További információ: [Az AutoPilot-profil beállításai.](autopilot-profile-settings.md) 
     
@@ -94,3 +92,8 @@ Ha még nem hozott létre eszközcsoportokat vagy -profilokat, a legjobb, ha a r
     Válassza a **Tovább** gombot.
     
 6. **Ha végzett,** az azt jelenti, hogy a létrehozott (vagy kiválasztott) profilt a rendszer az eszközlista feltöltésével létrehozott eszközcsoportra alkalmazza. A beállítások akkor lépnek életbe, amikor az eszköz felhasználói legközelebb bejelentkeznek. Válassza a **Bezárás** gombot.
+
+## <a name="related-content"></a>Kapcsolódó tartalom
+
+[Az AutoPilot-profil beállításai](autopilot-profile-settings.md) (cikk)\
+[Az eszközök és az alkalmazásadatok védelmére vonatkozó](../admin/devices/choose-device-security.md) beállítások (cikk)

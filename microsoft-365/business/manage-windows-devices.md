@@ -24,24 +24,26 @@ search.appverid:
 - BCS160
 - MET150
 description: Ebből a cikkből megtudhatja, Microsoft 365 pár lépésben hogyan védheti a helyi Active Directoryhoz Windows 10 a helyi Active Directoryhoz Windows 10 eszközét.
-ms.openlocfilehash: f16962dd3c33c3c228da507bc5c4a902d76a8a08
-ms.sourcegitcommit: b0d3abbccf4dd37e32d69664d3ebc9ab8dea760d
+ms.openlocfilehash: ec80159bdceffd8a13d09a297a2acc1b78c9b1b3
+ms.sourcegitcommit: 17f0aada83627d9defa0acf4db03a2d58e46842f
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 05/21/2021
-ms.locfileid: "52593893"
+ms.lasthandoff: 05/24/2021
+ms.locfileid: "52636086"
 ---
 # <a name="enable-domain-joined-windows-10-devices-to-be-managed-by-microsoft-365-business-premium"></a>A tartományhoz Windows 10 eszközöknek a felhasználók által Microsoft 365 Vállalati prémium verzió
 
 Ha szervezete helyszíni Windows Server Active Directoryt használ, beállíthatja a Microsoft 365 Vállalati prémium verzió-t az Windows 10-eszközök védelmére, miközben továbbra is hozzáfér a helyi hitelesítést igénylő helyszíni erőforrásokhoz.
 A védelem beállításához hibrid Azure AD-hez csatlakozású eszközöket **kell implementálja.** Ezek az eszközök a helyszíni Active Directoryhoz és a számítógépéhez Azure Active Directory.
 
+## <a name="watch-configure-hybrid-azure-active-directory-join"></a>Watch: Configure Hybrid Azure Active Directory join
+
 Ez a videó bemutatja, hogy miként állíthatja be ezt a leggyakoribb forgatókönyvhöz, amely az alábbi lépésekben is részletesen le van írják.
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE3C9hO]
   
+## <a name="before-you-begin"></a>Az első lépések
 
-## <a name="before-you-get-started-make-sure-you-complete-these-steps"></a>Mielőtt neki kezd, győződjön meg arról, hogy végre kell ezeket a lépéseket:
 - Szinkronizálja a felhasználókat az Azure AD szolgáltatásba az Azure AD Csatlakozás.
 - Az Azure AD Csatlakozás szervezeti egység (OU) szinkronizálásának befejezése.
 - Győződjön meg arról, hogy az összes szinkronizált tartományfelhasználó rendelkezik licenccel a Microsoft 365 Vállalati prémium verzió.
@@ -119,8 +121,6 @@ Ezen a ponton látnia kell az Automatikus **MDM-regisztráció** engedélyezése
 
 ## <a name="related-content"></a>Kapcsolódó tartalom
 
-[A tartományfelhasználók szinkronizálása Microsoft 365](manage-domain-users.md) (cikk)
-
-[Csoport létrehozása a Felügyeleti központban](../admin/create-groups/create-groups.md) (cikk)
-
+[Tartományfelhasználók szinkronizálása a Microsoft 365](manage-domain-users.md) (cikk)\
+[Csoport létrehozása a Felügyeleti központban](../admin/create-groups/create-groups.md) (cikk)\
 [Oktatóprogram: A hibrid Azure Active Directory konfigurálása felügyelt tartományokhoz](/azure/active-directory/devices/hybrid-azuread-join-managed-domains.md) (cikk)

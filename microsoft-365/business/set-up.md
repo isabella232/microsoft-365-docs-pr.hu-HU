@@ -30,14 +30,16 @@ search.appverid:
 - MET150
 ms.assetid: 6e7a2dfd-8ec4-4eb7-8390-3ee103e5fece
 description: Megismerheti a fiókkal kapcsolatos Microsoft 365 Vállalati prémium verzió, például tartomány és felhasználók felvételét, biztonsági házirendek beállítását és sok minden más.
-ms.openlocfilehash: 37607b483686fc12ac6253ae9f693ec86c073c4e
-ms.sourcegitcommit: ff20f5b4e3268c7c98a84fb1cbe7db7151596b6d
+ms.openlocfilehash: 3e15f16db2a233d2e11d444600398102b075932d
+ms.sourcegitcommit: 686f192e1a650ec805fe8e908b46ca51771ed41f
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52245044"
+ms.lasthandoff: 05/24/2021
+ms.locfileid: "52624389"
 ---
 # <a name="set-up-microsoft-365-business-premium-in-the-setup-wizard"></a>A Microsoft 365 Vállalati prémium verzió beállítása a beállítási varázslóban
+
+## <a name="watch-overview-of-microsoft-365-setup"></a>Watch: Overview of Microsoft 365 setup
 
 Ez a videó áttekintést nyújt a Microsoft 365 Vállalati prémium verzió beállításról.<br><br>
 
@@ -131,6 +133,6 @@ Az iOS Office Android rendszerű mobileszközökön való telepítéséhez lásd
 
 A frissítéseket egyenként Office is. Útmutatásért [Office PC-re](https://support.microsoft.com/office/4414eaaf-0478-48be-9c42-23adc4716658) vagy Mac gépre való telepítéséről.
 
-## <a name="see-also"></a>Lásd még
+## <a name="related-content"></a>Kapcsolódó tartalom
 
-[Microsoft 365 vállalati verziós oktatóvideók](../business-video/index.yml)
+[Microsoft 365 vállalati verziós oktatóvideók](../business-video/index.yml) (hivatkozáslap)

@@ -21,13 +21,13 @@ ms.custom:
 search.appverid:
 - BCS160
 - MET150
-description: Megtudhatja, hogy miként mozgathat cége új Microsoft 365 Vállalati prémium verzió az E3 Office 365 verzióból.
-ms.openlocfilehash: 990ca8bdae979f1efb8a60a3460add2953a51892
-ms.sourcegitcommit: 68383240ef7a673d5f28e2ecfab9f105bf1d8c8f
+description: Ha előfizetéssel rendelkezik Office 365 E3 csomagra, de nem rendelkezik több mint 300 alkalmazottal, fontolja meg a váltást a Microsoft 365 Vállalati prémium verzió.
+ms.openlocfilehash: d139d07c946ff3efed3db3a73eb5e1a4ae66c190
+ms.sourcegitcommit: 686f192e1a650ec805fe8e908b46ca51771ed41f
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "52327170"
+ms.lasthandoff: 05/24/2021
+ms.locfileid: "52623605"
 ---
 # <a name="migrating-from-office-365-e3-to-microsoft-365-business-premium"></a>Áttelepítés az E3 Office 365-ről a Microsoft 365 Vállalati prémium verzió
 
@@ -125,3 +125,12 @@ Az áttelepítés után Microsoft 365 Vállalati prémium verzió Defender Offic
 ### <a name="sensitivity-labels"></a>Érzékenységi címkék
 
 A bizalmasság-címkék használatának elkezdését a Bizalmasság-címkék áttekintése és a bizalmasság-címkék létrehozása és [kezelése videóban](../business-video/create-sensitivity-labels.md) olvashatja. [](../compliance/sensitivity-labels.md)
+
+## <a name="related-content"></a>Kapcsolódó tartalom
+
+[Csomagváltás kézzel](../commerce/subscriptions/change-plans-manually.md) (cikk)\
+[Az Windows-eszközök frissítése Windows 10 Pro](upgrade-to-windows-pro-creators-update.md) (videó)\
+[Appvédelmi beállítások megadása Android- és iOS-eszközökön](app-protection-settings-for-android-and-ios.md) (cikk)\
+[Alkalmazásvédelmi beállítások](protection-settings-for-windows-10-devices.md) megadása és szerkesztése Windows 10 eszközökön (cikk)\
+[]
+
