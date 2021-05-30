@@ -28,13 +28,13 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
-description: További információ a Microsoft 365 Vállalati prémium verzióról, az Office hatékonyságnövelő appjait és a kiberveszélyforrásokkal szembeni speciális védelmet tartalmazó előfizetési szolgáltatásról.
-ms.openlocfilehash: a355c9856ead4a66f6876cc7cb5aa8eb469d7f12
-ms.sourcegitcommit: ff20f5b4e3268c7c98a84fb1cbe7db7151596b6d
+description: További információ a Microsoft 365 Vállalati prémium verzióról, az Office-appokat és a kiberveszélyforrásokkal szembeni speciális védelmet tartalmazó előfizetési szolgáltatásról.
+ms.openlocfilehash: e4a182c5dd5444392486dd137e70361e880534bd
+ms.sourcegitcommit: a05f61a291eb4595fa9313757a3815b7f217681d
 ms.translationtype: HT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52244856"
+ms.lasthandoff: 05/29/2021
+ms.locfileid: "52705522"
 ---
 # <a name="overview-of-microsoft-365-business-premium"></a>A Microsoft 365 Vállalati prémium verzió áttekintése
 
@@ -42,7 +42,7 @@ ms.locfileid: "52244856"
 
 A Microsoft 365 Vállalati prémium verzió (korábban Microsoft 365 Vállalati verzió) egy átfogó előfizetési szolgáltatás a 300-nál kevesebb alkalmazottat foglalkoztató vállalkozásoknak. A verzió speciális biztonsági és eszközkezelési funkciókat magában foglalva integrálja a kedvenc Office hatékonyságnövelő appokat és szolgáltatásokat, valamint együttműködési eszközöket, például a Microsoft Teamst.
 
-Ezt a videót megnézve gyorsan áttekintheti a Microsoft 365 Vállalati prémium verziót.<br><br>
+## <a name="watch-what-is-microsoft-365-business-premium"></a>Tekintse meg: Mi a Microsoft 365 Vállalati prémium verzió?
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2mhaA] 
   
@@ -105,7 +105,7 @@ A Microsoft 365 Vállalati prémium verzió az alábbiakkal segíti **a fenyeget
 
 A biztonsági funkciók teljes listáját [a Microsoft 365 Vállalati prémium verzió biztonsági funkciói](security-features.md) leírásában találja. Miután [beállította a Microsoft 365 Vállalati prémium verziót](set-up.md), olvassa el a [veszélyforrások elleni védelem növelése](increase-threat-protection.md) és a [megfelelőségi funkciók beállítása](set-up-compliance.md) című részeket az interaktív beállításban nem szereplő biztonsági funkciók használatbavételéhez. A kiberbűnözők és támadók elleni védekezés beállítását áttekintheti [Az Office 365 és a Microsoft 365 Vállalati prémium verziós csomagok védelmének 10 legjobb módja](/office365/admin/security-and-compliance/secure-your-business-data) című cikkben.
 
-## <a name="get-microsoft-365-business-premium"></a>A Microsoft 365 Vállalati prémium verzió beszerzése
+## <a name="next-steps"></a>Következő lépések
 
 - Ha vannak partnerei, ők megkapják a Microsoft 365 Vállalati prémium verziót: [A Microsoft 365 Vállalati prémium verzió beszerzése a Microsoft Partnerközpontban](get-microsoft-365-business.md).
 

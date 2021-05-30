@@ -28,12 +28,12 @@ search.appverid:
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
 description: Tudnivalók a Microsoft 365 vállalati verzióról, a beállításról, valamint arról, hogy miként készítheti fel a felhasználók eszközeit és számítógépeit a vállalati Microsoft 365 védelmére.
-ms.openlocfilehash: ddf6f8d12587c6fb562a599a41c190ffef32c147
-ms.sourcegitcommit: de5fce90de22ba588e75e1a1d2e87e03b9e25ec7
+ms.openlocfilehash: be5f0e74b71f412bf647e4ef0e496cd932fc306a
+ms.sourcegitcommit: a05f61a291eb4595fa9313757a3815b7f217681d
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "52293707"
+ms.lasthandoff: 05/29/2021
+ms.locfileid: "52706458"
 ---
 # <a name="get-started-with-microsoft-365-for-business"></a>Első lépések a Microsoft 365 vállalati verzióban
 
@@ -41,7 +41,7 @@ ms.locfileid: "52293707"
 
 Microsoft 365 vállalati verzió az üzleti hatékonyságot és együttműködési eszközöket (például Outlook, Word, Excel és más Office-termékek) átfogó készlete, amely mindig naprakész. A nagyvállalati szintű, egyszerűen kezelhető, nagyvállalati szintű biztonsági megoldásokkal minden iOS, Android és Windows 10 eszközén megvédheti a munkahelyi fájljait.
 
-Ebből a videóból gyorsan áttekintheti a vállalati Microsoft 365 áttekintését.<br><br>
+## <a name="watch-what-is-microsoft-365-business-premium"></a>Watch: What is Microsoft 365 Vállalati prémium verzió
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2mhaA] 
   
@@ -61,7 +61,7 @@ Az alábbi diagram bemutatja, hogy a rendszergazdák hogyan Microsoft 365 válla
   
 ![A diagram that shows the setup and management flow for admins, and also for a user](../media/249f81fc-7e79-44c7-8425-3a0b7b651c3b.png)
 
-Ebből a videóból áttekintheti a vállalati Microsoft 365 beállításokat.<br><br>
+## <a name="watch-set-up-microsoft-365-business"></a>Watch: Set up Microsoft 365 Vállalati verzió
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE1FYSM] 
 
@@ -109,8 +109,7 @@ Ha megőriz egy olyan helyi Active Directory-címtárat, amely helyszíni erőfo
     
 ## <a name="related-content"></a>Kapcsolódó tartalom
 
-[Microsoft 365 vállalati verzió dokumentációja és forrásai](./index.yml)
-  
-[Vállalati Microsoft 365 kezelése](manage.md)Áttelepítés Microsoft 365[vállalati verzióba](migrate-to-microsoft-365-business.md)
-
-[Microsoft 365 vállalati verziós oktatóvideók](../business-video/index.yml)
+[Microsoft 365 vállalati verzió dokumentációja és forrásai](./index.yml) (hivatkozáslap)\
+[Vállalati Microsoft 365 kezelése](manage.md) (cikk)\
+[Áttelepítés vállalati Microsoft 365 (cikk)\](migrate-to-microsoft-365-business.md)
+[Microsoft 365 vállalati verziós oktatóvideók](../business-video/index.yml) (hivatkozáslap)

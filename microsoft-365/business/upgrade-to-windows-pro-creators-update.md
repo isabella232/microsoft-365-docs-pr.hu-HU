@@ -26,16 +26,16 @@ search.appverid:
 - MOE150
 ms.assetid: ffc4d886-9e1d-453d-a0d0-2f62f18635e2
 description: Fedezze fel, hogy milyen módokon frissítheti Windows eszközét, Windows 10 Pro fejlettebb biztonsági és üzleti hálózati funkciókat kihasználhatja.
-ms.openlocfilehash: 0ed24f3560832890c1ba26f89ecbcd1f2ef7b098
-ms.sourcegitcommit: ff20f5b4e3268c7c98a84fb1cbe7db7151596b6d
+ms.openlocfilehash: 14a1705a333b2fd4d4dda37ed5170b34acb13abe
+ms.sourcegitcommit: a05f61a291eb4595fa9313757a3815b7f217681d
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52244736"
+ms.lasthandoff: 05/29/2021
+ms.locfileid: "52705554"
 ---
 # <a name="upgrade-windows-devices-to-windows-10-pro"></a>Az Windows frissítése Windows 10 Pro
 
-Tekintsen meg egy rövid videót az Windows eszközök Windows 10 Pro.<br><br>
+## <a name="watch-upgrade-windows-10-home-to-windows-10-pro"></a>Watch: Upgrade Windows 10 Home to Windows 10 Pro
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE3t58j] 
 
@@ -56,9 +56,11 @@ A Windows 10 Pro több lehetőség közül választhat. képes vagy:
 > [!NOTE]
 > Ha 7 Windows Pro, Windows 8 Pro vagy Windows 8.1 Pro-t futtató Windows-es eszközével rendelkezik, a Microsoft 365 Vállalati verziós előfizetés feljogosítja a Windows Pro 10-es verzióra való frissítésre.
     
-A [vállalati Windows](set-up-windows-devices.md) beállításának befejezéséhez Windows állítsa be az Microsoft 365 Vállalati verzió felhasználóinak Windows 10. 
+## <a name="next-steps"></a>Következő lépések
+
+A mobileszközök beállításának Windows 10 A vállalati Windows beállítása a Microsoft 365 felhasználóknak Microsoft 365 [be.](set-up-windows-devices.md) 
   
-Az [Android- és](set-up-mobile-devices.md) iOS-eszközök beállításának befejezéséhez Microsoft 365 mobileszközök beállítása a Vállalati verzió felhasználói számára. 
+Az Android- és iOS-eszközök beállításának befejezéséhez lásd: Mobileszközök beállítása [vállalati Microsoft 365 felhasználóknak.](set-up-mobile-devices.md) 
   
 ## <a name="related-content"></a>Kapcsolódó tartalom
 
