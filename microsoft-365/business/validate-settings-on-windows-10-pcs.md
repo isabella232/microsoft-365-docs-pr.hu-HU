@@ -1,5 +1,5 @@
 ---
-title: Appvédelmi beállítások érvényességének ellenőrzése Windows 10-es PC-ken
+title: Az appvédelmi beállítások ellenőrzése Windows 10 PC-khez
 f1.keywords:
 - NOCSH
 ms.author: sharik
@@ -25,27 +25,27 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: fae8819d-7235-495f-9f07-d016f545887f
-description: Megtudhatja, hogyan ellenőrizheti, hogy a Microsoft 365 Vállalati verzió appvédelmi beállításai hatályba lépnek-e a felhasználók Windows 10-es eszközein.
-ms.openlocfilehash: fcb463fd98f692f7d4802689e0c03fe4e3e648a1
-ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
+description: Megtudhatja, hogyan ellenőrizheti, hogy Microsoft 365 Vállalati verziós appvédelmi beállítások hatályba lépnek-e a felhasználók Windows 10 eszközein.
+ms.openlocfilehash: 464a246a0da65dcffeb70946287ce4fa0e67ae7c
+ms.sourcegitcommit: be929f79751c0c52dfa6bd98a854432a0c63faf0
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51579842"
+ms.lasthandoff: 06/14/2021
+ms.locfileid: "52925259"
 ---
-# <a name="validate-device-protection-settings-on-windows-10-pcs"></a>Eszközvédelmi beállítások érvényességének ellenőrzése Windows 10-es PC-ken
+# <a name="validate-device-protection-settings-for-windows-10-pcs"></a>Eszközvédelmi beállítások ellenőrzése Windows 10 PC-khez
 
 ## <a name="verify-that-windows-10-device-policies-are-set"></a>Windows 10-eszközházirendek érvénybe lépésének ellenőrzése
 
-Miután [beállította az eszközházirendeket](protection-settings-for-windows-10-pcs.md), néhány óra is eltelhet, amíg a házirendek érvénybe lépnek a felhasználók eszközein. A házirendek érvénybe lépéséről úgy bizonyosodhat meg, ha ellenőrzi a felhasználók eszközein a Windows Gépház bizonyos beállításlapjait. Mivel a felhasználók nem tudják módosítani a Windows Update és a Windows Defender víruskereső beállításait a Windows 10-es eszközeiken, számos beállítás szürkén jelenik meg.
+Miután [beállította az eszközházirendeket](protection-settings-for-windows-10-pcs.md), néhány óra is eltelhet, amíg a házirendek érvénybe lépnek a felhasználók eszközein. A házirendek érvénybe lépéséről úgy bizonyosodhat meg, ha ellenőrzi a felhasználók eszközein a Windows Gépház bizonyos beállításlapjait. Mivel a felhasználók nem tudják módosítani a Windows Frissítési és Windows Defender víruskereső beállításokat a Windows 10-eszközeiken, számos beállítás szürkén jelenik meg.
   
-1. A Windows Update **újraindítási** beállításai között ellenőrizze, hogy minden \> **&amp;** \>  \>  beállítás szürkén jelenik-e meg. 
+1. A Biztonsági **beállítások Gépház** újraindítási Windows lapon ellenőrizze, hogy az összes beállítás szürkén \> **&amp;** \>  \>  jelenik-e meg. 
     
     ![Az Újraindítási beállítások szürkén jelennek meg.](../media/31308da9-18b0-47c5-bbf6-d5fa6747c376.png)
   
-2. A **Windows** Update speciális beállításai a Biztonsági beállítások frissítése lapon győződjön meg arról, hogy az összes beállítás \> **&amp;** \>  \>  szürkén jelenik meg. 
+2. A Biztonsági **Gépház** és Windows beállítások frissítése lehetőséget, és győződjön meg arról, hogy az összes beállítás \> **&amp;** \>  \>  szürkén jelenik meg. 
     
-    ![A Windows speciális frissítésének beállításai szürkén jelennek meg.](../media/049cf281-d503-4be9-898b-c0a3286c7fc2.png)
+    ![Windows A speciális frissítések beállításai szürkén jelennek meg.](../media/049cf281-d503-4be9-898b-c0a3286c7fc2.png)
   
 3. Go to **Settings** \> **Update &amp; security** \> **Windows Update** \> **Advanced options** \> **Choose how updates are delivered**.
     
@@ -61,10 +61,10 @@ Miután [beállította az eszközházirendeket](protection-settings-for-windows-
   
 ## <a name="related-topics"></a>Kapcsolódó témakörök
 
-[A Microsoft 365 Vállalati verzió dokumentációja és forrásai](./index.yml)
+[Microsoft 365 vállalati verzió dokumentációja és forrásai](./index.yml)
   
-[A Microsoft 365 Vállalati verzió első lépések](microsoft-365-business-overview.md)
+[Első lépések a Microsoft 365 vállalati verzióban](microsoft-365-business-overview.md)
   
-[A Microsoft 365 Vállalati verzió kezelése](manage.md)
+[Vállalati Microsoft 365 kezelése](manage.md)
   
 [Eszközkonfigurációk megadása Windows 10-es PC-ken](protection-settings-for-windows-10-pcs.md)

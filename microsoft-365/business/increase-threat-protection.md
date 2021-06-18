@@ -22,12 +22,12 @@ search.appverid:
 - BCS160
 - MET150
 description: Állítsa be a Microsoft Defendert Office 365 és megóvja a bizalmas adatokat az adathalászattal, a kártevővel és az egyéb fenyegetésekkel szemben.
-ms.openlocfilehash: 4b5142efbf4392f017cd9b96f6a9c36ef2000bb7
-ms.sourcegitcommit: ff20f5b4e3268c7c98a84fb1cbe7db7151596b6d
+ms.openlocfilehash: a995063cef6fdc42ad62079d49d58edc9d07b52c
+ms.sourcegitcommit: be929f79751c0c52dfa6bd98a854432a0c63faf0
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52245144"
+ms.lasthandoff: 06/14/2021
+ms.locfileid: "52924319"
 ---
 # <a name="increase-threat-protection"></a>Veszélyforrások elleni védelem növelése
 
@@ -81,8 +81,8 @@ Levelezési átviteli szabály létrehozása:
 
 6. Válassza a **Mentés** elemet.
 
-|Beállítás|Figyelmeztetést ad a felhasználóknak a fájlmellékletek Office megnyitása előtt||
-|---|---|---|
+|Beállítás|Figyelmeztetést ad a felhasználóknak a fájlmellékletek Office megnyitása előtt|
+|---|---|
 |Name (Név)|Zsarolóvírusok elleni szabály: figyelmeztetést ad a felhasználóknak|
 |Akkor alkalmazza ezt a szabályt, ha: . . .|Bármely melléklet. . . fájlkiterjesztés egyezéseket ad meg. . .|
 |Szavak vagy kifejezések megadása|Adja meg az alábbi fájltípusokat:  <br/> dotm, docm, xlsm, sltm, xla, xlam, xll, pptm, potm, ppam, ppsm, sldm|
@@ -101,7 +101,7 @@ A felhasználók postaládájához hozzáféréssel hozzáférő támadók úgy 
 
 Levelezési átviteli szabály létrehozásához nézze meg ezt a [rövid](../business-video/stop-email-auto-forward.md) videót, vagy kövesse az alábbi lépéseket:
 
-1. A felügyeleti Microsoft 365 felügyeleti központjában válassza a Felügyeleti **központok** \> **Exchange.**
+1. A csoportban Microsoft 365 Felügyeleti központ felügyeleti **központok lehetőséget, majd** \> **Exchange.**
 
 2. Az **e-mail-forgalom kategóriában** válassza a **szabályok lehetőséget.**
 
@@ -205,7 +205,7 @@ Az alapértelmezett házirend módosítása:
 
 1. A Széf lap Házirendek, amelyek a teljes szervezetre vonatkoznak területén válassza az Alapértelmezett **házirend** lehetőséget.
 
-2. Az **Gépház tartalomra vonatkozó** beállítások között válassza az **iOS és az Android Nagyvállalati Microsoft 365-alkalmazások,** Office lehetőséget.
+2. Az **e Gépház kivételével** a tartalomra vonatkozó beállítások között válassza a Nagyvállalati Microsoft 365 appok, Office iOS és **Android rendszerhez lehetőséget.**
 
 3. Válassza a **Mentés** elemet.
 

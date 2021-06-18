@@ -25,16 +25,16 @@ search.appverid:
 - MET150
 ms.assetid: 6f2b80b4-81c3-4714-a7bc-ae69313e8a33
 description: Megtudhatja, hogy miként hozhat létre, szerkeszthet és törölhet appkezelési házirendeket, és hogyan védheti meg a munkahelyi fájlokat Android- vagy iOS-eszközökön.
-ms.openlocfilehash: 2e157737990c7aca6e87a676e90f62f0d40ad372
-ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
+ms.openlocfilehash: 92dce1e8761e53b85df85f2a84f30ab307f63e6d
+ms.sourcegitcommit: be929f79751c0c52dfa6bd98a854432a0c63faf0
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51580294"
+ms.lasthandoff: 06/14/2021
+ms.locfileid: "52925063"
 ---
 # <a name="set-app-protection-settings-for-android-or-ios-devices"></a>Appvédelmi beállítások megadása androidos vagy iOS-es eszközökhöz
 
-Ez a cikk a Microsoft 365 Vállalati prémium verzióra vonatkozik.
+Ez a cikk a Microsoft 365 Vállalati prémium verzió.
 
 ## <a name="create-an-app-management-policy"></a>Appkezelési házirend létrehozása
 
@@ -46,7 +46,7 @@ Ez a cikk a Microsoft 365 Vállalati prémium verzióra vonatkozik.
     
 4. A **Házirend típusa csoportban** válassza az **Alkalmazáskezelés Androidhoz** vagy **az Alkalmazáskezelés iOS** rendszerhez lehetőséget attól függően, hogy milyen házirendkészletet szeretne létrehozni. 
     
-5. **Bontsa ki a Munkahelyi fájlok védelme az eszközök elveszett** vagy ellopása esetén és az Office-fájlok felhasználói mobileszközökön való elérésének kezelése **ot.** Adja meg a beállításokat a megfelelő módon. **Az Office-fájlok felhasználói mobileszközökön** való elérésének kezelése alapértelmezés  szerint Ki van kapcsolva, de azt javasoljuk, hogy kapcsolja be, és fogadja el az alapértelmezett értékeket.  További információt a Rendelkezésre álló [beállítások lapon található.](#available-settings) 
+5. Bontsa ki a **Munkahelyi fájlok védelme az eszközök** elveszett vagy ellopása esetén és a Felhasználók mobileszközökön Office fájlokhoz való **hozzáférésének kezelése ot.** Adja meg a beállításokat a megfelelő módon. **A mobileszközökön Office** felhasználók hozzáférésének  beállítása Alapértelmezés szerint Ki, de  azt javasoljuk, hogy kapcsolja be, és fogadja el az alapértelmezett értékeket. További információt a Rendelkezésre álló [beállítások lapon található.](#available-settings) 
     
     Az **Alapértelmezett beállítások visszaállítása** hivatkozásra kattintva bármikor visszatérhet az alapértelmezett beállításokhoz. 
     
@@ -74,30 +74,30 @@ Ez a cikk a Microsoft 365 Vállalati prémium verzióra vonatkozik.
     
 ## <a name="available-settings"></a>Rendelkezésre álló beállítások
 
-Az alábbi táblázatok részletes információkat tartalmaznak az eszközök munkahelyi fájljainak védelmére vonatkozó beállításokról, valamint az Office-fájlok mobileszközről való elérésének szabályozására vonatkozó beállításokról.
+Az alábbi táblázatok részletes információkat tartalmaznak az eszközök munkahelyi fájljainak védelmére vonatkozó beállításokról, valamint arról, hogy a felhasználók hogyan férhetnek hozzá Office fájlokhoz mobileszközükről.
   
- További információ: [A Microsoft 365 Vállalati prémium](map-protection-features-to-intune-settings.md)verzió védelmi funkcióinak megfelelő Intune-beállítások. 
+ További információt a Hogyan használhatja a védelmi funkciókat az Microsoft 365 Vállalati prémium verzió [Intune-beállításoknak?](map-protection-features-to-intune-settings.md) 
   
 ### <a name="settings-that-protect-work-files"></a>Munkahelyi fájlok védelmére szolgáló beállítások
 
 Az alábbi beállításokkal védhetők meg a munkahelyi fájlok, ha az eszköz elveszett vagy ellopták:
-  
-|||
-|:-----|:-----|
+
+
 |Beállítás  <br/> |Leírás  <br/> |
+|:-----|:-----|
 |Munkahelyi fájlok törlése az inaktív eszközökről ennyi nap után  <br/> |Ha az itt megadott számú napig nem használ egy eszközt, az eszközön tárolt munkahelyi fájlok automatikusan törlődnek.  <br/> |
-|A felhasználók kényszerítése arra, hogy az összes munkahelyi fájljukat ide mentsék: OneDrive Vállalati verzió  <br/> |Ha ez a beállítás **Be,** a munkahelyi fájlok mentésének egyetlen helye a OneDrive Vállalati verzió.  <br/> |
+|A felhasználók kényszerítése arra, hogy az összes munkahelyi fájljukat ide mentsék: OneDrive Vállalati verzió  <br/> |Ha ez a beállítás **Be,** a munkahelyi fájlok mentésének egyedül a helye OneDrive vállalati verzió.  <br/> |
 |Munkahelyi fájlok titkosítása  <br/> |A munkahelyi fájlok titkosítással való védelméhez ezt a beállítást tartsa **Be** állapotban. A céges adatokat még akkor sem olvashatják el, ha az eszközt ellopják vagy ellopják.  <br/> |
    
 ### <a name="settings-that-control-how-users-access-office-files-on-mobile-devices"></a>Az Office-fájlok mobileszközökön történő elérésének felügyeletét meghatározó beállítások
 
 Az alábbi beállítások használhatók a munkahelyi Office-fájlok elérésének kezelésére:
-  
-|||
-|:-----|:-----|
+
+
 |Beállítás  <br/> |Leírás  <br/> |
-|PIN-kód vagy ujjlenyomat megkövetelése az Office-appok eléréséhez  <br/> |Ha ez a beállítás **Be,** a mobileszközön való használat előtt a felhasználóknak a felhasználónéven és a jelszón kívül más hitelesítési módszert is meg kell adniuk.<br/> |
+|:-----|:-----|
+|PIN-kód vagy ujjlenyomat megkövetelése az Office-appok eléréséhez  <br/> |Ha ez a beállítás **Be,** a felhasználóknak a felhasználónéven és a jelszavukon kívül más hitelesítési módszert is meg kell adniuk ahhoz, hogy a mobileszközökön Office használják a hitelesítő alkalmazásokat.<br/> |
 |PIN-kód visszaállítása ennyi sikertelen bejelentkezési kísérlet után  <br/> |Annak érdekében, hogy ne lehessen a PIN-kódot véletlenszerű próbálkozásokkal megfejteni, az Ön által megadott számú téves próbálkozás után a PIN-kód alaphelyzetbe áll.  <br/> |
 |A felhasználónak ismét be kell jelentkeznie az Office-appok ennyi ideig tartó üresjárata után  <br/> |Ez a beállítás azt határozza meg, hogy a felhasználó mennyi ideig inaktív, mielőtt a rendszer ismét arra kéri, hogy jelentkezzen be.  <br/> |
 |Hozzáférés letiltása a munkahelyi fájlokhoz a feltört vagy rootolással feltört eszközökön  <br/> |A hozzáértő felhasználók esetleg feltört vagy rootolással feltört eszközzel is rendelkezhetnek. Ez azt jelenti, hogy a felhasználó módosíthatja az operációs rendszert, ami viszont kártevők által sebezhetőbbé teheti az eszközt. Ha ez a beállítás **Be** állapotban van, az ilyen eszközök le lesznek tiltva.  <br/> |
-|Nem engedélyezem a felhasználóknak, hogy tartalmakat másoljanak az Office-alkalmazásokból a személyes appokba  <br/> |Ez alapértelmezés szerint engedélyezett, de ha a beállítás Be van kapcsolva, a felhasználó átmásolhatja egy munkahelyi fájl adatait egy személyes fájlba. Ha a beállítás **Ki** van kapcsolva, a felhasználó nem tud adatokat másolni egy munkahelyi fiókból egy személyes appba vagy személyes fiókba.  <br/> |
+|Nem engedélyezem a felhasználóknak, hogy tartalmakat másoljanak Office-alkalmazásokból a személyes alkalmazásokba  <br/> |Ez alapértelmezés szerint engedélyezett, de ha a beállítás Be van kapcsolva, a felhasználó átmásolhatja egy munkahelyi fájl adatait egy személyes fájlba. Ha a beállítás **Ki** van kapcsolva, a felhasználó nem tud adatokat másolni egy munkahelyi fiókból egy személyes appba vagy személyes fiókba.  <br/> |

@@ -26,31 +26,30 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: aa31319c-9196-48c9-a90b-4057e0494c7a
-description: Ismerje meg a védelmi házirendeket, amelyek lehetővé teszik annak kezelését, hogy a felhasználók hogyan férnek hozzá az Office-alkalmazásokhoz és a munkahelyi fájlokhoz mobileszközről.
-ms.openlocfilehash: a48aa241c9e70cf087da3f1701e859dae7238024
-ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
+description: Ismerje meg a védelmi házirendeket, amelyek lehetővé teszik annak kezelését, hogy a felhasználók hogyan férnek hozzá Office alkalmazásokhoz és munkahelyi fájlokhoz mobileszközről.
+ms.openlocfilehash: 7602b712f2dfc3ba369fd76979baaaa8d5da5c5c
+ms.sourcegitcommit: be929f79751c0c52dfa6bd98a854432a0c63faf0
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51578387"
+ms.lasthandoff: 06/14/2021
+ms.locfileid: "52925279"
 ---
 # <a name="manage-how-users-access-office-documents-on-mobile-devices"></a>Office-dokumentumok felhasználói mobileszközökön történő elérésének felügyelete
 
-Ez a cikk a Microsoft 365 Vállalati prémium verzióra vonatkozik.
+Ez a cikk a Microsoft 365 Vállalati prémium verzió.
 
-Az Office-dokumentumok felhasználói mobileszközökön történő elérésének felügyeletét végző házirendek alapértelmezés szerint **Ki** értékre van állítva. Azt javasoljuk, hogy a telepítés során fogadja el az alapértelmezett értékeket az összes felhasználóra vonatkozó alkalmazás-házirendek létrehozásához Android, iOS és Windows 10 rendszeren. A telepítés után további házirendeket is létrehozhat majd. 
+Az Office-dokumentumok felhasználói mobileszközökön történő elérésének felügyeletét végző házirendek alapértelmezés szerint **Ki** értékre van állítva. Azt javasoljuk, hogy a telepítés során fogadja el az alapértelmezett értékeket az összes felhasználóra vonatkozó alkalmazás-házirendek létrehozásához androidos, iOS- Windows 10- és Windows 10 házirendek létrehozásához. A telepítés után további házirendeket is létrehozhat majd. 
   
 ## <a name="settings-that-control-how-users-access-office-files-on-mobile-devices"></a>Az Office-fájlok mobileszközökön történő elérésének felügyeletét meghatározó beállítások
 
 Az alábbi beállítások használhatók a munkahelyi Office-fájlok elérésének kezelésére:
-  
-|||
-|:-----|:-----|
+
 |Beállítás  <br/> |Leírás  <br/> |
-|PIN-kód vagy ujjlenyomat megkövetelése az Office-appok eléréséhez  <br/> |Ha ez a beállítás **Be,** a felhasználóknak a felhasználónéven és a jelszón kívül más hitelesítési módszert is meg kell adniuk, mielőtt a mobileszközükön használhatják az Office-appokat.  <br/> |
+|:-----|:-----|
+|PIN-kód vagy ujjlenyomat megkövetelése az Office-appok eléréséhez  <br/> |Ha ez a beállítás **Be,** a felhasználóknak a felhasználónéven és a jelszavukon kívül más hitelesítési módszert is meg kell adniuk, mielőtt Office a mobileszközükön.  <br/> |
 |PIN-kód visszaállítása ennyi sikertelen bejelentkezési kísérlet után  <br/> |Annak érdekében, hogy ne lehessen a PIN-kódot véletlenszerű próbálkozásokkal megfejteni, az Ön által megadott számú téves próbálkozás után a PIN-kód alaphelyzetbe áll.  <br/> |
 |A felhasználónak ismét be kell jelentkeznie az Office-appok ennyi ideig tartó üresjárata után  <br/> |Ez a beállítás azt határozza meg, hogy a felhasználó mennyi ideig inaktív, mielőtt a rendszer ismét arra kéri, hogy jelentkezzen be.  <br/> |
 |Hozzáférés letiltása a munkahelyi fájlokhoz a feltört vagy rootolással feltört eszközökön  <br/> |A hozzáértő felhasználók esetleg feltört vagy rootolással feltört eszközzel is rendelkezhetnek. Ez azt jelenti, hogy a felhasználó módosíthatja az operációs rendszert, így az eszköz érzékenyebb lehet a kártevőkre. Ha ez a beállítás **Be** állapotban van, az ilyen eszközök le lesznek tiltva.  <br/> |
-|Nem engedélyezem a felhasználóknak, hogy tartalmakat másoljanak az Office-alkalmazásokból a személyes appokba  <br/> |Ha a beállítás **Be,** a felhasználó nem másolhat adatokat munkahelyi fájlból személyes fájlba. Ha a beállítás **Ki,** a felhasználó másolhat adatokat egy munkahelyi fájlból egy személyes appba vagy személyes fiókba.  <br/> |
+|Nem engedélyezem a felhasználóknak, hogy tartalmakat másoljanak Office-alkalmazásokból a személyes alkalmazásokba  <br/> |Ha a beállítás **Be,** a felhasználó nem másolhat adatokat munkahelyi fájlból személyes fájlba. Ha a beállítás **Ki,** a felhasználó másolhat adatokat egy munkahelyi fájlból egy személyes appba vagy személyes fiókba.  <br/> |
    
 
