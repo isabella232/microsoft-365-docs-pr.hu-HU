@@ -30,12 +30,12 @@ search.appverid:
 - MET150
 ms.assetid: 6e7a2dfd-8ec4-4eb7-8390-3ee103e5fece
 description: Megismerheti a fiókkal kapcsolatos Microsoft 365 Vállalati prémium verzió, például tartomány és felhasználók felvételét, biztonsági házirendek beállítását és sok minden más.
-ms.openlocfilehash: 3e15f16db2a233d2e11d444600398102b075932d
-ms.sourcegitcommit: 686f192e1a650ec805fe8e908b46ca51771ed41f
+ms.openlocfilehash: 74a98e915577cf86ec32a706bd3b8f558f49db95
+ms.sourcegitcommit: 48195345b21b409b175d68acdc25d9f2fc4fc5f1
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 05/24/2021
-ms.locfileid: "52624389"
+ms.lasthandoff: 06/30/2021
+ms.locfileid: "53227639"
 ---
 # <a name="set-up-microsoft-365-business-premium-in-the-setup-wizard"></a>A Microsoft 365 Vállalati prémium verzió beállítása a beállítási varázslóban
 
@@ -53,7 +53,7 @@ A (Microsoft 365 Vállalati prémium verzió vásárlásakor lehetősége van sa
 
 ### <a name="add-your-domain-to-personalize-sign-in"></a>Tartomány hozzáadása a bejelentkezés személyre szabása
 
-1. Jelentkezzen be [Microsoft 365 felügyeleti központba](https://admin.microsoft.com) globális rendszergazdai hitelesítő adataival. 
+1. Jelentkezzen be a [Microsoft 365 Felügyeleti központ](https://admin.microsoft.com) globális rendszergazdai hitelesítő adataival. 
 
 2. A **varázslót az Ugrás** a beállításra gombra állítva indítsa el.
 
@@ -69,7 +69,7 @@ A (Microsoft 365 Vállalati prémium verzió vásárlásakor lehetősége van sa
     ![Képernyőkép a Bejelentkezési lap személyre szabása lapról.](../media/adddomain.png)
 
     
-4. A varázsló lépéseit követve hozza létre a DNS-rekordokat bármely [DNS-szolgáltatónál](/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) annak Microsoft 365, hogy Öné a tartomány. Ha ismeri a tartományát, olvassa el a [szolgáltatóra vonatkozó utasításokat is.](/office365/admin/get-help-with-domains/set-up-your-domain-host-specific-instructions)
+4. A varázsló lépéseit követve hozza létre a DNS-rekordokat bármely [DNS-szolgáltatónál](/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) annak Microsoft 365, hogy Öné a tartomány. Ha ismeri a tartományát, a Tartomány hozzáadása a tartományhoz [a](/microsoft-365/admin/setup/add-domain)Microsoft 365.
 
     Ha az Ön tárhelyszolgáltatója a GoDaddy vagy más szolgáltató, amely támogatja a tartomány [csatlakoztatását,](/office365/admin/get-help-with-domains/domain-connect)a folyamat egyszerű, és a rendszer automatikusan kérni fogja, hogy jelentkezzen be, és a Microsoft hitelesítse magát az Ön nevében.
 
