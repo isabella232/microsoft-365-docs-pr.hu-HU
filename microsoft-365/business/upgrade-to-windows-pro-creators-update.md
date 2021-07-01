@@ -26,42 +26,41 @@ search.appverid:
 - MOE150
 ms.assetid: ffc4d886-9e1d-453d-a0d0-2f62f18635e2
 description: Fedezze fel, hogy milyen módokon frissítheti Windows eszközét, Windows 10 Pro fejlettebb biztonsági és üzleti hálózati funkciókat kihasználhatja.
-ms.openlocfilehash: 14a1705a333b2fd4d4dda37ed5170b34acb13abe
-ms.sourcegitcommit: a05f61a291eb4595fa9313757a3815b7f217681d
+ms.openlocfilehash: 39a7224ea585f8e1fb5052cb6fbb62329bd15656
+ms.sourcegitcommit: 48195345b21b409b175d68acdc25d9f2fc4fc5f1
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 05/29/2021
-ms.locfileid: "52705554"
+ms.lasthandoff: 06/30/2021
+ms.locfileid: "53227515"
 ---
-# <a name="upgrade-windows-devices-to-windows-10-pro"></a><span data-ttu-id="5dbe8-103">Az Windows frissítése Windows 10 Pro</span><span class="sxs-lookup"><span data-stu-id="5dbe8-103">Upgrade Windows devices to Windows 10 Pro</span></span>
+# <a name="upgrade-windows-devices-to-windows-10-pro"></a><span data-ttu-id="2c44f-103">Az Windows frissítése Windows 10 Pro</span><span class="sxs-lookup"><span data-stu-id="2c44f-103">Upgrade Windows devices to Windows 10 Pro</span></span>
 
-## <a name="watch-upgrade-windows-10-home-to-windows-10-pro"></a><span data-ttu-id="5dbe8-104">Watch: Upgrade Windows 10 Home to Windows 10 Pro</span><span class="sxs-lookup"><span data-stu-id="5dbe8-104">Watch: Upgrade Windows 10 Home to Windows 10 Pro</span></span>
+## <a name="watch-upgrade-windows-10-home-to-windows-10-pro"></a><span data-ttu-id="2c44f-104">Watch: Upgrade Windows 10 Home to Windows 10 Pro</span><span class="sxs-lookup"><span data-stu-id="2c44f-104">Watch: Upgrade Windows 10 Home to Windows 10 Pro</span></span>
 
-> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE3t58j] 
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE3t58j]
 
-<span data-ttu-id="5dbe8-105">Ha hasznosnak találta ezt a videót, tekintse meg a [teljes tanfolyamok kisvállalatoknak és Microsoft 365-újoncoknak](../business-video/index.yml) című cikket.</span><span class="sxs-lookup"><span data-stu-id="5dbe8-105">If you found this video helpful, check out the [complete training series for small businesses and those new to Microsoft 365](../business-video/index.yml).</span></span>
+<span data-ttu-id="2c44f-105">Ha hasznosnak találta ezt a videót, tekintse meg a [teljes tanfolyamok kisvállalatoknak és Microsoft 365-újoncoknak](../business-video/index.yml) című cikket.</span><span class="sxs-lookup"><span data-stu-id="2c44f-105">If you found this video helpful, check out the [complete training series for small businesses and those new to Microsoft 365](../business-video/index.yml).</span></span>
 
-## <a name="upgrade-to-windows-10-pro"></a><span data-ttu-id="5dbe8-106">Frissítés Windows 10 Pro</span><span class="sxs-lookup"><span data-stu-id="5dbe8-106">Upgrade to Windows 10 Pro</span></span>
-  
-<span data-ttu-id="5dbe8-107">A Windows 10 Pro több lehetőség közül választhat.</span><span class="sxs-lookup"><span data-stu-id="5dbe8-107">To upgrade to Windows 10 Pro, you have several options.</span></span> <span data-ttu-id="5dbe8-108">képes vagy:</span><span class="sxs-lookup"><span data-stu-id="5dbe8-108">You can:</span></span>
-    
-- <span data-ttu-id="5dbe8-109">A frissítés telepítése [a Microsoft](https://go.microsoft.com/fwlink/?LinkID=836951 ) szoftverletöltési webhelyéről: Akkor válassza ezt a lehetőséget, ha a bejelentkezett eszköz ugyanazon az eszközön található, mint a frissíteni kívánt &ndash; eszköz.</span><span class="sxs-lookup"><span data-stu-id="5dbe8-109">Install the upgrade from the [Microsoft Software Download site](https://go.microsoft.com/fwlink/?LinkID=836951 ) &ndash; Select this option if the device that you're logged in is on the same device as the one you want to update.</span></span> 
+## <a name="upgrade-to-windows-10-pro"></a><span data-ttu-id="2c44f-106">Frissítés Windows 10 Pro</span><span class="sxs-lookup"><span data-stu-id="2c44f-106">Upgrade to Windows 10 Pro</span></span>
 
-    - <span data-ttu-id="5dbe8-110">A szoftverletöltési  webhelyen kattintson a Frissítés elemre az eszköz alkotói frissítésre Windows 10 Pro frissítésének elkezdéséhez.</span><span class="sxs-lookup"><span data-stu-id="5dbe8-110">From the software download site, click **Update now** to start upgrading the device to Windows 10 Pro Creators Update.</span></span> 
-    
-- <span data-ttu-id="5dbe8-111">Telepítési adathordozó létrehozása [](https://go.microsoft.com/fwlink/?LinkID=836960) a Médiakészítő eszközzel: Akkor válassza ezt a lehetőséget, ha létre kell hoznia egy Windows 10 Pro Creators Update telepítő adathordozót (USB flash meghajtót vagy ISO-fájlt) az Windows 10 telepítéséhez a használttól eltérő &ndash; PC-re.</span><span class="sxs-lookup"><span data-stu-id="5dbe8-111">Create an installation media using the [Media Creation Tool](https://go.microsoft.com/fwlink/?LinkID=836960) &ndash; Select this option to create a Windows 10 Pro Creators Update installation media (USB flash drive or ISO file) to install Windows 10 on a PC that's different from the one you're using.</span></span>
+<span data-ttu-id="2c44f-107">A Windows 10 Pro több lehetőség közül választhat.</span><span class="sxs-lookup"><span data-stu-id="2c44f-107">To upgrade to Windows 10 Pro, you have several options.</span></span> <span data-ttu-id="2c44f-108">képes vagy:</span><span class="sxs-lookup"><span data-stu-id="2c44f-108">You can:</span></span>
 
-    - <span data-ttu-id="5dbe8-112">Olvassa el az eszköz használatát és a telepítési adathordozó létrehozásához szükséges utasításokat.</span><span class="sxs-lookup"><span data-stu-id="5dbe8-112">Read the instructions on how to use the tool and create your installation media.</span></span> 
+- <span data-ttu-id="2c44f-109">Telepítse a frissítést a [Microsoft szoftverletöltési webhelyről.](https://go.microsoft.com/fwlink/?LinkID=836951)</span><span class="sxs-lookup"><span data-stu-id="2c44f-109">Install the upgrade from the [Microsoft Software Download site](https://go.microsoft.com/fwlink/?LinkID=836951).</span></span>
+  - <span data-ttu-id="2c44f-110">Akkor válassza ezt a lehetőséget, ha a frissíteni kívánt eszközön található ugyanazon az eszközön, amelybe be van jelentkezve.</span><span class="sxs-lookup"><span data-stu-id="2c44f-110">Select this option if the device that you're logged in is on the same device as the one you want to update.</span></span>
+  - <span data-ttu-id="2c44f-111">A szoftverletöltési  webhelyen kattintson a Frissítés elemre az eszköz alkotói frissítésre Windows 10 Pro frissítésének elkezdéséhez.</span><span class="sxs-lookup"><span data-stu-id="2c44f-111">From the software download site, click **Update now** to start upgrading the device to Windows 10 Pro Creators Update.</span></span>
+
+- <span data-ttu-id="2c44f-112">Telepítési adathordozó létrehozása [](https://go.microsoft.com/fwlink/?LinkID=836960) a Médiakészítő eszközzel: Akkor válassza ezt a lehetőséget, ha létre kell hoznia egy Windows 10 Pro Creators Update telepítő adathordozót (USB flash meghajtót vagy ISO-fájlt) az Windows 10 telepítéséhez a használttól eltérő &ndash; PC-re.</span><span class="sxs-lookup"><span data-stu-id="2c44f-112">Create an installation media using the [Media Creation Tool](https://go.microsoft.com/fwlink/?LinkID=836960) &ndash; Select this option to create a Windows 10 Pro Creators Update installation media (USB flash drive or ISO file) to install Windows 10 on a PC that's different from the one you're using.</span></span>
+  - <span data-ttu-id="2c44f-113">Olvassa el az eszköz használatát és a telepítési adathordozó létrehozásához szükséges utasításokat.</span><span class="sxs-lookup"><span data-stu-id="2c44f-113">Read the instructions on how to use the tool and create your installation media.</span></span>
 
 > [!NOTE]
-> <span data-ttu-id="5dbe8-113">Ha 7 Windows Pro, Windows 8 Pro vagy Windows 8.1 Pro-t futtató Windows-es eszközével rendelkezik, a Microsoft 365 Vállalati verziós előfizetés feljogosítja a Windows Pro 10-es verzióra való frissítésre.</span><span class="sxs-lookup"><span data-stu-id="5dbe8-113">If you have Windows devices running Windows 7 Pro, Windows 8 Pro, or Windows 8.1 Pro, your Microsoft 365 for business subscription entitles you to a Windows Pro 10 upgrade.</span></span>
-    
-## <a name="next-steps"></a><span data-ttu-id="5dbe8-114">Következő lépések</span><span class="sxs-lookup"><span data-stu-id="5dbe8-114">Next steps</span></span>
+> <span data-ttu-id="2c44f-114">Ha 7 Windows Pro, Windows 8 Pro vagy Windows 8.1 Pro-t futtató Windows-es eszközével rendelkezik, a Microsoft 365 Vállalati verziós előfizetés feljogosítja a Windows Pro 10-es verzióra való frissítésre.</span><span class="sxs-lookup"><span data-stu-id="2c44f-114">If you have Windows devices running Windows 7 Pro, Windows 8 Pro, or Windows 8.1 Pro, your Microsoft 365 for business subscription entitles you to a Windows Pro 10 upgrade.</span></span>
 
-<span data-ttu-id="5dbe8-115">A mobileszközök beállításának Windows 10 A vállalati Windows beállítása a Microsoft 365 felhasználóknak Microsoft 365 [be.](set-up-windows-devices.md)</span><span class="sxs-lookup"><span data-stu-id="5dbe8-115">To complete setting up Windows 10 devices, see [Set up Windows devices for Microsoft 365 for business users](set-up-windows-devices.md).</span></span> 
-  
-<span data-ttu-id="5dbe8-116">Az Android- és iOS-eszközök beállításának befejezéséhez lásd: Mobileszközök beállítása [vállalati Microsoft 365 felhasználóknak.](set-up-mobile-devices.md)</span><span class="sxs-lookup"><span data-stu-id="5dbe8-116">To complete setting up Android and iOS devices, see [Set up mobile devices for Microsoft 365 for business users](set-up-mobile-devices.md).</span></span> 
-  
-## <a name="related-content"></a><span data-ttu-id="5dbe8-117">Kapcsolódó tartalom</span><span class="sxs-lookup"><span data-stu-id="5dbe8-117">Related content</span></span>
+## <a name="next-steps"></a><span data-ttu-id="2c44f-115">Következő lépések</span><span class="sxs-lookup"><span data-stu-id="2c44f-115">Next steps</span></span>
 
-<span data-ttu-id="5dbe8-118">[Microsoft 365 vállalati verziós oktatóvideók](../business-video/index.yml) (hivatkozáslap)</span><span class="sxs-lookup"><span data-stu-id="5dbe8-118">[Microsoft 365 for business training videos](../business-video/index.yml) (link page)</span></span>
+<span data-ttu-id="2c44f-116">A mobileszközök beállításának Windows 10 A vállalati Windows beállítása a Microsoft 365 felhasználóknak Microsoft 365 [be.](set-up-windows-devices.md)</span><span class="sxs-lookup"><span data-stu-id="2c44f-116">To complete setting up Windows 10 devices, see [Set up Windows devices for Microsoft 365 for business users](set-up-windows-devices.md).</span></span>
+
+<span data-ttu-id="2c44f-117">Az Android- és iOS-eszközök beállításának befejezéséhez lásd: Mobileszközök beállítása [vállalati Microsoft 365 felhasználóknak.](set-up-mobile-devices.md)</span><span class="sxs-lookup"><span data-stu-id="2c44f-117">To complete setting up Android and iOS devices, see [Set up mobile devices for Microsoft 365 for business users](set-up-mobile-devices.md).</span></span>
+
+## <a name="related-content"></a><span data-ttu-id="2c44f-118">Kapcsolódó tartalom</span><span class="sxs-lookup"><span data-stu-id="2c44f-118">Related content</span></span>
+
+<span data-ttu-id="2c44f-119">[Microsoft 365 vállalati verziós oktatóvideók](../business-video/index.yml) (hivatkozáslap)</span><span class="sxs-lookup"><span data-stu-id="2c44f-119">[Microsoft 365 for business training videos](../business-video/index.yml) (link page)</span></span>
