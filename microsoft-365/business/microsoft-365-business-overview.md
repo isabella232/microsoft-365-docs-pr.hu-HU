@@ -29,12 +29,12 @@ search.appverid:
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
 description: További információ a Microsoft 365 Vállalati prémium verzióról, az Office-appokat és a kiberveszélyforrásokkal szembeni speciális védelmet tartalmazó előfizetési szolgáltatásról.
-ms.openlocfilehash: e4a182c5dd5444392486dd137e70361e880534bd
-ms.sourcegitcommit: a05f61a291eb4595fa9313757a3815b7f217681d
+ms.openlocfilehash: b7b71032ffc19c582f9658b93dae7dd9f89e02eb
+ms.sourcegitcommit: 4886457c0d4248407bddec56425dba50bb60d9c4
 ms.translationtype: HT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 05/29/2021
-ms.locfileid: "52705522"
+ms.lasthandoff: 07/03/2021
+ms.locfileid: "53287627"
 ---
 # <a name="overview-of-microsoft-365-business-premium"></a>A Microsoft 365 Vállalati prémium verzió áttekintése
 
@@ -44,14 +44,14 @@ A Microsoft 365 Vállalati prémium verzió (korábban Microsoft 365 Vállalati 
 
 ## <a name="watch-what-is-microsoft-365-business-premium"></a>Tekintse meg: Mi a Microsoft 365 Vállalati prémium verzió?
 
-> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2mhaA] 
-  
-Ha hasznosnak találta ezt a videót, tekintse meg a [teljes tanfolyamok kisvállalatoknak és Microsoft 365-újoncoknak](../business-video/index.yml) című cikket. 
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2mhaA]
+
+Ha hasznosnak találta ezt a videót, tekintse meg a [teljes tanfolyamok kisvállalatoknak és Microsoft 365-újoncoknak](../business-video/index.yml) című cikket.
 
 A Microsoft 365 Vállalati prémium verzió legfeljebb 300 licenccel való használatra készült. Ha ennél több licencre van szüksége, további információért olvassa el a [Microsoft 365 Nagyvállalati verzió](../enterprise/index.yml) dokumentációját.
 
 A funkciók teljes listáját a [Microsoft 365 Vállalati prémium verzió szolgáltatás leírásában](/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-business-service-description) találja.
-  
+
 ## <a name="small-business-security-needs"></a>Kisvállalati biztonsági igények
 
 Céges adatait többféle támadás is érheti. Ön és felhasználói megsérthetik szervezete biztonságát, ha feltört hitelesítő adatokkal jelentkeznek be, vagy különböző eszközöket és alkalmazásokat használva tekintik meg a szervezeti adatokat. Konkrétabban, szervezete számára veszélyt jelentenek az alábbiak:
@@ -73,17 +73,17 @@ A Microsoft 365 Vállalati prémium verzió az alábbiakkal segíti **a fenyeget
 
 - Valós időben megvizsgálja az e-mailekben és dokumentumokban levő hivatkozásokat a nem biztonságos webhelyek letiltása érdekében (Biztonságos hivatkozások).
 
-- Speciális elemzést végez az e-mailek mellékletein egy tesztkörnyezetben az újonnan kifejlesztett kártevők észlelése érdekében (Biztonságos mellékletek). 
+- Speciális elemzést végez az e-mailek mellékletein egy tesztkörnyezetben az újonnan kifejlesztett kártevők észlelése érdekében (Biztonságos mellékletek).
 
-- Gépi tanulási modelleket és a megszemélyesítés észlelésére szolgáló módszereket használó, adathalászat elleni védelmi házirendeket alkalmaz a kifinomult támadások elleni védelem biztosításához (az Office 365-höz készült Defender adathalászatot megakadályozó intelligenciája). 
+- Gépi tanulási modelleket és a megszemélyesítés észlelésére szolgáló módszereket használó, adathalászat elleni védelmi házirendeket alkalmaz a kifinomult támadások elleni védelem biztosításához (az Office 365-höz készült Defender adathalászatot megakadályozó intelligenciája).
 
-- Speciális házirendek beállítása, amelyek letiltják a hozzáférést a nem megbízható helyekről vagy a többtényezős hitelesítés megkerülését a megbízható helyekről, például a munkahelyi hálózatról (Azure MFA, beleértve a megbízható IP-címeket és a feltételes hozzáférést). 
+- Speciális házirendek beállítása, amelyek letiltják a hozzáférést a nem megbízható helyekről vagy a többtényezős hitelesítés megkerülését a megbízható helyekről, például a munkahelyi hálózatról (Azure MFA, beleértve a megbízható IP-címeket és a feltételes hozzáférést).
 
 - Kártevők elleni védelem kényszerítése a szervezet minden Windows 10-es eszközén és a fájlok védelme a legfontosabb rendszermappákban a zsarolóprogramok által végzett módosításoktól (Windows Defender)
 
 **Üzleti adatai védelméről** az alábbiakkal gondoskodunk:
 
-- Automatikus észlelés használata a bizalmas adatok, például a társadalombiztosítási számok vagy hitelkártyák kiszivárgásának megakadályozásához (adatveszteség-megelőzés). 
+- Automatikus észlelés használata a bizalmas adatok, például a társadalombiztosítási számok vagy hitelkártyák kiszivárgásának megakadályozásához (adatveszteség-megelőzés).
 
 - A bizalmas e-mailek titkosítása az ügyfelekkel és a szervezetén kívüli személyekkel folytatott biztonságos kommunikációhoz. Ez biztosítja, hogy csak a címzettek olvashassák el az üzenetet (Office 365 Üzenettitkosítás).
 

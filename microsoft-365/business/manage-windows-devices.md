@@ -24,16 +24,16 @@ search.appverid:
 - BCS160
 - MET150
 description: Ebből a cikkből megtudhatja, Microsoft 365 pár lépésben hogyan védheti a helyi Active Directoryhoz Windows 10 a helyi Active Directoryhoz Windows 10 eszközét.
-ms.openlocfilehash: ec80159bdceffd8a13d09a297a2acc1b78c9b1b3
-ms.sourcegitcommit: 17f0aada83627d9defa0acf4db03a2d58e46842f
+ms.openlocfilehash: eb95c437030ae13a44f5e8043b3544d5846001c2
+ms.sourcegitcommit: 4886457c0d4248407bddec56425dba50bb60d9c4
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 05/24/2021
-ms.locfileid: "52636086"
+ms.lasthandoff: 07/03/2021
+ms.locfileid: "53287695"
 ---
 # <a name="enable-domain-joined-windows-10-devices-to-be-managed-by-microsoft-365-business-premium"></a>A tartományhoz Windows 10 eszközöknek a felhasználók által Microsoft 365 Vállalati prémium verzió
 
-Ha szervezete helyszíni Windows Server Active Directoryt használ, beállíthatja a Microsoft 365 Vállalati prémium verzió-t az Windows 10-eszközök védelmére, miközben továbbra is hozzáfér a helyi hitelesítést igénylő helyszíni erőforrásokhoz.
+Ha szervezete helyszíni Windows Server Active Directory használ, beállíthatja a Microsoft 365 Vállalati prémium verzió-t az Windows 10-eszközök védelmére, miközben továbbra is hozzáfér a helyi hitelesítést igénylő helyszíni erőforrásokhoz.
 A védelem beállításához hibrid Azure AD-hez csatlakozású eszközöket **kell implementálja.** Ezek az eszközök a helyszíni Active Directoryhoz és a számítógépéhez Azure Active Directory.
 
 ## <a name="watch-configure-hybrid-azure-active-directory-join"></a>Watch: Configure Hybrid Azure Active Directory join
@@ -109,13 +109,13 @@ Az első parancs kapcsolatot létesít a Microsoft-felhővel, és amikor a rends
 
 Ha nem látja az Automatikus **MDM-regisztráció** engedélyezése alapértelmezett Azure AD-beli hitelesítő adatokkal házirendet, annak az lehet az oka, hogy nincs telepítve az ADMX az Windows 10 1803-as vagy újabb verziójához. A probléma megoldásához kövesse az alábbi lépéseket (megjegyzés: A legújabb MDM.admx visszamenőlegesen kompatibilis:
 
-1.  Letöltés: [Rendszergazdai sablonok (.admx) Windows 10 2020. októberi frissítéshez (20H2).](https://www.microsoft.com/download/102157)
-2.  Telepítse a csomagot egy tartományvezérlőn.
-3.  A felügyeleti sablonok verziójától függően a következő mappába navigálhat: **C:\Program Files (x86)\Microsoft Group Policy\Windows 10 2020. októberi frissítés (20H2)**.
-4.  Nevezze át **a Policy Definitions mappát** a fenti útvonalon a **PolicyDefinitions névre.**
-5.  Másolja **a PolicyDefinitions** mappát a SYSVOL megosztásba, amely alapértelmezés szerint a **C:\Windows\SYSVOL\tartomány\Policies** helyen található. 
-    -   Ha a teljes tartományhoz egy központi házirendtárat szeretne használni, adja hozzá a HázirendDefinitions mező tartalmát.
-6.  Ha több tartományvezérlője van, várja meg, amíg a SYSVOL replikálja a házirendeket. Ez az eljárás a felügyeleti sablonok későbbi verzióival is működni fog.
+1. Letöltés: [Rendszergazdai sablonok (.admx) Windows 10 2020. októberi frissítéshez (20H2).](https://www.microsoft.com/download/102157)
+2. Telepítse a csomagot egy tartományvezérlőn.
+3. A felügyeleti sablonok verziójától függően a következő mappába navigálhat: **C:\Program Files (x86)\Microsoft Group Policy\Windows 10 2020. októberi frissítés (20H2)**.
+4. Nevezze át **a Policy Definitions mappát** a fenti útvonalon a **PolicyDefinitions névre.**
+5. Másolja **a PolicyDefinitions** mappát a SYSVOL megosztásba, amely alapértelmezés szerint a **C:\Windows\SYSVOL\tartomány\Policies** helyen található.
+   - Ha a teljes tartományhoz egy központi házirendtárat szeretne használni, adja hozzá a HázirendDefinitions mező tartalmát.
+6. Ha több tartományvezérlője van, várja meg, amíg a SYSVOL replikálja a házirendeket. Ez az eljárás a felügyeleti sablonok későbbi verzióival is működni fog.
 
 Ezen a ponton látnia kell az Automatikus **MDM-regisztráció** engedélyezése az alapértelmezett Azure AD-beli hitelesítő adatokkal elérhető házirendet.
 
