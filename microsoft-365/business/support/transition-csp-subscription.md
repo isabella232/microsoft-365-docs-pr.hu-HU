@@ -15,12 +15,12 @@ localization_priority: Normal
 audience: microsoft-business
 keywords: Microsoft 365 Vállalati, Microsoft 365, SMB, áttérés a csp-előfizetésre
 ms.date: 11/01/2017
-ms.openlocfilehash: 3f6c71edb50cc3c5509e61a83efb64185c10648d
-ms.sourcegitcommit: be929f79751c0c52dfa6bd98a854432a0c63faf0
+ms.openlocfilehash: 47b65b2de9db0fd27e29272937bab2041eb67300
+ms.sourcegitcommit: 7dc3b4dec05299abb4290a6e3d1ebe0fdc622ed7
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 06/14/2021
-ms.locfileid: "52925003"
+ms.lasthandoff: 07/10/2021
+ms.locfileid: "53363819"
 ---
 # <a name="transition-a-microsoft-365-business-csp-subscription"></a>Áttérés vállalati Microsoft 365-előfizetésre
 
@@ -73,7 +73,7 @@ Az alábbi táblázat összefoglalja, hogy milyen hatása van az olyan ügyfelei
 |-------|-----------------|--------------|---------------|---------------|
 | **State (Állam)** | Türelmi időszakban | Lejárt      | Letiltva      | Leépítve |
 | **A szolgáltatás hatásai**                                                        |
-| **Microsoft 365 Üzleti felügyeleti portál** | Nincs hatással a működésre | Nincs hatással a működésre | Felvehet vagy törölhet felhasználókat, előfizetéseket vásárolhat.</br> Nem rendelhet hozzá és nem vonhat vissza licenceket. | Az ügyfél előfizetése és minden adata törlődik. A rendszergazda más fizetős előfizetéseket is kezelhet. |
+| **Microsoft 365 Felügyeleti központ** | Nincs hatással a működésre | Nincs hatással a működésre | Felvehet vagy törölhet felhasználókat, előfizetéseket vásárolhat.</br> Nem rendelhet hozzá és nem vonhat vissza licenceket. | Az ügyfél előfizetése és minden adata törlődik. A rendszergazda más fizetős előfizetéseket is kezelhet. |
 | **Office alkalmazások**                         | Nincs hatással a végfelhasználókra | Nincs hatással a végfelhasználókra | Office csökkentett szolgáltatáskészletű üzemmódba lép.</br> A felhasználók csak megtekinthetik a fájlokat. | Office csökkentett szolgáltatáskészletű üzemmódba lép.</br> A felhasználók csak megtekinthetik a fájlokat. |
 | **Felhőszolgáltatások (SharePoint Online, Exchange Online, Skype, Teams és sok más)** | Nincs hatással a végfelhasználókra | Nincs hatással a végfelhasználókra | A végfelhasználók és a rendszergazdák nem férnek hozzá a felhőbeli adatokhoz. | Az ügyfél előfizetése és minden adata törlődik. |
 | **EM+S-összetevők** | Nincs hatása a rendszergazdáknak</br> Nincs hatással a végfelhasználókra | Nincs hatása a rendszergazdáknak</br> Nincs hatással a végfelhasználókra | A képesség már nincs kényszerítve.</br> További információért lásd: A mobileszköz milyen hatással van az előfizetés [lejártakor,](#mobile-device-impacts-upon-subscription-expiration) Windows 10 pc milyen hatással van [az előfizetés lejártakor.](#windows-10-pc-impacts-upon-subscription-expiration) | A képesség már nincs kényszerítve.</br> További információért lásd: A mobileszköz milyen hatással van az előfizetés [lejártakor,](#mobile-device-impacts-upon-subscription-expiration) Windows 10 pc milyen hatással van [az előfizetés lejártakor.](#windows-10-pc-impacts-upon-subscription-expiration) |
@@ -87,24 +87,24 @@ Az alábbi táblázat összefoglalja, hogy milyen hatása van az appkezelési h�
 |                            | Teljes licencelt élmény                      | T+60 nap lejárat után          |
 |----------------------------|------------------------------------------------|------------------------------------|
 | **Munkahelyi fájlok törlése inaktív eszközről** | A munkahelyi fájlok a kijelölt napok után törlődnek | A munkahelyi fájlok a felhasználó személyes eszközein maradnak |
-| **A felhasználók kényszerítése arra, hogy az összes munkahelyi fájljukat ide mentsék: OneDrive Vállalati verzió** | A munkahelyi fájlok csak a OneDrive vállalati verzió | A munkahelyi fájlok bárhová menthetők |
-| **Munkahelyi fájlok titkosítása** | A munkahelyi fájlok titkosítva vannak | A munkahelyi fájlok a továbbiakban nem titkosítottak.</br> A rendszer eltávolítja a biztonsági házirendeket, az Office-adatokat pedig az appokban. |
-| **PIN-kód vagy ujjlenyomat megkövetelve az Office-appok eléréséhez** | Alkalmazások korlátozott elérése | Nincs alkalmazásszintű hozzáférési korlátozás |
+| **A felhasználók kényszerítése arra, hogy az összes munkahelyi fájljukat ide mentsék: OneDrive Vállalati verzió** | A munkahelyi fájlok csak a OneDrive Vállalati verzió | A munkahelyi fájlok bárhová menthetők |
+| **Munkahelyi fájlok titkosítása** | A munkahelyi fájlok titkosítva vannak | A munkahelyi fájlok a továbbiakban nem titkosítottak.</br> A rendszer eltávolítja a biztonsági házirendeket, Office az appokban használt adatokat. |
+| **PIN-kód vagy ujjlenyomat megkövetelve az Office eléréséhez** | Alkalmazások korlátozott elérése | Nincs alkalmazásszintű hozzáférési korlátozás |
 | **PIN-kód alaphelyzetbe állítása sikertelen bejelentkezés esetén** | Alkalmazások korlátozott elérése | Nincs alkalmazásszintű hozzáférési korlátozás |
-| **Az Office-appok inaktív volta után a felhasználóknak ismét be kell jelentkezniük** | Bejelentkezés szükséges | Nincs szükség bejelentkezésre |
+| **A felhasználók újra be kell jelentkezniük, miután Office alkalmazások inaktívak voltak** | Bejelentkezés szükséges | Nincs szükség bejelentkezésre |
 | **Munkahelyi fájlokhoz való hozzáférés letiltása függetlenített vagy feltört eszközökön** | A munkahelyi fájlok nem érhetők el a feltört/rootolt eszközökön | A munkahelyi fájlok a feltört/rootolt eszközökön érhetők el |
-| **Tartalom másolásának engedélyezése a felhasználók számára Az Office-appok személyes appjaiba** | A Microsoft 365-előfizetés részeként elérhető alkalmazásokra korlátozott másolás/beillesztés | Minden alkalmazás számára elérhető másolás/beillesztés |
+| **Tartalom másolásának engedélyezése a felhasználók Office alkalmazásokból a személyes alkalmazásokba** | Az előfizetés részeként elérhető alkalmazásokra korlátozott másolási/beillesztési Microsoft 365 | Minden alkalmazás számára elérhető másolás/beillesztés |
 
-## <a name="windows-10-pc-impacts-upon-subscription-expiration"></a>A Windows 10-es PC hatással van az előfizetés lejártakor
+## <a name="windows-10-pc-impacts-upon-subscription-expiration"></a>Windows 10 A PC hatással van az előfizetés lejáratakor
 
-Az alábbi táblázat összefoglalja, hogy milyen hatással vannak a Windows 10-es eszközök konfigurációs házirendire.
+Az alábbi táblázat összefoglalja az eszközkonfigurációs házirendek Windows 10 hatását.
 
 |                            | Teljes licencelt élmény                      | T+60 nap lejárat után          |
 |----------------------------|------------------------------------------------|------------------------------------|
-| **PC-k védelme a fenyegetésekkel szemben a Windows Defender használatával** | A ki- és bekapcsolás nem része a felhasználói vezérlőelemnek | A felhasználó be- és kikapcsolhatja a Windows Defendert a Windows 10-es PC-n |
-| **PC-k védelme a webes fenyegetésekkel szemben a Microsoft Edge böngészőben** | PC-védelem a Microsoft Edge-ben | A felhasználó be- és kikapcsolhatja a PC védelmét a Microsoft Edge-ben |
+| **Számítógépek védelme a számítógépekkel szembeni Windows Defender** | A ki- és bekapcsolás nem része a felhasználói vezérlőelemnek | A felhasználó be- és kikapcsolhatja a Windows Defender a Windows 10 PC-n |
+| **PC-k védelme a webes fenyegetésekkel szemben a Microsoft Edge böngészőben** | PC-védelem a Microsoft Edge | A felhasználó be- és kikapcsolhatja a PC védelmét a Microsoft Edge |
 | **Az eszköz képernyőjének kikapcsolása inaktív állapotban** | A rendszergazda meghatároz egy időkorlát-időkorlát-házirendet | A használati időkorlátot a végfelhasználó konfigurálhatja |
-| **A felhasználók letölthetnek appokat innen: Microsoft Áruház** | A rendszergazda azt határozza meg, hogy a felhasználó letölthet-e alkalmazásokat a Microsoft Store-ból | A felhasználó bármikor letölthet alkalmazásokat a Microsoft Store-ból |
-| **A felhasználók igénybe vehetik Cortana segítségét** | A rendszergazda meghatározza a Cortanához való felhasználói hozzáférésre vonatkozó házirendet | Felhasználói eszközök Cortana be- és kikapcsol használatához |
+| **A felhasználók letölthetnek appokat innen: Microsoft Áruház** | A rendszergazda azt határozza meg, hogy a felhasználó letölthet-e alkalmazásokat a Microsoft Store | A felhasználó bármikor letölthet alkalmazásokat a Microsoft Store-ból |
+| **A felhasználók igénybe vehetik Cortana segítségét** | A rendszergazda házirendet határoz meg a felhasználók hozzáférését Cortana | Felhasználói eszközök a fiók be- és Cortana |
 | **Tippek és hirdetések fogadásának engedélyezése a Microsofttól** | A rendszergazda házirendet határoz meg a Microsofttól kapott tippekre és hirdetésekre vonatkozó felhasználói tippekre és hirdetésekre | A felhasználó be- és kikapcsolhatja a Microsoft által közzétett tippeket és hirdetéseket |
-| **A felhasználók másolhatnak tartalmakat az Office-appokból személyes appokba** | A rendszergazda olyan házirendet határoz meg, amely naprakészen tartja a Windows 10-es eszközöket | A felhasználók dönthetik el, hogy mikor frissítsék a Windowst |
+| **A felhasználók másolhatnak tartalmakat az Office-appokból személyes appokba** | A rendszergazda házirendet ad Windows 10 eszköz naprakészentartásához | A felhasználók dönthetik el, hogy mikor frissítsék a Windows |
