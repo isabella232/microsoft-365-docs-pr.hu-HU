@@ -1,5 +1,5 @@
 ---
-title: Áttelepítés az E3 Microsoft 365 Vállalati verzió-Office 365 áttelepítése
+title: Áttelepítés Microsoft 365 Vállalati verzióba Office 365 E3 csomag
 f1.keywords:
 - NOCSH
 ms.author: cmcatee
@@ -18,51 +18,52 @@ ms.custom:
 - MSB365
 - OKR_SMB_M365
 - AdminSurgePortfolio
+- AdminTemplateSet
 search.appverid:
 - BCS160
 - MET150
-description: Ha előfizetéssel rendelkezik Office 365 E3 csomagra, de nem rendelkezik több mint 300 alkalmazottal, fontolja meg a váltást a Microsoft 365 Vállalati prémium verzió.
-ms.openlocfilehash: d139d07c946ff3efed3db3a73eb5e1a4ae66c190
-ms.sourcegitcommit: 686f192e1a650ec805fe8e908b46ca51771ed41f
+description: Ha van előfizetése Office 365 E3 csomag, de nincs több mint 300 alkalmazottja, fontolja meg a váltást a Microsoft 365 Vállalati prémium verzió.
+ms.openlocfilehash: c1b4da07b3bf28cce1a48424ab45cde6ea54d367
+ms.sourcegitcommit: 00f001019c653269d85718d410f970887d904304
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 05/24/2021
-ms.locfileid: "52623605"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53394171"
 ---
-# <a name="migrating-from-office-365-e3-to-microsoft-365-business-premium"></a>Áttelepítés az E3 Office 365-ről a Microsoft 365 Vállalati prémium verzió
+# <a name="migrating-from-office-365-e3-to-microsoft-365-business-premium"></a>Áttelepítés Office 365 E3 csomag Microsoft 365 Vállalati prémium verzió
 
-Microsoft 365 Vállalati prémium verzió rendelkezik mindennel, ami a kisvállalata számára szükséges, a legjobb, felhőalapú hatékonyságnövelő appokat egyszerű eszközkezeléssel és biztonsággal kombinálva. Ha jelenleg Office 365 E3-előfizetéssel rendelkezik, de nem rendelkezik több mint 300 alkalmazottal, fontolja meg a Microsoft 365 Vállalati prémium verzió-re való váltást a további biztonsági funkciókért.
+Microsoft 365 Vállalati prémium verzió rendelkezik mindennel, ami a kisvállalata számára szükséges, a legjobb, felhőalapú hatékonyságnövelő appokat egyszerű eszközkezeléssel és biztonsággal kombinálva. Ha jelenleg Office 365 E3 csomag rendelkezik, de nincs több mint 300 alkalmazottja, fontolja meg a Microsoft 365 Vállalati prémium verzió-re való váltást a további biztonsági funkciókért.
 
 Az áttelepítés egyszerű: Először váltson a licencek között, és az aktuális előfizetésében lévő összes adata és felhasználói adata megmarad. Az áttelepítés után be kell állítania a Microsoft 365 Vállalati prémium verzió.
 
-## <a name="differences-between-office-365-e3-and-microsoft-365-business-premium"></a>Az E3 Office 365 E3 és a Microsoft 365 Vállalati prémium verzió
+## <a name="differences-between-office-365-e3-and-microsoft-365-business-premium"></a>Különbségek a Office 365 E3 csomag és a Microsoft 365 Vállalati prémium verzió
 
-Az alábbi táblázat az E3 Microsoft 365 Vállalati prémium verzió és az E3 Office 365 különbségeket mutatja.
+Az alábbi táblázat a két táblázatban Microsoft 365 Vállalati prémium verzió és a Office 365 E3 csomag.
 
-| Funkció    | Támogatás a Microsoft 365 Vállalati prémium verzió    | Támogatás az E3 Office 365-ban |
+| Funkció    | Támogatás a Microsoft 365 Vállalati prémium verzió    | Támogatás a Office 365 E3 csomag |
 |:-------|:-----|:-----|
 | **Helyszíni**        | | |
 | Office alkalmazások<sup>1</sup>    | Üzleti Microsoft 365-alkalmazások    | Microsoft 365 Vállalati alkalmazások |
 | **Felhőbeli hatékonyságnövelő alkalmazások**        | | |
 | Exchange Online és Outlook    | Postaládánként 50 GB tárterületkorlát és korlátlan Exchange Online Archiválás    | Postaládánként 100 GB tárterületkorlát és korlátlan Exchange Online Archiválás |
-| Teams    | ![Az Microsoft 365 Vállalati prémium verzió](../media/check-mark.png)    | ![Az E3 Office 365 része](../media/check-mark.png) | 
+| Teams    | ![Az Microsoft 365 Vállalati prémium verzió](../media/check-mark.png)    | ![Az Office 365 E3 csomag](../media/check-mark.png) | 
 | OneDrive Vállalati verzió    | Felhasználónként 1 TB tárterületkorlát    | Korlátlan | 
-| Yammer, SharePoint, Planner, Stream    | ![Az Microsoft 365 Vállalati prémium verzió](../media/check-mark.png)    | ![Az E3 Office 365 része](../media/check-mark.png) | 
-| StaffHub    | ![Az Microsoft 365 Vállalati prémium verzió](../media/check-mark.png)    | ![Az E3 Office 365 része](../media/check-mark.png) |
+| Yammer, SharePoint, Planner, Stream    | ![Az Microsoft 365 Vállalati prémium verzió](../media/check-mark.png)    | ![Az Office 365 E3 csomag](../media/check-mark.png) | 
+| StaffHub    | ![Az Microsoft 365 Vállalati prémium verzió](../media/check-mark.png)    | ![Az Office 365 E3 csomag](../media/check-mark.png) |
 | **Veszélyforrások elleni védelem**        | | |
 | Defender a Office 365 1. csomaghoz | ![Az Microsoft 365 Vállalati prémium verzió](../media/check-mark.png)    | Nem tartalmazza, de a következőn használhatja: |
 | **Identitáskezelés**        | | |
 | Önkiszolgáló jelszó-visszaállítás hibrid Azure Active Directory -fiókokhoz (Azure AD-fiókokhoz), Azure AD többtényezős hitelesítés (MFA), feltételes hozzáférés, jelszóvisszaírás a helyszíni identitásokhoz|     ![Az Microsoft 365 Vállalati prémium verzió](../media/check-mark.png)    |  |
 | **Eszköz- és alkalmazáskezelés**        | | |
 | Microsoft Intune, Windows AutoPilot|     ![Az Microsoft 365 Vállalati prémium verzió](../media/check-mark.png)    |  |
-| Megosztott számítógép aktiválása|     ![Az Microsoft 365 Vállalati prémium verzió](../media/check-mark.png)    | ![Az E3 Office 365 része](../media/check-mark.png)| 
+| Megosztott számítógép aktiválása|     ![Az Microsoft 365 Vállalati prémium verzió](../media/check-mark.png)    | ![Az Office 365 E3 csomag](../media/check-mark.png)| 
 | Frissítési jogok Windows 10 Pro Windows 7/8.1 verziós Pro verzióról|     ![Az Microsoft 365 Vállalati prémium verzió](../media/check-mark.png)    ||
 | **Információvédelem**        | | |
-|Office 365 Adatveszteség-megelőzés|    ![Az Microsoft 365 Vállalati prémium verzió](../media/check-mark.png)|![Az E3 Office 365 része](../media/check-mark.png)|
-|Azure Information Protection 1. csomag, BitLocker kényszerítve|![Az Microsoft 365 Vállalati prémium verzió](../media/check-mark.png)||
+|Office 365 Adatveszteség-megelőzés|    ![Az Microsoft 365 Vállalati prémium verzió](../media/check-mark.png)|![Az Office 365 E3 csomag](../media/check-mark.png)|
+|Azure Information Protection Plan 1, BitLocker enforcement|![Az Microsoft 365 Vállalati prémium verzió](../media/check-mark.png)||
 |Azure Information Protection Plan 1, Bizalmasság-címkék|![Az Microsoft 365 Vállalati prémium verzió](../media/check-mark.png)||
 |**Ügyfélelérési licenc (CAL-jogok)**|||
-|Nagyvállalati CAL csomag (Exchange, SharePoint, Skype)||![Az E3 Office 365 része](../media/check-mark.png)|
+|Nagyvállalati CAL csomag (Exchange, SharePoint, Skype)||![Az Office 365 E3 csomag](../media/check-mark.png)|
 
 <sup>1</sup> A Microsoft 365 Vállalati prémium verzió appok Office nem tartalmazza a mennyiségi aktiválást csoportházirenden, alkalmazás telemetrián, frissítési vezérlőn, számolótábla-összehasonlításon és -lekérdezésen keresztül, illetve az üzleti intelligencia segítségével.
 
@@ -71,7 +72,7 @@ Az alábbi táblázat az E3 Microsoft 365 Vállalati prémium verzió és az E3 
 Ha csak néhány embert [](../commerce/subscriptions/change-plans-manually.md) szeretne áthelyezni a csomagváltásba, az előfizetés áttelepítéséhez olvassa el a Csomagváltás manuálisan Microsoft 365 Vállalati prémium verzió. Automatikusan is [frissíthet](../commerce/subscriptions/upgrade-to-different-plan.md)mindenkit , vagy egy partnerrel együtt áthelyezheti az E3-előfizetését és -licenceit egy Microsoft 365 Vállalati prémium verzió előfizetésbe.
 Az alábbi szakaszok ismertetik az esetlegesen szükséges módosításokat, valamint azt, hogy mit lehet tenni az áttelepítés után.
 
-### <a name="office-365-e3-subscription-configuration-and-data"></a>Office 365 Az E3-előfizetés konfigurációja és adatai
+### <a name="office-365-e3-subscription-configuration-and-data"></a>Office 365 E3 csomag-előfizetés beállítása és adatai
 Az áttelepítés előtt semmit sem kell változtatnia az aktuális előfizetésen vagy az adatain, beleértve az alábbi adatokat:
 
 - Előfizetés-konfiguráció, például DNS-rekordok és tartománynevek.
@@ -79,14 +80,14 @@ Az áttelepítés előtt semmit sem kell változtatnia az aktuális előfizetés
 - Hatékonyságnövelő szolgáltatáskonfigurációk és adataik , például Teams, Exchange Online-postaládák, SharePoint Online webhelyek, OneDrive Vállalati verzió mappák és OneNote jegyzetfüzetek.
 - Office alkalmazások méretezése automatikusan megtörténik. Office 365 a modern licencelés 72 óránként ellenőrzi a felhasználó licenc-hozzárendelését, és a Office-alkalmazásokat a felhasználói előfizetésnek megfelelő verzióra konvertálja.
 
-### <a name="windows-10"></a>Windows 10
+### <a name="windows-10"></a>Windows 10 rendszer esetén
 
 Ha a Windows még nem frissítette a Windows Pro alkotói frissítést, frissítse őket [a Windows Pro alkotói frissítésre.](upgrade-to-windows-pro-creators-update.md)
 
 ### <a name="set-up-policies-to-protect-user-devices-and-files"></a>Házirendek beállítása a felhasználói eszközök és fájlok védelméhez
 
 > [!NOTE]
-> Ha több MDM Office 365-házirendet és -eszközt is beállított,  ezek az eszközök a felügyeleti központ Eszközök lapján Microsoft 365 listában. Az Ön által beállított házirendek az Intune portál klasszikus házirendek [listájában megjelenik.](https://portal.azure.com/#blade/Microsoft_Intune_DeviceSettings/ExtensionLandingBlade/overview)
+> Ha több MDM Office 365-házirendet és -eszközt is beállított,  ezek az eszközök az Eszközök lapon fognak Microsoft 365 Felügyeleti központ. Az Ön által beállított házirendek az Intune portál klasszikus házirendek [listájában megjelenik.](https://portal.azure.com/#blade/Microsoft_Intune_DeviceSettings/ExtensionLandingBlade/overview)
 
 Miután hozzárendelt licenceket a Microsoft 365 Vállalati prémium verzió, elkezdheti védeni a felhasználók eszközeit és fájljait.
 
