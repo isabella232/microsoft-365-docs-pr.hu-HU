@@ -26,12 +26,12 @@ search.appverid:
 - MET150
 ms.assetid: d868561b-d340-4c04-a973-e2575d7f09bc
 description: Telepítse Office fájlokat egy iPhone vagy Android rendszerű telefonon, és az Office-alkalmazásokban lévő munkahelyi fájljait a vállalati Microsoft 365 fogja védeni.
-ms.openlocfilehash: 7b411b6ae1223963b8583e1e3cd0ee00e13ff958
-ms.sourcegitcommit: ff20f5b4e3268c7c98a84fb1cbe7db7151596b6d
+ms.openlocfilehash: 477f0ee63b045ca8fd6d3cfc3023f4122661a3b6
+ms.sourcegitcommit: 00f001019c653269d85718d410f970887d904304
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52244796"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53393399"
 ---
 # <a name="set-up-mobile-devices-for-microsoft-365-for-business-users"></a>Mobileszközök beállítása vállalati Microsoft 365 felhasználóknak
 
@@ -105,7 +105,7 @@ Nyissa meg ismét az Outlookot, és adja meg, majd erősítse meg a PIN-kódot. 
   
 ![Set  PIN for Outlook app in Android](../media/edb91afb-f1ed-451a-bc6b-8ccba664e055.png)
 
-## <a name="see-also"></a>Lásd még
+## <a name="related-content"></a>Kapcsolódó tartalom
 
 [Microsoft 365 vállalati verziós oktatóvideók](../business-video/index.yml)
 

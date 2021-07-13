@@ -1,5 +1,5 @@
 ---
-title: Helyszíni erőforrások elérése Azure AD-hez Microsoft 365 Vállalati verzió
+title: Helyszíni erőforrások elérése Azure AD-hez csatlakozott eszközről a Microsoft 365 Vállalati verzióban
 f1.keywords:
 - NOCSH
 ms.author: efrene
@@ -16,17 +16,18 @@ ms.custom:
 - MSB365
 - OKR_SMB_M365
 - AdminSurgePortfolio
+- AdminTemplateSet
 search.appverid:
 - BCS160
 - MET150
 ms.assetid: b0f4d010-9fd1-44d0-9d20-fabad2cdbab5
 description: Megtudhatja, hogy miként férhet hozzá helyszíni erőforrásokhoz, például üzletági alkalmazásokhoz, fájlmegosztáshoz és nyomtatókhoz egy Azure Active Directory-Windows 10 eszközről.
-ms.openlocfilehash: 72b3c5ae538cad24fc12e25717dedccb2fdc9017
-ms.sourcegitcommit: 4fb1226d5875bf5b9b29252596855a6562cea9ae
+ms.openlocfilehash: 71d60e0187c917dffb7390afcedf22dc73f44008
+ms.sourcegitcommit: 00f001019c653269d85718d410f970887d904304
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 06/08/2021
-ms.locfileid: "52843322"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53393459"
 ---
 # <a name="access-on-premises-resources-from-an-azure-ad-joined-device-in-microsoft-365-business-premium"></a>Helyszíni erőforrások elérése Azure AD-hez Microsoft 365 Vállalati prémium verzió
 
@@ -57,7 +58,7 @@ Ha szervezete nem áll készen a fent ismertetett Azure AD-hez csatlakozású es
 
 Ha az Windows eszköz, amelyhez az Azure-AD-hez csatlakozott, korábban tartományhoz csatlakozott vagy munkacsoportban volt, vegye figyelembe az alábbi korlátozásokat:
 
-- Amikor egy eszköz csatlakozik az Azure AD-hez, egy új felhasználót hoz létre anélkül, hogy létező profilra hivatkozna. A profilokat manuálisan kell áttelepíteni. A felhasználói profilok olyan információkat tartalmaznak, mint például a kedvencek, a helyi fájlok, a böngésző beállításai és a Start menü beállításai. A legjobb megoldás, ha megkeres egy külső eszközt, amely leképezi a meglévő fájlokat és beállításokat az új profilra.
+- Amikor egy eszköz csatlakozik az Azure AD-hez, egy új felhasználót hoz létre anélkül, hogy létező profilra hivatkozna. A profilokat manuálisan kell áttelepíteni. A felhasználói profilok olyan információkat tartalmaznak, mint például a kedvencek, helyi fájlok, böngészőbeállítások Start menü beállítások. A legjobb megoldás, ha megkeres egy külső eszközt, amely leképezi a meglévő fájlokat és beállításokat az új profilra.
 
 - Ha az eszköz csoportházirend-objektumokat használ, előfordulhat, hogy egyes CSOPORTHÁZIREND-objektumok nem tartalmaznak hasonló konfigurációszolgáltatót [az](/windows/configuration/provisioning-packages/how-it-pros-can-use-configuration-service-providers) Intune-ban. Az [MMAT eszközzel megkereshetők](https://www.microsoft.com/download/details.aspx?id=45520) a meglévő GPOS-hez használható hasonló CSP-k.
 

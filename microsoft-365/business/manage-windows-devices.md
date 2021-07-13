@@ -20,16 +20,17 @@ ms.custom:
 - OKR_SMB_M365
 - seo-marvel-mar
 - AdminSurgePortfolio
+- AdminTemplateSet
 search.appverid:
 - BCS160
 - MET150
 description: Ebből a cikkből megtudhatja, Microsoft 365 pár lépésben hogyan védheti a helyi Active Directoryhoz Windows 10 a helyi Active Directoryhoz Windows 10 eszközét.
-ms.openlocfilehash: eb95c437030ae13a44f5e8043b3544d5846001c2
-ms.sourcegitcommit: 4886457c0d4248407bddec56425dba50bb60d9c4
+ms.openlocfilehash: 9cc7ca01cec667465e9114083fecdc56ef4e7ce7
+ms.sourcegitcommit: 00f001019c653269d85718d410f970887d904304
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 07/03/2021
-ms.locfileid: "53287695"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53393379"
 ---
 # <a name="enable-domain-joined-windows-10-devices-to-be-managed-by-microsoft-365-business-premium"></a>A tartományhoz Windows 10 eszközöknek a felhasználók által Microsoft 365 Vállalati prémium verzió
 

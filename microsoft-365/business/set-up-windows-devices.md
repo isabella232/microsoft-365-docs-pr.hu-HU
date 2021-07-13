@@ -22,17 +22,18 @@ ms.custom:
 - seo-marvel-mar
 - AdminSurgePortfolio
 - okr_smb
+- AdminTemplateSet
 search.appverid:
 - BCS160
 - MET150
 ms.assetid: 2d7ff45e-0da0-4caa-89a9-48cabf41f193
 description: Állítsa be Windows központi felügyelet és Windows 10 Pro felügyeleti Microsoft 365 Vállalati prémium verzió felügyeleti és biztonsági vezérlők engedélyezésével.
-ms.openlocfilehash: 7a9c75f6ec14605225d40c103c18e62937e773bf
-ms.sourcegitcommit: 17f0aada83627d9defa0acf4db03a2d58e46842f
+ms.openlocfilehash: a911414b1a7abef259f4c5fffbdd48e07f9ebfdd
+ms.sourcegitcommit: 00f001019c653269d85718d410f970887d904304
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 05/24/2021
-ms.locfileid: "52635874"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53393359"
 ---
 # <a name="set-up-windows-devices-for-microsoft-365-business-premium-users"></a>Az eszköz Windows beállítása a Microsoft 365 Vállalati prémium verzió számára
 
@@ -46,7 +47,7 @@ Ha többet szeretne megtudni arról, hogy hogyan frissítheti Windows-eszközeit
   
 Az [Annak ellenőrzése, hogy az eszköz](#verify-the-device-is-connected-to-azure-ad) csatlakoztatva van-e az Azure AD szolgáltatáshoz? vagy a frissítés megfelelő voltának ellenőrzéséhez lásd: Az eszköz csatlakoztatva van az Azure AD szolgáltatáshoz.
 
-## <a name="watch-connect-your-pc-to-microsoft-365-business"></a>Watch: Csatlakozás pc to Microsoft 365 Vállalati verzió
+## <a name="watch-connect-your-pc-to-microsoft-365-business"></a>Watch: Csatlakozás PC to Microsoft 365 Business
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE3yXh3] 
 
