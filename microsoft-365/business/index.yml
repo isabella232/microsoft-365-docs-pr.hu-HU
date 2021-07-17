@@ -1,0 +1,211 @@
+### YamlMime:Hub
+title: Microsoft 365 Vállalati prémium verzió erőforrások
+summary: 'Microsoft 365 Vállalati prémium verzió (korábbi nevén Microsoft 365 Business) egy átfogó előfizetéses szolgáltatás a 300-asnál kevesebb alkalmazottat dolgozó cégek számára. A speciális biztonsági és eszközkezelési Office együttműködik kedvenc alkalmazásaival és szolgáltatásaival, valamint együttműködési eszközeivel Microsoft Teams együttműködéshez.'
+brand: m365
+metadata:
+  title: Microsoft 365 Vállalati prémium verzió erőforrások
+  description: leírás
+  ms.service: o365-administration
+  ms.topic: hub-page
+  ms.collection: collection
+  ms.custom: AdminSurgePortfolio
+  author: samanro
+  ms.author: samanro
+  ms.date: 10/01/2019
+productDirectory:
+  title: Távoli munka biztonságossá Microsoft 365 Vállalati prémium verzió
+  items:
+    - title: Megtekintés
+      imageSrc: 'https://docs.microsoft.com/office/media/icons/video-play.svg'
+      summary: A Microsoft 365 Vállalati prémium verzió öt Microsoft 365 Vállalati prémium verzió.
+      url: 'https://aka.ms/M365BPvideo'
+    - title: Az ingyenes partnercsomag
+      imageSrc: 'https://docs.microsoft.com/office/media/icons/education-tutorial-blue.svg'
+      summary: Gyakorlati útmutatás és a távoli munka biztonságossá tétele érdekében a partnerek piaci erőforrásai.
+      url: 'https://aka.ms/SMBSecurityKit'
+    - title: Mi újság?
+      imageSrc: 'https://docs.microsoft.com/office/media/icons/get-started-blue.svg'
+      summary: A víruskereső kezelés és az Univerzális nyomtatás már elérhető a Microsoft 365 Vállalati prémium verzió.
+      url: 'https://aka.ms/M365BPQ1Update'
+    - title: Csatlakozzon a Microsoft 365 Lighthouse partner webináriumhoz július 28-án
+      imageSrc: 'https://docs.microsoft.com/office/media/icons/education-tutorial-blue.svg'
+      summary: A Microsoft 365 Lighthouse biztonságossá és szabványossá Microsoft 365 Vállalati prémium verzió ügyfelek számára.
+      url: 'https://aka.ms/m365lighthousewebinar'
+conceptualContent:
+  items:
+    - title: Mi a Microsoft 365 Vállalati prémium verzió?
+      links:
+        - url: microsoft-365-business-overview.md
+          itemType: overview
+          text: Áttekintés
+        - url: ../business-video/index.yml
+          itemType: video
+          text: Microsoft 365 Vállalati prémium verzió oktatás
+        - url: /office365/servicedescriptions/microsoft-365-service-descriptions/licensing-microsoft-365-in-smb
+          itemType: overview
+          text: Csomagok összehasonlítása
+        - url: /office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-business-service-description
+          itemType: reference
+          text: Szolgáltatás leírása
+        - url: support/microsoft-365-business-faqs.yml
+          itemType: reference
+          text: GYIK
+    - title: A Microsoft 365 Vállalati prémium verzió beállítása
+      links:
+        - url: set-up.md
+          itemType: how-to-guide
+          text: 1. A beállítási varázsló futtatása
+        - url: secure-win-10-pcs.md
+          itemType: how-to-guide
+          text: 2. A PC-k biztonságának biztosítása
+        - url: /MicrosoftTeams/get-started-with-teams-quick-start
+          itemType: video
+          text: 3. A Teams
+        - url: ../business-video/install-office.md
+          itemType: get-started
+          text: 4. Az Office telepítése
+    - title: Források partnereknek (csak angol nyelven)
+      links:
+        - url: 'https://www.microsoft.com/microsoft-365/partners/business'
+          itemType: overview
+          text: Partner lap
+        - url: ../lighthouse/m365-lighthouse-overview.md
+          itemType: overview
+          text: Tudnivalók a Microsoft 365 Lighthouse
+        - url: 'https://assetsprod.microsoft.com/mpn/smb-advanced-security-customer-pitch-deck.pptx'
+          itemType: download
+          text: Hangmagasság (ügyfélfókusz)
+        - url: 'https://assetsprod.microsoft.com/mpn/smb-advanced-security-opportunity-deck.pptx'
+          itemType: download
+          text: Hangmagasság (partnerfókusz)
+        - url: 'https://www.microsoft.com/microsoft-365/partners/resources/microsoft-365-smb-technical-fundamentals-content-content-used-for-delivery'
+          itemType: download
+          text: Technikai alapok
+        - url: 'https://aka.ms/SMBSecurityKit'
+          itemType: download
+          text: Biztonságos távoli munkacsomag
+        - url: 'https://cct.transform.microsoft.com/'
+          itemType: deploy
+          text: Customer Consulting Tool
+        - url: 'https://vc.transform.microsoft.com/'
+          itemType: learn
+          text: Érték kalkulátor
+    - title: Felhasználókezelés
+      links:
+        - url: ../admin/add-users/add-users.md
+          itemType: how-to-guide
+          text: Felhasználó felvétele
+        - url: /office365/admin/add-users/remove-former-employee
+          itemType: how-to-guide
+          text: Felhasználó eltávolítása
+        - url: /office365/admin/add-users/reset-passwords
+          itemType: how-to-guide
+          text: Felhasználó jelszavának alaphelyzetbe állítása
+      footerLink:
+        url: /office365/admin/admin-home
+        text: Lásd még
+    - title: Veszélyforrások kezelése
+      links:
+        - url: ../security/office-365-security/defender-for-office-365.md
+          itemType: overview
+          text: Komplex veszélyforrások elleni védelem
+        - url: ../admin/security-and-compliance/set-up-multi-factor-authentication.md
+          itemType: how-to-guide
+          text: MFA beállítása
+        - url: ./increase-threat-protection.md#protect-against-ransomware
+          itemType: how-to-guide
+          text: Zsarolóvírusok elleni védelem
+        - url: /azure/active-directory/conditional-access/overview
+          itemType: overview
+          text: Feltételes hozzáférés
+      footerLink:
+        url: /office365/admin/admin-home
+        text: Lásd még
+    - title: Adatok kezelése
+      links:
+        - url: ../compliance/data-loss-prevention-policies.md
+          itemType: overview
+          text: Adatveszteség-megelőzés
+        - url: 'https://support.microsoft.com/office/send-view-and-reply-to-encrypted-messages-in-outlook-for-pc-eaa43495-9bbb-4fca-922a-df90dee51980'
+          itemType: how-to-guide
+          text: Titkosított e-mail küldése
+        - url: ./set-up-compliance.md#set-up-email-retention-with-exchange-online-archiving
+          itemType: how-to-guide
+          text: A levelezés megőrzésének beállítása
+        - url: ../business-video/create-sensitivity-labels.md
+          itemType: video
+          text: Bizalmasság-címkék létrehozása és használata
+      footerLink:
+        url: ../compliance/index.yml
+        text: Lásd még
+    - title: Eszközök kezelése
+      links:
+        - url: view-policies-and-devices.md
+          itemType: how-to-guide
+          text: PC& mobileszközök
+        - url: remove-company-data.md
+          itemType: how-to-guide
+          text: Céges adatok eltávolítása
+        - url: reset-devices-to-factory-settings.md
+          itemType: how-to-guide
+          text: Törlés és alaphelyzetbe állítás
+        - url: /intune/index
+          itemType: overview
+          text: Intune
+        - url: manage-windows-devices.md
+          itemType: how-to-guide
+          text: Hibrid Azure AD-illesztés beállítása
+        - url: access-resources.md
+          itemType: how-to-guide
+          text: Az Azure AD-illesztés beállítása
+        - url: /windows/deployment/windows-autopilot/windows-autopilot
+          text: Windows Autopilot
+          itemType: overview
+      footerLink:
+        url: manage-windows-devices.md
+        text: Lásd még
+    - title: A biztonság figyelése
+      links:
+        - url: ../security/defender/microsoft-secure-score.md
+          itemType: how-to-guide
+          text: Biztonsági pontszám
+        - url: /intune/apps/app-protection-policies-monitor
+          itemType: overview
+          text: Intune App Protection Policies report
+        - url: ../enterprise/view-service-health.md
+          itemType: how-to-guide
+          text: Állapotfigyelési riasztások
+      footerLink:
+        url: ../security/index.yml
+        text: Lásd még
+    - title: Támogatás és közösség
+      links:
+        - url: 'https://techcommunity.microsoft.com/t5/Microsoft-365-Business-Blog/bg-p/Microsoft365BusinessBlog'
+          itemType: whats-new
+          text: Bejelentések
+        - url: 'https://support.microsoft.com/office/7f681212-c649-4a3e-a43b-32b1d1e58988'
+          itemType: video
+          text: Segítség kérése
+        - url: 'https://techcommunity.microsoft.com/t5/Microsoft-365-Business/bd-p/Microsoft365business'
+          itemType: overview
+          text: Visszajelzés küldése
+        - url: 'https://techcommunity.microsoft.com/t5/Small-and-Medium-Businesses/ct-p/SMB'
+          itemType: overview
+          text: Kis- és középvállalatok technikai közössége
+    - title: Hogyan...
+      links:
+        - url: sign-up.md
+          itemType: get-started
+          text: Regisztráljon a Microsoft 365 Vállalati prémium verzió
+        - url: migrate-to-microsoft-365-business.md
+          itemType: how-to-guide
+          text: Áttelepítés Microsoft 365 Vállalati standard verzió
+        - url: migrate-from-e3.md
+          itemType: how-to-guide
+          text: Áttelepítés a Office 365 E3 csomag
+        - url: migrate-from-microsoft-365-business-to-microsoft-365-enterprise.md
+          itemType: how-to-guide
+          text: Áttelepítés az E3 Microsoft 365 Nagyvállalati verzió-
+      footerLink:
+        url: microsoft-365-business-overview.md
+        text: Lásd még
