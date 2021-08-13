@@ -22,22 +22,22 @@ search.appverid:
 - MET150
 - MOE150
 description: Ismerje meg a mobileszköz-kezelés és a mobilappok kezelése, illetve az MDM és a MAM közötti különbségeket.
-ms.openlocfilehash: 44ac5ebf66f4d4e0b057692902f9bc3804aa2e03
-ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
+ms.openlocfilehash: e070f3aa253bf7881f0fb4efd97d84394c3d263ec57cac2643e08c668b8e4257
+ms.sourcegitcommit: a1b66e1e80c25d14d67a9b46c79ec7245d88e045
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51579882"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53809140"
 ---
 # <a name="difference-between-mdm-and-mam"></a>A MDM és a MAM közötti különbség
 
-A Microsoft 365 Vállalati prémium verzió számos lehetőséget kínál az üzleti adatok védelmére. A [Microsoft 365 Vállalati](../microsoft-365-business-overview.md) prémium verzió áttekintése témakörben további információt talál az automatikusan beállított különféle védelmi lehetőségekről, valamint arról, hogy mit állíthat be saját maga a vállalat további védelme érdekében. Emellett olyan házirendeket is állíthat be, amelyek védik a Windows 10-es eszközöket és a mobileszközökön elérhető adatokat.
-[Alkalmazásvédelmi beállítások megadása Windows 10-es eszközökhöz.](../protection-settings-for-windows-10-devices.md)
+Microsoft 365 Vállalati prémium verzió számos lehetőséget kínál az üzleti adatok védelmére. További [információt az Microsoft 365 Vállalati prémium verzió](../microsoft-365-business-overview.md) a vállalati környezetek áttekintése témakörben talál az automatikusan beállított különféle védelmi lehetőségekről, valamint arról, hogy mit állíthat be saját maga a vállalat további védelme érdekében. Emellett olyan házirendeket is állíthat be, amelyek védik a mobileszközeit Windows 10 a mobileszközei adataival.
+[Alkalmazásvédelmi beállítások megadása Windows 10 eszközökhöz.](../protection-settings-for-windows-10-devices.md)
 
 ## <a name="mobile-device-management-or-mdm"></a>Mobileszköz-kezelés vagy mobileszköz-kezelés
 
-A Microsoft 365 Vállalati prémium verzió lehetővé teszi olyan házirendek beállítását, amelyek védik az adatokat a Windows 10-es eszközökön. Ha egy eszköz mobileszköz-kezelés alatt áll, Ön irányíthatja a teljes eszközt, és adatokat törölhet róla, és visszaállíthatja a gyári beállításokra. További információ: [Eszközvédelmi beállítások megadása Windows 10-es PC-khez.](../protection-settings-for-windows-10-pcs.md)
+Microsoft 365 Vállalati prémium verzió lehetővé teszi olyan házirendek beállítását, amelyek védik az adatokat a Windows 10 eszközein. Ha egy eszköz mobileszköz-kezelés alatt áll, Ön irányíthatja a teljes eszközt, és adatokat törölhet róla, és visszaállíthatja a gyári beállításokra. További információért lásd: Eszközvédelmi beállítások megadása Windows 10 [PC-khez.](../protection-settings-for-windows-10-pcs.md)
 
 ## <a name="mobile-application-management-or-mam"></a>Mobilalkalmazás-kezelés vagy mobileszköz-kezelés
 
-A mobilappok kezelése lehetővé teszi, hogy üzleti adatait a felhasználók személyes eszközein, például iPhone-ján és Android-eszközén, valamint személyes Win 10 rendszerű számítógépein is vezérelje. Alkalmazáskezelési házirendek használatával megakadályozhatja, hogy a felhasználók üzleti adatokat másoljanak az Office-appok személyes appjaikba. A személyes eszközeiken is eltávolíthatja az összes adatot az Office-appokból. További információért lásd: Alkalmazásvédelmi beállítások megadása Android- vagy [iOS-eszközökön](../app-protection-settings-for-android-and-ios.md) és Alkalmazásvédelmi beállítások [megadása Windows 10-es eszközökhöz.](../protection-settings-for-windows-10-devices.md)
+A mobilappok kezelése lehetővé teszi, hogy üzleti adatait a felhasználók személyes eszközein, például iPhone-ján és Android-eszközén, valamint személyes Win 10 rendszerű számítógépein is vezérelje. Alkalmazáskezelési házirendek használatával megakadályozhatja, hogy a felhasználók üzleti adatokat másoljanak Office alkalmazásokba a személyes appjukba. El is távolíthatja az összes adatot a Office-appból a személyes eszközeiken. További információért lásd: Appvédelmi beállítások megadása Android- és [iOS-eszközökön](../app-protection-settings-for-android-and-ios.md) és Alkalmazásvédelmi beállítások megadása Windows 10 [eszközökön.](../protection-settings-for-windows-10-devices.md)
