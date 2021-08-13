@@ -1,5 +1,5 @@
 ---
-title: Segítség a felhasználóknak a Microsoft 365 Vállalati prémium verzióhoz való csatlakozáshoz
+title: Segítség a felhasználóknak a Microsoft 365 Vállalati prémium verzió
 f1.keywords:
 - NOCSH
 ms.author: efrene
@@ -28,21 +28,21 @@ search.appverid:
 - MOE150
 ms.assetid: f338e660-6483-4eef-acb9-53dee5bd4408
 description: Megtudhatja, hogy mi várható, miután befejeződött a Vállalati felhőcsomag beállítása, és az alapértelmezett eszközre vonatkozó házirendek érvényben vannak és készen állnak az alkalmazásra.
-ms.openlocfilehash: d3e47247197f2688388ed50057b16fde53e7e830
-ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
+ms.openlocfilehash: 62e5654deb3807a7a436fb2c4587c2e2614feb3e9812f6ecb269eed1cab7bfbb
+ms.sourcegitcommit: a1b66e1e80c25d14d67a9b46c79ec7245d88e045
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51578447"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53856555"
 ---
-# <a name="help-users-connect-to-microsoft-365-business-premium"></a>Segítség a felhasználóknak a Microsoft 365 Vállalati prémium verzióhoz való csatlakozáshoz
+# <a name="help-users-connect-to-microsoft-365-business-premium"></a>Segítség a felhasználóknak a Microsoft 365 Vállalati prémium verzió
 
-A beállítás befejezése után az alapértelmezett eszköz-házirendek már alkalmazhatók. Mobileszközökön a felhasználók letöltik az Office-appokat. A házirendeket a rendszer akkor alkalmazza, amikor a felhasználó a munkahelyi vagy iskolai fiókjával jelentkezik be. Windowsos PC-k esetében még néhány további lépés, például egy helyi frissítés is elvégzendő, mielőtt a házirendek alkalmazhatók lennének. Az alábbi témakörök segítséget segítenek a felhasználóknak a beállításban és a csatlakozásban:
+A beállítás befejezése után az alapértelmezett eszköz-házirendek már alkalmazhatók. Mobileszközökön a felhasználók letöltik Office appokat. A házirendeket a rendszer akkor alkalmazza, amikor a felhasználó a munkahelyi vagy iskolai fiókjával jelentkezik be. Windowsos PC-k esetében még néhány további lépés, például egy helyi frissítés is elvégzendő, mielőtt a házirendek alkalmazhatók lennének. Az alábbi témakörök segítséget segítenek a felhasználóknak a beállításban és a csatlakozásban:
   
-[Windows-eszközök beállítása a Microsoft 365 Business Premium felhasználóinak](set-up-windows-devices.md)
+[Az eszköz Windows beállítása a Microsoft 365 Vállalati prémium verzió számára](set-up-windows-devices.md)
   
 [Autopilot-eszközök és -profilok hozzáadása a lépésenkénti útmutatóval](add-autopilot-devices-and-profile.md)
   
-[Mobileszközök beállítása a Microsoft 365 Business Premium felhasználóinak](set-up-mobile-devices.md)
+[Mobileszközök beállítása Microsoft 365 Vállalati prémium verzió felhasználóknak](set-up-mobile-devices.md)
   
 
