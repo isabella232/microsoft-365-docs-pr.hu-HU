@@ -27,17 +27,17 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: da60e08e-2547-491a-9c97-94ac6d715623
-description: Megtudhatja, hogy hogyan konfigurálhat olyan eszköz-házirendeket a Windows 10-hez, amelyek a szervezet minden felhasználóját érvényesek, és így gondoskodhat arról, hogy biztonságosan kapcsolódjanak.
-ms.openlocfilehash: c7d27b903734f9348471bb7765b88650caeed9d5
-ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
+description: Megtudhatja, hogy hogyan konfigurálhat olyan Windows 10 házirendeket, amelyek a szervezet minden felhasználóját érvényesek, és így gondoskodhat arról, hogy biztonságosan csatlakozzon.
+ms.openlocfilehash: 42ebfe2784ff42302daa778f1851e528e5aa28ff1c03f1a8cf5ff66b1afdfa4e
+ms.sourcegitcommit: a1b66e1e80c25d14d67a9b46c79ec7245d88e045
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51580274"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53809444"
 ---
 # <a name="configure-windows-10-devices"></a>Windows 10-es eszközök konfigurálása
 
-A telepítés során olyan eszköz-házirendet hoz létre a Windows 10-hez, amely a szervezet minden felhasználóját érvényes. Amikor egy felhasználó a munkahelyi vagy iskolai fiókjával bejelentkezik egy Office-appba Windows 10-es eszközén, az Ön által konfigurált beállítások automatikusan érvényesek, így biztosítva, hogy a felhasználó biztonságosan kapcsolódjon.
+A telepítés során olyan eszköz-házirendet hoz létre a Windows 10, amely a szervezet minden felhasználóját érvényes. Amikor egy felhasználó Office-app munkahelyi vagy iskolai fiókjával bejelentkezik egy Windows 10-eszközére, az Ön által konfigurált beállítások automatikusan érvényesek, így biztosítva, hogy a felhasználó biztonságosan kapcsolódjon.
   
 Azt javasoljuk, hogy a telepítés során az alapértelmezett beállításokat fogadja el. A telepítés után további házirendeket hozhat létre, és meghatározott felhasználói csoportokra célozhatja őket.
   
