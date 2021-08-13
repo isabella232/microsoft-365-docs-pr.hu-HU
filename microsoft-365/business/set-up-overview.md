@@ -27,12 +27,12 @@ search.appverid:
 - MET150
 ms.assetid: 6e7a2dfd-8ec4-4eb7-8390-3ee103e5fece
 description: Megtudhatja, hogy hogyan Microsoft 365 Vállalati prémium verzió, az előfizetéstől a tartományok és felhasználók felvételén át a biztonsági házirendek beállításán át a biztonsági házirendek beállításához.
-ms.openlocfilehash: 008a5c51698589667acc0d01649f67dab33b4c58
-ms.sourcegitcommit: ff20f5b4e3268c7c98a84fb1cbe7db7151596b6d
+ms.openlocfilehash: 7c09dca354781bf92f6bbecca0f3fb9875fb654515fe35c2f96cc780a894a764
+ms.sourcegitcommit: a1b66e1e80c25d14d67a9b46c79ec7245d88e045
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52245064"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53803222"
 ---
 # <a name="overview-of-setup"></a>A beállítás áttekintése
 
@@ -89,7 +89,7 @@ Amikor egy Windows 10 eszközhöz csatlakozik az Azure AD-hez, a számítógéph
 
 - **Helyszíni erőforrások elérése**
 
-     - Ha szervezete helyszíni Windows Server Active Directoryt használ, beállíthatja a Microsoft 365 Vállalati prémium verzió-t az Windows 10-eszközök védelmére, miközben továbbra is hozzáfér a helyi hitelesítést igénylő helyszíni erőforrásokhoz. A beállításhoz kövesse A tartományhoz Windows 10 eszközök felhasználói [Microsoft 365 Vállalati prémium verzió](manage-windows-devices.md) beállításának lépéseit. Ez az előnyben részesített módszer, az ebben az állapotban használt eszközök pedig hibrid Azure AD-hez csatlakozott eszközök.
+     - Ha szervezete helyszíni Windows Server Active Directory használ, beállíthatja a Microsoft 365 Vállalati prémium verzió-t az Windows 10-eszközök védelmére, miközben továbbra is hozzáfér a helyi hitelesítést igénylő helyszíni erőforrásokhoz. A beállításhoz kövesse A tartományhoz Windows 10 eszközök felhasználói [Microsoft 365 Vállalati prémium verzió](manage-windows-devices.md) beállításának lépéseit. Ez az előnyben részesített módszer, az ebben az állapotban használt eszközök pedig hibrid Azure AD-hez csatlakozott eszközök.
 
     - Ha vállalata rendelkezik olyan helyi Active Directory-címtárral, amely helyszíni erőforrásokat (például fájlmegosztásokat és nyomtatókat) tartalmaz, az alábbi lépéseket követve hozzáférést adhat Azure AD-hez eszközének az erőforrásokhoz: Hozzáférés helyszíni erőforrásokhoz [egy Azure AD-hez](access-resources.md)csatlakozott eszközről a Microsoft 365 Vállalati prémium verzió-ban.
 
