@@ -25,17 +25,17 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: c3ac23c5-d4b4-4b1b-b7ce-ea759521bf8c
-description: Az eszköz különböző államokról a Microsoft 365 Vállalati verzió Rendszergazdai kezdőlapja Eszközműveletek listájában olvashat.
-ms.openlocfilehash: e6f1b428413d094e0a1ce3afb026528074038736
-ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
+description: Az eszköz különféle államokról a Vállalati verzió Felügyeleti központ Rendszergazdai kezdőlap eszközműveletek listájában Microsoft 365 olvashat.
+ms.openlocfilehash: 7b21781c5ae7b7df0fc610e46f776c0ea4563103d38b65d45b437c951426ea5b
+ms.sourcegitcommit: a1b66e1e80c25d14d67a9b46c79ec7245d88e045
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51578467"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53838001"
 ---
 # <a name="device-states"></a>Eszközállapotok
 
-Ez a cikk a Microsoft 365 Vállalati prémium verzióra vonatkozik.
+Ez a cikk a Microsoft 365 Vállalati prémium verzió.
 
 Az **Eszközműveletek** listában (Rendszergazdai kezdőlap \> **Eszközműveletek**) szereplő eszközöknek az alábbi állapotai lehetnek.
   
@@ -43,9 +43,9 @@ Az **Eszközműveletek** listában (Rendszergazdai kezdőlap \> **Eszközművele
   
 |**Állapot**|**Leírás**|
 |:-----|:-----|
-|Kezeli az Intune  <br/> |A Microsoft 365 Vállalati prémium verzió kezeli.  <br/> |
-|Kivezetés függőben  <br/> |A Microsoft 365 Vállalati prémium verzió készen áll a céges adatok eltávolítására az eszközről.  <br/> |
-|Kivezetés folyamatban  <br/> |A Microsoft 365 Vállalati prémium verzió jelenleg eltávolítja a céges adatokat az eszközről.  <br/> |
+|Kezeli az Intune  <br/> |A(Microsoft 365 Vállalati prémium verzió.  <br/> |
+|Kivezetés függőben  <br/> |Microsoft 365 Vállalati prémium verzió készen áll a céges adatok eltávolítására az eszközről.  <br/> |
+|Kivezetés folyamatban  <br/> |Microsoft 365 Vállalati prémium verzió jelenleg céges adatokat távolít el az eszközről.  <br/> |
 |Kivezetés sikertelen  <br/> | A vállalati adatok eltávolításának művelete nem sikerült.  <br/> |
 |Kivezetve lemondva  <br/> |A kivezető művelet visszavonva.  <br/> |
 |Törlés függőben  <br/> |Várakozás a gyári állapot visszaállításának megkezdésére.  <br/> |
@@ -54,5 +54,5 @@ Az **Eszközműveletek** listában (Rendszergazdai kezdőlap \> **Eszközművele
 |Törlés visszavonva  <br/> |A gyári törlés törölve lett.  <br/> |
 |Nem kifogástalan  <br/> |Egy művelet függőben van (vagy folyamatban van), de az eszköz már több mint 30 napja nem jelentkezett be.  <br/> |
 |Törlés függőben  <br/> |Egy törlési művelet függőben van.  <br/> |
-|Észlelt  <br/> |A Microsoft 365 Vállalati prémium verzió észlelte az eszközt.  <br/> |
+|Észlelt  <br/> |Microsoft 365 Vállalati prémium verzió eszköz észlelte az eszközt.  <br/> |
    
