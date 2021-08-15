@@ -28,16 +28,16 @@ search.appverid:
 - MOE150
 ms.assetid: 52089919-9a5e-475f-a49a-f65369487861
 description: 'Megtudhatja, hogy hogyan konfigurálható az alapértelmezett beállítás, és hogyan adhat hozzá alkalmazáskezelési házirendeket a céges adatok védelméhez a felhasználók személyes mobileszközén. '
-ms.openlocfilehash: 7e3967dad47508e938b760d0eb96ba8685d886a1
-ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
+ms.openlocfilehash: 0d6fb41a74f18e8b821b6ae82a82aa734854c78603144896867e5265cf5b5a6c
+ms.sourcegitcommit: a1b66e1e80c25d14d67a9b46c79ec7245d88e045
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51580034"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53873055"
 ---
 # <a name="protect-work-files-on-devices"></a>Eszközökön tárolt munkahelyi fájlok védelme
 
-Ez a cikk a Microsoft 365 Vállalati prémium verzióra vonatkozik.
+Ez a cikk a Microsoft 365 Vállalati prémium verzió.
 
 Napjainkban a felhasználók hozzá vannak kötve az eszközeikhez, és mivel a személyes és a munkahelyi élet összeütközik, céges adatai egy alkalmazott személyes eszközén végződnek. Az itt megadható beállítások segítségével saját kezébe veheti az irányítást, és úgy nyújthat védelmet a munkahelyi fájloknak, hogy az semmilyen hatással ne legyen az alkalmazottak személyes beállításaira vagy adataira.
   
