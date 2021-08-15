@@ -23,12 +23,12 @@ search.appverid:
 - BCS160
 - MET150
 description: Ha van előfizetése Office 365 E3 csomag, de nincs több mint 300 alkalmazottja, fontolja meg a váltást a Microsoft 365 Vállalati prémium verzió.
-ms.openlocfilehash: c1b4da07b3bf28cce1a48424ab45cde6ea54d367
-ms.sourcegitcommit: 00f001019c653269d85718d410f970887d904304
+ms.openlocfilehash: 89bf493b39250d88fcb47585d71e7dadd6600c4c3fff0658bb72e51b9ff386c5
+ms.sourcegitcommit: a1b66e1e80c25d14d67a9b46c79ec7245d88e045
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53394171"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53837663"
 ---
 # <a name="migrating-from-office-365-e3-to-microsoft-365-business-premium"></a>Áttelepítés Office 365 E3 csomag Microsoft 365 Vállalati prémium verzió
 
