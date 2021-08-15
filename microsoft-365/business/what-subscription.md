@@ -18,14 +18,14 @@ ms.custom:
 search.appverid:
 - BCS160
 - MET150
-description: Állapítsa meg, hogy az Office 365 E3, a Microsoft 365 Business Standard vagy a Microsoft 365 Business Premium megfelelő-e a vállalkozásának.
-ms.openlocfilehash: 2f8c59e0af619730060862fc8ee24a702ca00343
-ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
+description: Állapítsa meg, Office 365 E3 csomag, Microsoft 365 Vállalati standard verzió vagy Microsoft 365 Vállalati prémium verzió-e a vállalkozásának.
+ms.openlocfilehash: f186e61bff7962911864904415d1a4326931db819abf4f885a87132fd23290f4
+ms.sourcegitcommit: a1b66e1e80c25d14d67a9b46c79ec7245d88e045
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51579822"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53861559"
 ---
 # <a name="what-subscription-is-right-for-your-small-business"></a>Melyik előfizetés megfelelő a kisvállalata számára?
 
-A Microsoft számos tervet kínál a kisvállalatoknak. Az ajánlott előfizetések a Microsoft 365 Business Standard vagy a Microsoft 365 Business Premium legfeljebb 300 felhasználóval. A Microsoft 365 Business Premium további biztonsági funkciókat nyújt, mint a Microsoft 365 Business Standard, és további költséggel jár.
+A Microsoft számos tervet kínál a kisvállalatoknak. Az ajánlott előfizetések legfeljebb 300 Microsoft 365 Vállalati standard verzió felhasználóval Microsoft 365 Vállalati prémium verzió előfizetések. Microsoft 365 Vállalati prémium verzió további Microsoft 365 Vállalati standard verzió több biztonsági funkciót kínál, mint a Microsoft 365 Vállalati standard verzió.

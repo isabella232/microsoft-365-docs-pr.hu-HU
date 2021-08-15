@@ -22,12 +22,12 @@ search.appverid:
 - BCS160
 - MET150
 description: Állítsa be a Microsoft Defendert Office 365 és megóvja a bizalmas adatokat az adathalászattal, a kártevővel és az egyéb fenyegetésekkel szemben.
-ms.openlocfilehash: a995063cef6fdc42ad62079d49d58edc9d07b52c
-ms.sourcegitcommit: be929f79751c0c52dfa6bd98a854432a0c63faf0
+ms.openlocfilehash: d5aad66642fc2b509ae40dc1277167deb53de6fbb0593a3dcd766062305fbd6a
+ms.sourcegitcommit: a1b66e1e80c25d14d67a9b46c79ec7245d88e045
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 06/14/2021
-ms.locfileid: "52924319"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53831475"
 ---
 # <a name="increase-threat-protection"></a>Veszélyforrások elleni védelem növelése
 
@@ -205,7 +205,7 @@ Az alapértelmezett házirend módosítása:
 
 1. A Széf lap Házirendek, amelyek a teljes szervezetre vonatkoznak területén válassza az Alapértelmezett **házirend** lehetőséget.
 
-2. Az **e Gépház kivételével** a tartalomra vonatkozó beállítások között válassza a Nagyvállalati Microsoft 365 appok, Office iOS és **Android rendszerhez lehetőséget.**
+2. Az **Gépház tartalomra vonatkozó** beállítások között válassza az **iOS és az Android Nagyvállalati Microsoft 365-alkalmazások,** Office lehetőséget.
 
 3. Válassza a **Mentés** elemet.
 

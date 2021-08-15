@@ -24,33 +24,33 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: 5abfef7b-5957-484a-b06b-a7c55e013e44
-description: Fedezze fel a Microsoft 365 Vállalati prémium verzió megvásárlására vonatkozó lehetőségeket és a Microsoft Partnerközpontból való vásárláshoz rendelkezésre álló részletes útmutatót.
-ms.openlocfilehash: 9e88229f22bdfbfc0b363b5bf56ed2def4db9b8c
-ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
+description: Megismerheti a microsoftos Microsoft 365 Vállalati prémium verzió vásárlási lehetőségeit, valamint a Microsoft Partnerközpontból való vásárláshoz rendelkezésre álló részletes útmutatót.
+ms.openlocfilehash: 3e75e1e31789882ef41abf4b30c7af3886bb4821fe5c288ceda5af684ea8f854
+ms.sourcegitcommit: a1b66e1e80c25d14d67a9b46c79ec7245d88e045
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51580234"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53831535"
 ---
 # <a name="get-microsoft-365-business-premium"></a>A Microsoft 365 Vállalati prémium verzió beszerzése
 
 ## <a name="get-microsoft-365-business-premium-from-microsoft"></a>A Microsoft 365 Vállalati prémium verzió a Microsofttól
 
-Ha nincs partnere, és meg szeretné vásárolni a Microsoft 365 Business Premiumt, meg [is vásárolhatja itt.](https://www.microsoft.com/en-US/microsoft-365/business)
+Ha nincs partnere, és meg szeretné vásárolni Microsoft 365 Vállalati prémium verzió, meg [is vásárolhatja itt.](https://www.microsoft.com/en-US/microsoft-365/business)
 
-Részletes [útmutatást a Microsoft 365 Vállalati prémium verzióra való](sign-up.md) regisztrációt mutatja be.
+Részletes [útmutatást a Feliratkozás Microsoft 365 Vállalati prémium verzió](sign-up.md) a regisztrációhoz.
 
-A Microsoft Store-ban a [Microsoft](https://www.microsoft.com/en-us/store/locations/find-a-store?icid=en_US_Store_UH_FAS) 365 Business Premiumt is megvásárolhatja, és segítséget kaphat a beállításhoz.
+A beállításokat meg is [vásárolhatja Microsoft Store](https://www.microsoft.com/en-us/store/locations/find-a-store?icid=en_US_Store_UH_FAS) és Microsoft 365 Vállalati prémium verzió segítséget kaphat a beállításhoz.
   
 ## <a name="get-microsoft-365-business-premium-from-microsoft-partner-center"></a>A Microsoft 365 Vállalati prémium verzió a Microsoft Partnerközpontból
 
 1. Jelentkezzen be a [Microsoft Partnerközpontba](https://go.microsoft.com/fwlink/p/?linkid=849910) a felhőszolgáltatói (CSP) programhoz való csatlakozáskor létrehozott hitelesítő adatokkal. 
     
-2. A Partner irányítópultján válassza az **Ügyfelek** lehetőséget, majd válassza ki az ügyfelet, vagy vegyen fel egy új ügyfelet, mielőtt a Microsoft 365 Vállalati prémium verzióhoz jut.
+2. A Partner irányítópultján válassza az Ügyfelek **lehetőséget,** majd válassza ki az ügyfelet, vagy vegyen fel egy új ügyfelet, mielőtt Microsoft 365 Vállalati prémium verzió.
     
     ![A Microsoft Partnerközpontban vegyen fel egy ügyfelet.](../media/ec807d07-bbd2-411f-8fe1-c644cf9a3882.png)
   
-3. Az ügyfél Előfizetés  lapján válassza az Előfizetés hozzáadása **lehetőséget,** a Katalógus alatt válassza a Kisvállalati lehetőséget, majd a **Microsoft 365 Business Premium lehetőséget.**
+3. Az ügyfél Előfizetés lapján **válassza** az Előfizetés hozzáadása **lehetőséget,** a Katalógus alatt válassza a Kisvállalati verzió lehetőséget, majd a Feliratkozás **Microsoft 365 Vállalati prémium verzió.**
     
     Adja meg a szükséges licencek számát (legfeljebb 300 lehet). Ha több mint 300 felhasználója van, olvassa el a [Microsoft 365 Nagyvállalati verzió](../enterprise/index.yml) ismertetését. 
     
