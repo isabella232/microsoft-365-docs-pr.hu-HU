@@ -25,18 +25,18 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 5ffd5327-a83a-4d53-94d6-22ba2f9fd090
-description: A Microsoft 365 Business Premium segítségével automatikusan meg lehet győződni arról, hogy a felhasználók az Office legújabb verzióját minden Windows 10-es eszközükön használhatja.
-ms.openlocfilehash: d3c62eb42ea73c7af6df6012dbc9488828cd1ba8
-ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
+description: A Microsoft 365 Vállalati prémium verzió meg arról, hogy a felhasználók az összes Windows 10 eszközükön automatikusan a Office legújabb Windows 10-et.
+ms.openlocfilehash: 869a44196e93ed0c9f7f6f64b21fe9b2302e9a48c4b0bdcdc3a09d28bb954d1c
+ms.sourcegitcommit: a1b66e1e80c25d14d67a9b46c79ec7245d88e045
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51580174"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53887543"
 ---
 # <a name="install-office-on-windows-10-during-setup"></a>Az Office telepítése Windows 10-es eszközön a telepítés során
 
 ![Banner that point to https://aka.ms/aboutM365preview .](../media/m365admincenterchanging.png)
 
-Ez a beállítás alapértelmezés szerint ki van kapcsolva. Bekapcsolhatja azt, hogy a felhasználók az Office legújabb verzióját minden Windows 10-es eszközükön el tudja látni, de először győződjön meg arról, hogy minden előfeltétel teljesül. A felkészülés Office-ügyfél központi telepítésére a [Microsoft 365](prepare-for-office-client-deployment.md)Vállalati prémium verzió által leírt egyéb követelményeken kívül a felhasználóknak licenccel kell ahhoz, hogy ez a beállítás a szoftvert az eszközre tolja.
+Ez a beállítás alapértelmezés szerint ki van kapcsolva. Bekapcsolhatja azt, hogy a felhasználók az összes Office eszközükön a Windows 10 legújabb verzióját, de először ellenőrizze, hogy minden előfeltétel teljesül-e. Microsoft 365 Vállalati prémium verzió Ahhoz, hogy a felhasználók a Felkészülés ügyfél központi telepítésére Office az ügyfélprogram telepítésére a Office segítségével leírtakon kívül lekuldják a szoftvert az eszközre, licenccel kell Office [licenccel Microsoft 365 Vállalati prémium verzió.](prepare-for-office-client-deployment.md)
   
 Azt javasoljuk, hogy a telepítés során az alapértelmezett beállítást fogadja el.
