@@ -25,12 +25,12 @@ search.appverid:
 - MET150
 ms.assetid: 6f2b80b4-81c3-4714-a7bc-ae69313e8a33
 description: Megtudhatja, hogy miként hozhat létre, szerkeszthet és törölhet appkezelési házirendeket, és hogyan védheti meg a munkahelyi fájlokat Android- vagy iOS-eszközökön.
-ms.openlocfilehash: 92dce1e8761e53b85df85f2a84f30ab307f63e6d
-ms.sourcegitcommit: be929f79751c0c52dfa6bd98a854432a0c63faf0
+ms.openlocfilehash: 0f1e509de728654eef543449741a89f7f04001bb46ee3f06fe9b96038650eb6f
+ms.sourcegitcommit: a1b66e1e80c25d14d67a9b46c79ec7245d88e045
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 06/14/2021
-ms.locfileid: "52925063"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53896353"
 ---
 # <a name="set-app-protection-settings-for-android-or-ios-devices"></a>Appvédelmi beállítások megadása androidos vagy iOS-es eszközökhöz
 
@@ -86,7 +86,7 @@ Az alábbi beállításokkal védhetők meg a munkahelyi fájlok, ha az eszköz 
 |Beállítás  <br/> |Leírás  <br/> |
 |:-----|:-----|
 |Munkahelyi fájlok törlése az inaktív eszközökről ennyi nap után  <br/> |Ha az itt megadott számú napig nem használ egy eszközt, az eszközön tárolt munkahelyi fájlok automatikusan törlődnek.  <br/> |
-|A felhasználók kényszerítése arra, hogy az összes munkahelyi fájljukat ide mentsék: OneDrive Vállalati verzió  <br/> |Ha ez a beállítás **Be,** a munkahelyi fájlok mentésének egyedül a helye OneDrive vállalati verzió.  <br/> |
+|A felhasználók kényszerítése arra, hogy az összes munkahelyi fájljukat ide mentsék: OneDrive Vállalati verzió  <br/> |Ha ez a beállítás **Be,** a munkahelyi fájlok egyetlen elérhető mentési helye OneDrive Vállalati verzió.  <br/> |
 |Munkahelyi fájlok titkosítása  <br/> |A munkahelyi fájlok titkosítással való védelméhez ezt a beállítást tartsa **Be** állapotban. A céges adatokat még akkor sem olvashatják el, ha az eszközt ellopják vagy ellopják.  <br/> |
    
 ### <a name="settings-that-control-how-users-access-office-files-on-mobile-devices"></a>Az Office-fájlok mobileszközökön történő elérésének felügyeletét meghatározó beállítások

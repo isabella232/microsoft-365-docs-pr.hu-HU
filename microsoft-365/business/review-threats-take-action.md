@@ -15,12 +15,12 @@ ms.collection:
 ms.custom: AdminSurgePortfolio
 search.appverid: MET150
 description: Ebből a cikkből megtudhatja, hogy miként kezelheti a felhasználók által Microsoft Defender víruskereső az Windows 10 eszközein.
-ms.openlocfilehash: 15e99fb75e4a3ac1af842ca7d0b900e02cbc6bd4
-ms.sourcegitcommit: 27b2b2e5c41934b918cac2c171556c45e36661bf
+ms.openlocfilehash: f2edd27c527cc2b9fd8c986191a0bad5c0844da68880f8d8d775491e3480babd
+ms.sourcegitcommit: a1b66e1e80c25d14d67a9b46c79ec7245d88e045
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "53465414"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53882093"
 ---
 # <a name="review-detected-threats-and-take-action"></a>Észlelt veszélyforrások áttekintése és a teendők
 

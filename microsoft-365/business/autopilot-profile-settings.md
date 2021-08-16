@@ -29,27 +29,27 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 99bfbf81-e719-4630-9b0f-c187edfa1f8a
-description: Az AutoPilot-profilok segítségével szabályozhatja, hogy miként telepíthető a Windows a felhasználói eszközökre. A profilok alapértelmezett és választható beállításokat tartalmaznak, például Cortana telepítésének kihagyása.
-ms.openlocfilehash: 86f8718131f0a0b93e18e65e39e02e7d65aded1a
-ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
+description: Az AutoPilot-profilok segítségével szabályozhatja, hogy Windows hogyan telepíthetők a felhasználói eszközökre. A profilok alapértelmezett és választható beállításokat tartalmaznak, például kihagyhatja Cortana telepítést.
+ms.openlocfilehash: 67ad6e92583d71207e2807657a7ad00261e1249291e2e6a7546f544ea924b394
+ms.sourcegitcommit: a1b66e1e80c25d14d67a9b46c79ec7245d88e045
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51578507"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53896323"
 ---
 # <a name="about-autopilot-profile-settings"></a>Az AutoPilot-profil beállításai
 
 ## <a name="autopilot-profile-settings"></a>Az AutoPilot-profil beállításai
 
-Az AutoPilot-profilokkal szabályozhatja, hogy a Windows hogyan telepíthető a felhasználói eszközökre. A profilok a következő beállításokat tartalmazzák.
+Az AutoPilot-profilokkal szabályozhatja, hogy Windows a felhasználói eszközökön. A profilok a következő beállításokat tartalmazzák.
   
  **Az AutoPilot alapértelmezett (kötelező) funkciói, amelyek beállítása automatikusan megtörténik:**
   
 |**Beállítás**|**Leírás**|
 |:-----|:-----|
-|Cortana, a OneDrive és az OEM-regisztráció kihagyása  <br/> |A telepítő nem telepíti a Cortanához és a személyes OneDrive-hoz hasonló fogyasztói appokat. Az eszköz felhasználója később telepítheti ezeket, ha a felhasználó helyi rendszergazda az eszközön. Az eredeti gyártó regisztrálása azért nem lesz berakva, mert az eszközt a Microsoft 365 Business Premium fogja kezelni.  <br/> |
-|Céges bejelentkezési felület  <br/> |Ha cége rendelkezik a Céges arculat hozzáadása a [Microsoft 365](../admin/setup/customize-sign-in-page.md)Bejelentkezési laphoz, az eszköz felhasználója ezt a felhasználói élményt fogja tapasztalni a bejelentkezés során.  <br/> |
-|Automatikus regisztrálás mobileszköz-kezelésre a konfigurált Azure Active Directory-fiókokkal  <br/> |A felhasználói identitást az Azure Active Directory kezeli, a felhasználók pedig a Microsoft 365 Vállalati prémium verziós hitelesítő adataik segítségével fognak bejelentkezni a Windowsba és a Microsoft 365-be.  <br/> |
+|Az Cortana, az OneDrive és az OEM-regisztráció kihagyása  <br/> |A telepítő nem telepíti a Cortanához és a személyes OneDrive-hoz hasonló fogyasztói appokat. Az eszköz felhasználója később telepítheti ezeket, ha a felhasználó helyi rendszergazda az eszközön. A rendszer kihagyja az eredeti gyártó regisztrálását, mert az eszközt egy másik Microsoft 365 Vállalati prémium verzió.  <br/> |
+|Céges bejelentkezési felület  <br/> |Ha cége rendelkezik céges arculattal a Microsoft 365 [Bejelentkezés](../admin/setup/customize-sign-in-page.md)lapon, az eszköz felhasználója ezt a élményt fogja tapasztalni a bejelentkezés során.  <br/> |
+|Automatikus regisztrálás mobileszköz-kezelésre a konfigurált Azure Active Directory-fiókokkal  <br/> |A felhasználói identitást a Azure Active Directory fogja kezelni, a felhasználók pedig bejelentkeznek a Windows és Microsoft 365 a Microsoft 365 Vállalati prémium verzió hitelesítő adataival.  <br/> |
    
  **Nem kötelező beállítások:**
   
