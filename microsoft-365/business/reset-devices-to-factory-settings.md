@@ -23,19 +23,19 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: c4db6caf-74df-4734-b1dd-53e371c7a3c3
-description: Megtudhatja, hogy a Microsoft 365 Vállalati verzióval miként állíthatja alaphelyzetbe gyárilag az Ön által felügyelt Windows 10-es eszközöket, és hogyan állíthatja vissza őket eredeti beállításaikra a vásárláskor.
-ms.openlocfilehash: 29d5b8758ef7d86c7ac283460d0a1a87bffaf5f3
-ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
+description: Megtudhatja, hogy a Microsoft 365 vállalati verzióval hogyan állíthatja vissza az Ön által Windows 10 eszköz gyári beállításait, és hogyan állíthatja vissza őket eredeti beállításaikhoz a vásárláskor.
+ms.openlocfilehash: e355e9c916f52222efb5d8e7449520f63636dea320dd813b7acfa0f1f3a0b318
+ms.sourcegitcommit: a1b66e1e80c25d14d67a9b46c79ec7245d88e045
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51578207"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53900610"
 ---
 # <a name="reset-windows-10-devices-to-their-factory-settings"></a>A Windows 10-es eszközök gyári állapotának visszaállítása
 
-Ez a cikk a Microsoft 365 Vállalati prémium verzióra vonatkozik.
+Ez a cikk a Microsoft 365 Vállalati prémium verzió.
 
-A gyári állapot visszaállításával az eszköz visszaáll a megvásárlásakor érvényes, eredeti beállításaira. A visszaállítással a vásárlás óta az eszközre telepített minden appot és adatot eltávolít. A Microsoft 365 Vállalati verzióval gyárilag alaphelyzetbe állíthatja az Ön által felügyelt Windows 10-es eszközöket.
+A gyári állapot visszaállításával az eszköz visszaáll a megvásárlásakor érvényes, eredeti beállításaira. A visszaállítással a vásárlás óta az eszközre telepített minden appot és adatot eltávolít. A vállalati Microsoft 365 az Ön által Windows 10 eszköz gyári alaphelyzetbe állításához.
   
 1. A felügyeleti központ megnyitásához: <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a> .
     
