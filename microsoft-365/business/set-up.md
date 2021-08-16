@@ -30,12 +30,12 @@ search.appverid:
 - MET150
 ms.assetid: 6e7a2dfd-8ec4-4eb7-8390-3ee103e5fece
 description: Megismerheti a fiókkal kapcsolatos Microsoft 365 Vállalati prémium verzió, például tartomány és felhasználók felvételét, biztonsági házirendek beállítását és sok minden más.
-ms.openlocfilehash: 74a98e915577cf86ec32a706bd3b8f558f49db95
-ms.sourcegitcommit: 48195345b21b409b175d68acdc25d9f2fc4fc5f1
+ms.openlocfilehash: 8158e911a8520c07cf5f85fea8b64d65820d603d7f9f49938849ff2df6fc45ed
+ms.sourcegitcommit: a1b66e1e80c25d14d67a9b46c79ec7245d88e045
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 06/30/2021
-ms.locfileid: "53227639"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53881955"
 ---
 # <a name="set-up-microsoft-365-business-premium-in-the-setup-wizard"></a>A Microsoft 365 Vállalati prémium verzió beállítása a beállítási varázslóban
 
